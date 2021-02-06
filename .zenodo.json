@@ -1,0 +1,29 @@
+{
+    "title": "CLDF dataset derived from Constenla Uma\u00f1a's \"\u00bfExiste relaci\u00f3n geneal\u00f3gica entre las lenguas misumalpas y las chibchenses?\" from 2005",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Constenla Uma\u00f1a, Adolfo"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Frederic Blum",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Uma\u00f1a, Adolfo Constenla. 2005. \u00bfExiste relaci\u00f3n geneal\u00f3gica entre las lenguas misumalpas y las chibchenses?. Estudios de Ling\u00fc\u00edstica Chibcha.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
