@@ -1,0 +1,1 @@
+This dataset features a 110-items concept list that was first published by Constenla Umaña in 2005. It includes the data of four Misumalpam languages, two Lencan languages as well as 18 Chibchan languages. The cognates that will be established in this dataset are based on the original authors analysis.
