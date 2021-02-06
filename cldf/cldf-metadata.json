@@ -8,7 +8,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Constenla Uma\u00f1a's \"\u00bfExiste relaci\u00f3n geneal\u00f3gica entre las lenguas misumalpas y las chibchenses?\" from 2005",
+    "dcat:accessURL": "https://github.com/Tarotis/constenlachibchan",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/Tarotis/constenlachibchan",
+            "dc:created": "d2e62b6"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -46,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2630,
+            "dc:extent": 2631,
             "tableSchema": {
                 "columns": [
                     {

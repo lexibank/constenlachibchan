@@ -2,7 +2,6 @@ with open("final.csv", encoding="utf8") as chib:
     cu = chib.read()
 
     changes = cu.split("\n")
-    del changes[-1]
 
     outlist = []
 
