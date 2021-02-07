@@ -27,8 +27,8 @@ This dataset features a 110-items concept list that was first published by Const
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
 - **Tokens:** 11,426
-- **Segments:** 119 (0 BIPA errors, 0 CTLS sound class errors, 119 CLTS modified)
-- **Inventory size (avg):** 28.92
+- **Segments:** 120 (0 BIPA errors, 0 CTLS sound class errors, 118 CLTS modified)
+- **Inventory size (avg):** 29.71
 
 # Contributors
 
