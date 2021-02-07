@@ -1,8 +1,8 @@
-with open("final.csv", encoding="utf8") as chib:
+with open("new_final.csv", encoding="utf8") as chib:
     cu = chib.read()
 
     changes = cu.split("\n")
-
+    del changes[-1]
     outlist = []
 
 
@@ -47,6 +47,9 @@ with open("final.csv", encoding="utf8") as chib:
             xlist[1] = xlist[1].replace("Ulwa", "Ul") # Ulwa
 
 
+            if "'" in xlist[3]:
+                print(xlist[3])
+
             xlist = ",".join(xlist)
             outlist.append(xlist)
 
@@ -54,6 +57,6 @@ with open("final.csv", encoding="utf8") as chib:
 
     corrections(changes)
     exhst = "\n".join(outlist)
-    print(exhst)
-    f = open("new_final.csv", "w",  encoding="utf-8")
-    f.write("" + exhst)
+    # print(exhst)
+    # f = open("new_final.csv", "w",  encoding="utf-8")
+    # f.write("" + exhst)

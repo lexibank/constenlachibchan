@@ -20,15 +20,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 495	69_ash	ASH	Buglere	Buglere	mnu	mnu	m n u	bugl1243	646	8.57695	-81.25648		0	0	?
 496	69_ash	ASH	Dorasque	Dorasque	bulku	bulku	b u l k u	dora1242	646	8.567442	-82.375717		0	0	?
 497	69_ash	ASH	SanBlasKuna	San Blas Kuna	puɾu	puɾu	p u ɾ u	sanb1242	646	9.15686	-78.3075		0	0	?
-498	69_ash	ASH	Cogui	Cogui	'muli	'muli	m u l i	cogu1240	646	10.9485	-73.8043		0	0	?
-499	69_ash	ASH	Arhuaco	Arhuaco	'bunzəga	'bunzəga	b u n z ə g a	arhu1242	646	10.7018	-73.6363		0	0	?
+498	69_ash	ASH	Cogui	Cogui	'muli	'muli	'm/m u l i	cogu1240	646	10.9485	-73.8043		0	0	?
+499	69_ash	ASH	Arhuaco	Arhuaco	'bunzəga	'bunzəga	'b/b u n z ə g a	arhu1242	646	10.7018	-73.6363		0	0	?
 500	69_ash	ASH	Malayo	Malayo	bɨn	bɨn	b ɨ n	mala1522	646	10.9286	-73.4056		0	0	?
-501	69_ash	ASH	Chimila	Chimila	'buhŋaʔ	'buhŋaʔ	b u h ŋ a ʔ	chim1309	646	10.1902	-74.2559		0	0	?
+501	69_ash	ASH	Chimila	Chimila	'buhŋaʔ	'buhŋaʔ	'b/b u h ŋ a ʔ	chim1309	646	10.1902	-74.2559		0	0	?
 502	69_ash	ASH	Chibcha	Chibcha	βuskɨ	βuskɨ	β u s k ɨ	chib1270	646	6.24999	-74.1666		0	0	?
-503	69_ash	ASH	CentralTunebo	Central Tunebo	'buɾa	'buɾa	b u ɾ a	cent2150	646	6.8867	-72.097		0	0	?
+503	69_ash	ASH	CentralTunebo	Central Tunebo	'buɾa	'buɾa	'b/b u ɾ a	cent2150	646	6.8867	-72.097		0	0	?
 504	69_ash	ASH	Bari	Barí	ibũdɪ̃	ibũdɪ̃	i b ũ d ɪ̃	bari1297	646	9.08497	-72.9353		0	0	?
 #
-840	39_at	AT	LencaSalvador	Lenca-Salvador	k'ati	k'ati	k a t i	lenc1242	1461	13.56	-87.5		0	0	?
+840	39_at	AT	LencaSalvador	Lenca-Salvador	k'ati	k'ati	k 'a/a t i	lenc1242	1461	13.56	-87.5		0	0	?
 841	39_at	AT	LencaHonduras	Lenca-Honduras	ap	ap	a p	lenc1243	1461	13.67	-88.11		0	0	?
 842	39_at	AT	Cacaopera	Cacaopera	m	m	m	caca1247	1461	13.74	-88.11		0	0	?
 843	39_at	AT	Mayangna	Mayangna	kat	kat	k a t	maya1285	1461	14.13	-84.34		0	0	?
@@ -50,7 +50,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 859	39_at	AT	Malayo	Malayo	ka	ka	k a	mala1522	1461	10.9286	-73.4056		0	0	?
 860	39_at	AT	Chimila	Chimila	la	la	l a	chim1309	1461	10.1902	-74.2559		0	0	?
 861	39_at	AT	Chibcha	Chibcha	na	na	n a	chib1270	1461	6.24999	-74.1666		0	0	?
-862	39_at	AT	CentralTunebo	Central Tunebo	kwi'taɾa	kwi'taɾa	k w i t a ɾ a	cent2150	1461	6.8867	-72.097		0	0	?
+862	39_at	AT	CentralTunebo	Central Tunebo	kwi'taɾa	kwi'taɾa	k w i 't/t a ɾ a	cent2150	1461	6.8867	-72.097		0	0	?
 863	39_at	AT	Bari	Barí	aki	aki	a k i	bari1297	1461	9.08497	-72.9353		0	0	?
 #
 1365	48_bad	BAD	LencaSalvador	Lenca-Salvador	ʃamtoa	ʃamtoa	ʃ a m t o a	lenc1242	1292	13.56	-87.5		0	0	?
@@ -70,7 +70,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1379	48_bad	BAD	Buglere	Buglere	me no	me no	m e + n o	bugl1243	1292	8.57695	-81.25648		0	0	?
 1380	48_bad	BAD	Dorasque	Dorasque	irógla	irógla	i r ó/o g l a	dora1242	1292	8.567442	-82.375717		0	0	?
 1381	48_bad	BAD	SanBlasKuna	San Blas Kuna	itʃakkwakwa	itʃakkwakwa	i tʃ a k k w a k w a	sanb1242	1292	9.15686	-78.3075		0	0	?
-1382	48_bad	BAD	Cogui	Cogui	'ʃane	'ʃane	ʃ a n e	cogu1240	1292	10.9485	-73.8043		0	0	?
+1382	48_bad	BAD	Cogui	Cogui	'ʃane	'ʃane	'ʃ/ʃ a n e	cogu1240	1292	10.9485	-73.8043		0	0	?
 1383	48_bad	BAD	Arhuaco	Arhuaco	du naʔ neika	du naʔ neika	d u + n a ʔ + n e i k a	arhu1242	1292	10.7018	-73.6363		0	0	?
 1384	48_bad	BAD	Malayo	Malayo	unanduanéka	unanduanéka	u n a n d u a n é/e k a	mala1522	1292	10.9286	-73.4056		0	0	?
 1385	48_bad	BAD	Chimila	Chimila	dʒo:ta	dʒo:ta	dʒ o: t a	chim1309	1292	10.1902	-74.2559		0	0	?
@@ -78,7 +78,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1387	48_bad	BAD	CentralTunebo	Central Tunebo	aj batɾo	aj batɾo	a j + b a t ɾ o	cent2150	1292	6.8867	-72.097		0	0	?
 1388	48_bad	BAD	Bari	Barí	atakkasu	atakkasu	a t a k k a s u	bari1297	1292	9.08497	-72.9353		0	0	?
 #
-625	2_bark	BARK	LencaSalvador	Lenca-Salvador	ts'ats'a	ts'ats'a	t s a t s a	lenc1242	1204	13.56	-87.5		0	0	?
+625	2_bark	BARK	LencaSalvador	Lenca-Salvador	ts'ats'a	ts'ats'a	t s 'a/a t s 'a/a	lenc1242	1204	13.56	-87.5		0	0	?
 626	2_bark	BARK	LencaHonduras	Lenca-Honduras	jos	jos	j o s	lenc1243	1204	13.67	-88.11		0	0	?
 627	2_bark	BARK	Cacaopera	Cacaopera	kuta	kuta	k u t a	caca1247	1204	13.74	-88.11		0	0	?
 628	2_bark	BARK	Mayangna	Mayangna	utak	utak	u t a k	maya1285	1204	14.13	-84.34		0	0	?
@@ -96,11 +96,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 640	2_bark	BARK	Dorasque	Dorasque	ugá	ugá	u g á/a	dora1242	1204	8.567442	-82.375717		0	0	?
 641	2_bark	BARK	SanBlasKuna	San Blas Kuna	ukka	ukka	u k k a	sanb1242	1204	9.15686	-78.3075		0	0	?
 642	2_bark	BARK	Cogui	Cogui	huba	huba	h u b a	cogu1240	1204	10.9485	-73.8043		0	0	?
-643	2_bark	BARK	Arhuaco	Arhuaco	'zomɨ	'zomɨ	z o m ɨ	arhu1242	1204	10.7018	-73.6363		0	0	?
+643	2_bark	BARK	Arhuaco	Arhuaco	'zomɨ	'zomɨ	'z/z o m ɨ	arhu1242	1204	10.7018	-73.6363		0	0	?
 644	2_bark	BARK	Malayo	Malayo	ʒoma	ʒoma	ʒ o m a	mala1522	1204	10.9286	-73.4056		0	0	?
 645	2_bark	BARK	Chimila	Chimila	ma:nta	ma:nta	m a: n t a	chim1309	1204	10.1902	-74.2559		0	0	?
 646	2_bark	BARK	Chibcha	Chibcha	huka	huka	h u k a	chib1270	1204	6.24999	-74.1666		0	0	?
-647	2_bark	BARK	CentralTunebo	Central Tunebo	u'ma	u'ma	u m a	cent2150	1204	6.8867	-72.097		0	0	?
+647	2_bark	BARK	CentralTunebo	Central Tunebo	u'ma	u'ma	u 'm/m a	cent2150	1204	6.8867	-72.097		0	0	?
 648	2_bark	BARK	Bari	Barí	aɨksu	aɨksu	a ɨ k s u	bari1297	1204	9.08497	-72.9353		0	0	?
 #
 982	66_big	BIG	LencaSalvador	Lenca-Salvador	puka	puka	p u k a	lenc1242	1202	13.56	-87.5		0	0	?
@@ -120,15 +120,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 996	66_big	BIG	Buglere	Buglere	kweɾi	kweɾi	k w e ɾ i	bugl1243	1202	8.57695	-81.25648		0	0	?
 997	66_big	BIG	Dorasque	Dorasque	óci	óci	ó/o c i	dora1242	1202	8.567442	-82.375717		0	0	?
 998	66_big	BIG	SanBlasKuna	San Blas Kuna	tumma	tumma	t u m m a	sanb1242	1202	9.15686	-78.3075		0	0	?
-999	66_big	BIG	Cogui	Cogui	a'tema	a'tema	a t e m a	cogu1240	1202	10.9485	-73.8043		0	0	?
-1000	66_big	BIG	Arhuaco	Arhuaco	a'wənʔ kawa	a'wənʔ kawa	a w ə n ʔ + k a w a	arhu1242	1202	10.7018	-73.6363		0	0	?
-1001	66_big	BIG	Malayo	Malayo	aiku'ia	aiku'ia	a i k u i a	mala1522	1202	10.9286	-73.4056		0	0	?
-1002	66_big	BIG	Chimila	Chimila	ku'e:ɾi'tuʔ	ku'e:ɾi'tuʔ	k u e: ɾ i t u ʔ	chim1309	1202	10.1902	-74.2559		0	0	?
+999	66_big	BIG	Cogui	Cogui	a'tema	a'tema	a 't/t e m a	cogu1240	1202	10.9485	-73.8043		0	0	?
+1000	66_big	BIG	Arhuaco	Arhuaco	a'wənʔ kawa	a'wənʔ kawa	a 'w/w ə n ʔ + k a w a	arhu1242	1202	10.7018	-73.6363		0	0	?
+1001	66_big	BIG	Malayo	Malayo	aiku'ia	aiku'ia	a i k u 'i/i a	mala1522	1202	10.9286	-73.4056		0	0	?
+1002	66_big	BIG	Chimila	Chimila	ku'e:ɾi'tuʔ	ku'e:ɾi'tuʔ	k u 'e:/e: ɾ i 't/t u ʔ	chim1309	1202	10.1902	-74.2559		0	0	?
 1003	66_big	BIG	Chibcha	Chibcha	kuhuma	kuhuma	k u h u m a	chib1270	1202	6.24999	-74.1666		0	0	?
-1004	66_big	BIG	CentralTunebo	Central Tunebo	'kumakɾo	'kumakɾo	k u m a k ɾ o	cent2150	1202	6.8867	-72.097		0	0	?
+1004	66_big	BIG	CentralTunebo	Central Tunebo	'kumakɾo	'kumakɾo	'k/k u m a k ɾ o	cent2150	1202	6.8867	-72.097		0	0	?
 1005	66_big	BIG	Bari	Barí	ba	ba	b a	bari1297	1202	9.08497	-72.9353		0	0	?
 #
-121	37_bird	BIRD	LencaSalvador	Lenca-Salvador	ts'imts'im	ts'imts'im	t s i m t s i m	lenc1242	937	13.56	-87.5		0	0	?
+121	37_bird	BIRD	LencaSalvador	Lenca-Salvador	ts'imts'im	ts'imts'im	t s 'i/i m t s 'i/i m	lenc1242	937	13.56	-87.5		0	0	?
 122	37_bird	BIRD	LencaHonduras	Lenca-Honduras	siɾa	siɾa	s i ɾ a	lenc1243	937	13.67	-88.11		0	0	?
 123	37_bird	BIRD	Cacaopera	Cacaopera	wasiri	wasiri	w a s i r i	caca1247	937	13.74	-88.11		0	0	?
 124	37_bird	BIRD	Mayangna	Mayangna	uhbin	uhbin	u h b i n	maya1285	937	14.13	-84.34		0	0	?
@@ -145,12 +145,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 135	37_bird	BIRD	Buglere	Buglere	bdada	bdada	b d a d a	bugl1243	937	8.57695	-81.25648		0	0	?
 136	37_bird	BIRD	Dorasque	Dorasque	dul	dul	d u l	dora1242	937	8.567442	-82.375717		0	0	?
 137	37_bird	BIRD	SanBlasKuna	San Blas Kuna	sikkwi	sikkwi	s i k k w i	sanb1242	937	9.15686	-78.3075		0	0	?
-138	37_bird	BIRD	Cogui	Cogui	nu'ba	nu'ba	n u b a	cogu1240	937	10.9485	-73.8043		0	0	?
-139	37_bird	BIRD	Arhuaco	Arhuaco	si'sio	si'sio	s i s i o	arhu1242	937	10.7018	-73.6363		0	0	?
+138	37_bird	BIRD	Cogui	Cogui	nu'ba	nu'ba	n u 'b/b a	cogu1240	937	10.9485	-73.8043		0	0	?
+139	37_bird	BIRD	Arhuaco	Arhuaco	si'sio	si'sio	s i 's/s i o	arhu1242	937	10.7018	-73.6363		0	0	?
 140	37_bird	BIRD	Malayo	Malayo	suɾi	suɾi	s u ɾ i	mala1522	937	10.9286	-73.4056		0	0	?
 141	37_bird	BIRD	Chimila	Chimila	ki:tikkwi	ki:tikkwi	k i: t i k k w i	chim1309	937	10.1902	-74.2559		0	0	?
 142	37_bird	BIRD	Chibcha	Chibcha	sue	sue	s u e	chib1270	937	6.24999	-74.1666		0	0	?
-143	37_bird	BIRD	CentralTunebo	Central Tunebo	ɾu'wasiɾa	ɾu'wasiɾa	ɾ u w a s i ɾ a	cent2150	937	6.8867	-72.097		0	0	?
+143	37_bird	BIRD	CentralTunebo	Central Tunebo	ɾu'wasiɾa	ɾu'wasiɾa	ɾ u 'w/w a s i ɾ a	cent2150	937	6.8867	-72.097		0	0	?
 144	37_bird	BIRD	Bari	Barí	daníkbi	daníkbi	d a n í/i k b i	bari1297	937	9.08497	-72.9353		0	0	?
 #
 1461	54_bite	BITE	LencaSalvador	Lenca-Salvador	ti	ti	t i	lenc1242	1403	13.56	-87.5		0	0	?
@@ -169,12 +169,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1474	54_bite	BITE	Ngabere	Ngäbere	kwet	kwet	k w e t	ngab1239	1403	8.8251	-82.3911		0	0	?
 1475	54_bite	BITE	Buglere	Buglere	gute	gute	g u t e	bugl1243	1403	8.57695	-81.25648		0	0	?
 1476	54_bite	BITE	SanBlasKuna	San Blas Kuna	kunn	kunn	k u n n	sanb1242	1403	9.15686	-78.3075		0	0	?
-1477	54_bite	BITE	Cogui	Cogui	hau'lihiĩ	hau'lihiĩ	h a u l i h i ĩ	cogu1240	1403	10.9485	-73.8043		0	0	?
-1478	54_bite	BITE	Arhuaco	Arhuaco	kə'kus	kə'kus	k ə k u s	arhu1242	1403	10.7018	-73.6363		0	0	?
+1477	54_bite	BITE	Cogui	Cogui	hau'lihiĩ	hau'lihiĩ	h a u 'l/l i h i ĩ	cogu1240	1403	10.9485	-73.8043		0	0	?
+1478	54_bite	BITE	Arhuaco	Arhuaco	kə'kus	kə'kus	k ə 'k/k u s	arhu1242	1403	10.7018	-73.6363		0	0	?
 1479	54_bite	BITE	Malayo	Malayo	ʒangaka	ʒangaka	ʒ a n g a k a	mala1522	1403	10.9286	-73.4056		0	0	?
 1480	54_bite	BITE	Chimila	Chimila	ɾa:gwa	ɾa:gwa	ɾ a: g w a	chim1309	1403	10.1902	-74.2559		0	0	?
 1481	54_bite	BITE	Chibcha	Chibcha	ka	ka	k a	chib1270	1403	6.24999	-74.1666		0	0	?
-1482	54_bite	BITE	CentralTunebo	Central Tunebo	'koʔ	'koʔ	k o ʔ	cent2150	1403	6.8867	-72.097		0	0	?
+1482	54_bite	BITE	CentralTunebo	Central Tunebo	'koʔ	'koʔ	'k/k o ʔ	cent2150	1403	6.8867	-72.097		0	0	?
 1483	54_bite	BITE	Bari	Barí	ko	ko	k o	bari1297	1403	9.08497	-72.9353		0	0	?
 #
 1532	62_black	BLACK	LencaSalvador	Lenca-Salvador	sinka	sinka	s i n k a	lenc1242	163	13.56	-87.5		0	0	?
@@ -194,12 +194,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1546	62_black	BLACK	Buglere	Buglere	heɾe	heɾe	h e ɾ e	bugl1243	163	8.57695	-81.25648		0	0	?
 1547	62_black	BLACK	Dorasque	Dorasque	saná	saná	s a n á/a	dora1242	163	8.567442	-82.375717		0	0	?
 1548	62_black	BLACK	SanBlasKuna	San Blas Kuna	sitʃi	sitʃi	s i tʃ i	sanb1242	163	9.15686	-78.3075		0	0	?
-1549	62_black	BLACK	Cogui	Cogui	a'baksɯ	a'baksɯ	a b a k s ɯ	cogu1240	163	10.9485	-73.8043		0	0	?
+1549	62_black	BLACK	Cogui	Cogui	a'baksɯ	a'baksɯ	a 'b/b a k s ɯ	cogu1240	163	10.9485	-73.8043		0	0	?
 1550	62_black	BLACK	Arhuaco	Arhuaco	twi kawa	twi kawa	t w i + k a w a	arhu1242	163	10.7018	-73.6363		0	0	?
 1551	62_black	BLACK	Malayo	Malayo	amɨkʃi	amɨkʃi	a m ɨ k ʃ i	mala1522	163	10.9286	-73.4056		0	0	?
-1552	62_black	BLACK	Chimila	Chimila	sih'tu	sih'tu	s i h t u	chim1309	163	10.1902	-74.2559		0	0	?
+1552	62_black	BLACK	Chimila	Chimila	sih'tu	sih'tu	s i h 't/t u	chim1309	163	10.1902	-74.2559		0	0	?
 1553	62_black	BLACK	Chibcha	Chibcha	mɨhɨsio	mɨhɨsio	m ɨ h ɨ s i o	chib1270	163	6.24999	-74.1666		0	0	?
-1554	62_black	BLACK	CentralTunebo	Central Tunebo	ti'kaja	ti'kaja	t i k a j a	cent2150	163	6.8867	-72.097		0	0	?
+1554	62_black	BLACK	CentralTunebo	Central Tunebo	ti'kaja	ti'kaja	t i 'k/k a j a	cent2150	163	6.8867	-72.097		0	0	?
 1555	62_black	BLACK	Bari	Barí	ma:	ma:	m a:	bari1297	163	9.08497	-72.9353		0	0	?
 #
 2201	86_blood	BLOOD	LencaSalvador	Lenca-Salvador	ala	ala	a l a	lenc1242	946	13.56	-87.5		0	0	?
@@ -219,15 +219,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2215	86_blood	BLOOD	Buglere	Buglere	be	be	b e	bugl1243	946	8.57695	-81.25648		0	0	?
 2216	86_blood	BLOOD	Dorasque	Dorasque	havé	havé	h a v é/e	dora1242	946	8.567442	-82.375717		0	0	?
 2217	86_blood	BLOOD	SanBlasKuna	San Blas Kuna	ape	ape	a p e	sanb1242	946	9.15686	-78.3075		0	0	?
-2218	86_blood	BLOOD	Cogui	Cogui	'abi	'abi	a b i	cogu1240	946	10.9485	-73.8043		0	0	?
+2218	86_blood	BLOOD	Cogui	Cogui	'abi	'abi	'a/a b i	cogu1240	946	10.9485	-73.8043		0	0	?
 2219	86_blood	BLOOD	Arhuaco	Arhuaco	dʒwa	dʒwa	dʒ w a	arhu1242	946	10.7018	-73.6363		0	0	?
 2220	86_blood	BLOOD	Malayo	Malayo	ɨma	ɨma	ɨ m a	mala1522	946	10.9286	-73.4056		0	0	?
-2221	86_blood	BLOOD	Chimila	Chimila	'eŋŋaʔ	'eŋŋaʔ	e ŋ ŋ a ʔ	chim1309	946	10.1902	-74.2559		0	0	?
+2221	86_blood	BLOOD	Chimila	Chimila	'eŋŋaʔ	'eŋŋaʔ	'e/e ŋ ŋ a ʔ	chim1309	946	10.1902	-74.2559		0	0	?
 2222	86_blood	BLOOD	Chibcha	Chibcha	ba	ba	b a	chib1270	946	6.24999	-74.1666		0	0	?
-2223	86_blood	BLOOD	CentralTunebo	Central Tunebo	'aba	'aba	a b a	cent2150	946	6.8867	-72.097		0	0	?
+2223	86_blood	BLOOD	CentralTunebo	Central Tunebo	'aba	'aba	'a/a b a	cent2150	946	6.8867	-72.097		0	0	?
 2224	86_blood	BLOOD	Bari	Barí	a:bi	a:bi	a: b i	bari1297	946	9.08497	-72.9353		0	0	?
 #
-1150	57_bone	BONE	LencaSalvador	Lenca-Salvador	ts'eh	ts'eh	t s e h	lenc1242	1394	13.56	-87.5		0	0	?
+1150	57_bone	BONE	LencaSalvador	Lenca-Salvador	ts'eh	ts'eh	t s 'e/e h	lenc1242	1394	13.56	-87.5		0	0	?
 1151	57_bone	BONE	LencaHonduras	Lenca-Honduras	sek	sek	s e k	lenc1243	1394	13.67	-88.11		0	0	?
 1152	57_bone	BONE	Cacaopera	Cacaopera	naman	naman	n a m a n	caca1247	1394	13.74	-88.11		0	0	?
 1153	57_bone	BONE	Mayangna	Mayangna	wakal	wakal	w a k a l	maya1285	1394	14.13	-84.34		0	0	?
@@ -245,14 +245,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1165	57_bone	BONE	Dorasque	Dorasque	koné	koné	k o n é/e	dora1242	1394	8.567442	-82.375717		0	0	?
 1166	57_bone	BONE	SanBlasKuna	San Blas Kuna	kala	kala	k a l a	sanb1242	1394	9.15686	-78.3075		0	0	?
 1167	57_bone	BONE	Cogui	Cogui	zalakala	zalakala	z a l a k a l a	cogu1240	1394	10.9485	-73.8043		0	0	?
-1168	57_bone	BONE	Arhuaco	Arhuaco	'wesu	'wesu	w e s u	arhu1242	1394	10.7018	-73.6363		0	0	?
+1168	57_bone	BONE	Arhuaco	Arhuaco	'wesu	'wesu	'w/w e s u	arhu1242	1394	10.7018	-73.6363		0	0	?
 1169	57_bone	BONE	Malayo	Malayo	kɨkɨɾa	kɨkɨɾa	k ɨ k ɨ ɾ a	mala1522	1394	10.9286	-73.4056		0	0	?
 1170	57_bone	BONE	Chimila	Chimila	kɨ:kɾaʔ	kɨ:kɾaʔ	k ɨ: k ɾ a ʔ	chim1309	1394	10.1902	-74.2559		0	0	?
 1171	57_bone	BONE	Chibcha	Chibcha	kɨnɨ	kɨnɨ	k ɨ n ɨ	chib1270	1394	6.24999	-74.1666		0	0	?
-1172	57_bone	BONE	CentralTunebo	Central Tunebo	'kaɾaɾa	'kaɾaɾa	k a ɾ a ɾ a	cent2150	1394	6.8867	-72.097		0	0	?
+1172	57_bone	BONE	CentralTunebo	Central Tunebo	'kaɾaɾa	'kaɾaɾa	'k/k a ɾ a ɾ a	cent2150	1394	6.8867	-72.097		0	0	?
 1173	57_bone	BONE	Bari	Barí	kana	kana	k a n a	bari1297	1394	9.08497	-72.9353		0	0	?
 #
-2297	6_breast	BREAST	LencaSalvador	Lenca-Salvador	ts'ukiN	ts'ukiN	t s u k i n	lenc1242	1402	13.56	-87.5		0	0	?
+2297	6_breast	BREAST	LencaSalvador	Lenca-Salvador	ts'ukiN	ts'ukiN	t s 'u/u k i n	lenc1242	1402	13.56	-87.5		0	0	?
 2298	6_breast	BREAST	LencaHonduras	Lenca-Honduras	palaN	palaN	p a l a n	lenc1243	1402	13.67	-88.11		0	0	?
 2299	6_breast	BREAST	Cacaopera	Cacaopera	sum	sum	s u m	caca1247	1402	13.74	-88.11		0	0	?
 2300	6_breast	BREAST	Mayangna	Mayangna	ta	ta	t a	maya1285	1402	14.13	-84.34		0	0	?
@@ -269,12 +269,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2311	6_breast	BREAST	Buglere	Buglere	tusú	tusú	t u s ú/u	bugl1243	1402	8.57695	-81.25648		0	0	?
 2312	6_breast	BREAST	Dorasque	Dorasque	nõ	nõ	n õ	dora1242	1402	8.567442	-82.375717		0	0	?
 2313	6_breast	BREAST	SanBlasKuna	San Blas Kuna	nu:	nu:	n u:	sanb1242	1402	9.15686	-78.3075		0	0	?
-2314	6_breast	BREAST	Cogui	Cogui	su'mi	su'mi	s u m i	cogu1240	1402	10.9485	-73.8043		0	0	?
+2314	6_breast	BREAST	Cogui	Cogui	su'mi	su'mi	s u 'm/m i	cogu1240	1402	10.9485	-73.8043		0	0	?
 2315	6_breast	BREAST	Arhuaco	Arhuaco	tu	tu	t u	arhu1242	1402	10.7018	-73.6363		0	0	?
-2316	6_breast	BREAST	Malayo	Malayo	'tudu	'tudu	t u d u	mala1522	1402	10.9286	-73.4056		0	0	?
+2316	6_breast	BREAST	Malayo	Malayo	'tudu	'tudu	't/t u d u	mala1522	1402	10.9286	-73.4056		0	0	?
 2317	6_breast	BREAST	Chimila	Chimila	ka:ʔ	ka:ʔ	k a: ʔ	chim1309	1402	10.1902	-74.2559		0	0	?
 2318	6_breast	BREAST	Chibcha	Chibcha	tʲue	tʲue	tʲ u e	chib1270	1402	6.24999	-74.1666		0	0	?
-2319	6_breast	BREAST	CentralTunebo	Central Tunebo	su'ta	su'ta	s u t a	cent2150	1402	6.8867	-72.097		0	0	?
+2319	6_breast	BREAST	CentralTunebo	Central Tunebo	su'ta	su'ta	s u 't/t a	cent2150	1402	6.8867	-72.097		0	0	?
 2320	6_breast	BREAST	Bari	Barí	tu	tu	t u	bari1297	1402	9.08497	-72.9353		0	0	?
 #
 1556	38_child	CHILD	LencaSalvador	Lenca-Salvador	wewe	wewe	w e w e	lenc1242	2099	13.56	-87.5		0	0	?
@@ -294,15 +294,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1570	38_child	CHILD	Buglere	Buglere	kiɾogwa	kiɾogwa	k i ɾ o g w a	bugl1243	2099	8.57695	-81.25648		0	0	?
 1571	38_child	CHILD	Dorasque	Dorasque	áni	áni	á/a n i	dora1242	2099	8.567442	-82.375717		0	0	?
 1572	38_child	CHILD	SanBlasKuna	San Blas Kuna	matʃikwa	matʃikwa	m a tʃ i k w a	sanb1242	2099	9.15686	-78.3075		0	0	?
-1573	38_child	CHILD	Cogui	Cogui	'sukua	'sukua	s u k u a	cogu1240	2099	10.9485	-73.8043		0	0	?
-1574	38_child	CHILD	Arhuaco	Arhuaco	gəmmɨ'sinɨ	gəmmɨ'sinɨ	g ə m m ɨ s i n ɨ	arhu1242	2099	10.7018	-73.6363		0	0	?
+1573	38_child	CHILD	Cogui	Cogui	'sukua	'sukua	's/s u k u a	cogu1240	2099	10.9485	-73.8043		0	0	?
+1574	38_child	CHILD	Arhuaco	Arhuaco	gəmmɨ'sinɨ	gəmmɨ'sinɨ	g ə m m ɨ 's/s i n ɨ	arhu1242	2099	10.7018	-73.6363		0	0	?
 1575	38_child	CHILD	Malayo	Malayo	gɨmɨntina	gɨmɨntina	g ɨ m ɨ n t i n a	mala1522	2099	10.9286	-73.4056		0	0	?
-1576	38_child	CHILD	Chimila	Chimila	'oggwe	'oggwe	o g g w e	chim1309	2099	10.1902	-74.2559		0	0	?
+1576	38_child	CHILD	Chimila	Chimila	'oggwe	'oggwe	'o/o g g w e	chim1309	2099	10.1902	-74.2559		0	0	?
 1577	38_child	CHILD	Chibcha	Chibcha	ɣuasɣua	ɣuasɣua	ɣ u a s ɣ u a	chib1270	2099	6.24999	-74.1666		0	0	?
-1578	38_child	CHILD	CentralTunebo	Central Tunebo	'saha	'saha	s a h a	cent2150	2099	6.8867	-72.097		0	0	?
+1578	38_child	CHILD	CentralTunebo	Central Tunebo	'saha	'saha	's/s a h a	cent2150	2099	6.8867	-72.097		0	0	?
 1579	38_child	CHILD	Bari	Barí	baku	baku	b a k u	bari1297	2099	9.08497	-72.9353		0	0	?
 #
-1222	93_clean	CLEAN	LencaSalvador	Lenca-Salvador	ts'ih	ts'ih	t s i h	lenc1242	704	13.56	-87.5		0	0	?
+1222	93_clean	CLEAN	LencaSalvador	Lenca-Salvador	ts'ih	ts'ih	t s 'i/i h	lenc1242	704	13.56	-87.5		0	0	?
 1223	93_clean	CLEAN	LencaHonduras	Lenca-Honduras	sak	sak	s a k	lenc1243	704	13.67	-88.11		0	0	?
 1224	93_clean	CLEAN	Cacaopera	Cacaopera	saka	saka	s a k a	caca1247	704	13.74	-88.11		0	0	?
 1225	93_clean	CLEAN	Mayangna	Mayangna	suh	suh	s u h	maya1285	704	14.13	-84.34		0	0	?
@@ -318,12 +318,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1235	93_clean	CLEAN	Ngabere	Ngäbere	bɔtete	bɔtete	b ɔ t e t e	ngab1239	704	8.8251	-82.3911		0	0	?
 1236	93_clean	CLEAN	Buglere	Buglere	glige	glige	g l i g e	bugl1243	704	8.57695	-81.25648		0	0	?
 1237	93_clean	CLEAN	SanBlasKuna	San Blas Kuna	enukke	enukke	e n u k k e	sanb1242	704	9.15686	-78.3075		0	0	?
-1238	93_clean	CLEAN	Cogui	Cogui	ihi'ʒihiĩ	ihi'ʒihiĩ	i h i ʒ i h i ĩ	cogu1240	704	10.9485	-73.8043		0	0	?
-1239	93_clean	CLEAN	Arhuaco	Arhuaco	aʔ'tʃukkw	aʔ'tʃukkw	a ʔ tʃ u k k w	arhu1242	704	10.7018	-73.6363		0	0	?
+1238	93_clean	CLEAN	Cogui	Cogui	ihi'ʒihiĩ	ihi'ʒihiĩ	i h i 'ʒ/ʒ i h i ĩ	cogu1240	704	10.9485	-73.8043		0	0	?
+1239	93_clean	CLEAN	Arhuaco	Arhuaco	aʔ'tʃukkw	aʔ'tʃukkw	a ʔ 't/t ʃ u k k w	arhu1242	704	10.7018	-73.6363		0	0	?
 1240	93_clean	CLEAN	Malayo	Malayo	atukw	atukw	a t u k w	mala1522	704	10.9286	-73.4056		0	0	?
-1241	93_clean	CLEAN	Chimila	Chimila	'tukkua	'tukkua	t u k k u a	chim1309	704	10.1902	-74.2559		0	0	?
+1241	93_clean	CLEAN	Chimila	Chimila	'tukkua	'tukkua	't/t u k k u a	chim1309	704	10.1902	-74.2559		0	0	?
 1242	93_clean	CLEAN	Chibcha	Chibcha	tʲuhu	tʲuhu	tʲ u h u	chib1270	704	6.24999	-74.1666		0	0	?
-1243	93_clean	CLEAN	CentralTunebo	Central Tunebo	su'kwi	su'kwi	s u k w i	cent2150	704	6.8867	-72.097		0	0	?
+1243	93_clean	CLEAN	CentralTunebo	Central Tunebo	su'kwi	su'kwi	s u 'k/k w i	cent2150	704	6.8867	-72.097		0	0	?
 1244	93_clean	CLEAN	Bari	Barí	duk	duk	d u k	bari1297	704	9.08497	-72.9353		0	0	?
 #
 2130	71_clothes	CLOTHES	LencaSalvador	Lenca-Salvador	lamtara	lamtara	l a m t a r a	lenc1242	1895	13.56	-87.5		0	0	?
@@ -343,15 +343,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2144	71_clothes	CLOTHES	Buglere	Buglere	ɲometɾa	ɲometɾa	ɲ o m e t ɾ a	bugl1243	1895	8.57695	-81.25648		0	0	?
 2145	71_clothes	CLOTHES	Dorasque	Dorasque	ákubi	ákubi	á/a k u b i	dora1242	1895	8.567442	-82.375717		0	0	?
 2146	71_clothes	CLOTHES	SanBlasKuna	San Blas Kuna	mola	mola	m o l a	sanb1242	1895	9.15686	-78.3075		0	0	?
-2147	71_clothes	CLOTHES	Cogui	Cogui	ʒaku'a	ʒaku'a	ʒ a k u a	cogu1240	1895	10.9485	-73.8043		0	0	?
+2147	71_clothes	CLOTHES	Cogui	Cogui	ʒaku'a	ʒaku'a	ʒ a k u 'a/a	cogu1240	1895	10.9485	-73.8043		0	0	?
 2148	71_clothes	CLOTHES	Arhuaco	Arhuaco	mákë	mákë	m á/a k ë	arhu1242	1895	10.7018	-73.6363		0	0	?
-2149	71_clothes	CLOTHES	Malayo	Malayo	mɨkɨ 'sala	mɨkɨ 'sala	m ɨ k ɨ + s a l a	mala1522	1895	10.9286	-73.4056		0	0	?
-2150	71_clothes	CLOTHES	Chimila	Chimila	'gwaʔŋaʔ	'gwaʔŋaʔ	g w a ʔ ŋ a ʔ	chim1309	1895	10.1902	-74.2559		0	0	?
+2149	71_clothes	CLOTHES	Malayo	Malayo	mɨkɨ 'sala	mɨkɨ 'sala	m ɨ k ɨ + 's/s a l a	mala1522	1895	10.9286	-73.4056		0	0	?
+2150	71_clothes	CLOTHES	Chimila	Chimila	'gwaʔŋaʔ	'gwaʔŋaʔ	'g/g w a ʔ ŋ a ʔ	chim1309	1895	10.1902	-74.2559		0	0	?
 2151	71_clothes	CLOTHES	Chibcha	Chibcha	βoi	βoi	β o i	chib1270	1895	6.24999	-74.1666		0	0	?
-2152	71_clothes	CLOTHES	CentralTunebo	Central Tunebo	'oja	'oja	o j a	cent2150	1895	6.8867	-72.097		0	0	?
+2152	71_clothes	CLOTHES	CentralTunebo	Central Tunebo	'oja	'oja	'o/o j a	cent2150	1895	6.8867	-72.097		0	0	?
 2153	71_clothes	CLOTHES	Bari	Barí	duksa	duksa	d u k s a	bari1297	1895	9.08497	-72.9353		0	0	?
 #
-1651	76_cloud	CLOUD	LencaSalvador	Lenca-Salvador	ts'upa	ts'upa	t s u p a	lenc1242	1489	13.56	-87.5		0	0	?
+1651	76_cloud	CLOUD	LencaSalvador	Lenca-Salvador	ts'upa	ts'upa	t s 'u/u p a	lenc1242	1489	13.56	-87.5		0	0	?
 1652	76_cloud	CLOUD	LencaHonduras	Lenca-Honduras	tsopata	tsopata	t s o p a t a	lenc1243	1489	13.67	-88.11		0	0	?
 1653	76_cloud	CLOUD	Cacaopera	Cacaopera	amu	amu	a m u	caca1247	1489	13.74	-88.11		0	0	?
 1654	76_cloud	CLOUD	Mayangna	Mayangna	mukus	mukus	m u k u s	maya1285	1489	14.13	-84.34		0	0	?
@@ -368,15 +368,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1665	76_cloud	CLOUD	Buglere	Buglere	boga	boga	b o g a	bugl1243	1489	8.57695	-81.25648		0	0	?
 1666	76_cloud	CLOUD	Dorasque	Dorasque	bókála	bókála	b ó/o k á/a l a	dora1242	1489	8.567442	-82.375717		0	0	?
 1667	76_cloud	CLOUD	SanBlasKuna	San Blas Kuna	mola	mola	m o l a	sanb1242	1489	9.15686	-78.3075		0	0	?
-1668	76_cloud	CLOUD	Cogui	Cogui	'maui	'maui	m a u i	cogu1240	1489	10.9485	-73.8043		0	0	?
-1669	76_cloud	CLOUD	Arhuaco	Arhuaco	'məɲɨ	'məɲɨ	m ə ɲ ɨ	arhu1242	1489	10.7018	-73.6363		0	0	?
+1668	76_cloud	CLOUD	Cogui	Cogui	'maui	'maui	'm/m a u i	cogu1240	1489	10.9485	-73.8043		0	0	?
+1669	76_cloud	CLOUD	Arhuaco	Arhuaco	'məɲɨ	'məɲɨ	'm/m ə ɲ ɨ	arhu1242	1489	10.7018	-73.6363		0	0	?
 1670	76_cloud	CLOUD	Malayo	Malayo	moɲa	moɲa	m o ɲ a	mala1522	1489	10.9286	-73.4056		0	0	?
 1671	76_cloud	CLOUD	Chimila	Chimila	monse	monse	m o n s e	chim1309	1489	10.1902	-74.2559		0	0	?
 1672	76_cloud	CLOUD	Chibcha	Chibcha	ʔaoa	ʔaoa	ʔ a o a	chib1270	1489	6.24999	-74.1666		0	0	?
-1673	76_cloud	CLOUD	CentralTunebo	Central Tunebo	bowa'ɾa	bowa'ɾa	b o w a ɾ a	cent2150	1489	6.8867	-72.097		0	0	?
+1673	76_cloud	CLOUD	CentralTunebo	Central Tunebo	bowa'ɾa	bowa'ɾa	b o w a 'ɾ/ɾ a	cent2150	1489	6.8867	-72.097		0	0	?
 1674	76_cloud	CLOUD	Bari	Barí	nĩɲĩkɨ	nĩɲĩkɨ	n ĩ ɲ ĩ k ɨ	bari1297	1489	9.08497	-72.9353		0	0	?
 #
-911	19_cold	COLD	LencaSalvador	Lenca-Salvador	ts'ana	ts'ana	t s a n a	lenc1242	1287	13.56	-87.5		0	0	?
+911	19_cold	COLD	LencaSalvador	Lenca-Salvador	ts'ana	ts'ana	t s 'a/a n a	lenc1242	1287	13.56	-87.5		0	0	?
 912	19_cold	COLD	LencaHonduras	Lenca-Honduras	miti	miti	m i t i	lenc1243	1287	13.67	-88.11		0	0	?
 913	19_cold	COLD	Cacaopera	Cacaopera	tusni	tusni	t u s n i	caca1247	1287	13.74	-88.11		0	0	?
 914	19_cold	COLD	Mayangna	Mayangna	saŋni	saŋni	s a ŋ n i	maya1285	1287	14.13	-84.34		0	0	?
@@ -393,12 +393,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 925	19_cold	COLD	Buglere	Buglere	skeke	skeke	s k e k e	bugl1243	1287	8.57695	-81.25648		0	0	?
 926	19_cold	COLD	Dorasque	Dorasque	saiga	saiga	s a i g a	dora1242	1287	8.567442	-82.375717		0	0	?
 927	19_cold	COLD	SanBlasKuna	San Blas Kuna	tiopikwa	tiopikwa	t i o p i k w a	sanb1242	1287	9.15686	-78.3075		0	0	?
-928	19_cold	COLD	Cogui	Cogui	ʃu'izala	ʃu'izala	ʃ u i z a l a	cogu1240	1287	10.9485	-73.8043		0	0	?
+928	19_cold	COLD	Cogui	Cogui	ʃu'izala	ʃu'izala	ʃ u 'i/i z a l a	cogu1240	1287	10.9485	-73.8043		0	0	?
 929	19_cold	COLD	Arhuaco	Arhuaco	kɨ kawa	kɨ kawa	k ɨ + k a w a	arhu1242	1287	10.7018	-73.6363		0	0	?
 930	19_cold	COLD	Malayo	Malayo	se	se	s e	mala1522	1287	10.9286	-73.4056		0	0	?
 931	19_cold	COLD	Chimila	Chimila	sa:hnihka:	sa:hnihka:	s a: h n i h k a:	chim1309	1287	10.1902	-74.2559		0	0	?
 932	19_cold	COLD	Chibcha	Chibcha	nɨko	nɨko	n ɨ k o	chib1270	1287	6.24999	-74.1666		0	0	?
-933	19_cold	COLD	CentralTunebo	Central Tunebo	'seroa	'seroa	s e r o a	cent2150	1287	6.8867	-72.097		0	0	?
+933	19_cold	COLD	CentralTunebo	Central Tunebo	'seroa	'seroa	's/s e r o a	cent2150	1287	6.8867	-72.097		0	0	?
 934	19_cold	COLD	Bari	Barí	te:	te:	t e:	bari1297	1287	9.08497	-72.9353		0	0	?
 #
 2464	9_come	COME	LencaSalvador	Lenca-Salvador	po	po	p o	lenc1242	1446	13.56	-87.5		0	0	?
@@ -418,12 +418,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2478	9_come	COME	Buglere	Buglere	tʃige	tʃige	tʃ i g e	bugl1243	1446	8.57695	-81.25648		0	0	?
 2479	9_come	COME	Dorasque	Dorasque	berik	berik	b e r i k	dora1242	1446	8.567442	-82.375717		0	0	?
 2480	9_come	COME	SanBlasKuna	San Blas Kuna	take	take	t a k e	sanb1242	1446	9.15686	-78.3075		0	0	?
-2481	9_come	COME	Cogui	Cogui	'naʃ	'naʃ	n a ʃ	cogu1240	1446	10.9485	-73.8043		0	0	?
-2482	9_come	COME	Arhuaco	Arhuaco	'nak	'nak	n a k	arhu1242	1446	10.7018	-73.6363		0	0	?
+2481	9_come	COME	Cogui	Cogui	'naʃ	'naʃ	'n/n a ʃ	cogu1240	1446	10.9485	-73.8043		0	0	?
+2482	9_come	COME	Arhuaco	Arhuaco	'nak	'nak	'n/n a k	arhu1242	1446	10.7018	-73.6363		0	0	?
 2483	9_come	COME	Malayo	Malayo	nak	nak	n a k	mala1522	1446	10.9286	-73.4056		0	0	?
 2484	9_come	COME	Chimila	Chimila	hatta	hatta	h a t t a	chim1309	1446	10.1902	-74.2559		0	0	?
 2485	9_come	COME	Chibcha	Chibcha	nɨ	nɨ	n ɨ	chib1270	1446	6.24999	-74.1666		0	0	?
-2486	9_come	COME	CentralTunebo	Central Tunebo	'beki	'beki	b e k i	cent2150	1446	6.8867	-72.097		0	0	?
+2486	9_come	COME	CentralTunebo	Central Tunebo	'beki	'beki	'b/b e k i	cent2150	1446	6.8867	-72.097		0	0	?
 2487	9_come	COME	Bari	Barí	abãi	abãi	a b ã i	bari1297	1446	9.08497	-72.9353		0	0	?
 #
 1317	59_cry	CRY	LencaSalvador	Lenca-Salvador	kaj	kaj	k a j	lenc1242	1839	13.56	-87.5		0	0	?
@@ -443,15 +443,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1331	59_cry	CRY	Buglere	Buglere	moe	moe	m o e	bugl1243	1839	8.57695	-81.25648		0	0	?
 1332	59_cry	CRY	Dorasque	Dorasque	bos	bos	b o s	dora1242	1839	8.567442	-82.375717		0	0	?
 1333	59_cry	CRY	SanBlasKuna	San Blas Kuna	po	po	p o	sanb1242	1839	9.15686	-78.3075		0	0	?
-1334	59_cry	CRY	Cogui	Cogui	'mau	'mau	m a u	cogu1240	1839	10.9485	-73.8043		0	0	?
+1334	59_cry	CRY	Cogui	Cogui	'mau	'mau	'm/m a u	cogu1240	1839	10.9485	-73.8043		0	0	?
 1335	59_cry	CRY	Arhuaco	Arhuaco	mau	mau	m a u	arhu1242	1839	10.7018	-73.6363		0	0	?
 1336	59_cry	CRY	Malayo	Malayo	áuau	áuau	á/a u a u	mala1522	1839	10.9286	-73.4056		0	0	?
-1337	59_cry	CRY	Chimila	Chimila	'o:ni	'o:ni	o: n i	chim1309	1839	10.1902	-74.2559		0	0	?
+1337	59_cry	CRY	Chimila	Chimila	'o:ni	'o:ni	'o:/o: n i	chim1309	1839	10.1902	-74.2559		0	0	?
 1338	59_cry	CRY	Chibcha	Chibcha	kon	kon	k o n	chib1270	1839	6.24999	-74.1666		0	0	?
-1339	59_cry	CRY	CentralTunebo	Central Tunebo	ko'ni	ko'ni	k o n i	cent2150	1839	6.8867	-72.097		0	0	?
+1339	59_cry	CRY	CentralTunebo	Central Tunebo	ko'ni	ko'ni	k o 'n/n i	cent2150	1839	6.8867	-72.097		0	0	?
 1340	59_cry	CRY	Bari	Barí	kona	kona	k o n a	bari1297	1839	9.08497	-72.9353		0	0	?
 #
-601	36_cut	CUT	LencaSalvador	Lenca-Salvador	t'ih	t'ih	t i h	lenc1242	1432	13.56	-87.5		0	0	?
+601	36_cut	CUT	LencaSalvador	Lenca-Salvador	t'ih	t'ih	t 'i/i h	lenc1242	1432	13.56	-87.5		0	0	?
 602	36_cut	CUT	LencaHonduras	Lenca-Honduras	taj	taj	t a j	lenc1243	1432	13.67	-88.11		0	0	?
 603	36_cut	CUT	Cacaopera	Cacaopera	kat	kat	k a t	caca1247	1432	13.74	-88.11		0	0	?
 604	36_cut	CUT	Mayangna	Mayangna	dak	dak	d a k	maya1285	1432	14.13	-84.34		0	0	?
@@ -468,12 +468,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 615	36_cut	CUT	Buglere	Buglere	date	date	d a t e	bugl1243	1432	8.57695	-81.25648		0	0	?
 616	36_cut	CUT	Dorasque	Dorasque	togli	togli	t o g l i	dora1242	1432	8.567442	-82.375717		0	0	?
 617	36_cut	CUT	SanBlasKuna	San Blas Kuna	sikke	sikke	s i k k e	sanb1242	1432	9.15686	-78.3075		0	0	?
-618	36_cut	CUT	Cogui	Cogui	'men	'men	m e n	cogu1240	1432	10.9485	-73.8043		0	0	?
-619	36_cut	CUT	Arhuaco	Arhuaco	ɾeʔ'beis	ɾeʔ'beis	ɾ e ʔ b e i s	arhu1242	1432	10.7018	-73.6363		0	0	?
+618	36_cut	CUT	Cogui	Cogui	'men	'men	'm/m e n	cogu1240	1432	10.9485	-73.8043		0	0	?
+619	36_cut	CUT	Arhuaco	Arhuaco	ɾeʔ'beis	ɾeʔ'beis	ɾ e ʔ 'b/b e i s	arhu1242	1432	10.7018	-73.6363		0	0	?
 620	36_cut	CUT	Malayo	Malayo	koʃ	koʃ	k o ʃ	mala1522	1432	10.9286	-73.4056		0	0	?
-621	36_cut	CUT	Chimila	Chimila	'ukkwa	'ukkwa	u k k w a	chim1309	1432	10.1902	-74.2559		0	0	?
+621	36_cut	CUT	Chimila	Chimila	'ukkwa	'ukkwa	'u/u k k w a	chim1309	1432	10.1902	-74.2559		0	0	?
 622	36_cut	CUT	Chibcha	Chibcha	kɨhɨtɨ	kɨhɨtɨ	k ɨ h ɨ t ɨ	chib1270	1432	6.24999	-74.1666		0	0	?
-623	36_cut	CUT	CentralTunebo	Central Tunebo	kwi'ki	kwi'ki	k w i k i	cent2150	1432	6.8867	-72.097		0	0	?
+623	36_cut	CUT	CentralTunebo	Central Tunebo	kwi'ki	kwi'ki	k w i 'k/k i	cent2150	1432	6.8867	-72.097		0	0	?
 624	36_cut	CUT	Bari	Barí	a:kd	a:kd	a: k d	bari1297	1432	9.08497	-72.9353		0	0	?
 #
 145	100_dance	DANCE	LencaSalvador	Lenca-Salvador	uli	uli	u l i	lenc1242	1879	13.56	-87.5		0	0	?
@@ -495,10 +495,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 161	100_dance	DANCE	SanBlasKuna	San Blas Kuna	kuile	kuile	k u i l e	sanb1242	1879	9.15686	-78.3075		0	0	?
 162	100_dance	DANCE	Cogui	Cogui	kuiz	kuiz	k u i z	cogu1240	1879	10.9485	-73.8043		0	0	?
 163	100_dance	DANCE	Arhuaco	Arhuaco	kué	kué	k u é/e	arhu1242	1879	10.7018	-73.6363		0	0	?
-164	100_dance	DANCE	Malayo	Malayo	ku'i	ku'i	k u i	mala1522	1879	10.9286	-73.4056		0	0	?
+164	100_dance	DANCE	Malayo	Malayo	ku'i	ku'i	k u 'i/i	mala1522	1879	10.9286	-73.4056		0	0	?
 165	100_dance	DANCE	Chimila	Chimila	kuiahné	kuiahné	k u i a h n é/e	chim1309	1879	10.1902	-74.2559		0	0	?
 166	100_dance	DANCE	Chibcha	Chibcha	tsahana	tsahana	t s a h a n a	chib1270	1879	6.24999	-74.1666		0	0	?
-167	100_dance	DANCE	CentralTunebo	Central Tunebo	ki'ni	ki'ni	k i n i	cent2150	1879	6.8867	-72.097		0	0	?
+167	100_dance	DANCE	CentralTunebo	Central Tunebo	ki'ni	ki'ni	k i 'n/n i	cent2150	1879	6.8867	-72.097		0	0	?
 168	100_dance	DANCE	Bari	Barí	asi	asi	a s i	bari1297	1879	9.08497	-72.9353		0	0	?
 #
 1843	89_dog	DOG	LencaSalvador	Lenca-Salvador	ʃuʃu	ʃuʃu	ʃ u ʃ u	lenc1242	2009	13.56	-87.5		0	0	?
@@ -518,12 +518,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1857	89_dog	DOG	Buglere	Buglere	to	to	t o	bugl1243	2009	8.57695	-81.25648		0	0	?
 1858	89_dog	DOG	Dorasque	Dorasque	bilo	bilo	b i l o	dora1242	2009	8.567442	-82.375717		0	0	?
 1859	89_dog	DOG	SanBlasKuna	San Blas Kuna	atʃu	atʃu	a tʃ u	sanb1242	2009	9.15686	-78.3075		0	0	?
-1860	89_dog	DOG	Cogui	Cogui	'pio	'pio	p i o	cogu1240	2009	10.9485	-73.8043		0	0	?
-1861	89_dog	DOG	Arhuaco	Arhuaco	'peɾɨ	'peɾɨ	p e ɾ ɨ	arhu1242	2009	10.7018	-73.6363		0	0	?
+1860	89_dog	DOG	Cogui	Cogui	'pio	'pio	'p/p i o	cogu1240	2009	10.9485	-73.8043		0	0	?
+1861	89_dog	DOG	Arhuaco	Arhuaco	'peɾɨ	'peɾɨ	'p/p e ɾ ɨ	arhu1242	2009	10.7018	-73.6363		0	0	?
 1862	89_dog	DOG	Malayo	Malayo	kɨnsi	kɨnsi	k ɨ n s i	mala1522	2009	10.9286	-73.4056		0	0	?
 1863	89_dog	DOG	Chimila	Chimila	pe:kɾu	pe:kɾu	p e: k ɾ u	chim1309	2009	10.1902	-74.2559		0	0	?
 1864	89_dog	DOG	Chibcha	Chibcha	to	to	t o	chib1270	2009	6.24999	-74.1666		0	0	?
-1865	89_dog	DOG	CentralTunebo	Central Tunebo	'bajaɾa	'bajaɾa	b a j a ɾ a	cent2150	2009	6.8867	-72.097		0	0	?
+1865	89_dog	DOG	CentralTunebo	Central Tunebo	'bajaɾa	'bajaɾa	'b/b a j a ɾ a	cent2150	2009	6.8867	-72.097		0	0	?
 1866	89_dog	DOG	Bari	Barí	nunaba.	nunaba.	n u n a b a	bari1297	2009	9.08497	-72.9353		0	0	?
 #
 169	105_drink	DRINK	LencaSalvador	Lenca-Salvador	tali	tali	t a l i	lenc1242	1401	13.56	-87.5		0	0	?
@@ -543,12 +543,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 183	105_drink	DRINK	Buglere	Buglere	hai	hai	h a i	bugl1243	1401	8.57695	-81.25648		0	0	?
 184	105_drink	DRINK	Dorasque	Dorasque	bot	bot	b o t	dora1242	1401	8.567442	-82.375717		0	0	?
 185	105_drink	DRINK	SanBlasKuna	San Blas Kuna	kope	kope	k o p e	sanb1242	1401	9.15686	-78.3075		0	0	?
-186	105_drink	DRINK	Cogui	Cogui	'tuʃi	'tuʃi	t u ʃ i	cogu1240	1401	10.9485	-73.8043		0	0	?
+186	105_drink	DRINK	Cogui	Cogui	'tuʃi	'tuʃi	't/t u ʃ i	cogu1240	1401	10.9485	-73.8043		0	0	?
 187	105_drink	DRINK	Arhuaco	Arhuaco	aʔg	aʔg	a ʔ g	arhu1242	1401	10.7018	-73.6363		0	0	?
 188	105_drink	DRINK	Malayo	Malayo	anga	anga	a n g a	mala1522	1401	10.9286	-73.4056		0	0	?
 189	105_drink	DRINK	Chimila	Chimila	uk	uk	u k	chim1309	1401	10.1902	-74.2559		0	0	?
 190	105_drink	DRINK	Chibcha	Chibcha	iohotɨ	iohotɨ	i o h o t ɨ	chib1270	1401	6.24999	-74.1666		0	0	?
-191	105_drink	DRINK	CentralTunebo	Central Tunebo	'jaʔa	'jaʔa	j a ʔ a	cent2150	1401	6.8867	-72.097		0	0	?
+191	105_drink	DRINK	CentralTunebo	Central Tunebo	'jaʔa	'jaʔa	'j/j a ʔ a	cent2150	1401	6.8867	-72.097		0	0	?
 192	105_drink	DRINK	Bari	Barí	a:ksa	a:ksa	a: k s a	bari1297	1401	9.08497	-72.9353		0	0	?
 #
 2225	55_dry	DRY	LencaSalvador	Lenca-Salvador	tina	tina	t i n a	lenc1242	1398	13.56	-87.5		0	0	?
@@ -568,12 +568,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2239	55_dry	DRY	Buglere	Buglere	ulen	ulen	u l e n	bugl1243	1398	8.57695	-81.25648		0	0	?
 2240	55_dry	DRY	Dorasque	Dorasque	tolótkal	tolótkal	t o l ó/o t k a l	dora1242	1398	8.567442	-82.375717		0	0	?
 2241	55_dry	DRY	SanBlasKuna	San Blas Kuna	tinna	tinna	t i n n a	sanb1242	1398	9.15686	-78.3075		0	0	?
-2242	55_dry	DRY	Cogui	Cogui	aluhu'e	aluhu'e	a l u h u e	cogu1240	1398	10.9485	-73.8043		0	0	?
-2243	55_dry	DRY	Arhuaco	Arhuaco	'dʒomɨ	'dʒomɨ	dʒ o m ɨ	arhu1242	1398	10.7018	-73.6363		0	0	?
+2242	55_dry	DRY	Cogui	Cogui	aluhu'e	aluhu'e	a l u h u 'e/e	cogu1240	1398	10.9485	-73.8043		0	0	?
+2243	55_dry	DRY	Arhuaco	Arhuaco	'dʒomɨ	'dʒomɨ	'd/d ʒ o m ɨ	arhu1242	1398	10.7018	-73.6363		0	0	?
 2244	55_dry	DRY	Malayo	Malayo	ʒita	ʒita	ʒ i t a	mala1522	1398	10.9286	-73.4056		0	0	?
 2245	55_dry	DRY	Chimila	Chimila	bɾo:nta	bɾo:nta	b ɾ o: n t a	chim1309	1398	10.1902	-74.2559		0	0	?
 2246	55_dry	DRY	Chibcha	Chibcha	βutʲua	βutʲua	β u tʲ u a	chib1270	1398	6.24999	-74.1666		0	0	?
-2247	55_dry	DRY	CentralTunebo	Central Tunebo	buɾa'buɾa	buɾa'buɾa	b u ɾ a b u ɾ a	cent2150	1398	6.8867	-72.097		0	0	?
+2247	55_dry	DRY	CentralTunebo	Central Tunebo	buɾa'buɾa	buɾa'buɾa	b u ɾ a 'b/b u ɾ a	cent2150	1398	6.8867	-72.097		0	0	?
 2248	55_dry	DRY	Bari	Barí	bunũnĩ	bunũnĩ	b u n ũ n ĩ	bari1297	1398	9.08497	-72.9353		0	0	?
 #
 1770	94_ear	EAR	LencaSalvador	Lenca-Salvador	tokoro	tokoro	t o k o r o	lenc1242	1247	13.56	-87.5		0	0	?
@@ -593,12 +593,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1784	94_ear	EAR	Buglere	Buglere	olo	olo	o l o	bugl1243	1247	8.57695	-81.25648		0	0	?
 1785	94_ear	EAR	Dorasque	Dorasque	kugá	kugá	k u g á/a	dora1242	1247	8.567442	-82.375717		0	0	?
 1786	94_ear	EAR	SanBlasKuna	San Blas Kuna	uaja	uaja	u a j a	sanb1242	1247	9.15686	-78.3075		0	0	?
-1787	94_ear	EAR	Cogui	Cogui	'kuka	'kuka	k u k a	cogu1240	1247	10.9485	-73.8043		0	0	?
-1788	94_ear	EAR	Arhuaco	Arhuaco	'kukkwɨ	'kukkwɨ	k u k k w ɨ	arhu1242	1247	10.7018	-73.6363		0	0	?
-1789	94_ear	EAR	Malayo	Malayo	ku'kwa	ku'kwa	k u k w a	mala1522	1247	10.9286	-73.4056		0	0	?
+1787	94_ear	EAR	Cogui	Cogui	'kuka	'kuka	'k/k u k a	cogu1240	1247	10.9485	-73.8043		0	0	?
+1788	94_ear	EAR	Arhuaco	Arhuaco	'kukkwɨ	'kukkwɨ	'k/k u k k w ɨ	arhu1242	1247	10.7018	-73.6363		0	0	?
+1789	94_ear	EAR	Malayo	Malayo	ku'kwa	ku'kwa	k u 'k/k w a	mala1522	1247	10.9286	-73.4056		0	0	?
 1790	94_ear	EAR	Chimila	Chimila	ku:saka	ku:saka	k u: s a k a	chim1309	1247	10.1902	-74.2559		0	0	?
 1791	94_ear	EAR	Chibcha	Chibcha	kuhuka	kuhuka	k u h u k a	chib1270	1247	6.24999	-74.1666		0	0	?
-1792	94_ear	EAR	CentralTunebo	Central Tunebo	kuhka'ha	kuhka'ha	k u h k a h a	cent2150	1247	6.8867	-72.097		0	0	?
+1792	94_ear	EAR	CentralTunebo	Central Tunebo	kuhka'ha	kuhka'ha	k u h k a 'h/h a	cent2150	1247	6.8867	-72.097		0	0	?
 1793	94_ear	EAR	Bari	Barí	kokti	kokti	k o k t i	bari1297	1247	9.08497	-72.9353		0	0	?
 #
 2321	101_earthsoil	EARTH (SOIL)	LencaSalvador	Lenca-Salvador	omoN	omoN	o m o n	lenc1242	1228	13.56	-87.5		0	0	?
@@ -618,12 +618,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2335	101_earthsoil	EARTH (SOIL)	Buglere	Buglere	dbi	dbi	d b i	bugl1243	1228	8.57695	-81.25648		0	0	?
 2336	101_earthsoil	EARTH (SOIL)	Dorasque	Dorasque	íri	íri	í/i r i	dora1242	1228	8.567442	-82.375717		0	0	?
 2337	101_earthsoil	EARTH (SOIL)	SanBlasKuna	San Blas Kuna	nappa	nappa	n a p p a	sanb1242	1228	9.15686	-78.3075		0	0	?
-2338	101_earthsoil	EARTH (SOIL)	Cogui	Cogui	'kagi	'kagi	k a g i	cogu1240	1228	10.9485	-73.8043		0	0	?
-2339	101_earthsoil	EARTH (SOIL)	Arhuaco	Arhuaco	'kaʔa	'kaʔa	k a ʔ a	arhu1242	1228	10.7018	-73.6363		0	0	?
+2338	101_earthsoil	EARTH (SOIL)	Cogui	Cogui	'kagi	'kagi	'k/k a g i	cogu1240	1228	10.9485	-73.8043		0	0	?
+2339	101_earthsoil	EARTH (SOIL)	Arhuaco	Arhuaco	'kaʔa	'kaʔa	'k/k a ʔ a	arhu1242	1228	10.7018	-73.6363		0	0	?
 2340	101_earthsoil	EARTH (SOIL)	Malayo	Malayo	kɨngɨma	kɨngɨma	k ɨ n g ɨ m a	mala1522	1228	10.9286	-73.4056		0	0	?
-2341	101_earthsoil	EARTH (SOIL)	Chimila	Chimila	'itti	'itti	i t t i	chim1309	1228	10.1902	-74.2559		0	0	?
+2341	101_earthsoil	EARTH (SOIL)	Chimila	Chimila	'itti	'itti	'i/i t t i	chim1309	1228	10.1902	-74.2559		0	0	?
 2342	101_earthsoil	EARTH (SOIL)	Chibcha	Chibcha	histʲa	histʲa	h i s tʲ a	chib1270	1228	6.24999	-74.1666		0	0	?
-2343	101_earthsoil	EARTH (SOIL)	CentralTunebo	Central Tunebo	'kahka	'kahka	k a h k a	cent2150	1228	6.8867	-72.097		0	0	?
+2343	101_earthsoil	EARTH (SOIL)	CentralTunebo	Central Tunebo	'kahka	'kahka	'k/k a h k a	cent2150	1228	6.8867	-72.097		0	0	?
 2344	101_earthsoil	EARTH (SOIL)	Bari	Barí	istã	istã	i s t ã	bari1297	1228	9.08497	-72.9353		0	0	?
 #
 553	60_eat	EAT	LencaSalvador	Lenca-Salvador	rom	rom	r o m	lenc1242	1336	13.56	-87.5		0	0	?
@@ -643,12 +643,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 567	60_eat	EAT	Buglere	Buglere	bliɾe	bliɾe	b l i ɾ e	bugl1243	1336	8.57695	-81.25648		0	0	?
 568	60_eat	EAT	Dorasque	Dorasque	kut	kut	k u t	dora1242	1336	8.567442	-82.375717		0	0	?
 569	60_eat	EAT	SanBlasKuna	San Blas Kuna	kunne	kunne	k u n n e	sanb1242	1336	9.15686	-78.3075		0	0	?
-570	60_eat	EAT	Cogui	Cogui	'za	'za	z a	cogu1240	1336	10.9485	-73.8043		0	0	?
-571	60_eat	EAT	Arhuaco	Arhuaco	'z	'z	z	arhu1242	1336	10.7018	-73.6363		0	0	?
+570	60_eat	EAT	Cogui	Cogui	'za	'za	'z/z a	cogu1240	1336	10.9485	-73.8043		0	0	?
+571	60_eat	EAT	Arhuaco	Arhuaco	'z	'z	'z/z	arhu1242	1336	10.7018	-73.6363		0	0	?
 572	60_eat	EAT	Malayo	Malayo	ʒa	ʒa	ʒ a	mala1522	1336	10.9286	-73.4056		0	0	?
-573	60_eat	EAT	Chimila	Chimila	'kenne	'kenne	k e n n e	chim1309	1336	10.1902	-74.2559		0	0	?
+573	60_eat	EAT	Chimila	Chimila	'kenne	'kenne	'k/k e n n e	chim1309	1336	10.1902	-74.2559		0	0	?
 574	60_eat	EAT	Chibcha	Chibcha	so	so	s o	chib1270	1336	6.24999	-74.1666		0	0	?
-575	60_eat	EAT	CentralTunebo	Central Tunebo	ja'jin	ja'jin	j a j i n	cent2150	1336	6.8867	-72.097		0	0	?
+575	60_eat	EAT	CentralTunebo	Central Tunebo	ja'jin	ja'jin	j a 'j/j i n	cent2150	1336	6.8867	-72.097		0	0	?
 576	60_eat	EAT	Bari	Barí	san	san	s a n	bari1297	1336	9.08497	-72.9353		0	0	?
 #
 1723	46_eye	EYE	LencaSalvador	Lenca-Salvador	sap	sap	s a p	lenc1242	1248	13.56	-87.5		0	0	?
@@ -668,12 +668,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1737	46_eye	EYE	Buglere	Buglere	gwagwa	gwagwa	g w a g w a	bugl1243	1248	8.57695	-81.25648		0	0	?
 1738	46_eye	EYE	Dorasque	Dorasque	okó	okó	o k ó/o	dora1242	1248	8.567442	-82.375717		0	0	?
 1739	46_eye	EYE	SanBlasKuna	San Blas Kuna	ipia	ipia	i p i a	sanb1242	1248	9.15686	-78.3075		0	0	?
-1740	46_eye	EYE	Cogui	Cogui	'uba	'uba	u b a	cogu1240	1248	10.9485	-73.8043		0	0	?
-1741	46_eye	EYE	Arhuaco	Arhuaco	'umɨ	'umɨ	u m ɨ	arhu1242	1248	10.7018	-73.6363		0	0	?
+1740	46_eye	EYE	Cogui	Cogui	'uba	'uba	'u/u b a	cogu1240	1248	10.9485	-73.8043		0	0	?
+1741	46_eye	EYE	Arhuaco	Arhuaco	'umɨ	'umɨ	'u/u m ɨ	arhu1242	1248	10.7018	-73.6363		0	0	?
 1742	46_eye	EYE	Malayo	Malayo	uma	uma	u m a	mala1522	1248	10.9286	-73.4056		0	0	?
 1743	46_eye	EYE	Chimila	Chimila	wa:kwa	wa:kwa	w a: k w a	chim1309	1248	10.1902	-74.2559		0	0	?
 1744	46_eye	EYE	Chibcha	Chibcha	upkua	upkua	u p k u a	chib1270	1248	6.24999	-74.1666		0	0	?
-1745	46_eye	EYE	CentralTunebo	Central Tunebo	'uba	'uba	u b a	cent2150	1248	6.8867	-72.097		0	0	?
+1745	46_eye	EYE	CentralTunebo	Central Tunebo	'uba	'uba	'u/u b a	cent2150	1248	6.8867	-72.097		0	0	?
 1746	46_eye	EYE	Bari	Barí	o:	o:	o:	bari1297	1248	9.08497	-72.9353		0	0	?
 #
 1245	47_far	FAR	LencaSalvador	Lenca-Salvador	kota	kota	k o t a	lenc1242	1406	13.56	-87.5		0	0	?
@@ -693,12 +693,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1259	47_far	FAR	Buglere	Buglere	bate	bate	b a t e	bugl1243	1406	8.57695	-81.25648		0	0	?
 1260	47_far	FAR	Dorasque	Dorasque	héppe	héppe	h é/e p p e	dora1242	1406	8.567442	-82.375717		0	0	?
 1261	47_far	FAR	SanBlasKuna	San Blas Kuna	panna	panna	p a n n a	sanb1242	1406	9.15686	-78.3075		0	0	?
-1262	47_far	FAR	Cogui	Cogui	male'zenka	male'zenka	m a l e z e n k a	cogu1240	1406	10.9485	-73.8043		0	0	?
-1263	47_far	FAR	Arhuaco	Arhuaco	'peikɨ	'peikɨ	p e i k ɨ	arhu1242	1406	10.7018	-73.6363		0	0	?
-1264	47_far	FAR	Malayo	Malayo	ma'ɾaʒanekka	ma'ɾaʒanekka	m a ɾ a ʒ a n e k k a	mala1522	1406	10.9286	-73.4056		0	0	?
+1262	47_far	FAR	Cogui	Cogui	male'zenka	male'zenka	m a l e 'z/z e n k a	cogu1240	1406	10.9485	-73.8043		0	0	?
+1263	47_far	FAR	Arhuaco	Arhuaco	'peikɨ	'peikɨ	'p/p e i k ɨ	arhu1242	1406	10.7018	-73.6363		0	0	?
+1264	47_far	FAR	Malayo	Malayo	ma'ɾaʒanekka	ma'ɾaʒanekka	m a 'ɾ/ɾ a ʒ a n e k k a	mala1522	1406	10.9286	-73.4056		0	0	?
 1265	47_far	FAR	Chimila	Chimila	matta	matta	m a t t a	chim1309	1406	10.1902	-74.2559		0	0	?
 1266	47_far	FAR	Chibcha	Chibcha	ahuen maɣue	ahuen maɣue	a h u e n + m a ɣ u e	chib1270	1406	6.24999	-74.1666		0	0	?
-1267	47_far	FAR	CentralTunebo	Central Tunebo	bi'ɾa	bi'ɾa	b i ɾ a	cent2150	1406	6.8867	-72.097		0	0	?
+1267	47_far	FAR	CentralTunebo	Central Tunebo	bi'ɾa	bi'ɾa	b i 'ɾ/ɾ a	cent2150	1406	6.8867	-72.097		0	0	?
 1268	47_far	FAR	Bari	Barí	ittikkiɲa	ittikkiɲa	i t t i k k i ɲ a	bari1297	1406	9.08497	-72.9353		0	0	?
 #
 49	29_fasten	FASTEN	LencaSalvador	Lenca-Salvador	waɾ	waɾ	w a ɾ	lenc1242	1094	13.56	-87.5		0	0	?
@@ -719,14 +719,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 64	29_fasten	FASTEN	Dorasque	Dorasque	bui	bui	b u i	dora1242	1094	8.567442	-82.375717		0	0	?
 65	29_fasten	FASTEN	SanBlasKuna	San Blas Kuna	etinne	etinne	e t i n n e	sanb1242	1094	9.15686	-78.3075		0	0	?
 66	29_fasten	FASTEN	Cogui	Cogui	akalihi	akalihi	a k a l i h i	cogu1240	1094	10.9485	-73.8043		0	0	?
-67	29_fasten	FASTEN	Arhuaco	Arhuaco	'aʔdʒ	'aʔdʒ	a ʔ dʒ	arhu1242	1094	10.7018	-73.6363		0	0	?
+67	29_fasten	FASTEN	Arhuaco	Arhuaco	'aʔdʒ	'aʔdʒ	'a/a ʔ dʒ	arhu1242	1094	10.7018	-73.6363		0	0	?
 68	29_fasten	FASTEN	Malayo	Malayo	ɾinʒii	ɾinʒii	ɾ i n ʒ i i	mala1522	1094	10.9286	-73.4056		0	0	?
 69	29_fasten	FASTEN	Chimila	Chimila	sikke	sikke	s i k k e	chim1309	1094	10.1902	-74.2559		0	0	?
 70	29_fasten	FASTEN	Chibcha	Chibcha	kamɨ	kamɨ	k a m ɨ	chib1270	1094	6.24999	-74.1666		0	0	?
-71	29_fasten	FASTEN	CentralTunebo	Central Tunebo	ke'ta	ke'ta	k e t a	cent2150	1094	6.8867	-72.097		0	0	?
+71	29_fasten	FASTEN	CentralTunebo	Central Tunebo	ke'ta	ke'ta	k e 't/t a	cent2150	1094	6.8867	-72.097		0	0	?
 72	29_fasten	FASTEN	Bari	Barí	ju	ju	j u	bari1297	1094	9.08497	-72.9353		0	0	?
 #
-1794	41_father	FATHER	LencaSalvador	Lenca-Salvador	t'ani	t'ani	t a n i	lenc1242	1217	13.56	-87.5		0	0	?
+1794	41_father	FATHER	LencaSalvador	Lenca-Salvador	t'ani	t'ani	t 'a/a n i	lenc1242	1217	13.56	-87.5		0	0	?
 1795	41_father	FATHER	LencaHonduras	Lenca-Honduras	papa	papa	p a p a	lenc1243	1217	13.67	-88.11		0	0	?
 1796	41_father	FATHER	Cacaopera	Cacaopera	wapa	wapa	w a p a	caca1247	1217	13.74	-88.11		0	0	?
 1797	41_father	FATHER	Mayangna	Mayangna	papaŋ	papaŋ	p a p a ŋ	maya1285	1217	14.13	-84.34		0	0	?
@@ -743,13 +743,13 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1808	41_father	FATHER	Buglere	Buglere	ɲenu	ɲenu	ɲ e n u	bugl1243	1217	8.57695	-81.25648		0	0	?
 1809	41_father	FATHER	Dorasque	Dorasque	su	su	s u	dora1242	1217	8.567442	-82.375717		0	0	?
 1810	41_father	FATHER	SanBlasKuna	San Blas Kuna	papa	papa	p a p a	sanb1242	1217	9.15686	-78.3075		0	0	?
-1811	41_father	FATHER	Cogui	Cogui	'hate	'hate	h a t e	cogu1240	1217	10.9485	-73.8043		0	0	?
-1812	41_father	FATHER	Arhuaco	Arhuaco	'kakɨ	'kakɨ	k a k ɨ	arhu1242	1217	10.7018	-73.6363		0	0	?
+1811	41_father	FATHER	Cogui	Cogui	'hate	'hate	'h/h a t e	cogu1240	1217	10.9485	-73.8043		0	0	?
+1812	41_father	FATHER	Arhuaco	Arhuaco	'kakɨ	'kakɨ	'k/k a k ɨ	arhu1242	1217	10.7018	-73.6363		0	0	?
 1813	41_father	FATHER	Malayo	Malayo	ade	ade	a d e	mala1522	1217	10.9286	-73.4056		0	0	?
 1814	41_father	FATHER	Atanque	Atanque	káke	káke	k á/a k e	kank1244	1217	10.750207	-73.357544		0	0	?
 1815	41_father	FATHER	Chimila	Chimila	dʒiaw	dʒiaw	dʒ i a w	chim1309	1217	10.1902	-74.2559		0	0	?
 1816	41_father	FATHER	Chibcha	Chibcha	paβa	paβa	p a β a	chib1270	1217	6.24999	-74.1666		0	0	?
-1817	41_father	FATHER	CentralTunebo	Central Tunebo	te'ta	te'ta	t e t a	cent2150	1217	6.8867	-72.097		0	0	?
+1817	41_father	FATHER	CentralTunebo	Central Tunebo	te'ta	te'ta	t e 't/t a	cent2150	1217	6.8867	-72.097		0	0	?
 1818	41_father	FATHER	Bari	Barí	taikda	taikda	t a i k d a	bari1297	1217	9.08497	-72.9353		0	0	?
 #
 2009	50_feather	FEATHER	LencaSalvador	Lenca-Salvador	ʃumah	ʃumah	ʃ u m a h	lenc1242	1201	13.56	-87.5		0	0	?
@@ -770,14 +770,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2024	50_feather	FEATHER	Dorasque	Dorasque	shũl	shũl	s h ũ l	dora1242	1201	8.567442	-82.375717		0	0	?
 2025	50_feather	FEATHER	SanBlasKuna	San Blas Kuna	apsala	apsala	a p s a l a	sanb1242	1201	9.15686	-78.3075		0	0	?
 2026	50_feather	FEATHER	Cogui	Cogui	gala	gala	g a l a	cogu1240	1201	10.9485	-73.8043		0	0	?
-2027	50_feather	FEATHER	Arhuaco	Arhuaco	'kwi	'kwi	k w i	arhu1242	1201	10.7018	-73.6363		0	0	?
+2027	50_feather	FEATHER	Arhuaco	Arhuaco	'kwi	'kwi	'k/k w i	arhu1242	1201	10.7018	-73.6363		0	0	?
 2028	50_feather	FEATHER	Malayo	Malayo	dungɨɾa	dungɨɾa	d u n g ɨ ɾ a	mala1522	1201	10.9286	-73.4056		0	0	?
 2029	50_feather	FEATHER	Chimila	Chimila	ga:	ga:	g a:	chim1309	1201	10.1902	-74.2559		0	0	?
 2030	50_feather	FEATHER	Chibcha	Chibcha	ɣaka	ɣaka	ɣ a k a	chib1270	1201	6.24999	-74.1666		0	0	?
-2031	50_feather	FEATHER	CentralTunebo	Central Tunebo	ana'ɾa	ana'ɾa	a n a ɾ a	cent2150	1201	6.8867	-72.097		0	0	?
+2031	50_feather	FEATHER	CentralTunebo	Central Tunebo	ana'ɾa	ana'ɾa	a n a 'ɾ/ɾ a	cent2150	1201	6.8867	-72.097		0	0	?
 2032	50_feather	FEATHER	Bari	Barí	ãtĩ	ãtĩ	ã t ĩ	bari1297	1201	9.08497	-72.9353		0	0	?
 #
-2033	64_few	FEW	LencaSalvador	Lenca-Salvador	tʃ'iNkira	tʃ'iNkira	tʃ i n k i r a	lenc1242	1242	13.56	-87.5		0	0	?
+2033	64_few	FEW	LencaSalvador	Lenca-Salvador	tʃ'iNkira	tʃ'iNkira	tʃ 'i/i n k i r a	lenc1242	1242	13.56	-87.5		0	0	?
 2034	64_few	FEW	LencaHonduras	Lenca-Honduras	suntia	suntia	s u n t i a	lenc1243	1242	13.67	-88.11		0	0	?
 2035	64_few	FEW	Cacaopera	Cacaopera	dambaja	dambaja	d a m b a j a	caca1247	1242	13.74	-88.11		0	0	?
 2036	64_few	FEW	Mayangna	Mayangna	wajaki	wajaki	w a j a k i	maya1285	1242	14.13	-84.34		0	0	?
@@ -794,15 +794,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2047	64_few	FEW	Buglere	Buglere	bedre	bedre	b e d r e	bugl1243	1242	8.57695	-81.25648		0	0	?
 2048	64_few	FEW	Dorasque	Dorasque	hebbil	hebbil	h e b b i l	dora1242	1242	8.567442	-82.375717		0	0	?
 2049	64_few	FEW	SanBlasKuna	San Blas Kuna	itʃekwa	itʃekwa	i tʃ e k w a	sanb1242	1242	9.15686	-78.3075		0	0	?
-2050	64_few	FEW	Cogui	Cogui	nauan'gaba	nauan'gaba	n a u a n g a b a	cogu1240	1242	10.9485	-73.8043		0	0	?
-2051	64_few	FEW	Arhuaco	Arhuaco	in'gɨ	in'gɨ	i n g ɨ	arhu1242	1242	10.7018	-73.6363		0	0	?
-2052	64_few	FEW	Malayo	Malayo	'ungwɨzi	'ungwɨzi	u n g w ɨ z i	mala1522	1242	10.9286	-73.4056		0	0	?
+2050	64_few	FEW	Cogui	Cogui	nauan'gaba	nauan'gaba	n a u a n 'g/g a b a	cogu1240	1242	10.9485	-73.8043		0	0	?
+2051	64_few	FEW	Arhuaco	Arhuaco	in'gɨ	in'gɨ	i n 'g/g ɨ	arhu1242	1242	10.7018	-73.6363		0	0	?
+2052	64_few	FEW	Malayo	Malayo	'ungwɨzi	'ungwɨzi	'u/u n g w ɨ z i	mala1522	1242	10.9286	-73.4056		0	0	?
 2053	64_few	FEW	Chimila	Chimila	di:saʔaʔsu	di:saʔaʔsu	d i: s a ʔ a ʔ s u	chim1309	1242	10.1902	-74.2559		0	0	?
 2054	64_few	FEW	Chibcha	Chibcha	hitʲɨkɨ	hitʲɨkɨ	h i tʲ ɨ k ɨ	chib1270	1242	6.24999	-74.1666		0	0	?
-2055	64_few	FEW	CentralTunebo	Central Tunebo	'konua	'konua	k o n u a	cent2150	1242	6.8867	-72.097		0	0	?
+2055	64_few	FEW	CentralTunebo	Central Tunebo	'konua	'konua	'k/k o n u a	cent2150	1242	6.8867	-72.097		0	0	?
 2056	64_few	FEW	Bari	Barí	kobakkani.	kobakkani.	k o b a k k a n i	bari1297	1242	9.08497	-72.9353		0	0	?
 #
-935	18_fire	FIRE	LencaSalvador	Lenca-Salvador	ik'aN	ik'aN	i k a n	lenc1242	221	13.56	-87.5		0	0	?
+935	18_fire	FIRE	LencaSalvador	Lenca-Salvador	ik'aN	ik'aN	i k 'a/a n	lenc1242	221	13.56	-87.5		0	0	?
 936	18_fire	FIRE	LencaHonduras	Lenca-Honduras	juka	juka	j u k a	lenc1243	221	13.67	-88.11		0	0	?
 937	18_fire	FIRE	Cacaopera	Cacaopera	lawali	lawali	l a w a l i	caca1247	221	13.74	-88.11		0	0	?
 938	18_fire	FIRE	Mayangna	Mayangna	kuh	kuh	k u h	maya1285	221	14.13	-84.34		0	0	?
@@ -819,15 +819,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 949	18_fire	FIRE	Buglere	Buglere	hita	hita	h i t a	bugl1243	221	8.57695	-81.25648		0	0	?
 950	18_fire	FIRE	Dorasque	Dorasque	kebú	kebú	k e b ú/u	dora1242	221	8.567442	-82.375717		0	0	?
 951	18_fire	FIRE	SanBlasKuna	San Blas Kuna	so:	so:	s o:	sanb1242	221	9.15686	-78.3075		0	0	?
-952	18_fire	FIRE	Cogui	Cogui	gauk'sei	gauk'sei	g a u k s e i	cogu1240	221	10.9485	-73.8043		0	0	?
+952	18_fire	FIRE	Cogui	Cogui	gauk'sei	gauk'sei	g a u k 's/s e i	cogu1240	221	10.9485	-73.8043		0	0	?
 953	18_fire	FIRE	Arhuaco	Arhuaco	gei	gei	g e i	arhu1242	221	10.7018	-73.6363		0	0	?
 954	18_fire	FIRE	Malayo	Malayo	gie	gie	g i e	mala1522	221	10.9286	-73.4056		0	0	?
 955	18_fire	FIRE	Chimila	Chimila	pɾi:mu	pɾi:mu	p ɾ i: m u	chim1309	221	10.1902	-74.2559		0	0	?
 956	18_fire	FIRE	Chibcha	Chibcha	ɣata	ɣata	ɣ a t a	chib1270	221	6.24999	-74.1666		0	0	?
-957	18_fire	FIRE	CentralTunebo	Central Tunebo	'oka	'oka	o k a	cent2150	221	6.8867	-72.097		0	0	?
+957	18_fire	FIRE	CentralTunebo	Central Tunebo	'oka	'oka	'o/o k a	cent2150	221	6.8867	-72.097		0	0	?
 958	18_fire	FIRE	Bari	Barí	kane	kane	k a n e	bari1297	221	9.08497	-72.9353		0	0	?
 #
-1889	51_fish	FISH	LencaSalvador	Lenca-Salvador	ʃok'in	ʃok'in	ʃ o k i n	lenc1242	227	13.56	-87.5		0	0	?
+1889	51_fish	FISH	LencaSalvador	Lenca-Salvador	ʃok'in	ʃok'in	ʃ o k 'i/i n	lenc1242	227	13.56	-87.5		0	0	?
 1890	51_fish	FISH	LencaHonduras	Lenca-Honduras	sua	sua	s u a	lenc1243	227	13.67	-88.11		0	0	?
 1891	51_fish	FISH	Cacaopera	Cacaopera	jal	jal	j a l	caca1247	227	13.74	-88.11		0	0	?
 1892	51_fish	FISH	Mayangna	Mayangna	was padini	was padini	w a s + p a d i n i	maya1285	227	14.13	-84.34		0	0	?
@@ -845,14 +845,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1904	51_fish	FISH	Dorasque	Dorasque	kisi	kisi	k i s i	dora1242	227	8.567442	-82.375717		0	0	?
 1905	51_fish	FISH	SanBlasKuna	San Blas Kuna	ua	ua	u a	sanb1242	227	9.15686	-78.3075		0	0	?
 1906	51_fish	FISH	Cogui	Cogui	ũa	ũa	ũ a	cogu1240	227	10.9485	-73.8043		0	0	?
-1907	51_fish	FISH	Arhuaco	Arhuaco	'wakɨ	'wakɨ	w a k ɨ	arhu1242	227	10.7018	-73.6363		0	0	?
+1907	51_fish	FISH	Arhuaco	Arhuaco	'wakɨ	'wakɨ	'w/w a k ɨ	arhu1242	227	10.7018	-73.6363		0	0	?
 1908	51_fish	FISH	Malayo	Malayo	waka	waka	w a k a	mala1522	227	10.9286	-73.4056		0	0	?
 1909	51_fish	FISH	Chimila	Chimila	wa:ŋgɾa:ʔ	wa:ŋgɾa:ʔ	w a: ŋ g ɾ a: ʔ	chim1309	227	10.1902	-74.2559		0	0	?
 1910	51_fish	FISH	Chibcha	Chibcha	ɣua	ɣua	ɣ u a	chib1270	227	6.24999	-74.1666		0	0	?
-1911	51_fish	FISH	CentralTunebo	Central Tunebo	'ɾiʔ 'ɾuwa	'ɾiʔ 'ɾuwa	ɾ i ʔ + ɾ u w a	cent2150	227	6.8867	-72.097		0	0	?
+1911	51_fish	FISH	CentralTunebo	Central Tunebo	'ɾiʔ 'ɾuwa	'ɾiʔ 'ɾuwa	'ɾ/ɾ i ʔ + 'ɾ/ɾ u w a	cent2150	227	6.8867	-72.097		0	0	?
 1912	51_fish	FISH	Bari	Barí	tai.	tai.	t a i	bari1297	227	9.08497	-72.9353		0	0	?
 #
-505	33_five	FIVE	LencaSalvador	Lenca-Salvador	ts'aj	ts'aj	t s a j	lenc1242	493	13.56	-87.5		0	0	?
+505	33_five	FIVE	LencaSalvador	Lenca-Salvador	ts'aj	ts'aj	t s 'a/a j	lenc1242	493	13.56	-87.5		0	0	?
 506	33_five	FIVE	LencaHonduras	Lenca-Honduras	saj	saj	s a j	lenc1243	493	13.67	-88.11		0	0	?
 507	33_five	FIVE	Cacaopera	Cacaopera	dukan panaka	dukan panaka	d u k a n + p a n a k a	caca1247	493	13.74	-88.11		0	0	?
 508	33_five	FIVE	Mayangna	Mayangna	sinka	sinka	s i n k a	maya1285	493	14.13	-84.34		0	0	?
@@ -869,12 +869,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 519	33_five	FIVE	Buglere	Buglere	tiga	tiga	t i g a	bugl1243	493	8.57695	-81.25648		0	0	?
 520	33_five	FIVE	Dorasque	Dorasque	male	male	m a l e	dora1242	493	8.567442	-82.375717		0	0	?
 521	33_five	FIVE	SanBlasKuna	San Blas Kuna	attale	attale	a t t a l e	sanb1242	493	9.15686	-78.3075		0	0	?
-522	33_five	FIVE	Cogui	Cogui	ha'tʃigua	ha'tʃigua	h a tʃ i g u a	cogu1240	493	10.9485	-73.8043		0	0	?
-523	33_five	FIVE	Arhuaco	Arhuaco	a'sewa	a'sewa	a s e w a	arhu1242	493	10.7018	-73.6363		0	0	?
+522	33_five	FIVE	Cogui	Cogui	ha'tʃigua	ha'tʃigua	h a 't/t ʃ i g u a	cogu1240	493	10.9485	-73.8043		0	0	?
+523	33_five	FIVE	Arhuaco	Arhuaco	a'sewa	a'sewa	a 's/s e w a	arhu1242	493	10.7018	-73.6363		0	0	?
 524	33_five	FIVE	Malayo	Malayo	əhtʃigua	əhtʃigua	ə h tʃ i g u a	mala1522	493	10.9286	-73.4056		0	0	?
 525	33_five	FIVE	Chimila	Chimila	dʒe:mekenta	dʒe:mekenta	dʒ e: m e k e n t a	chim1309	493	10.1902	-74.2559		0	0	?
 526	33_five	FIVE	Chibcha	Chibcha	hɨtska	hɨtska	h ɨ t s k a	chib1270	493	6.24999	-74.1666		0	0	?
-527	33_five	FIVE	CentralTunebo	Central Tunebo	e'sia	e'sia	e s i a	cent2150	493	6.8867	-72.097		0	0	?
+527	33_five	FIVE	CentralTunebo	Central Tunebo	e'sia	e'sia	e 's/s i a	cent2150	493	6.8867	-72.097		0	0	?
 528	33_five	FIVE	Bari	Barí	koba	koba	k o b a	bari1297	493	9.08497	-72.9353		0	0	?
 #
 1985	95_flea	FLEA	LencaSalvador	Lenca-Salvador	tem	tem	t e m	lenc1242	232	13.56	-87.5		0	0	?
@@ -894,12 +894,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1999	95_flea	FLEA	Buglere	Buglere	kũ	kũ	k ũ	bugl1243	232	8.57695	-81.25648		0	0	?
 2000	95_flea	FLEA	Dorasque	Dorasque	kũ	kũ	k ũ	dora1242	232	8.567442	-82.375717		0	0	?
 2001	95_flea	FLEA	SanBlasKuna	San Blas Kuna	ku:	ku:	k u:	sanb1242	232	9.15686	-78.3075		0	0	?
-2002	95_flea	FLEA	Cogui	Cogui	ku'i	ku'i	k u i	cogu1240	232	10.9485	-73.8043		0	0	?
+2002	95_flea	FLEA	Cogui	Cogui	ku'i	ku'i	k u 'i/i	cogu1240	232	10.9485	-73.8043		0	0	?
 2003	95_flea	FLEA	Arhuaco	Arhuaco	ku	ku	k u	arhu1242	232	10.7018	-73.6363		0	0	?
 2004	95_flea	FLEA	Malayo	Malayo	sanze	sanze	s a n z e	mala1522	232	10.9286	-73.4056		0	0	?
 2005	95_flea	FLEA	Chimila	Chimila	ku:	ku:	k u:	chim1309	232	10.1902	-74.2559		0	0	?
 2006	95_flea	FLEA	Chibcha	Chibcha	kue	kue	k u e	chib1270	232	6.24999	-74.1666		0	0	?
-2007	95_flea	FLEA	CentralTunebo	Central Tunebo	'kuɾia	'kuɾia	k u ɾ i a	cent2150	232	6.8867	-72.097		0	0	?
+2007	95_flea	FLEA	CentralTunebo	Central Tunebo	'kuɾia	'kuɾia	'k/k u ɾ i a	cent2150	232	6.8867	-72.097		0	0	?
 2008	95_flea	FLEA	Bari	Barí	ku	ku	k u	bari1297	232	9.08497	-72.9353		0	0	?
 #
 887	8_flower	FLOWER	LencaSalvador	Lenca-Salvador	ʃila	ʃila	ʃ i l a	lenc1242	239	13.56	-87.5		0	0	?
@@ -919,17 +919,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 901	8_flower	FLOWER	Buglere	Buglere	hɾa	hɾa	h ɾ a	bugl1243	239	8.57695	-81.25648		0	0	?
 902	8_flower	FLOWER	Dorasque	Dorasque	shii	shii	s h i i	dora1242	239	8.567442	-82.375717		0	0	?
 903	8_flower	FLOWER	SanBlasKuna	San Blas Kuna	tuttu	tuttu	t u t t u	sanb1242	239	9.15686	-78.3075		0	0	?
-904	8_flower	FLOWER	Cogui	Cogui	'humʃi	'humʃi	h u m ʃ i	cogu1240	239	10.9485	-73.8043		0	0	?
-905	8_flower	FLOWER	Arhuaco	Arhuaco	tin'sana	tin'sana	t i n s a n a	arhu1242	239	10.7018	-73.6363		0	0	?
+904	8_flower	FLOWER	Cogui	Cogui	'humʃi	'humʃi	'h/h u m ʃ i	cogu1240	239	10.9485	-73.8043		0	0	?
+905	8_flower	FLOWER	Arhuaco	Arhuaco	tin'sana	tin'sana	t i n 's/s a n a	arhu1242	239	10.7018	-73.6363		0	0	?
 906	8_flower	FLOWER	Malayo	Malayo	ʃoma	ʃoma	ʃ o m a	mala1522	239	10.9286	-73.4056		0	0	?
-907	8_flower	FLOWER	Chimila	Chimila	'kusaŋgɾa	'kusaŋgɾa	k u s a ŋ g ɾ a	chim1309	239	10.1902	-74.2559		0	0	?
+907	8_flower	FLOWER	Chimila	Chimila	'kusaŋgɾa	'kusaŋgɾa	'k/k u s a ŋ g ɾ a	chim1309	239	10.1902	-74.2559		0	0	?
 908	8_flower	FLOWER	Chibcha	Chibcha	uβa	uβa	u β a	chib1270	239	6.24999	-74.1666		0	0	?
-909	8_flower	FLOWER	CentralTunebo	Central Tunebo	'suwa	'suwa	s u w a	cent2150	239	6.8867	-72.097		0	0	?
+909	8_flower	FLOWER	CentralTunebo	Central Tunebo	'suwa	'suwa	's/s u w a	cent2150	239	6.8867	-72.097		0	0	?
 910	8_flower	FLOWER	Bari	Barí	sũdũ	sũdũ	s ũ d ũ	bari1297	239	9.08497	-72.9353		0	0	?
 #
 1913	26_foot	FOOT	LencaSalvador	Lenca-Salvador	waʃaka	waʃaka	w a ʃ a k a	lenc1242	1301	13.56	-87.5		0	0	?
 1914	26_foot	FOOT	LencaHonduras	Lenca-Honduras	gwal	gwal	g w a l	lenc1243	1301	13.67	-88.11		0	0	?
-1915	26_foot	FOOT	Cacaopera	Cacaopera	si'lin	si'lin	s i l i n	caca1247	1301	13.74	-88.11		0	0	?
+1915	26_foot	FOOT	Cacaopera	Cacaopera	si'lin	si'lin	s i 'l/l i n	caca1247	1301	13.74	-88.11		0	0	?
 1916	26_foot	FOOT	Mayangna	Mayangna	kal	kal	k a l	maya1285	1301	14.13	-84.34		0	0	?
 1917	26_foot	FOOT	Ulwa	Ulwa	kal	kal	k a l	ulwa1239	1301	12.93	-83.58		0	0	?
 1918	26_foot	FOOT	Miskito	Mískito	mina	mina	m i n a	misk1239	1301	15.16	-84.29		0	0	?
@@ -945,11 +945,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1928	26_foot	FOOT	Dorasque	Dorasque	ser	ser	s e r	dora1242	1301	8.567442	-82.375717		0	0	?
 1929	26_foot	FOOT	SanBlasKuna	San Blas Kuna	naka	naka	n a k a	sanb1242	1301	9.15686	-78.3075		0	0	?
 1930	26_foot	FOOT	Cogui	Cogui	kasa	kasa	k a s a	cogu1240	1301	10.9485	-73.8043		0	0	?
-1931	26_foot	FOOT	Arhuaco	Arhuaco	'kəttɨ	'kəttɨ	k ə t t ɨ	arhu1242	1301	10.7018	-73.6363		0	0	?
-1932	26_foot	FOOT	Malayo	Malayo	kɨ'sa	kɨ'sa	k ɨ s a	mala1522	1301	10.9286	-73.4056		0	0	?
+1931	26_foot	FOOT	Arhuaco	Arhuaco	'kəttɨ	'kəttɨ	'k/k ə t t ɨ	arhu1242	1301	10.7018	-73.6363		0	0	?
+1932	26_foot	FOOT	Malayo	Malayo	kɨ'sa	kɨ'sa	k ɨ 's/s a	mala1522	1301	10.9286	-73.4056		0	0	?
 1933	26_foot	FOOT	Chimila	Chimila	ka:sa	ka:sa	k a: s a	chim1309	1301	10.1902	-74.2559		0	0	?
 1934	26_foot	FOOT	Chibcha	Chibcha	kihitʲa	kihitʲa	k i h i tʲ a	chib1270	1301	6.24999	-74.1666		0	0	?
-1935	26_foot	FOOT	CentralTunebo	Central Tunebo	'kesa	'kesa	k e s a	cent2150	1301	6.8867	-72.097		0	0	?
+1935	26_foot	FOOT	CentralTunebo	Central Tunebo	'kesa	'kesa	'k/k e s a	cent2150	1301	6.8867	-72.097		0	0	?
 1936	26_foot	FOOT	Bari	Barí	kihtu:	kihtu:	k i h t u:	bari1297	1301	9.08497	-72.9353		0	0	?
 #
 241	52_forest	FOREST	LencaSalvador	Lenca-Salvador	kotaN	kotaN	k o t a n	lenc1242	420	13.56	-87.5		0	0	?
@@ -969,12 +969,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 255	52_forest	FOREST	Buglere	Buglere	glínaŋa	glínaŋa	g l í/i n a ŋ a	bugl1243	420	8.57695	-81.25648		0	0	?
 256	52_forest	FOREST	Dorasque	Dorasque	kalkalgó	kalkalgó	k a l k a l g ó/o	dora1242	420	8.567442	-82.375717		0	0	?
 257	52_forest	FOREST	SanBlasKuna	San Blas Kuna	sappuɾu	sappuɾu	s a p p u ɾ u	sanb1242	420	9.15686	-78.3075		0	0	?
-258	52_forest	FOREST	Cogui	Cogui	kal'kala	kal'kala	k a l k a l a	cogu1240	420	10.9485	-73.8043		0	0	?
-259	52_forest	FOREST	Arhuaco	Arhuaco	'kənkəni	'kənkəni	k ə n k ə n i	arhu1242	420	10.7018	-73.6363		0	0	?
+258	52_forest	FOREST	Cogui	Cogui	kal'kala	kal'kala	k a l 'k/k a l a	cogu1240	420	10.9485	-73.8043		0	0	?
+259	52_forest	FOREST	Arhuaco	Arhuaco	'kənkəni	'kənkəni	'k/k ə n k ə n i	arhu1242	420	10.7018	-73.6363		0	0	?
 260	52_forest	FOREST	Malayo	Malayo	kɨnkɨna	kɨnkɨna	k ɨ n k ɨ n a	mala1522	420	10.9286	-73.4056		0	0	?
 261	52_forest	FOREST	Chimila	Chimila	ɾuhŋa	ɾuhŋa	ɾ u h ŋ a	chim1309	420	10.1902	-74.2559		0	0	?
 262	52_forest	FOREST	Chibcha	Chibcha	kɨe	kɨe	k ɨ e	chib1270	420	6.24999	-74.1666		0	0	?
-263	52_forest	FOREST	CentralTunebo	Central Tunebo	'bowaɾa	'bowaɾa	b o w a ɾ a	cent2150	420	6.8867	-72.097		0	0	?
+263	52_forest	FOREST	CentralTunebo	Central Tunebo	'bowaɾa	'bowaɾa	'b/b o w a ɾ a	cent2150	420	6.8867	-72.097		0	0	?
 264	52_forest	FOREST	Bari	Barí	kaikbé	kaikbé	k a i k b é/e	bari1297	420	9.08497	-72.9353		0	0	?
 #
 649	83_four	FOUR	LencaSalvador	Lenca-Salvador	sa	sa	s a	lenc1242	1500	13.56	-87.5		0	0	?
@@ -994,12 +994,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 663	83_four	FOUR	Buglere	Buglere	baga	baga	b a g a	bugl1243	1500	8.57695	-81.25648		0	0	?
 664	83_four	FOUR	Dorasque	Dorasque	paka	paka	p a k a	dora1242	1500	8.567442	-82.375717		0	0	?
 665	83_four	FOUR	SanBlasKuna	San Blas Kuna	pakke	pakke	p a k k e	sanb1242	1500	9.15686	-78.3075		0	0	?
-666	83_four	FOUR	Cogui	Cogui	ma'keua	ma'keua	m a k e u a	cogu1240	1500	10.9485	-73.8043		0	0	?
-667	83_four	FOUR	Arhuaco	Arhuaco	maʔ'keiwa	maʔ'keiwa	m a ʔ k e i w a	arhu1242	1500	10.7018	-73.6363		0	0	?
+666	83_four	FOUR	Cogui	Cogui	ma'keua	ma'keua	m a 'k/k e u a	cogu1240	1500	10.9485	-73.8043		0	0	?
+667	83_four	FOUR	Arhuaco	Arhuaco	maʔ'keiwa	maʔ'keiwa	m a ʔ 'k/k e i w a	arhu1242	1500	10.7018	-73.6363		0	0	?
 668	83_four	FOUR	Malayo	Malayo	makegwa	makegwa	m a k e g w a	mala1522	1500	10.9286	-73.4056		0	0	?
 669	83_four	FOUR	Chimila	Chimila	bridʒeʔe	bridʒeʔe	b r i dʒ e ʔ e	chim1309	1500	10.1902	-74.2559		0	0	?
 670	83_four	FOUR	Chibcha	Chibcha	mɨhɨka	mɨhɨka	m ɨ h ɨ k a	chib1270	1500	6.24999	-74.1666		0	0	?
-671	83_four	FOUR	CentralTunebo	Central Tunebo	ba'kaja	ba'kaja	b a k a j a	cent2150	1500	6.8867	-72.097		0	0	?
+671	83_four	FOUR	CentralTunebo	Central Tunebo	ba'kaja	ba'kaja	b a 'k/k a j a	cent2150	1500	6.8867	-72.097		0	0	?
 672	83_four	FOUR	Bari	Barí	asanikdãɪ̃	asanikdãɪ̃	a s a n i k d ã ɪ̃	bari1297	1500	9.08497	-72.9353		0	0	?
 #
 697	73_give	GIVE	LencaSalvador	Lenca-Salvador	mik	mik	m i k	lenc1242	1447	13.56	-87.5		0	0	?
@@ -1019,12 +1019,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 711	73_give	GIVE	Buglere	Buglere	kete	kete	k e t e	bugl1243	1447	8.57695	-81.25648		0	0	?
 712	73_give	GIVE	Dorasque	Dorasque	do	do	d o	dora1242	1447	8.567442	-82.375717		0	0	?
 713	73_give	GIVE	SanBlasKuna	San Blas Kuna	ukke	ukke	u k k e	sanb1242	1447	9.15686	-78.3075		0	0	?
-714	73_give	GIVE	Cogui	Cogui	a'kau	a'kau	a k a u	cogu1240	1447	10.9485	-73.8043		0	0	?
-715	73_give	GIVE	Arhuaco	Arhuaco	aʔ'wes	aʔ'wes	a ʔ w e s	arhu1242	1447	10.7018	-73.6363		0	0	?
+714	73_give	GIVE	Cogui	Cogui	a'kau	a'kau	a 'k/k a u	cogu1240	1447	10.9485	-73.8043		0	0	?
+715	73_give	GIVE	Arhuaco	Arhuaco	aʔ'wes	aʔ'wes	a ʔ 'w/w e s	arhu1242	1447	10.7018	-73.6363		0	0	?
 716	73_give	GIVE	Malayo	Malayo	akau	akau	a k a u	mala1522	1447	10.9286	-73.4056		0	0	?
 717	73_give	GIVE	Chimila	Chimila	seʔdʒdʒaʔ	seʔdʒdʒaʔ	s e ʔ dʒ dʒ a ʔ	chim1309	1447	10.1902	-74.2559		0	0	?
 718	73_give	GIVE	Chibcha	Chibcha	nɨ	nɨ	n ɨ	chib1270	1447	6.24999	-74.1666		0	0	?
-719	73_give	GIVE	CentralTunebo	Central Tunebo	'wik	'wik	w i k	cent2150	1447	6.8867	-72.097		0	0	?
+719	73_give	GIVE	CentralTunebo	Central Tunebo	'wik	'wik	'w/w i k	cent2150	1447	6.8867	-72.097		0	0	?
 720	73_give	GIVE	Bari	Barí	ina	ina	i n a	bari1297	1447	9.08497	-72.9353		0	0	?
 #
 265	15_good	GOOD	LencaSalvador	Lenca-Salvador	ʃam	ʃam	ʃ a m	lenc1242	1035	13.56	-87.5		0	0	?
@@ -1044,15 +1044,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 279	15_good	GOOD	Buglere	Buglere	no	no	n o	bugl1243	1035	8.57695	-81.25648		0	0	?
 280	15_good	GOOD	Dorasque	Dorasque	apé	apé	a p é/e	dora1242	1035	8.567442	-82.375717		0	0	?
 281	15_good	GOOD	SanBlasKuna	San Blas Kuna	nueti	nueti	n u e t i	sanb1242	1035	9.15686	-78.3075		0	0	?
-282	15_good	GOOD	Cogui	Cogui	hantʃi'dʒe	hantʃi'dʒe	h a n tʃ i dʒ e	cogu1240	1035	10.9485	-73.8043		0	0	?
+282	15_good	GOOD	Cogui	Cogui	hantʃi'dʒe	hantʃi'dʒe	h a n tʃ i 'd/d ʒ e	cogu1240	1035	10.9485	-73.8043		0	0	?
 283	15_good	GOOD	Arhuaco	Arhuaco	du kawa	du kawa	d u + k a w a	arhu1242	1035	10.7018	-73.6363		0	0	?
-284	15_good	GOOD	Malayo	Malayo	ʒi'koka	ʒi'koka	ʒ i k o k a	mala1522	1035	10.9286	-73.4056		0	0	?
+284	15_good	GOOD	Malayo	Malayo	ʒi'koka	ʒi'koka	ʒ i 'k/k o k a	mala1522	1035	10.9286	-73.4056		0	0	?
 285	15_good	GOOD	Chimila	Chimila	be: ŋatte	be: ŋatte	b e: + ŋ a t t e	chim1309	1035	10.1902	-74.2559		0	0	?
 286	15_good	GOOD	Chibcha	Chibcha	tʲo	tʲo	tʲ o	chib1270	1035	6.24999	-74.1666		0	0	?
-287	15_good	GOOD	CentralTunebo	Central Tunebo	'aj	'aj	a j	cent2150	1035	6.8867	-72.097		0	0	?
+287	15_good	GOOD	CentralTunebo	Central Tunebo	'aj	'aj	'a/a j	cent2150	1035	6.8867	-72.097		0	0	?
 288	15_good	GOOD	Bari	Barí	sabãĩnĩ	sabãĩnĩ	s a b ã ĩ n ĩ	bari1297	1035	9.08497	-72.9353		0	0	?
 #
-2512	4_green	GREEN	LencaSalvador	Lenca-Salvador	ts'ahjaN	ts'ahjaN	t s a h j a n	lenc1242	1425	13.56	-87.5		0	0	?
+2512	4_green	GREEN	LencaSalvador	Lenca-Salvador	ts'ahjaN	ts'ahjaN	t s 'a/a h j a n	lenc1242	1425	13.56	-87.5		0	0	?
 2513	4_green	GREEN	LencaHonduras	Lenca-Honduras	siga	siga	s i g a	lenc1243	1425	13.67	-88.11		0	0	?
 2514	4_green	GREEN	Cacaopera	Cacaopera	sasaka	sasaka	s a s a k a	caca1247	1425	13.74	-88.11		0	0	?
 2515	4_green	GREEN	Mayangna	Mayangna	saŋni	saŋni	s a ŋ n i	maya1285	1425	14.13	-84.34		0	0	?
@@ -1069,12 +1069,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2526	4_green	GREEN	Buglere	Buglere	leɾeɾe	leɾeɾe	l e ɾ e ɾ e	bugl1243	1425	8.57695	-81.25648		0	0	?
 2527	4_green	GREEN	Dorasque	Dorasque	yíama	yíama	y í/i a m a	dora1242	1425	8.567442	-82.375717		0	0	?
 2528	4_green	GREEN	SanBlasKuna	San Blas Kuna	aɾati	aɾati	a ɾ a t i	sanb1242	1425	9.15686	-78.3075		0	0	?
-2529	4_green	GREEN	Cogui	Cogui	a'taʃi	a'taʃi	a t a ʃ i	cogu1240	1425	10.9485	-73.8043		0	0	?
-2530	4_green	GREEN	Arhuaco	Arhuaco	'tʃiki'ɾuɾu	'tʃiki'ɾuɾu	tʃ i k i ɾ u ɾ u	arhu1242	1425	10.7018	-73.6363		0	0	?
-2531	4_green	GREEN	Malayo	Malayo	'itiki	'itiki	i t i k i	mala1522	1425	10.9286	-73.4056		0	0	?
-2532	4_green	GREEN	Chimila	Chimila	'ka:ɾasah	'ka:ɾasah	k a: ɾ a s a h	chim1309	1425	10.1902	-74.2559		0	0	?
+2529	4_green	GREEN	Cogui	Cogui	a'taʃi	a'taʃi	a 't/t a ʃ i	cogu1240	1425	10.9485	-73.8043		0	0	?
+2530	4_green	GREEN	Arhuaco	Arhuaco	'tʃiki'ɾuɾu	'tʃiki'ɾuɾu	't/t ʃ i k i 'ɾ/ɾ u ɾ u	arhu1242	1425	10.7018	-73.6363		0	0	?
+2531	4_green	GREEN	Malayo	Malayo	'itiki	'itiki	'i/i t i k i	mala1522	1425	10.9286	-73.4056		0	0	?
+2532	4_green	GREEN	Chimila	Chimila	'ka:ɾasah	'ka:ɾasah	'k/k a: ɾ a s a h	chim1309	1425	10.1902	-74.2559		0	0	?
 2533	4_green	GREEN	Chibcha	Chibcha	tʲɨskiko	tʲɨskiko	tʲ ɨ s k i k o	chib1270	1425	6.24999	-74.1666		0	0	?
-2534	4_green	GREEN	CentralTunebo	Central Tunebo	ti'kaja	ti'kaja	t i k a j a	cent2150	1425	6.8867	-72.097		0	0	?
+2534	4_green	GREEN	CentralTunebo	Central Tunebo	ti'kaja	ti'kaja	t i 'k/k a j a	cent2150	1425	6.8867	-72.097		0	0	?
 2535	4_green	GREEN	Bari	Barí	binaikana	binaikana	b i n a i k a n a	bari1297	1425	9.08497	-72.9353		0	0	?
 #
 2369	65_guts	GUTS	LencaSalvador	Lenca-Salvador	maNʃuli	maNʃuli	m a n ʃ u l i	lenc1242	1334	13.56	-87.5		0	0	?
@@ -1095,11 +1095,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2384	65_guts	GUTS	Dorasque	Dorasque	koɾegol	koɾegol	k o ɾ e g o l	dora1242	1334	8.567442	-82.375717		0	0	?
 2385	65_guts	GUTS	SanBlasKuna	San Blas Kuna	saki	saki	s a k i	sanb1242	1334	9.15686	-78.3075		0	0	?
 2386	65_guts	GUTS	Cogui	Cogui	ganukʃiʒa	ganukʃiʒa	g a n u k ʃ i ʒ a	cogu1240	1334	10.9485	-73.8043		0	0	?
-2387	65_guts	GUTS	Arhuaco	Arhuaco	ga'siɾo	ga'siɾo	g a s i ɾ o	arhu1242	1334	10.7018	-73.6363		0	0	?
+2387	65_guts	GUTS	Arhuaco	Arhuaco	ga'siɾo	ga'siɾo	g a 's/s i ɾ o	arhu1242	1334	10.7018	-73.6363		0	0	?
 2388	65_guts	GUTS	Malayo	Malayo	gaʒina	gaʒina	g a ʒ i n a	mala1522	1334	10.9286	-73.4056		0	0	?
-2389	65_guts	GUTS	Chimila	Chimila	'kutti 'kwe:ɾiniʔ	'kutti 'kwe:ɾiniʔ	k u t t i + k w e: ɾ i n i ʔ	chim1309	1334	10.1902	-74.2559		0	0	?
+2389	65_guts	GUTS	Chimila	Chimila	'kutti 'kwe:ɾiniʔ	'kutti 'kwe:ɾiniʔ	'k/k u t t i + 'k/k w e: ɾ i n i ʔ	chim1309	1334	10.1902	-74.2559		0	0	?
 2390	65_guts	GUTS	Chibcha	Chibcha	tsimsua	tsimsua	t s i m s u a	chib1270	1334	6.24999	-74.1666		0	0	?
-2391	65_guts	GUTS	CentralTunebo	Central Tunebo	buk'ʃiɾa	buk'ʃiɾa	b u k ʃ i ɾ a	cent2150	1334	6.8867	-72.097		0	0	?
+2391	65_guts	GUTS	CentralTunebo	Central Tunebo	buk'ʃiɾa	buk'ʃiɾa	b u k 'ʃ/ʃ i ɾ a	cent2150	1334	6.8867	-72.097		0	0	?
 2392	65_guts	GUTS	Bari	Barí	a:si	a:si	a: s i	bari1297	1334	9.08497	-72.9353		0	0	?
 #
 289	96_hair	HAIR	LencaSalvador	Lenca-Salvador	alah	alah	a l a h	lenc1242	1040	13.56	-87.5		0	0	?
@@ -1119,12 +1119,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 303	96_hair	HAIR	Buglere	Buglere	tʃugaga	tʃugaga	tʃ u g a g a	bugl1243	1040	8.57695	-81.25648		0	0	?
 304	96_hair	HAIR	Dorasque	Dorasque	ogá	ogá	o g á/a	dora1242	1040	8.567442	-82.375717		0	0	?
 305	96_hair	HAIR	SanBlasKuna	San Blas Kuna	saila	saila	s a i l a	sanb1242	1040	9.15686	-78.3075		0	0	?
-306	96_hair	HAIR	Cogui	Cogui	'sãĩ	'sãĩ	s ã ĩ	cogu1240	1040	10.9485	-73.8043		0	0	?
-307	96_hair	HAIR	Arhuaco	Arhuaco	'sagənɨ	'sagənɨ	s a g ə n ɨ	arhu1242	1040	10.7018	-73.6363		0	0	?
+306	96_hair	HAIR	Cogui	Cogui	'sãĩ	'sãĩ	's/s ã ĩ	cogu1240	1040	10.9485	-73.8043		0	0	?
+307	96_hair	HAIR	Arhuaco	Arhuaco	'sagənɨ	'sagənɨ	's/s a g ə n ɨ	arhu1242	1040	10.7018	-73.6363		0	0	?
 308	96_hair	HAIR	Malayo	Malayo	ʃa	ʃa	ʃ a	mala1522	1040	10.9286	-73.4056		0	0	?
-309	96_hair	HAIR	Chimila	Chimila	'a	'a	a	chim1309	1040	10.1902	-74.2559		0	0	?
+309	96_hair	HAIR	Chimila	Chimila	'a	'a	'a/a	chim1309	1040	10.1902	-74.2559		0	0	?
 310	96_hair	HAIR	Chibcha	Chibcha	tsɨe	tsɨe	t s ɨ e	chib1270	1040	6.24999	-74.1666		0	0	?
-311	96_hair	HAIR	CentralTunebo	Central Tunebo	ana'ɾa	ana'ɾa	a n a ɾ a	cent2150	1040	6.8867	-72.097		0	0	?
+311	96_hair	HAIR	CentralTunebo	Central Tunebo	ana'ɾa	ana'ɾa	a n a 'ɾ/ɾ a	cent2150	1040	6.8867	-72.097		0	0	?
 312	96_hair	HAIR	Bari	Barí	kã:tũ	kã:tũ	k ã: t ũ	bari1297	1040	9.08497	-72.9353		0	0	?
 #
 1389	40_hand	HAND	LencaSalvador	Lenca-Salvador	koʃaka	koʃaka	k o ʃ a k a	lenc1242	1277	13.56	-87.5		0	0	?
@@ -1144,18 +1144,18 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1403	40_hand	HAND	Buglere	Buglere	ko	ko	k o	bugl1243	1277	8.57695	-81.25648		0	0	?
 1404	40_hand	HAND	Dorasque	Dorasque	kul	kul	k u l	dora1242	1277	8.567442	-82.375717		0	0	?
 1405	40_hand	HAND	SanBlasKuna	San Blas Kuna	aɾkan	aɾkan	a ɾ k a n	sanb1242	1277	9.15686	-78.3075		0	0	?
-1406	40_hand	HAND	Cogui	Cogui	'kokala	'kokala	k o k a l a	cogu1240	1277	10.9485	-73.8043		0	0	?
-1407	40_hand	HAND	Arhuaco	Arhuaco	'gunnɨ	'gunnɨ	g u n n ɨ	arhu1242	1277	10.7018	-73.6363		0	0	?
-1408	40_hand	HAND	Malayo	Malayo	'gula	'gula	g u l a	mala1522	1277	10.9286	-73.4056		0	0	?
+1406	40_hand	HAND	Cogui	Cogui	'kokala	'kokala	'k/k o k a l a	cogu1240	1277	10.9485	-73.8043		0	0	?
+1407	40_hand	HAND	Arhuaco	Arhuaco	'gunnɨ	'gunnɨ	'g/g u n n ɨ	arhu1242	1277	10.7018	-73.6363		0	0	?
+1408	40_hand	HAND	Malayo	Malayo	'gula	'gula	'g/g u l a	mala1522	1277	10.9286	-73.4056		0	0	?
 1409	40_hand	HAND	Atanque	Atanque	gúna	gúna	g ú/u n a	kank1244	1277	10.750207	-73.357544		0	0	?
 1410	40_hand	HAND	Chimila	Chimila	hattakɾa	hattakɾa	h a t t a k ɾ a	chim1309	1277	10.1902	-74.2559		0	0	?
 1411	40_hand	HAND	Chibcha	Chibcha	ɨta	ɨta	ɨ t a	chib1270	1277	6.24999	-74.1666		0	0	?
-1412	40_hand	HAND	CentralTunebo	Central Tunebo	'atkaɾa	'atkaɾa	a t k a ɾ a	cent2150	1277	6.8867	-72.097		0	0	?
+1412	40_hand	HAND	CentralTunebo	Central Tunebo	'atkaɾa	'atkaɾa	'a/a t k a ɾ a	cent2150	1277	6.8867	-72.097		0	0	?
 1413	40_hand	HAND	Bari	Barí	akdu	akdu	a k d u	bari1297	1277	9.08497	-72.9353		0	0	?
 #
 816	61_he	HE	LencaSalvador	Lenca-Salvador	inani	inani	i n a n i	lenc1242	1211	13.56	-87.5		0	0	?
 817	61_he	HE	LencaHonduras	Lenca-Honduras	inan	inan	i n a n	lenc1243	1211	13.67	-88.11		0	0	?
-818	61_he	HE	Cacaopera	Cacaopera	'karahi	'karahi	k a r a h i	caca1247	1211	13.74	-88.11		0	0	?
+818	61_he	HE	Cacaopera	Cacaopera	'karahi	'karahi	'k/k a r a h i	caca1247	1211	13.74	-88.11		0	0	?
 819	61_he	HE	Mayangna	Mayangna	witiŋ	witiŋ	w i t i ŋ	maya1285	1211	14.13	-84.34		0	0	?
 820	61_he	HE	Ulwa	Ulwa	alas	alas	a l a s	ulwa1239	1211	12.93	-83.58		0	0	?
 821	61_he	HE	Miskito	Mískito	witin	witin	w i t i n	misk1239	1211	15.16	-84.29		0	0	?
@@ -1170,12 +1170,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 830	61_he	HE	Buglere	Buglere	ama	ama	a m a	bugl1243	1211	8.57695	-81.25648		0	0	?
 831	61_he	HE	Dorasque	Dorasque	kúi	kúi	k ú/u i	dora1242	1211	8.567442	-82.375717		0	0	?
 832	61_he	HE	SanBlasKuna	San Blas Kuna	itti	itti	i t t i	sanb1242	1211	9.15686	-78.3075		0	0	?
-833	61_he	HE	Cogui	Cogui	'ale	'ale	a l e	cogu1240	1211	10.9485	-73.8043		0	0	?
+833	61_he	HE	Cogui	Cogui	'ale	'ale	'a/a l e	cogu1240	1211	10.9485	-73.8043		0	0	?
 834	61_he	HE	Arhuaco	Arhuaco	a	a	a	arhu1242	1211	10.7018	-73.6363		0	0	?
 835	61_he	HE	Malayo	Malayo	na	na	n a	mala1522	1211	10.9286	-73.4056		0	0	?
 836	61_he	HE	Chimila	Chimila	noggwe	noggwe	n o g g w e	chim1309	1211	10.1902	-74.2559		0	0	?
 837	61_he	HE	Chibcha	Chibcha	asɨ	asɨ	a s ɨ	chib1270	1211	6.24999	-74.1666		0	0	?
-838	61_he	HE	CentralTunebo	Central Tunebo	'eja	'eja	e j a	cent2150	1211	6.8867	-72.097		0	0	?
+838	61_he	HE	CentralTunebo	Central Tunebo	'eja	'eja	'e/e j a	cent2150	1211	6.8867	-72.097		0	0	?
 839	61_he	HE	Bari	Barí	obãĩ́	obãĩ́	o b ã ĩ́/ĩ	bari1297	1211	9.08497	-72.9353		0	0	?
 #
 313	104_head	HEAD	LencaSalvador	Lenca-Salvador	oso	oso	o s o	lenc1242	1256	13.56	-87.5		0	0	?
@@ -1195,12 +1195,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 327	104_head	HEAD	Buglere	Buglere	tʃuga	tʃuga	tʃ u g a	bugl1243	1256	8.57695	-81.25648		0	0	?
 328	104_head	HEAD	Dorasque	Dorasque	dukú	dukú	d u k ú/u	dora1242	1256	8.567442	-82.375717		0	0	?
 329	104_head	HEAD	SanBlasKuna	San Blas Kuna	nono	nono	n o n o	sanb1242	1256	9.15686	-78.3075		0	0	?
-330	104_head	HEAD	Cogui	Cogui	'sankala	'sankala	s a n k a l a	cogu1240	1256	10.9485	-73.8043		0	0	?
-331	104_head	HEAD	Arhuaco	Arhuaco	sa'kuku	sa'kuku	s a k u k u	arhu1242	1256	10.7018	-73.6363		0	0	?
-332	104_head	HEAD	Malayo	Malayo	ʃa'munku	ʃa'munku	ʃ a m u n k u	mala1522	1256	10.9286	-73.4056		0	0	?
+330	104_head	HEAD	Cogui	Cogui	'sankala	'sankala	's/s a n k a l a	cogu1240	1256	10.9485	-73.8043		0	0	?
+331	104_head	HEAD	Arhuaco	Arhuaco	sa'kuku	sa'kuku	s a 'k/k u k u	arhu1242	1256	10.7018	-73.6363		0	0	?
+332	104_head	HEAD	Malayo	Malayo	ʃa'munku	ʃa'munku	ʃ a 'm/m u n k u	mala1522	1256	10.9286	-73.4056		0	0	?
 333	104_head	HEAD	Chimila	Chimila	ha:kɾa	ha:kɾa	h a: k ɾ a	chim1309	1256	10.1902	-74.2559		0	0	?
 334	104_head	HEAD	Chibcha	Chibcha	tsɨskɨ	tsɨskɨ	t s ɨ s k ɨ	chib1270	1256	6.24999	-74.1666		0	0	?
-335	104_head	HEAD	CentralTunebo	Central Tunebo	'kwisa	'kwisa	k w i s a	cent2150	1256	6.8867	-72.097		0	0	?
+335	104_head	HEAD	CentralTunebo	Central Tunebo	'kwisa	'kwisa	'k/k w i s a	cent2150	1256	6.8867	-72.097		0	0	?
 336	104_head	HEAD	Bari	Barí	sa:	sa:	s a:	bari1297	1256	9.08497	-72.9353		0	0	?
 #
 1699	75_hear	HEAR	LencaSalvador	Lenca-Salvador	eni	eni	e n i	lenc1242	1408	13.56	-87.5		0	0	?
@@ -1220,15 +1220,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1713	75_hear	HEAR	Buglere	Buglere	tʃuge	tʃuge	tʃ u g e	bugl1243	1408	8.57695	-81.25648		0	0	?
 1714	75_hear	HEAR	Dorasque	Dorasque	tuktá	tuktá	t u k t á/a	dora1242	1408	8.567442	-82.375717		0	0	?
 1715	75_hear	HEAR	SanBlasKuna	San Blas Kuna	itto	itto	i t t o	sanb1242	1408	9.15686	-78.3075		0	0	?
-1716	75_hear	HEAR	Cogui	Cogui	'nuk	'nuk	n u k	cogu1240	1408	10.9485	-73.8043		0	0	?
-1717	75_hear	HEAR	Arhuaco	Arhuaco	'noʔkw	'noʔkw	n o ʔ k w	arhu1242	1408	10.7018	-73.6363		0	0	?
-1718	75_hear	HEAR	Malayo	Malayo	nɨh'kwa	nɨh'kwa	n ɨ h k w a	mala1522	1408	10.9286	-73.4056		0	0	?
+1716	75_hear	HEAR	Cogui	Cogui	'nuk	'nuk	'n/n u k	cogu1240	1408	10.9485	-73.8043		0	0	?
+1717	75_hear	HEAR	Arhuaco	Arhuaco	'noʔkw	'noʔkw	'n/n o ʔ k w	arhu1242	1408	10.7018	-73.6363		0	0	?
+1718	75_hear	HEAR	Malayo	Malayo	nɨh'kwa	nɨh'kwa	n ɨ h 'k/k w a	mala1522	1408	10.9286	-73.4056		0	0	?
 1719	75_hear	HEAR	Chimila	Chimila	nok	nok	n o k	chim1309	1408	10.1902	-74.2559		0	0	?
 1720	75_hear	HEAR	Chibcha	Chibcha	nɨpkua	nɨpkua	n ɨ p k u a	chib1270	1408	6.24999	-74.1666		0	0	?
 1721	75_hear	HEAR	CentralTunebo	Central Tunebo	ɾaʔ	ɾaʔ	ɾ a ʔ	cent2150	1408	6.8867	-72.097		0	0	?
 1722	75_hear	HEAR	Bari	Barí	ana:	ana:	a n a:	bari1297	1408	9.08497	-72.9353		0	0	?
 #
-1867	67_heavy	HEAVY	LencaSalvador	Lenca-Salvador	t'ili	t'ili	t i l i	lenc1242	1210	13.56	-87.5		0	0	?
+1867	67_heavy	HEAVY	LencaSalvador	Lenca-Salvador	t'ili	t'ili	t 'i/i l i	lenc1242	1210	13.56	-87.5		0	0	?
 1868	67_heavy	HEAVY	LencaHonduras	Lenca-Honduras	tiliba	tiliba	t i l i b a	lenc1243	1210	13.67	-88.11		0	0	?
 1869	67_heavy	HEAVY	Cacaopera	Cacaopera	wim	wim	w i m	caca1247	1210	13.74	-88.11		0	0	?
 1870	67_heavy	HEAVY	Mayangna	Mayangna	tihni	tihni	t i h n i	maya1285	1210	14.13	-84.34		0	0	?
@@ -1243,12 +1243,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1879	67_heavy	HEAVY	Ngabere	Ngäbere	dɔbɔgɔ	dɔbɔgɔ	d ɔ b ɔ g ɔ	ngab1239	1210	8.8251	-82.3911		0	0	?
 1880	67_heavy	HEAVY	Buglere	Buglere	gaba	gaba	g a b a	bugl1243	1210	8.57695	-81.25648		0	0	?
 1881	67_heavy	HEAVY	SanBlasKuna	San Blas Kuna	ukkusuli	ukkusuli	u k k u s u l i	sanb1242	1210	9.15686	-78.3075		0	0	?
-1882	67_heavy	HEAVY	Cogui	Cogui	matʃu ak'ze	matʃu ak'ze	m a tʃ u + a k z e	cogu1240	1210	10.9485	-73.8043		0	0	?
-1883	67_heavy	HEAVY	Arhuaco	Arhuaco	mɨaʔ'zɨna	mɨaʔ'zɨna	m ɨ a ʔ z ɨ n a	arhu1242	1210	10.7018	-73.6363		0	0	?
+1882	67_heavy	HEAVY	Cogui	Cogui	matʃu ak'ze	matʃu ak'ze	m a tʃ u + a k 'z/z e	cogu1240	1210	10.9485	-73.8043		0	0	?
+1883	67_heavy	HEAVY	Arhuaco	Arhuaco	mɨaʔ'zɨna	mɨaʔ'zɨna	m ɨ a ʔ 'z/z ɨ n a	arhu1242	1210	10.7018	-73.6363		0	0	?
 1884	67_heavy	HEAVY	Malayo	Malayo	gɨ anʒɨnga	gɨ anʒɨnga	g ɨ + a n ʒ ɨ n g a	mala1522	1210	10.9286	-73.4056		0	0	?
-1885	67_heavy	HEAVY	Chimila	Chimila	'dikkoʔ	'dikkoʔ	d i k k o ʔ	chim1309	1210	10.1902	-74.2559		0	0	?
+1885	67_heavy	HEAVY	Chimila	Chimila	'dikkoʔ	'dikkoʔ	'd/d i k k o ʔ	chim1309	1210	10.1902	-74.2559		0	0	?
 1886	67_heavy	HEAVY	Chibcha	Chibcha	βihitsko	βihitsko	β i h i t s k o	chib1270	1210	6.24999	-74.1666		0	0	?
-1887	67_heavy	HEAVY	CentralTunebo	Central Tunebo	si'naɾa	si'naɾa	s i n a ɾ a	cent2150	1210	6.8867	-72.097		0	0	?
+1887	67_heavy	HEAVY	CentralTunebo	Central Tunebo	si'naɾa	si'naɾa	s i 'n/n a ɾ a	cent2150	1210	6.8867	-72.097		0	0	?
 1888	67_heavy	HEAVY	Bari	Barí	a:bani.	a:bani.	a: b a n i	bari1297	1210	9.08497	-72.9353		0	0	?
 #
 959	63_hit	HIT	LencaSalvador	Lenca-Salvador	maʃ	maʃ	m a ʃ	lenc1242	1433	13.56	-87.5		0	0	?
@@ -1267,12 +1267,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 972	63_hit	HIT	Ngabere	Ngäbere	met	met	m e t	ngab1239	1433	8.8251	-82.3911		0	0	?
 973	63_hit	HIT	Buglere	Buglere	bate	bate	b a t e	bugl1243	1433	8.57695	-81.25648		0	0	?
 974	63_hit	HIT	SanBlasKuna	San Blas Kuna	saɾsoke	saɾsoke	s a ɾ s o k e	sanb1242	1433	9.15686	-78.3075		0	0	?
-975	63_hit	HIT	Cogui	Cogui	'muʃ	'muʃ	m u ʃ	cogu1240	1433	10.9485	-73.8043		0	0	?
-976	63_hit	HIT	Arhuaco	Arhuaco	agu'pəss	agu'pəss	a g u p ə s s	arhu1242	1433	10.7018	-73.6363		0	0	?
-977	63_hit	HIT	Malayo	Malayo	'paʃ	'paʃ	p a ʃ	mala1522	1433	10.9286	-73.4056		0	0	?
+975	63_hit	HIT	Cogui	Cogui	'muʃ	'muʃ	'm/m u ʃ	cogu1240	1433	10.9485	-73.8043		0	0	?
+976	63_hit	HIT	Arhuaco	Arhuaco	agu'pəss	agu'pəss	a g u 'p/p ə s s	arhu1242	1433	10.7018	-73.6363		0	0	?
+977	63_hit	HIT	Malayo	Malayo	'paʃ	'paʃ	'p/p a ʃ	mala1522	1433	10.9286	-73.4056		0	0	?
 978	63_hit	HIT	Chimila	Chimila	ha: sagɾi	ha: sagɾi	h a: + s a g ɾ i	chim1309	1433	10.1902	-74.2559		0	0	?
 979	63_hit	HIT	Chibcha	Chibcha	ɣɨi	ɣɨi	ɣ ɨ i	chib1270	1433	6.24999	-74.1666		0	0	?
-980	63_hit	HIT	CentralTunebo	Central Tunebo	bu'ki	bu'ki	b u k i	cent2150	1433	6.8867	-72.097		0	0	?
+980	63_hit	HIT	CentralTunebo	Central Tunebo	bu'ki	bu'ki	b u 'k/k i	cent2150	1433	6.8867	-72.097		0	0	?
 981	63_hit	HIT	Bari	Barí	da	da	d a	bari1297	1433	9.08497	-72.9353		0	0	?
 #
 361	79_hotorwarm	HOT OR WARM	LencaSalvador	Lenca-Salvador	aʃa	aʃa	a ʃ a	lenc1242	2272	13.56	-87.5		0	0	?
@@ -1292,12 +1292,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 375	79_hotorwarm	HOT OR WARM	Buglere	Buglere	hute	hute	h u t e	bugl1243	2272	8.57695	-81.25648		0	0	?
 376	79_hotorwarm	HOT OR WARM	Dorasque	Dorasque	ubi	ubi	u b i	dora1242	2272	8.567442	-82.375717		0	0	?
 377	79_hotorwarm	HOT OR WARM	SanBlasKuna	San Blas Kuna	ueti	ueti	u e t i	sanb1242	2272	9.15686	-78.3075		0	0	?
-378	79_hotorwarm	HOT OR WARM	Cogui	Cogui	'uanuakse	'uanuakse	u a n u a k s e	cogu1240	2272	10.9485	-73.8043		0	0	?
-379	79_hotorwarm	HOT OR WARM	Arhuaco	Arhuaco	'wiwi kawa	'wiwi kawa	w i w i + k a w a	arhu1242	2272	10.7018	-73.6363		0	0	?
+378	79_hotorwarm	HOT OR WARM	Cogui	Cogui	'uanuakse	'uanuakse	'u/u a n u a k s e	cogu1240	2272	10.9485	-73.8043		0	0	?
+379	79_hotorwarm	HOT OR WARM	Arhuaco	Arhuaco	'wiwi kawa	'wiwi kawa	'w/w i w i + k a w a	arhu1242	2272	10.7018	-73.6363		0	0	?
 380	79_hotorwarm	HOT OR WARM	Malayo	Malayo	wianʒɨnga	wianʒɨnga	w i a n ʒ ɨ n g a	mala1522	2272	10.9286	-73.4056		0	0	?
 381	79_hotorwarm	HOT OR WARM	Chimila	Chimila	we:	we:	w e:	chim1309	2272	10.1902	-74.2559		0	0	?
 382	79_hotorwarm	HOT OR WARM	Chibcha	Chibcha	tʲiptupkwa	tʲiptupkwa	tʲ i p t u p k w a	chib1270	2272	6.24999	-74.1666		0	0	?
-383	79_hotorwarm	HOT OR WARM	CentralTunebo	Central Tunebo	kih'kitɾo	kih'kitɾo	k i h k i t ɾ o	cent2150	2272	6.8867	-72.097		0	0	?
+383	79_hotorwarm	HOT OR WARM	CentralTunebo	Central Tunebo	kih'kitɾo	kih'kitɾo	k i h 'k/k i t ɾ o	cent2150	2272	6.8867	-72.097		0	0	?
 384	79_hotorwarm	HOT OR WARM	Bari	Barí	asã́a	asã́a	a s ã́/ã a	bari1297	2272	9.08497	-72.9353		0	0	?
 #
 2608	11_i	I	LencaSalvador	Lenca-Salvador	unani	unani	u n a n i	lenc1242	1209	13.56	-87.5		0	0	?
@@ -1322,7 +1322,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2627	11_i	I	Malayo	Malayo	ɾa	ɾa	ɾ a	mala1522	1209	10.9286	-73.4056		0	0	?
 2628	11_i	I	Chimila	Chimila	na:ɾi	na:ɾi	n a: ɾ i	chim1309	1209	10.1902	-74.2559		0	0	?
 2629	11_i	I	Chibcha	Chibcha	hɨtʲa	hɨtʲa	h ɨ tʲ a	chib1270	1209	6.24999	-74.1666		0	0	?
-2630	11_i	I	CentralTunebo	Central Tunebo	'asa	'asa	a s a	cent2150	1209	6.8867	-72.097		0	0	?
+2630	11_i	I	CentralTunebo	Central Tunebo	'asa	'asa	'a/a s a	cent2150	1209	6.8867	-72.097		0	0	?
 2631	11_i	I	Bari	Barí	nãĩ	nãĩ	n ã ĩ	bari1297	1209	9.08497	-72.9353		0	0	?
 #
 1414	68_kill	KILL	LencaSalvador	Lenca-Salvador	ʃil	ʃil	ʃ i l	lenc1242	1417	13.56	-87.5		0	0	?
@@ -1341,12 +1341,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1427	68_kill	KILL	Ngabere	Ngäbere	kɔmike	kɔmike	k ɔ m i k e	ngab1239	1417	8.8251	-82.3911		0	0	?
 1428	68_kill	KILL	Buglere	Buglere	gweda	gweda	g w e d a	bugl1243	1417	8.57695	-81.25648		0	0	?
 1429	68_kill	KILL	SanBlasKuna	San Blas Kuna	opurkwe	opurkwe	o p u r k w e	sanb1242	1417	9.15686	-78.3075		0	0	?
-1430	68_kill	KILL	Cogui	Cogui	gu'aʃ	gu'aʃ	g u a ʃ	cogu1240	1417	10.9485	-73.8043		0	0	?
-1431	68_kill	KILL	Arhuaco	Arhuaco	'gwak	'gwak	g w a k	arhu1242	1417	10.7018	-73.6363		0	0	?
+1430	68_kill	KILL	Cogui	Cogui	gu'aʃ	gu'aʃ	g u 'a/a ʃ	cogu1240	1417	10.9485	-73.8043		0	0	?
+1431	68_kill	KILL	Arhuaco	Arhuaco	'gwak	'gwak	'g/g w a k	arhu1242	1417	10.7018	-73.6363		0	0	?
 1432	68_kill	KILL	Malayo	Malayo	gwaʒ	gwaʒ	g w a ʒ	mala1522	1417	10.9286	-73.4056		0	0	?
 1433	68_kill	KILL	Chimila	Chimila	gwah	gwah	g w a h	chim1309	1417	10.1902	-74.2559		0	0	?
 1434	68_kill	KILL	Chibcha	Chibcha	ɣu	ɣu	ɣ u	chib1270	1417	6.24999	-74.1666		0	0	?
-1435	68_kill	KILL	CentralTunebo	Central Tunebo	ja'uwi	ja'uwi	j a u w i	cent2150	1417	6.8867	-72.097		0	0	?
+1435	68_kill	KILL	CentralTunebo	Central Tunebo	ja'uwi	ja'uwi	j a 'u/u w i	cent2150	1417	6.8867	-72.097		0	0	?
 1436	68_kill	KILL	Bari	Barí	so	so	s o	bari1297	1417	9.08497	-72.9353		0	0	?
 #
 2154	10_know	KNOW	LencaSalvador	Lenca-Salvador	ti	ti	t i	lenc1242	3626	13.56	-87.5		0	0	?
@@ -1366,11 +1366,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2168	10_know	KNOW	Buglere	Buglere	uɲe	uɲe	u ɲ e	bugl1243	3626	8.57695	-81.25648		0	0	?
 2169	10_know	KNOW	SanBlasKuna	San Blas Kuna	wisi	wisi	w i s i	sanb1242	3626	9.15686	-78.3075		0	0	?
 2170	10_know	KNOW	Cogui	Cogui	akʃihi	akʃihi	a k ʃ i h i	cogu1240	3626	10.9485	-73.8043		0	0	?
-2171	10_know	KNOW	Arhuaco	Arhuaco	a'gənkw	a'gənkw	a g ə n k w	arhu1242	3626	10.7018	-73.6363		0	0	?
+2171	10_know	KNOW	Arhuaco	Arhuaco	a'gənkw	a'gənkw	a 'g/g ə n k w	arhu1242	3626	10.7018	-73.6363		0	0	?
 2172	10_know	KNOW	Malayo	Malayo	agönihku	agönihku	a g ö n i h k u	mala1522	3626	10.9286	-73.4056		0	0	?
 2173	10_know	KNOW	Chimila	Chimila	wi	wi	w i	chim1309	3626	10.1902	-74.2559		0	0	?
 2174	10_know	KNOW	Chibcha	Chibcha	mukan	mukan	m u k a n	chib1270	3626	6.24999	-74.1666		0	0	?
-2175	10_know	KNOW	CentralTunebo	Central Tunebo	is'ti	is'ti	i s t i	cent2150	3626	6.8867	-72.097		0	0	?
+2175	10_know	KNOW	CentralTunebo	Central Tunebo	is'ti	is'ti	i s 't/t i	cent2150	3626	6.8867	-72.097		0	0	?
 2176	10_know	KNOW	Bari	Barí	ka:ma.	ka:ma.	k a: m a	bari1297	3626	9.08497	-72.9353		0	0	?
 #
 2081	97_laugh	LAUGH	LencaSalvador	Lenca-Salvador	jolo	jolo	j o l o	lenc1242	1355	13.56	-87.5		0	0	?
@@ -1391,12 +1391,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2096	97_laugh	LAUGH	Dorasque	Dorasque	ayig, ahiása	ayig	a y i g	dora1242	1355	8.567442	-82.375717		0	0	?
 2097	97_laugh	LAUGH	Dorasque	Dorasque	ayig, ahiása	ahiása	a h i á/a s a	dora1242	1355	8.567442	-82.375717		0	0	?
 2098	97_laugh	LAUGH	SanBlasKuna	San Blas Kuna	all	all	a l l	sanb1242	1355	9.15686	-78.3075		0	0	?
-2099	97_laugh	LAUGH	Cogui	Cogui	'ʃimihĩ	'ʃimihĩ	ʃ i m i h ĩ	cogu1240	1355	10.9485	-73.8043		0	0	?
-2100	97_laugh	LAUGH	Arhuaco	Arhuaco	'sem	'sem	s e m	arhu1242	1355	10.7018	-73.6363		0	0	?
+2099	97_laugh	LAUGH	Cogui	Cogui	'ʃimihĩ	'ʃimihĩ	'ʃ/ʃ i m i h ĩ	cogu1240	1355	10.9485	-73.8043		0	0	?
+2100	97_laugh	LAUGH	Arhuaco	Arhuaco	'sem	'sem	's/s e m	arhu1242	1355	10.7018	-73.6363		0	0	?
 2101	97_laugh	LAUGH	Malayo	Malayo	ʒiʃim	ʒiʃim	ʒ i ʃ i m	mala1522	1355	10.9286	-73.4056		0	0	?
 2102	97_laugh	LAUGH	Chimila	Chimila	ha:ɾa	ha:ɾa	h a: ɾ a	chim1309	1355	10.1902	-74.2559		0	0	?
 2103	97_laugh	LAUGH	Chibcha	Chibcha	ɣɨua	ɣɨua	ɣ ɨ u a	chib1270	1355	6.24999	-74.1666		0	0	?
-2104	97_laugh	LAUGH	CentralTunebo	Central Tunebo	si'si	si'si	s i s i	cent2150	1355	6.8867	-72.097		0	0	?
+2104	97_laugh	LAUGH	CentralTunebo	Central Tunebo	si'si	si'si	s i 's/s i	cent2150	1355	6.8867	-72.097		0	0	?
 2105	97_laugh	LAUGH	Bari	Barí	an	an	a n	bari1297	1355	9.08497	-72.9353		0	0	?
 #
 1102	102_leaf	LEAF	LencaSalvador	Lenca-Salvador	aw	aw	a w	lenc1242	628	13.56	-87.5		0	0	?
@@ -1417,11 +1417,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1117	102_leaf	LEAF	Dorasque	Dorasque	kaláʔka	kaláʔka	k a l á/a ʔ k a	dora1242	628	8.567442	-82.375717		0	0	?
 1118	102_leaf	LEAF	SanBlasKuna	San Blas Kuna	ka:	ka:	k a:	sanb1242	628	9.15686	-78.3075		0	0	?
 1119	102_leaf	LEAF	Cogui	Cogui	kai	kai	k a i	cogu1240	628	10.9485	-73.8043		0	0	?
-1120	102_leaf	LEAF	Arhuaco	Arhuaco	'atʃɨ	'atʃɨ	a tʃ ɨ	arhu1242	628	10.7018	-73.6363		0	0	?
+1120	102_leaf	LEAF	Arhuaco	Arhuaco	'atʃɨ	'atʃɨ	'a/a tʃ ɨ	arhu1242	628	10.7018	-73.6363		0	0	?
 1121	102_leaf	LEAF	Malayo	Malayo	ata	ata	a t a	mala1522	628	10.9286	-73.4056		0	0	?
 1122	102_leaf	LEAF	Chimila	Chimila	ka:	ka:	k a:	chim1309	628	10.1902	-74.2559		0	0	?
 1123	102_leaf	LEAF	Chibcha	Chibcha	kɨe	kɨe	k ɨ e	chib1270	628	6.24999	-74.1666		0	0	?
-1124	102_leaf	LEAF	CentralTunebo	Central Tunebo	'kaja	'kaja	k a j a	cent2150	628	6.8867	-72.097		0	0	?
+1124	102_leaf	LEAF	CentralTunebo	Central Tunebo	'kaja	'kaja	'k/k a j a	cent2150	628	6.8867	-72.097		0	0	?
 1125	102_leaf	LEAF	Bari	Barí	ka	ka	k a	bari1297	628	9.08497	-72.9353		0	0	?
 #
 1961	109_leg	LEG	LencaSalvador	Lenca-Salvador	pos	pos	p o s	lenc1242	1297	13.56	-87.5		0	0	?
@@ -1446,10 +1446,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1980	109_leg	LEG	Malayo	Malayo	kɨna	kɨna	k ɨ n a	mala1522	1297	10.9286	-73.4056		0	0	?
 1981	109_leg	LEG	Chimila	Chimila	dukkwa	dukkwa	d u k k w a	chim1309	1297	10.1902	-74.2559		0	0	?
 1982	109_leg	LEG	Chibcha	Chibcha	ɣoka	ɣoka	ɣ o k a	chib1270	1297	6.24999	-74.1666		0	0	?
-1983	109_leg	LEG	CentralTunebo	Central Tunebo	kus'kaɾa	kus'kaɾa	k u s k a ɾ a	cent2150	1297	6.8867	-72.097		0	0	?
+1983	109_leg	LEG	CentralTunebo	Central Tunebo	kus'kaɾa	kus'kaɾa	k u s 'k/k a ɾ a	cent2150	1297	6.8867	-72.097		0	0	?
 1984	109_leg	LEG	Bari	Barí	binĩ	binĩ	b i n ĩ	bari1297	1297	9.08497	-72.9353		0	0	?
 #
-1078	20_liver	LIVER	LencaSalvador	Lenca-Salvador	muts'u	muts'u	m u t s u	lenc1242	1224	13.56	-87.5		0	0	?
+1078	20_liver	LIVER	LencaSalvador	Lenca-Salvador	muts'u	muts'u	m u t s 'u/u	lenc1242	1224	13.56	-87.5		0	0	?
 1079	20_liver	LIVER	LencaHonduras	Lenca-Honduras	musu	musu	m u s u	lenc1243	1224	13.67	-88.11		0	0	?
 1080	20_liver	LIVER	Cacaopera	Cacaopera	kawa	kawa	k a w a	caca1247	1224	13.74	-88.11		0	0	?
 1081	20_liver	LIVER	Mayangna	Mayangna	isiŋ	isiŋ	i s i ŋ	maya1285	1224	14.13	-84.34		0	0	?
@@ -1466,12 +1466,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1092	20_liver	LIVER	Buglere	Buglere	takwa	takwa	t a k w a	bugl1243	1224	8.57695	-81.25648		0	0	?
 1093	20_liver	LIVER	Dorasque	Dorasque	hókoa	hókoa	h ó/o k o a	dora1242	1224	8.567442	-82.375717		0	0	?
 1094	20_liver	LIVER	SanBlasKuna	San Blas Kuna	pi:na	pi:na	p i: n a	sanb1242	1224	9.15686	-78.3075		0	0	?
-1095	20_liver	LIVER	Cogui	Cogui	a'bita	a'bita	a b i t a	cogu1240	1224	10.9485	-73.8043		0	0	?
-1096	20_liver	LIVER	Arhuaco	Arhuaco	'higəɾu	'higəɾu	h i g ə ɾ u	arhu1242	1224	10.7018	-73.6363		0	0	?
+1095	20_liver	LIVER	Cogui	Cogui	a'bita	a'bita	a 'b/b i t a	cogu1240	1224	10.9485	-73.8043		0	0	?
+1096	20_liver	LIVER	Arhuaco	Arhuaco	'higəɾu	'higəɾu	'h/h i g ə ɾ u	arhu1242	1224	10.7018	-73.6363		0	0	?
 1097	20_liver	LIVER	Malayo	Malayo	anʒbita	anʒbita	a n ʒ b i t a	mala1522	1224	10.9286	-73.4056		0	0	?
-1098	20_liver	LIVER	Chimila	Chimila	'ka:wiʔ	'ka:wiʔ	k a: w i ʔ	chim1309	1224	10.1902	-74.2559		0	0	?
+1098	20_liver	LIVER	Chimila	Chimila	'ka:wiʔ	'ka:wiʔ	'k/k a: w i ʔ	chim1309	1224	10.1902	-74.2559		0	0	?
 1099	20_liver	LIVER	Chibcha	Chibcha	tɨhɨβa	tɨhɨβa	t ɨ h ɨ β a	chib1270	1224	6.24999	-74.1666		0	0	?
-1100	20_liver	LIVER	CentralTunebo	Central Tunebo	'tanuba	'tanuba	t a n u b a	cent2150	1224	6.8867	-72.097		0	0	?
+1100	20_liver	LIVER	CentralTunebo	Central Tunebo	'tanuba	'tanuba	't/t a n u b a	cent2150	1224	6.8867	-72.097		0	0	?
 1101	20_liver	LIVER	Bari	Barí	a:bĩba	a:bĩba	a: b ĩ b a	bari1297	1224	9.08497	-72.9353		0	0	?
 #
 1198	110_long	LONG	LencaSalvador	Lenca-Salvador	kota	kota	k o t a	lenc1242	1203	13.56	-87.5		0	0	?
@@ -1491,12 +1491,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1212	110_long	LONG	Buglere	Buglere	heike	heike	h e i k e	bugl1243	1203	8.57695	-81.25648		0	0	?
 1213	110_long	LONG	Dorasque	Dorasque	kiágal	kiágal	k i á/a g a l	dora1242	1203	8.567442	-82.375717		0	0	?
 1214	110_long	LONG	SanBlasKuna	San Blas Kuna	suiti	suiti	s u i t i	sanb1242	1203	9.15686	-78.3075		0	0	?
-1215	110_long	LONG	Cogui	Cogui	'ueĩʒiluka	'ueĩʒiluka	u e ĩ ʒ i l u k a	cogu1240	1203	10.9485	-73.8043		0	0	?
-1216	110_long	LONG	Arhuaco	Arhuaco	'gaɾi	'gaɾi	g a ɾ i	arhu1242	1203	10.7018	-73.6363		0	0	?
+1215	110_long	LONG	Cogui	Cogui	'ueĩʒiluka	'ueĩʒiluka	'u/u e ĩ ʒ i l u k a	cogu1240	1203	10.9485	-73.8043		0	0	?
+1216	110_long	LONG	Arhuaco	Arhuaco	'gaɾi	'gaɾi	'g/g a ɾ i	arhu1242	1203	10.7018	-73.6363		0	0	?
 1217	110_long	LONG	Malayo	Malayo	ɾiinukka	ɾiinukka	ɾ i i n u k k a	mala1522	1203	10.9286	-73.4056		0	0	?
 1218	110_long	LONG	Chimila	Chimila	gaɾihŋa:te	gaɾihŋa:te	g a ɾ i h ŋ a: t e	chim1309	1203	10.1902	-74.2559		0	0	?
 1219	110_long	LONG	Chibcha	Chibcha	ɣahasio	ɣahasio	ɣ a h a s i o	chib1270	1203	6.24999	-74.1666		0	0	?
-1220	110_long	LONG	CentralTunebo	Central Tunebo	ena'ɾa	ena'ɾa	e n a ɾ a	cent2150	1203	6.8867	-72.097		0	0	?
+1220	110_long	LONG	CentralTunebo	Central Tunebo	ena'ɾa	ena'ɾa	e n a 'ɾ/ɾ a	cent2150	1203	6.8867	-72.097		0	0	?
 1221	110_long	LONG	Bari	Barí	akbakɨ	akbakɨ	a k b a k ɨ	bari1297	1203	9.08497	-72.9353		0	0	?
 #
 1126	91_man	MAN	LencaSalvador	Lenca-Salvador	iʃku	iʃku	i ʃ k u	lenc1242	1554	13.56	-87.5		0	0	?
@@ -1516,12 +1516,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1140	91_man	MAN	Buglere	Buglere	blále	blále	b l á/a l e	bugl1243	1554	8.57695	-81.25648		0	0	?
 1141	91_man	MAN	Dorasque	Dorasque	taro	taro	t a r o	dora1242	1554	8.567442	-82.375717		0	0	?
 1142	91_man	MAN	SanBlasKuna	San Blas Kuna	matʃeɾet	matʃeɾet	m a tʃ e ɾ e t	sanb1242	1554	9.15686	-78.3075		0	0	?
-1143	91_man	MAN	Cogui	Cogui	si'gi	si'gi	s i g i	cogu1240	1554	10.9485	-73.8043		0	0	?
-1144	91_man	MAN	Arhuaco	Arhuaco	'tʃeiɾwa	'tʃeiɾwa	tʃ e i ɾ w a	arhu1242	1554	10.7018	-73.6363		0	0	?
-1145	91_man	MAN	Malayo	Malayo	te'ɾua	te'ɾua	t e ɾ u a	mala1522	1554	10.9286	-73.4056		0	0	?
+1143	91_man	MAN	Cogui	Cogui	si'gi	si'gi	s i 'g/g i	cogu1240	1554	10.9485	-73.8043		0	0	?
+1144	91_man	MAN	Arhuaco	Arhuaco	'tʃeiɾwa	'tʃeiɾwa	't/t ʃ e i ɾ w a	arhu1242	1554	10.7018	-73.6363		0	0	?
+1145	91_man	MAN	Malayo	Malayo	te'ɾua	te'ɾua	t e 'ɾ/ɾ u a	mala1522	1554	10.9286	-73.4056		0	0	?
 1146	91_man	MAN	Chimila	Chimila	sa:wiɾi	sa:wiɾi	s a: w i ɾ i	chim1309	1554	10.1902	-74.2559		0	0	?
 1147	91_man	MAN	Chibcha	Chibcha	tʲa	tʲa	tʲ a	chib1270	1554	6.24999	-74.1666		0	0	?
-1148	91_man	MAN	CentralTunebo	Central Tunebo	'seɾa	'seɾa	s e ɾ a	cent2150	1554	6.8867	-72.097		0	0	?
+1148	91_man	MAN	CentralTunebo	Central Tunebo	'seɾa	'seɾa	's/s e ɾ a	cent2150	1554	6.8867	-72.097		0	0	?
 1149	91_man	MAN	Bari	Barí	na	na	n a	bari1297	1554	9.08497	-72.9353		0	0	?
 #
 457	5_meat	MEAT	LencaSalvador	Lenca-Salvador	waʃa	waʃa	w a ʃ a	lenc1242	634	13.56	-87.5		0	0	?
@@ -1541,15 +1541,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 471	5_meat	MEAT	Buglere	Buglere	udá	udá	u d á/a	bugl1243	634	8.57695	-81.25648		0	0	?
 472	5_meat	MEAT	Dorasque	Dorasque	síá	síá	s í/i á/a	dora1242	634	8.567442	-82.375717		0	0	?
 473	5_meat	MEAT	SanBlasKuna	San Blas Kuna	sana	sana	s a n a	sanb1242	634	9.15686	-78.3075		0	0	?
-474	5_meat	MEAT	Cogui	Cogui	'gata	'gata	g a t a	cogu1240	634	10.9485	-73.8043		0	0	?
-475	5_meat	MEAT	Arhuaco	Arhuaco	'gətʃɨ	'gətʃɨ	g ə tʃ ɨ	arhu1242	634	10.7018	-73.6363		0	0	?
-476	5_meat	MEAT	Malayo	Malayo	gɨ'ta	gɨ'ta	g ɨ t a	mala1522	634	10.9286	-73.4056		0	0	?
+474	5_meat	MEAT	Cogui	Cogui	'gata	'gata	'g/g a t a	cogu1240	634	10.9485	-73.8043		0	0	?
+475	5_meat	MEAT	Arhuaco	Arhuaco	'gətʃɨ	'gətʃɨ	'g/g ə tʃ ɨ	arhu1242	634	10.7018	-73.6363		0	0	?
+476	5_meat	MEAT	Malayo	Malayo	gɨ'ta	gɨ'ta	g ɨ 't/t a	mala1522	634	10.9286	-73.4056		0	0	?
 477	5_meat	MEAT	Chimila	Chimila	eŋŋatta	eŋŋatta	e ŋ ŋ a t t a	chim1309	634	10.1902	-74.2559		0	0	?
 478	5_meat	MEAT	Chibcha	Chibcha	tʲihika	tʲihika	tʲ i h i k a	chib1270	634	6.24999	-74.1666		0	0	?
-479	5_meat	MEAT	CentralTunebo	Central Tunebo	'ɾuwa	'ɾuwa	ɾ u w a	cent2150	634	6.8867	-72.097		0	0	?
+479	5_meat	MEAT	CentralTunebo	Central Tunebo	'ɾuwa	'ɾuwa	'ɾ/ɾ u w a	cent2150	634	6.8867	-72.097		0	0	?
 480	5_meat	MEAT	Bari	Barí	aidi.	aidi.	a i d i	bari1297	634	9.08497	-72.9353		0	0	?
 #
-1293	24_moon	MOON	LencaSalvador	Lenca-Salvador	lets'a	lets'a	l e t s a	lenc1242	1313	13.56	-87.5		0	0	?
+1293	24_moon	MOON	LencaSalvador	Lenca-Salvador	lets'a	lets'a	l e t s 'a/a	lenc1242	1313	13.56	-87.5		0	0	?
 1294	24_moon	MOON	LencaHonduras	Lenca-Honduras	mesti	mesti	m e s t i	lenc1243	1313	13.67	-88.11		0	0	?
 1295	24_moon	MOON	Cacaopera	Cacaopera	ajku	ajku	a j k u	caca1247	1313	13.74	-88.11		0	0	?
 1296	24_moon	MOON	Mayangna	Mayangna	wajku	wajku	w a j k u	maya1285	1313	14.13	-84.34		0	0	?
@@ -1566,12 +1566,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1307	24_moon	MOON	Buglere	Buglere	dai	dai	d a i	bugl1243	1313	8.57695	-81.25648		0	0	?
 1308	24_moon	MOON	Dorasque	Dorasque	sirila	sirila	s i r i l a	dora1242	1313	8.567442	-82.375717		0	0	?
 1309	24_moon	MOON	SanBlasKuna	San Blas Kuna	ni:	ni:	n i:	sanb1242	1313	9.15686	-78.3075		0	0	?
-1310	24_moon	MOON	Cogui	Cogui	'saka	'saka	s a k a	cogu1240	1313	10.9485	-73.8043		0	0	?
-1311	24_moon	MOON	Arhuaco	Arhuaco	'tima	'tima	t i m a	arhu1242	1313	10.7018	-73.6363		0	0	?
+1310	24_moon	MOON	Cogui	Cogui	'saka	'saka	's/s a k a	cogu1240	1313	10.9485	-73.8043		0	0	?
+1311	24_moon	MOON	Arhuaco	Arhuaco	'tima	'tima	't/t i m a	arhu1242	1313	10.7018	-73.6363		0	0	?
 1312	24_moon	MOON	Malayo	Malayo	saga	saga	s a g a	mala1522	1313	10.9286	-73.4056		0	0	?
 1313	24_moon	MOON	Chimila	Chimila	maʔmasu	maʔmasu	m a ʔ m a s u	chim1309	1313	10.1902	-74.2559		0	0	?
 1314	24_moon	MOON	Chibcha	Chibcha	tʲie	tʲie	tʲ i e	chib1270	1313	6.24999	-74.1666		0	0	?
-1315	24_moon	MOON	CentralTunebo	Central Tunebo	siʔ'joɾa	siʔ'joɾa	s i ʔ j o ɾ a	cent2150	1313	6.8867	-72.097		0	0	?
+1315	24_moon	MOON	CentralTunebo	Central Tunebo	siʔ'joɾa	siʔ'joɾa	s i ʔ 'j/j o ɾ a	cent2150	1313	6.8867	-72.097		0	0	?
 1316	24_moon	MOON	Bari	Barí	tiba:	tiba:	t i b a:	bari1297	1313	9.08497	-72.9353		0	0	?
 #
 1341	74_mother	MOTHER	LencaSalvador	Lenca-Salvador	laNke	laNke	l a n k e	lenc1242	1216	13.56	-87.5		0	0	?
@@ -1591,12 +1591,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1355	74_mother	MOTHER	Buglere	Buglere	tʃebi	tʃebi	tʃ e b i	bugl1243	1216	8.57695	-81.25648		0	0	?
 1356	74_mother	MOTHER	Dorasque	Dorasque	toó	toó	t o ó/o	dora1242	1216	8.567442	-82.375717		0	0	?
 1357	74_mother	MOTHER	SanBlasKuna	San Blas Kuna	nana	nana	n a n a	sanb1242	1216	9.15686	-78.3075		0	0	?
-1358	74_mother	MOTHER	Cogui	Cogui	'haba	'haba	h a b a	cogu1240	1216	10.9485	-73.8043		0	0	?
-1359	74_mother	MOTHER	Arhuaco	Arhuaco	'zaku	'zaku	z a k u	arhu1242	1216	10.7018	-73.6363		0	0	?
+1358	74_mother	MOTHER	Cogui	Cogui	'haba	'haba	'h/h a b a	cogu1240	1216	10.9485	-73.8043		0	0	?
+1359	74_mother	MOTHER	Arhuaco	Arhuaco	'zaku	'zaku	'z/z a k u	arhu1242	1216	10.7018	-73.6363		0	0	?
 1360	74_mother	MOTHER	Malayo	Malayo	abu	abu	a b u	mala1522	1216	10.9286	-73.4056		0	0	?
 1361	74_mother	MOTHER	Chimila	Chimila	ka:hmanta	ka:hmanta	k a: h m a n t a	chim1309	1216	10.1902	-74.2559		0	0	?
 1362	74_mother	MOTHER	Chibcha	Chibcha	ɣuaia	ɣuaia	ɣ u a i a	chib1270	1216	6.24999	-74.1666		0	0	?
-1363	74_mother	MOTHER	CentralTunebo	Central Tunebo	a'ba	a'ba	a b a	cent2150	1216	6.8867	-72.097		0	0	?
+1363	74_mother	MOTHER	CentralTunebo	Central Tunebo	a'ba	a'ba	a 'b/b a	cent2150	1216	6.8867	-72.097		0	0	?
 1364	74_mother	MOTHER	Bari	Barí	abama	abama	a b a m a	bari1297	1216	9.08497	-72.9353		0	0	?
 #
 1437	17_mountain	MOUNTAIN	LencaSalvador	Lenca-Salvador	kotaN	kotaN	k o t a n	lenc1242	639	13.56	-87.5		0	0	?
@@ -1616,15 +1616,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1451	17_mountain	MOUNTAIN	Buglere	Buglere	hwitʃuga	hwitʃuga	h w i tʃ u g a	bugl1243	639	8.57695	-81.25648		0	0	?
 1452	17_mountain	MOUNTAIN	Dorasque	Dorasque	tuú	tuú	t u ú/u	dora1242	639	8.567442	-82.375717		0	0	?
 1453	17_mountain	MOUNTAIN	SanBlasKuna	San Blas Kuna	jala	jala	j a l a	sanb1242	639	9.15686	-78.3075		0	0	?
-1454	17_mountain	MOUNTAIN	Cogui	Cogui	ge'ka	ge'ka	g e k a	cogu1240	639	10.9485	-73.8043		0	0	?
-1455	17_mountain	MOUNTAIN	Arhuaco	Arhuaco	'gwiɾkənɨ	'gwiɾkənɨ	g w i ɾ k ə n ɨ	arhu1242	639	10.7018	-73.6363		0	0	?
-1456	17_mountain	MOUNTAIN	Malayo	Malayo	ʃimu'rua	ʃimu'rua	ʃ i m u r u a	mala1522	639	10.9286	-73.4056		0	0	?
+1454	17_mountain	MOUNTAIN	Cogui	Cogui	ge'ka	ge'ka	g e 'k/k a	cogu1240	639	10.9485	-73.8043		0	0	?
+1455	17_mountain	MOUNTAIN	Arhuaco	Arhuaco	'gwiɾkənɨ	'gwiɾkənɨ	'g/g w i ɾ k ə n ɨ	arhu1242	639	10.7018	-73.6363		0	0	?
+1456	17_mountain	MOUNTAIN	Malayo	Malayo	ʃimu'rua	ʃimu'rua	ʃ i m u 'r/r u a	mala1522	639	10.9286	-73.4056		0	0	?
 1457	17_mountain	MOUNTAIN	Chimila	Chimila	ittikoŋkɾa	ittikoŋkɾa	i t t i k o ŋ k ɾ a	chim1309	639	10.1902	-74.2559		0	0	?
 1458	17_mountain	MOUNTAIN	Chibcha	Chibcha	ɣua	ɣua	ɣ u a	chib1270	639	6.24999	-74.1666		0	0	?
-1459	17_mountain	MOUNTAIN	CentralTunebo	Central Tunebo	'kubaɾa	'kubaɾa	k u b a ɾ a	cent2150	639	6.8867	-72.097		0	0	?
+1459	17_mountain	MOUNTAIN	CentralTunebo	Central Tunebo	'kubaɾa	'kubaɾa	'k/k u b a ɾ a	cent2150	639	6.8867	-72.097		0	0	?
 1460	17_mountain	MOUNTAIN	Bari	Barí	ɲena	ɲena	ɲ e n a	bari1297	639	9.08497	-72.9353		0	0	?
 #
-217	22_mouth	MOUTH	LencaSalvador	Lenca-Salvador	ints'ats'a	ints'ats'a	i n t s a t s a	lenc1242	674	13.56	-87.5		0	0	?
+217	22_mouth	MOUTH	LencaSalvador	Lenca-Salvador	ints'ats'a	ints'ats'a	i n t s 'a/a t s 'a/a	lenc1242	674	13.56	-87.5		0	0	?
 218	22_mouth	MOUTH	LencaHonduras	Lenca-Honduras	in	in	i n	lenc1243	674	13.67	-88.11		0	0	?
 219	22_mouth	MOUTH	Cacaopera	Cacaopera	tawa	tawa	t a w a	caca1247	674	13.74	-88.11		0	0	?
 220	22_mouth	MOUTH	Mayangna	Mayangna	tapas	tapas	t a p a s	maya1285	674	14.13	-84.34		0	0	?
@@ -1641,15 +1641,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 231	22_mouth	MOUTH	Buglere	Buglere	ka	ka	k a	bugl1243	674	8.57695	-81.25648		0	0	?
 232	22_mouth	MOUTH	Dorasque	Dorasque	kaga	kaga	k a g a	dora1242	674	8.567442	-82.375717		0	0	?
 233	22_mouth	MOUTH	SanBlasKuna	San Blas Kuna	kakka	kakka	k a k k a	sanb1242	674	9.15686	-78.3075		0	0	?
-234	22_mouth	MOUTH	Cogui	Cogui	'kaka	'kaka	k a k a	cogu1240	674	10.9485	-73.8043		0	0	?
+234	22_mouth	MOUTH	Cogui	Cogui	'kaka	'kaka	'k/k a k a	cogu1240	674	10.9485	-73.8043		0	0	?
 235	22_mouth	MOUTH	Arhuaco	Arhuaco	kəkka	kəkka	k ə k k a	arhu1242	674	10.7018	-73.6363		0	0	?
-236	22_mouth	MOUTH	Malayo	Malayo	kə'ka	kə'ka	k ə k a	mala1522	674	10.9286	-73.4056		0	0	?
+236	22_mouth	MOUTH	Malayo	Malayo	kə'ka	kə'ka	k ə 'k/k a	mala1522	674	10.9286	-73.4056		0	0	?
 237	22_mouth	MOUTH	Chimila	Chimila	kakkwa	kakkwa	k a k k w a	chim1309	674	10.1902	-74.2559		0	0	?
 238	22_mouth	MOUTH	Chibcha	Chibcha	kɨhɨka	kɨhɨka	k ɨ h ɨ k a	chib1270	674	6.24999	-74.1666		0	0	?
-239	22_mouth	MOUTH	CentralTunebo	Central Tunebo	'kahka	'kahka	k a h k a	cent2150	674	6.8867	-72.097		0	0	?
+239	22_mouth	MOUTH	CentralTunebo	Central Tunebo	'kahka	'kahka	'k/k a h k a	cent2150	674	6.8867	-72.097		0	0	?
 240	22_mouth	MOUTH	Bari	Barí	kaksiu:	kaksiu:	k a k s i u:	bari1297	674	9.08497	-72.9353		0	0	?
 #
-673	84_neck	NECK	LencaSalvador	Lenca-Salvador	t'aNt'aN	t'aNt'aN	t a n t a n	lenc1242	1333	13.56	-87.5		0	0	?
+673	84_neck	NECK	LencaSalvador	Lenca-Salvador	t'aNt'aN	t'aNt'aN	t 'a/a n t 'a/a n	lenc1242	1333	13.56	-87.5		0	0	?
 674	84_neck	NECK	LencaHonduras	Lenca-Honduras	sala	sala	s a l a	lenc1243	1333	13.67	-88.11		0	0	?
 675	84_neck	NECK	Cacaopera	Cacaopera	tsaw	tsaw	t s a w	caca1247	1333	13.74	-88.11		0	0	?
 676	84_neck	NECK	Mayangna	Mayangna	dimak	dimak	d i m a k	maya1285	1333	14.13	-84.34		0	0	?
@@ -1666,12 +1666,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 687	84_neck	NECK	Buglere	Buglere	siɾoska	siɾoska	s i ɾ o s k a	bugl1243	1333	8.57695	-81.25648		0	0	?
 688	84_neck	NECK	Dorasque	Dorasque	polé	polé	p o l é/e	dora1242	1333	8.567442	-82.375717		0	0	?
 689	84_neck	NECK	SanBlasKuna	San Blas Kuna	tukkarwala	tukkarwala	t u k k a r w a l a	sanb1242	1333	9.15686	-78.3075		0	0	?
-690	84_neck	NECK	Cogui	Cogui	'gagla	'gagla	g a g l a	cogu1240	1333	10.9485	-73.8043		0	0	?
-691	84_neck	NECK	Arhuaco	Arhuaco	'gaʔnɨ	'gaʔnɨ	g a ʔ n ɨ	arhu1242	1333	10.7018	-73.6363		0	0	?
-692	84_neck	NECK	Malayo	Malayo	'gana	'gana	g a n a	mala1522	1333	10.9286	-73.4056		0	0	?
-693	84_neck	NECK	Chimila	Chimila	'ɾuggwaʔ	'ɾuggwaʔ	ɾ u g g w a ʔ	chim1309	1333	10.1902	-74.2559		0	0	?
+690	84_neck	NECK	Cogui	Cogui	'gagla	'gagla	'g/g a g l a	cogu1240	1333	10.9485	-73.8043		0	0	?
+691	84_neck	NECK	Arhuaco	Arhuaco	'gaʔnɨ	'gaʔnɨ	'g/g a ʔ n ɨ	arhu1242	1333	10.7018	-73.6363		0	0	?
+692	84_neck	NECK	Malayo	Malayo	'gana	'gana	'g/g a n a	mala1522	1333	10.9286	-73.4056		0	0	?
+693	84_neck	NECK	Chimila	Chimila	'ɾuggwaʔ	'ɾuggwaʔ	'ɾ/ɾ u g g w a ʔ	chim1309	1333	10.1902	-74.2559		0	0	?
 694	84_neck	NECK	Chibcha	Chibcha	gɨ	gɨ	g ɨ	chib1270	1333	6.24999	-74.1666		0	0	?
-695	84_neck	NECK	CentralTunebo	Central Tunebo	'jaʔnkukaɾa	'jaʔnkukaɾa	j a ʔ n k u k a ɾ a	cent2150	1333	6.8867	-72.097		0	0	?
+695	84_neck	NECK	CentralTunebo	Central Tunebo	'jaʔnkukaɾa	'jaʔnkukaɾa	'j/j a ʔ n k u k a ɾ a	cent2150	1333	6.8867	-72.097		0	0	?
 696	84_neck	NECK	Bari	Barí	bo:	bo:	b o:	bari1297	1333	9.08497	-72.9353		0	0	?
 #
 1675	78_new	NEW	LencaSalvador	Lenca-Salvador	tuja	tuja	t u j a	lenc1242	1231	13.56	-87.5		0	0	?
@@ -1685,21 +1685,21 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1683	78_new	NEW	MalekuJaika	Maléku Jaíka	ɬa:ŋalu:ɾi	ɬa:ŋalu:ɾi	ɬ a: ŋ a l u: ɾ i	male1297	1231	10.7485	-84.7318		0	0	?
 1684	78_new	NEW	Boruca	Boruca	kìnká	kìnká	k ì/i n k á/a	boru1252	1231	8.88093	-83.2124		0	0	?
 1685	78_new	NEW	Bribri	Bribri	pã̌ã̀ɺĩ̀	pã̌ã̀ɺĩ̀	p ã̌/ã ã̀/ã ɺ ĩ̀/ĩ	brib1243	1231	9.39794	-83.0539		0	0	?
-1686	78_new	NEW	Cabecar	Cabécar	spã́'nã̀	spã́'nã̀	s p ã́/ã n ã̀/ã	cabe1245	1231	9.67031	-83.4102		0	0	?
+1686	78_new	NEW	Cabecar	Cabécar	spã́'nã̀	spã́'nã̀	s p ã́/ã 'n/n ã̀/ã	cabe1245	1231	9.67031	-83.4102		0	0	?
 1687	78_new	NEW	Teribe	Teribe	tàgɺɪ́ŋ	tàgɺɪ́ŋ	t à/a g ɺ ɪ́/ɪ ŋ	teri1250	1231	9.067	-82.9631		0	0	?
 1688	78_new	NEW	Ngabere	Ngäbere	mɣtɣ	mɣtɣ	m ɣ t ɣ	ngab1239	1231	8.8251	-82.3911		0	0	?
 1689	78_new	NEW	Buglere	Buglere	hageɾe	hageɾe	h a g e ɾ e	bugl1243	1231	8.57695	-81.25648		0	0	?
 1690	78_new	NEW	Dorasque	Dorasque	ponol	ponol	p o n o l	dora1242	1231	8.567442	-82.375717		0	0	?
 1691	78_new	NEW	SanBlasKuna	San Blas Kuna	pi:ni	pi:ni	p i: n i	sanb1242	1231	9.15686	-78.3075		0	0	?
-1692	78_new	NEW	Cogui	Cogui	a'bisa	a'bisa	a b i s a	cogu1240	1231	10.9485	-73.8043		0	0	?
-1693	78_new	NEW	Arhuaco	Arhuaco	a'bitti	a'bitti	a b i t t i	arhu1242	1231	10.7018	-73.6363		0	0	?
-1694	78_new	NEW	Malayo	Malayo	ambɨ'si	ambɨ'si	a m b ɨ s i	mala1522	1231	10.9286	-73.4056		0	0	?
-1695	78_new	NEW	Chimila	Chimila	'takkeʔ	'takkeʔ	t a k k e ʔ	chim1309	1231	10.1902	-74.2559		0	0	?
+1692	78_new	NEW	Cogui	Cogui	a'bisa	a'bisa	a 'b/b i s a	cogu1240	1231	10.9485	-73.8043		0	0	?
+1693	78_new	NEW	Arhuaco	Arhuaco	a'bitti	a'bitti	a 'b/b i t t i	arhu1242	1231	10.7018	-73.6363		0	0	?
+1694	78_new	NEW	Malayo	Malayo	ambɨ'si	ambɨ'si	a m b ɨ 's/s i	mala1522	1231	10.9286	-73.4056		0	0	?
+1695	78_new	NEW	Chimila	Chimila	'takkeʔ	'takkeʔ	't/t a k k e ʔ	chim1309	1231	10.1902	-74.2559		0	0	?
 1696	78_new	NEW	Chibcha	Chibcha	βihitsa	βihitsa	β i h i t s a	chib1270	1231	6.24999	-74.1666		0	0	?
-1697	78_new	NEW	CentralTunebo	Central Tunebo	'ibsoja	'ibsoja	i b s o j a	cent2150	1231	6.8867	-72.097		0	0	?
+1697	78_new	NEW	CentralTunebo	Central Tunebo	'ibsoja	'ibsoja	'i/i b s o j a	cent2150	1231	6.8867	-72.097		0	0	?
 1698	78_new	NEW	Bari	Barí	okdo	okdo	o k d o	bari1297	1231	9.08497	-72.9353		0	0	?
 #
-1603	80_night	NIGHT	LencaSalvador	Lenca-Salvador	ts'upa	ts'upa	t s u p a	lenc1242	1233	13.56	-87.5		0	0	?
+1603	80_night	NIGHT	LencaSalvador	Lenca-Salvador	ts'upa	ts'upa	t s 'u/u p a	lenc1242	1233	13.56	-87.5		0	0	?
 1604	80_night	NIGHT	LencaHonduras	Lenca-Honduras	taNki	taNki	t a n k i	lenc1243	1233	13.67	-88.11		0	0	?
 1605	80_night	NIGHT	Cacaopera	Cacaopera	iran	iran	i r a n	caca1247	1233	13.74	-88.11		0	0	?
 1606	80_night	NIGHT	Mayangna	Mayangna	pukta	pukta	p u k t a	maya1285	1233	14.13	-84.34		0	0	?
@@ -1716,12 +1716,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1617	80_night	NIGHT	Buglere	Buglere	ŋaheɾe	ŋaheɾe	ŋ a h e ɾ e	bugl1243	1233	8.57695	-81.25648		0	0	?
 1618	80_night	NIGHT	Dorasque	Dorasque	be	be	b e	dora1242	1233	8.567442	-82.375717		0	0	?
 1619	80_night	NIGHT	SanBlasKuna	San Blas Kuna	muttikki	muttikki	m u t t i k k i	sanb1242	1233	9.15686	-78.3075		0	0	?
-1620	80_night	NIGHT	Cogui	Cogui	'sesɯn	'sesɯn	s e s ɯ n	cogu1240	1233	10.9485	-73.8043		0	0	?
-1621	80_night	NIGHT	Arhuaco	Arhuaco	'seiaʔ	'seiaʔ	s e i a ʔ	arhu1242	1233	10.7018	-73.6363		0	0	?
+1620	80_night	NIGHT	Cogui	Cogui	'sesɯn	'sesɯn	's/s e s ɯ n	cogu1240	1233	10.9485	-73.8043		0	0	?
+1621	80_night	NIGHT	Arhuaco	Arhuaco	'seiaʔ	'seiaʔ	's/s e i a ʔ	arhu1242	1233	10.7018	-73.6363		0	0	?
 1622	80_night	NIGHT	Malayo	Malayo	ʃe	ʃe	ʃ e	mala1522	1233	10.9286	-73.4056		0	0	?
-1623	80_night	NIGHT	Chimila	Chimila	'sihnaka	'sihnaka	s i h n a k a	chim1309	1233	10.1902	-74.2559		0	0	?
+1623	80_night	NIGHT	Chimila	Chimila	'sihnaka	'sihnaka	's/s i h n a k a	chim1309	1233	10.1902	-74.2559		0	0	?
 1624	80_night	NIGHT	Chibcha	Chibcha	tsa	tsa	t s a	chib1270	1233	6.24999	-74.1666		0	0	?
-1625	80_night	NIGHT	CentralTunebo	Central Tunebo	'ʃejkaɾa	'ʃejkaɾa	ʃ e j k a ɾ a	cent2150	1233	6.8867	-72.097		0	0	?
+1625	80_night	NIGHT	CentralTunebo	Central Tunebo	'ʃejkaɾa	'ʃejkaɾa	'ʃ/ʃ e j k a ɾ a	cent2150	1233	6.8867	-72.097		0	0	?
 1626	80_night	NIGHT	Bari	Barí	sẽẽ	sẽẽ	s ẽ ẽ	bari1297	1233	9.08497	-72.9353		0	0	?
 #
 1580	35_no	NO	LencaSalvador	Lenca-Salvador	ke	ke	k e	lenc1242	1269	13.56	-87.5		0	0	?
@@ -1745,7 +1745,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1598	35_no	NO	Malayo	Malayo	ung	ung	u n g	mala1522	1269	10.9286	-73.4056		0	0	?
 1599	35_no	NO	Chimila	Chimila	dʒumma	dʒumma	dʒ u m m a	chim1309	1269	10.1902	-74.2559		0	0	?
 1600	35_no	NO	Chibcha	Chibcha	tsa	tsa	t s a	chib1270	1269	6.24999	-74.1666		0	0	?
-1601	35_no	NO	CentralTunebo	Central Tunebo	'baɾ	'baɾ	b a ɾ	cent2150	1269	6.8867	-72.097		0	0	?
+1601	35_no	NO	CentralTunebo	Central Tunebo	'baɾ	'baɾ	'b/b a ɾ	cent2150	1269	6.8867	-72.097		0	0	?
 1602	35_no	NO	Bari	Barí	akkaba	akkaba	a k k a b a	bari1297	1269	9.08497	-72.9353		0	0	?
 #
 1508	58_nose	NOSE	LencaSalvador	Lenca-Salvador	nepkuɾu	nepkuɾu	n e p k u ɾ u	lenc1242	1221	13.56	-87.5		0	0	?
@@ -1765,12 +1765,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1522	58_nose	NOSE	Buglere	Buglere	se	se	s e	bugl1243	1221	8.57695	-81.25648		0	0	?
 1523	58_nose	NOSE	Dorasque	Dorasque	nekó	nekó	n e k ó/o	dora1242	1221	8.567442	-82.375717		0	0	?
 1524	58_nose	NOSE	SanBlasKuna	San Blas Kuna	asu	asu	a s u	sanb1242	1221	9.15686	-78.3075		0	0	?
-1525	58_nose	NOSE	Cogui	Cogui	hũ'nũkala	hũ'nũkala	h ũ n ũ k a l a	cogu1240	1221	10.9485	-73.8043		0	0	?
-1526	58_nose	NOSE	Arhuaco	Arhuaco	mi'suŋɨ	mi'suŋɨ	m i s u ŋ ɨ	arhu1242	1221	10.7018	-73.6363		0	0	?
-1527	58_nose	NOSE	Malayo	Malayo	mĩʃu'a	mĩʃu'a	m ĩ ʃ u a	mala1522	1221	10.9286	-73.4056		0	0	?
+1525	58_nose	NOSE	Cogui	Cogui	hũ'nũkala	hũ'nũkala	h ũ 'n/n ũ k a l a	cogu1240	1221	10.9485	-73.8043		0	0	?
+1526	58_nose	NOSE	Arhuaco	Arhuaco	mi'suŋɨ	mi'suŋɨ	m i 's/s u ŋ ɨ	arhu1242	1221	10.7018	-73.6363		0	0	?
+1527	58_nose	NOSE	Malayo	Malayo	mĩʃu'a	mĩʃu'a	m ĩ ʃ u 'a/a	mala1522	1221	10.9286	-73.4056		0	0	?
 1528	58_nose	NOSE	Chimila	Chimila	da:	da:	d a:	chim1309	1221	10.1902	-74.2559		0	0	?
 1529	58_nose	NOSE	Chibcha	Chibcha	saka	saka	s a k a	chib1270	1221	6.24999	-74.1666		0	0	?
-1530	58_nose	NOSE	CentralTunebo	Central Tunebo	'reʃa	'reʃa	r e ʃ a	cent2150	1221	6.8867	-72.097		0	0	?
+1530	58_nose	NOSE	CentralTunebo	Central Tunebo	'reʃa	'reʃa	'r/r e ʃ a	cent2150	1221	6.8867	-72.097		0	0	?
 1531	58_nose	NOSE	Bari	Barí	nissa	nissa	n i s s a	bari1297	1221	9.08497	-72.9353		0	0	?
 #
 2536	21_old	OLD	LencaSalvador	Lenca-Salvador	koko	koko	k o k o	lenc1242	1229	13.56	-87.5		0	0	?
@@ -1791,11 +1791,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2551	21_old	OLD	Dorasque	Dorasque	taré	taré	t a r é/e	dora1242	1229	8.567442	-82.375717		0	0	?
 2552	21_old	OLD	SanBlasKuna	San Blas Kuna	seɾeti	seɾeti	s e ɾ e t i	sanb1242	1229	9.15686	-78.3075		0	0	?
 2553	21_old	OLD	Cogui	Cogui	tuma	tuma	t u m a	cogu1240	1229	10.9485	-73.8043		0	0	?
-2554	21_old	OLD	Arhuaco	Arhuaco	a'tʃənna	a'tʃənna	a tʃ ə n n a	arhu1242	1229	10.7018	-73.6363		0	0	?
+2554	21_old	OLD	Arhuaco	Arhuaco	a'tʃənna	a'tʃənna	a 't/t ʃ ə n n a	arhu1242	1229	10.7018	-73.6363		0	0	?
 2555	21_old	OLD	Malayo	Malayo	ɨttɨna	ɨttɨna	ɨ t t ɨ n a	mala1522	1229	10.9286	-73.4056		0	0	?
 2556	21_old	OLD	Chimila	Chimila	pe:naɾi	pe:naɾi	p e: n a ɾ i	chim1309	1229	10.1902	-74.2559		0	0	?
 2557	21_old	OLD	Chibcha	Chibcha	saka	saka	s a k a	chib1270	1229	6.24999	-74.1666		0	0	?
-2558	21_old	OLD	CentralTunebo	Central Tunebo	'kumatɾo	'kumatɾo	k u m a t ɾ o	cent2150	1229	6.8867	-72.097		0	0	?
+2558	21_old	OLD	CentralTunebo	Central Tunebo	'kumatɾo	'kumatɾo	'k/k u m a t ɾ o	cent2150	1229	6.8867	-72.097		0	0	?
 2559	21_old	OLD	Bari	Barí	sakdou	sakdou	s a k d o u	bari1297	1229	9.08497	-72.9353		0	0	?
 #
 2417	44_one	ONE	LencaSalvador	Lenca-Salvador	pis	pis	p i s	lenc1242	1493	13.56	-87.5		0	0	?
@@ -1815,15 +1815,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2431	44_one	ONE	Buglere	Buglere	ite	ite	i t e	bugl1243	1493	8.57695	-81.25648		0	0	?
 2432	44_one	ONE	Dorasque	Dorasque	e	e	e	dora1242	1493	8.567442	-82.375717		0	0	?
 2433	44_one	ONE	SanBlasKuna	San Blas Kuna	kwenna	kwenna	k w e n n a	sanb1242	1493	9.15686	-78.3075		0	0	?
-2434	44_one	ONE	Cogui	Cogui	'ezua	'ezua	e z u a	cogu1240	1493	10.9485	-73.8043		0	0	?
-2435	44_one	ONE	Arhuaco	Arhuaco	'inʔgwi	'inʔgwi	i n ʔ g w i	arhu1242	1493	10.7018	-73.6363		0	0	?
+2434	44_one	ONE	Cogui	Cogui	'ezua	'ezua	'e/e z u a	cogu1240	1493	10.9485	-73.8043		0	0	?
+2435	44_one	ONE	Arhuaco	Arhuaco	'inʔgwi	'inʔgwi	'i/i n ʔ g w i	arhu1242	1493	10.7018	-73.6363		0	0	?
 2436	44_one	ONE	Malayo	Malayo	ingwi	ingwi	i n g w i	mala1522	1493	10.9286	-73.4056		0	0	?
 2437	44_one	ONE	Chimila	Chimila	te	te	t e	chim1309	1493	10.1902	-74.2559		0	0	?
 2438	44_one	ONE	Chibcha	Chibcha	ata	ata	a t a	chib1270	1493	6.24999	-74.1666		0	0	?
-2439	44_one	ONE	CentralTunebo	Central Tunebo	'ubistia	'ubistia	u b i s t i a	cent2150	1493	6.8867	-72.097		0	0	?
+2439	44_one	ONE	CentralTunebo	Central Tunebo	'ubistia	'ubistia	'u/u b i s t i a	cent2150	1493	6.8867	-72.097		0	0	?
 2440	44_one	ONE	Bari	Barí	ĩtou.	ĩtou.	ĩ t o u	bari1297	1493	9.08497	-72.9353		0	0	?
 #
-409	87_path	PATH	LencaSalvador	Lenca-Salvador	k'in	k'in	k i n	lenc1242	2252	13.56	-87.5		0	0	?
+409	87_path	PATH	LencaSalvador	Lenca-Salvador	k'in	k'in	k 'i/i n	lenc1242	2252	13.56	-87.5		0	0	?
 410	87_path	PATH	LencaHonduras	Lenca-Honduras	kin	kin	k i n	lenc1243	2252	13.67	-88.11		0	0	?
 411	87_path	PATH	Cacaopera	Cacaopera	lap	lap	l a p	caca1247	2252	13.74	-88.11		0	0	?
 412	87_path	PATH	Mayangna	Mayangna	ta:	ta:	t a:	maya1285	2252	14.13	-84.34		0	0	?
@@ -1838,14 +1838,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 421	87_path	PATH	Teribe	Teribe	i᷅ɾbóbòŋ	i᷅ɾbóbòŋ	i᷅/i ɾ b ó/o b ò/o ŋ	teri1250	2252	9.067	-82.9631		0	0	?
 422	87_path	PATH	Ngabere	Ngäbere	hi	hi	h i	ngab1239	2252	8.8251	-82.3911		0	0	?
 423	87_path	PATH	Buglere	Buglere	ho	ho	h o	bugl1243	2252	8.57695	-81.25648		0	0	?
-424	87_path	PATH	Dorasque	Dorasque	ʃi'ta	ʃi'ta	ʃ i t a	dora1242	2252	8.567442	-82.375717		0	0	?
+424	87_path	PATH	Dorasque	Dorasque	ʃi'ta	ʃi'ta	ʃ i 't/t a	dora1242	2252	8.567442	-82.375717		0	0	?
 425	87_path	PATH	SanBlasKuna	San Blas Kuna	ikala	ikala	i k a l a	sanb1242	2252	9.15686	-78.3075		0	0	?
-426	87_path	PATH	Cogui	Cogui	'hiũgula	'hiũgula	h i ũ g u l a	cogu1240	2252	10.9485	-73.8043		0	0	?
-427	87_path	PATH	Arhuaco	Arhuaco	'ingwənɨ	'ingwənɨ	i n g w ə n ɨ	arhu1242	2252	10.7018	-73.6363		0	0	?
+426	87_path	PATH	Cogui	Cogui	'hiũgula	'hiũgula	'h/h i ũ g u l a	cogu1240	2252	10.9485	-73.8043		0	0	?
+427	87_path	PATH	Arhuaco	Arhuaco	'ingwənɨ	'ingwənɨ	'i/i n g w ə n ɨ	arhu1242	2252	10.7018	-73.6363		0	0	?
 428	87_path	PATH	Malayo	Malayo	inguna	inguna	i n g u n a	mala1522	2252	10.9286	-73.4056		0	0	?
 429	87_path	PATH	Chimila	Chimila	hi:	hi:	h i:	chim1309	2252	10.1902	-74.2559		0	0	?
 430	87_path	PATH	Chibcha	Chibcha	ie	ie	i e	chib1270	2252	6.24999	-74.1666		0	0	?
-431	87_path	PATH	CentralTunebo	Central Tunebo	'ibita	'ibita	i b i t a	cent2150	2252	6.8867	-72.097		0	0	?
+431	87_path	PATH	CentralTunebo	Central Tunebo	'ibita	'ibita	'i/i b i t a	cent2150	2252	6.8867	-72.097		0	0	?
 432	87_path	PATH	Bari	Barí	sikɨ	sikɨ	s i k ɨ	bari1297	2252	9.08497	-72.9353		0	0	?
 #
 2106	16_red	RED	LencaSalvador	Lenca-Salvador	wesaN	wesaN	w e s a n	lenc1242	156	13.56	-87.5		0	0	?
@@ -1870,10 +1870,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2125	16_red	RED	Malayo	Malayo	ɨnzisi	ɨnzisi	ɨ n z i s i	mala1522	156	10.9286	-73.4056		0	0	?
 2126	16_red	RED	Chimila	Chimila	kɾo:	kɾo:	k ɾ o:	chim1309	156	10.1902	-74.2559		0	0	?
 2127	16_red	RED	Chibcha	Chibcha	hiiso	hiiso	h i i s o	chib1270	156	6.24999	-74.1666		0	0	?
-2128	16_red	RED	CentralTunebo	Central Tunebo	bu'wajɾo	bu'wajɾo	b u w a j ɾ o	cent2150	156	6.8867	-72.097		0	0	?
+2128	16_red	RED	CentralTunebo	Central Tunebo	bu'wajɾo	bu'wajɾo	b u 'w/w a j ɾ o	cent2150	156	6.8867	-72.097		0	0	?
 2129	16_red	RED	Bari	Barí	tukdaɲou	tukdaɲou	t u k d a ɲ o u	bari1297	156	9.08497	-72.9353		0	0	?
 #
-2177	43_salt	SALT	LencaSalvador	Lenca-Salvador	ts'epe	ts'epe	t s e p e	lenc1242	1274	13.56	-87.5		0	0	?
+2177	43_salt	SALT	LencaSalvador	Lenca-Salvador	ts'epe	ts'epe	t s 'e/e p e	lenc1242	1274	13.56	-87.5		0	0	?
 2178	43_salt	SALT	LencaHonduras	Lenca-Honduras	sepe	sepe	s e p e	lenc1243	1274	13.67	-88.11		0	0	?
 2179	43_salt	SALT	Cacaopera	Cacaopera	jabulu	jabulu	j a b u l u	caca1247	1274	13.74	-88.11		0	0	?
 2180	43_salt	SALT	Mayangna	Mayangna	kuma	kuma	k u m a	maya1285	1274	14.13	-84.34		0	0	?
@@ -1891,11 +1891,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2192	43_salt	SALT	Dorasque	Dorasque	báli	báli	b á/a l i	dora1242	1274	8.567442	-82.375717		0	0	?
 2193	43_salt	SALT	SanBlasKuna	San Blas Kuna	palu	palu	p a l u	sanb1242	1274	9.15686	-78.3075		0	0	?
 2194	43_salt	SALT	Cogui	Cogui	naku	naku	n a k u	cogu1240	1274	10.9485	-73.8043		0	0	?
-2195	43_salt	SALT	Arhuaco	Arhuaco	'nəggwɨ	'nəggwɨ	n ə g g w ɨ	arhu1242	1274	10.7018	-73.6363		0	0	?
+2195	43_salt	SALT	Arhuaco	Arhuaco	'nəggwɨ	'nəggwɨ	'n/n ə g g w ɨ	arhu1242	1274	10.7018	-73.6363		0	0	?
 2196	43_salt	SALT	Malayo	Malayo	nɨngu	nɨngu	n ɨ n g u	mala1522	1274	10.9286	-73.4056		0	0	?
-2197	43_salt	SALT	Chimila	Chimila	'no:ʔmarinda	'no:ʔmarinda	n o: ʔ m a r i n d a	chim1309	1274	10.1902	-74.2559		0	0	?
+2197	43_salt	SALT	Chimila	Chimila	'no:ʔmarinda	'no:ʔmarinda	'n/n o: ʔ m a r i n d a	chim1309	1274	10.1902	-74.2559		0	0	?
 2198	43_salt	SALT	Chibcha	Chibcha	nɨgua	nɨgua	n ɨ g u a	chib1270	1274	6.24999	-74.1666		0	0	?
-2199	43_salt	SALT	CentralTunebo	Central Tunebo	'ɾauwa	'ɾauwa	ɾ a u w a	cent2150	1274	6.8867	-72.097		0	0	?
+2199	43_salt	SALT	CentralTunebo	Central Tunebo	'ɾauwa	'ɾauwa	'ɾ/ɾ a u w a	cent2150	1274	6.8867	-72.097		0	0	?
 2200	43_salt	SALT	Bari	Barí	sabi	sabi	s a b i	bari1297	1274	9.08497	-72.9353		0	0	?
 #
 97	1_sand	SAND	LencaSalvador	Lenca-Salvador	miʃea	miʃea	m i ʃ e a	lenc1242	671	13.56	-87.5		0	0	?
@@ -1915,12 +1915,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 111	1_sand	SAND	Buglere	Buglere	uba	uba	u b a	bugl1243	671	8.57695	-81.25648		0	0	?
 112	1_sand	SAND	Dorasque	Dorasque	hálgu	hálgu	h á/a l g u	dora1242	671	8.567442	-82.375717		0	0	?
 113	1_sand	SAND	SanBlasKuna	San Blas Kuna	ukkuppa	ukkuppa	u k k u p p a	sanb1242	671	9.15686	-78.3075		0	0	?
-114	1_sand	SAND	Cogui	Cogui	'ui	'ui	u i	cogu1240	671	10.9485	-73.8043		0	0	?
-115	1_sand	SAND	Arhuaco	Arhuaco	'uzu	'uzu	u z u	arhu1242	671	10.7018	-73.6363		0	0	?
+114	1_sand	SAND	Cogui	Cogui	'ui	'ui	'u/u i	cogu1240	671	10.9485	-73.8043		0	0	?
+115	1_sand	SAND	Arhuaco	Arhuaco	'uzu	'uzu	'u/u z u	arhu1242	671	10.7018	-73.6363		0	0	?
 116	1_sand	SAND	Malayo	Malayo	unʒu	unʒu	u n ʒ u	mala1522	671	10.9286	-73.4056		0	0	?
 117	1_sand	SAND	Chimila	Chimila	saʔssaɾi	saʔssaɾi	s a ʔ s s a ɾ i	chim1309	671	10.1902	-74.2559		0	0	?
 118	1_sand	SAND	Chibcha	Chibcha	ɣuantsa	ɣuantsa	ɣ u a n t s a	chib1270	671	6.24999	-74.1666		0	0	?
-119	1_sand	SAND	CentralTunebo	Central Tunebo	'umita	'umita	u m i t a	cent2150	671	6.8867	-72.097		0	0	?
+119	1_sand	SAND	CentralTunebo	Central Tunebo	'umita	'umita	'u/u m i t a	cent2150	671	6.8867	-72.097		0	0	?
 120	1_sand	SAND	Bari	Barí	ũda	ũda	ũ d a	bari1297	671	9.08497	-72.9353		0	0	?
 #
 721	82_say	SAY	LencaSalvador	Lenca-Salvador	aj	aj	a j	lenc1242	1458	13.56	-87.5		0	0	?
@@ -1939,12 +1939,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 734	82_say	SAY	Ngabere	Ngäbere	ŋeɾe	ŋeɾe	ŋ e ɾ e	ngab1239	1458	8.8251	-82.3911		0	0	?
 735	82_say	SAY	Buglere	Buglere	dgwenedu	dgwenedu	d g w e n e d u	bugl1243	1458	8.57695	-81.25648		0	0	?
 736	82_say	SAY	SanBlasKuna	San Blas Kuna	soke	soke	s o k e	sanb1242	1458	9.15686	-78.3075		0	0	?
-737	82_say	SAY	Cogui	Cogui	'guaʃ	'guaʃ	g u a ʃ	cogu1240	1458	10.9485	-73.8043		0	0	?
+737	82_say	SAY	Cogui	Cogui	'guaʃ	'guaʃ	'g/g u a ʃ	cogu1240	1458	10.9485	-73.8043		0	0	?
 738	82_say	SAY	Arhuaco	Arhuaco	gwak	gwak	g w a k	arhu1242	1458	10.7018	-73.6363		0	0	?
 739	82_say	SAY	Malayo	Malayo	gwaʃ	gwaʃ	g w a ʃ	mala1522	1458	10.9286	-73.4056		0	0	?
 740	82_say	SAY	Chimila	Chimila	dʒakk	dʒakk	dʒ a k k	chim1309	1458	10.1902	-74.2559		0	0	?
 741	82_say	SAY	Chibcha	Chibcha	gu	gu	g u	chib1270	1458	6.24999	-74.1666		0	0	?
-742	82_say	SAY	CentralTunebo	Central Tunebo	wa'ki	wa'ki	w a k i	cent2150	1458	6.8867	-72.097		0	0	?
+742	82_say	SAY	CentralTunebo	Central Tunebo	wa'ki	wa'ki	w a 'k/k i	cent2150	1458	6.8867	-72.097		0	0	?
 743	82_say	SAY	Bari	Barí	ib	ib	i b	bari1297	1458	9.08497	-72.9353		0	0	?
 #
 2488	103_see	SEE	LencaSalvador	Lenca-Salvador	yot	yot	y o t	lenc1242	1409	13.56	-87.5		0	0	?
@@ -1965,11 +1965,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2503	103_see	SEE	Dorasque	Dorasque	okosí	okosí	o k o s í/i	dora1242	1409	8.567442	-82.375717		0	0	?
 2504	103_see	SEE	SanBlasKuna	San Blas Kuna	takke	takke	t a k k e	sanb1242	1409	9.15686	-78.3075		0	0	?
 2505	103_see	SEE	Cogui	Cogui	tũ	tũ	t ũ	cogu1240	1409	10.9485	-73.8043		0	0	?
-2506	103_see	SEE	Arhuaco	Arhuaco	'tʃw	'tʃw	tʃ w	arhu1242	1409	10.7018	-73.6363		0	0	?
-2507	103_see	SEE	Malayo	Malayo	tu'a	tu'a	t u a	mala1522	1409	10.9286	-73.4056		0	0	?
+2506	103_see	SEE	Arhuaco	Arhuaco	'tʃw	'tʃw	't/t ʃ w	arhu1242	1409	10.7018	-73.6363		0	0	?
+2507	103_see	SEE	Malayo	Malayo	tu'a	tu'a	t u 'a/a	mala1522	1409	10.9286	-73.4056		0	0	?
 2508	103_see	SEE	Chimila	Chimila	tu:	tu:	t u:	chim1309	1409	10.1902	-74.2559		0	0	?
 2509	103_see	SEE	Chibcha	Chibcha	ihistɨ	ihistɨ	i h i s t ɨ	chib1270	1409	6.24999	-74.1666		0	0	?
-2510	103_see	SEE	CentralTunebo	Central Tunebo	is'ti	is'ti	i s t i	cent2150	1409	6.8867	-72.097		0	0	?
+2510	103_see	SEE	CentralTunebo	Central Tunebo	is'ti	is'ti	i s 't/t i	cent2150	1409	6.8867	-72.097		0	0	?
 2511	103_see	SEE	Bari	Barí	ma:di	ma:di	m a: d i	bari1297	1409	9.08497	-72.9353		0	0	?
 #
 433	34_sing	SING	LencaSalvador	Lenca-Salvador	ihwa	ihwa	i h w a	lenc1242	1261	13.56	-87.5		0	0	?
@@ -1989,12 +1989,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 447	34_sing	SING	Buglere	Buglere	mo gate	mo gate	m o + g a t e	bugl1243	1261	8.57695	-81.25648		0	0	?
 448	34_sing	SING	Dorasque	Dorasque	kayi	kayi	k a y i	dora1242	1261	8.567442	-82.375717		0	0	?
 449	34_sing	SING	SanBlasKuna	San Blas Kuna	namakke	namakke	n a m a k k e	sanb1242	1261	9.15686	-78.3075		0	0	?
-450	34_sing	SING	Cogui	Cogui	'mai	'mai	m a i	cogu1240	1261	10.9485	-73.8043		0	0	?
-451	34_sing	SING	Arhuaco	Arhuaco	za'maʒ	za'maʒ	z a m a ʒ	arhu1242	1261	10.7018	-73.6363		0	0	?
+450	34_sing	SING	Cogui	Cogui	'mai	'mai	'm/m a i	cogu1240	1261	10.9485	-73.8043		0	0	?
+451	34_sing	SING	Arhuaco	Arhuaco	za'maʒ	za'maʒ	z a 'm/m a ʒ	arhu1242	1261	10.7018	-73.6363		0	0	?
 452	34_sing	SING	Malayo	Malayo	ʒamai	ʒamai	ʒ a m a i	mala1522	1261	10.9286	-73.4056		0	0	?
 453	34_sing	SING	Chimila	Chimila	kitta	kitta	k i t t a	chim1309	1261	10.1902	-74.2559		0	0	?
 454	34_sing	SING	Chibcha	Chibcha	tɨ	tɨ	t ɨ	chib1270	1261	6.24999	-74.1666		0	0	?
-455	34_sing	SING	CentralTunebo	Central Tunebo	'ta	'ta	t a	cent2150	1261	6.8867	-72.097		0	0	?
+455	34_sing	SING	CentralTunebo	Central Tunebo	'ta	'ta	't/t a	cent2150	1261	6.8867	-72.097		0	0	?
 456	34_sing	SING	Bari	Barí	tiba:	tiba:	t i b a:	bari1297	1261	9.08497	-72.9353		0	0	?
 #
 1054	88_sister	SISTER	LencaSalvador	Lenca-Salvador	peleh	peleh	p e l e h	lenc1242	1263	13.56	-87.5		0	0	?
@@ -2011,15 +2011,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1065	88_sister	SISTER	Cabecar	Cabécar	kutà	kutà	k u t à/a	cabe1245	1263	9.67031	-83.4102		0	0	?
 1066	88_sister	SISTER	Teribe	Teribe	dóɾ	dóɾ	d ó/o ɾ	teri1250	1263	9.067	-82.9631		0	0	?
 1067	88_sister	SISTER	Ngabere	Ngäbere	ŋuãĩ	ŋuãĩ	ŋ u ã ĩ	ngab1239	1263	8.8251	-82.3911		0	0	?
-1068	88_sister	SISTER	Buglere	Buglere	da'baia	da'baia	d a b a i a	bugl1243	1263	8.57695	-81.25648		0	0	?
+1068	88_sister	SISTER	Buglere	Buglere	da'baia	da'baia	d a 'b/b a i a	bugl1243	1263	8.57695	-81.25648		0	0	?
 1069	88_sister	SISTER	Dorasque	Dorasque	bek	bek	b e k	dora1242	1263	8.567442	-82.375717		0	0	?
 1070	88_sister	SISTER	SanBlasKuna	San Blas Kuna	puna	puna	p u n a	sanb1242	1263	9.15686	-78.3075		0	0	?
-1071	88_sister	SISTER	Cogui	Cogui	'nu	'nu	n u	cogu1240	1263	10.9485	-73.8043		0	0	?
-1072	88_sister	SISTER	Arhuaco	Arhuaco	'zati	'zati	z a t i	arhu1242	1263	10.7018	-73.6363		0	0	?
-1073	88_sister	SISTER	Malayo	Malayo	'asi	'asi	a s i	mala1522	1263	10.9286	-73.4056		0	0	?
+1071	88_sister	SISTER	Cogui	Cogui	'nu	'nu	'n/n u	cogu1240	1263	10.9485	-73.8043		0	0	?
+1072	88_sister	SISTER	Arhuaco	Arhuaco	'zati	'zati	'z/z a t i	arhu1242	1263	10.7018	-73.6363		0	0	?
+1073	88_sister	SISTER	Malayo	Malayo	'asi	'asi	'a/a s i	mala1522	1263	10.9286	-73.4056		0	0	?
 1074	88_sister	SISTER	Chimila	Chimila	dʒe:	dʒe:	dʒ e:	chim1309	1263	10.1902	-74.2559		0	0	?
 1075	88_sister	SISTER	Chibcha	Chibcha	ɣuahatsa	ɣuahatsa	ɣ u a h a t s a	chib1270	1263	6.24999	-74.1666		0	0	?
-1076	88_sister	SISTER	CentralTunebo	Central Tunebo	ʃi'ta	ʃi'ta	ʃ i t a	cent2150	1263	6.8867	-72.097		0	0	?
+1076	88_sister	SISTER	CentralTunebo	Central Tunebo	ʃi'ta	ʃi'ta	ʃ i 't/t a	cent2150	1263	6.8867	-72.097		0	0	?
 1077	88_sister	SISTER	Bari	Barí	sí	sí	s í/i	bari1297	1263	9.08497	-72.9353		0	0	?
 #
 768	14_sleep	SLEEP	LencaSalvador	Lenca-Salvador	pa	pa	p a	lenc1242	1585	13.56	-87.5		0	0	?
@@ -2039,15 +2039,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 782	14_sleep	SLEEP	Buglere	Buglere	gbe	gbe	g b e	bugl1243	1585	8.57695	-81.25648		0	0	?
 783	14_sleep	SLEEP	Dorasque	Dorasque	kabi	kabi	k a b i	dora1242	1585	8.567442	-82.375717		0	0	?
 784	14_sleep	SLEEP	SanBlasKuna	San Blas Kuna	kape	kape	k a p e	sanb1242	1585	9.15686	-78.3075		0	0	?
-785	14_sleep	SLEEP	Cogui	Cogui	ka'ba	ka'ba	k a b a	cogu1240	1585	10.9485	-73.8043		0	0	?
-786	14_sleep	SLEEP	Arhuaco	Arhuaco	'kəmm	'kəmm	k ə m m	arhu1242	1585	10.7018	-73.6363		0	0	?
+785	14_sleep	SLEEP	Cogui	Cogui	ka'ba	ka'ba	k a 'b/b a	cogu1240	1585	10.9485	-73.8043		0	0	?
+786	14_sleep	SLEEP	Arhuaco	Arhuaco	'kəmm	'kəmm	'k/k ə m m	arhu1242	1585	10.7018	-73.6363		0	0	?
 787	14_sleep	SLEEP	Malayo	Malayo	kɨũ	kɨũ	k ɨ ũ	mala1522	1585	10.9286	-73.4056		0	0	?
 788	14_sleep	SLEEP	Chimila	Chimila	sa:ɾa	sa:ɾa	s a: ɾ a	chim1309	1585	10.1902	-74.2559		0	0	?
 789	14_sleep	SLEEP	Chibcha	Chibcha	kɨβɨ	kɨβɨ	k ɨ β ɨ	chib1270	1585	6.24999	-74.1666		0	0	?
-790	14_sleep	SLEEP	CentralTunebo	Central Tunebo	'kami	'kami	k a m i	cent2150	1585	6.8867	-72.097		0	0	?
+790	14_sleep	SLEEP	CentralTunebo	Central Tunebo	'kami	'kami	'k/k a m i	cent2150	1585	6.8867	-72.097		0	0	?
 791	14_sleep	SLEEP	Bari	Barí	kab	kab	k a b	bari1297	1585	9.08497	-72.9353		0	0	?
 #
-1819	106_small	SMALL	LencaSalvador	Lenca-Salvador	ts'iriʃki	ts'iriʃki	t s i r i ʃ k i	lenc1242	1246	13.56	-87.5		0	0	?
+1819	106_small	SMALL	LencaSalvador	Lenca-Salvador	ts'iriʃki	ts'iriʃki	t s 'i/i r i ʃ k i	lenc1242	1246	13.56	-87.5		0	0	?
 1820	106_small	SMALL	LencaHonduras	Lenca-Honduras	pori	pori	p o r i	lenc1243	1246	13.67	-88.11		0	0	?
 1821	106_small	SMALL	Cacaopera	Cacaopera	tʃiki	tʃiki	tʃ i k i	caca1247	1246	13.74	-88.11		0	0	?
 1822	106_small	SMALL	Mayangna	Mayangna	bini	bini	b i n i	maya1285	1246	14.13	-84.34		0	0	?
@@ -2064,12 +2064,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1833	106_small	SMALL	Buglere	Buglere	soli	soli	s o l i	bugl1243	1246	8.57695	-81.25648		0	0	?
 1834	106_small	SMALL	Dorasque	Dorasque	chital	chital	c h i t a l	dora1242	1246	8.567442	-82.375717		0	0	?
 1835	106_small	SMALL	SanBlasKuna	San Blas Kuna	tottokwa	tottokwa	t o t t o k w a	sanb1242	1246	9.15686	-78.3075		0	0	?
-1836	106_small	SMALL	Cogui	Cogui	'nanguze	'nanguze	n a n g u z e	cogu1240	1246	10.9485	-73.8043		0	0	?
-1837	106_small	SMALL	Arhuaco	Arhuaco	in'gɨkawa	in'gɨkawa	i n g ɨ k a w a	arhu1242	1246	10.7018	-73.6363		0	0	?
-1838	106_small	SMALL	Malayo	Malayo	'akwia	'akwia	a k w i a	mala1522	1246	10.9286	-73.4056		0	0	?
-1839	106_small	SMALL	Chimila	Chimila	'dissu'tuʔ	'dissu'tuʔ	d i s s u t u ʔ	chim1309	1246	10.1902	-74.2559		0	0	?
+1836	106_small	SMALL	Cogui	Cogui	'nanguze	'nanguze	'n/n a n g u z e	cogu1240	1246	10.9485	-73.8043		0	0	?
+1837	106_small	SMALL	Arhuaco	Arhuaco	in'gɨkawa	in'gɨkawa	i n 'g/g ɨ k a w a	arhu1242	1246	10.7018	-73.6363		0	0	?
+1838	106_small	SMALL	Malayo	Malayo	'akwia	'akwia	'a/a k w i a	mala1522	1246	10.9286	-73.4056		0	0	?
+1839	106_small	SMALL	Chimila	Chimila	'dissu'tuʔ	'dissu'tuʔ	'd/d i s s u 't/t u ʔ	chim1309	1246	10.1902	-74.2559		0	0	?
 1840	106_small	SMALL	Chibcha	Chibcha	inɣe tsunɣa	inɣe tsunɣa	i n ɣ e + t s u n ɣ a	chib1270	1246	6.24999	-74.1666		0	0	?
-1841	106_small	SMALL	CentralTunebo	Central Tunebo	'konuɾo	'konuɾo	k o n u ɾ o	cent2150	1246	6.8867	-72.097		0	0	?
+1841	106_small	SMALL	CentralTunebo	Central Tunebo	'konuɾo	'konuɾo	'k/k o n u ɾ o	cent2150	1246	6.8867	-72.097		0	0	?
 1842	106_small	SMALL	Bari	Barí	baku	baku	b a k u	bari1297	1246	9.08497	-72.9353		0	0	?
 #
 1747	56_smell	SMELL	LencaSalvador	Lenca-Salvador	ʃuʃi	ʃuʃi	ʃ u ʃ i	lenc1242	2124	13.56	-87.5		0	0	?
@@ -2088,12 +2088,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1760	56_smell	SMELL	Ngabere	Ngäbere	ɾɔse	ɾɔse	ɾ ɔ s e	ngab1239	2124	8.8251	-82.3911		0	0	?
 1761	56_smell	SMELL	Buglere	Buglere	ɲáhwẽ	ɲáhwẽ	ɲ á/a h w ẽ	bugl1243	2124	8.57695	-81.25648		0	0	?
 1762	56_smell	SMELL	SanBlasKuna	San Blas Kuna	u	u	u	sanb1242	2124	9.15686	-78.3075		0	0	?
-1763	56_smell	SMELL	Cogui	Cogui	'hungu	'hungu	h u n g u	cogu1240	2124	10.9485	-73.8043		0	0	?
+1763	56_smell	SMELL	Cogui	Cogui	'hungu	'hungu	'h/h u n g u	cogu1240	2124	10.9485	-73.8043		0	0	?
 1764	56_smell	SMELL	Arhuaco	Arhuaco	ɾeʔbuss	ɾeʔbuss	ɾ e ʔ b u s s	arhu1242	2124	10.7018	-73.6363		0	0	?
 1765	56_smell	SMELL	Malayo	Malayo	nɨkɨnatuʒi	nɨkɨnatuʒi	n ɨ k ɨ n a t u ʒ i	mala1522	2124	10.9286	-73.4056		0	0	?
-1766	56_smell	SMELL	Chimila	Chimila	'mo:	'mo:	m o:	chim1309	2124	10.1902	-74.2559		0	0	?
+1766	56_smell	SMELL	Chimila	Chimila	'mo:	'mo:	'm/m o:	chim1309	2124	10.1902	-74.2559		0	0	?
 1767	56_smell	SMELL	Chibcha	Chibcha	mɨskɨ	mɨskɨ	m ɨ s k ɨ	chib1270	2124	6.24999	-74.1666		0	0	?
-1768	56_smell	SMELL	CentralTunebo	Central Tunebo	'ina jah	'ina jah	i n a + j a h	cent2150	2124	6.8867	-72.097		0	0	?
+1768	56_smell	SMELL	CentralTunebo	Central Tunebo	'ina jah	'ina jah	'i/i n a + j a h	cent2150	2124	6.8867	-72.097		0	0	?
 1769	56_smell	SMELL	Bari	Barí	atu	atu	a t u	bari1297	2124	9.08497	-72.9353		0	0	?
 #
 1174	7_smokeexhaust	SMOKE (EXHAUST)	LencaSalvador	Lenca-Salvador	mo	mo	m o	lenc1242	778	13.56	-87.5		0	0	?
@@ -2114,11 +2114,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1189	7_smokeexhaust	SMOKE (EXHAUST)	Dorasque	Dorasque	kébusa	kébusa	k é/e b u s a	dora1242	778	8.567442	-82.375717		0	0	?
 1190	7_smokeexhaust	SMOKE (EXHAUST)	SanBlasKuna	San Blas Kuna	wa:	wa:	w a:	sanb1242	778	9.15686	-78.3075		0	0	?
 1191	7_smokeexhaust	SMOKE (EXHAUST)	Cogui	Cogui	ihia	ihia	i h i a	cogu1240	778	10.9485	-73.8043		0	0	?
-1192	7_smokeexhaust	SMOKE (EXHAUST)	Arhuaco	Arhuaco	'zatʃa	'zatʃa	z a tʃ a	arhu1242	778	10.7018	-73.6363		0	0	?
+1192	7_smokeexhaust	SMOKE (EXHAUST)	Arhuaco	Arhuaco	'zatʃa	'zatʃa	'z/z a tʃ a	arhu1242	778	10.7018	-73.6363		0	0	?
 1193	7_smokeexhaust	SMOKE (EXHAUST)	Malayo	Malayo	suta	suta	s u t a	mala1522	778	10.9286	-73.4056		0	0	?
-1194	7_smokeexhaust	SMOKE (EXHAUST)	Chimila	Chimila	'iŋŋaʔ	'iŋŋaʔ	i ŋ ŋ a ʔ	chim1309	778	10.1902	-74.2559		0	0	?
+1194	7_smokeexhaust	SMOKE (EXHAUST)	Chimila	Chimila	'iŋŋaʔ	'iŋŋaʔ	'i/i ŋ ŋ a ʔ	chim1309	778	10.1902	-74.2559		0	0	?
 1195	7_smokeexhaust	SMOKE (EXHAUST)	Chibcha	Chibcha	ie	ie	i e	chib1270	778	6.24999	-74.1666		0	0	?
-1196	7_smokeexhaust	SMOKE (EXHAUST)	CentralTunebo	Central Tunebo	'ijaɾa	'ijaɾa	i j a ɾ a	cent2150	778	6.8867	-72.097		0	0	?
+1196	7_smokeexhaust	SMOKE (EXHAUST)	CentralTunebo	Central Tunebo	'ijaɾa	'ijaɾa	'i/i j a ɾ a	cent2150	778	6.8867	-72.097		0	0	?
 1197	7_smokeexhaust	SMOKE (EXHAUST)	Bari	Barí	inakba	inakba	i n a k b a	bari1297	778	9.08497	-72.9353		0	0	?
 #
 2249	99_snake	SNAKE	LencaSalvador	Lenca-Salvador	amap	amap	a m a p	lenc1242	730	13.56	-87.5		0	0	?
@@ -2138,15 +2138,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2263	99_snake	SNAKE	Buglere	Buglere	hoɾisi	hoɾisi	h o ɾ i s i	bugl1243	730	8.57695	-81.25648		0	0	?
 2264	99_snake	SNAKE	Dorasque	Dorasque	buli	buli	b u l i	dora1242	730	8.567442	-82.375717		0	0	?
 2265	99_snake	SNAKE	SanBlasKuna	San Blas Kuna	nakpe	nakpe	n a k p e	sanb1242	730	9.15686	-78.3075		0	0	?
-2266	99_snake	SNAKE	Cogui	Cogui	'tagbi	'tagbi	t a g b i	cogu1240	730	10.9485	-73.8043		0	0	?
-2267	99_snake	SNAKE	Arhuaco	Arhuaco	gwi'omɨ	gwi'omɨ	g w i o m ɨ	arhu1242	730	10.7018	-73.6363		0	0	?
+2266	99_snake	SNAKE	Cogui	Cogui	'tagbi	'tagbi	't/t a g b i	cogu1240	730	10.9485	-73.8043		0	0	?
+2267	99_snake	SNAKE	Arhuaco	Arhuaco	gwi'omɨ	gwi'omɨ	g w i 'o/o m ɨ	arhu1242	730	10.7018	-73.6363		0	0	?
 2268	99_snake	SNAKE	Malayo	Malayo	guma	guma	g u m a	mala1522	730	10.9286	-73.4056		0	0	?
-2269	99_snake	SNAKE	Chimila	Chimila	'mannuʔ	'mannuʔ	m a n n u ʔ	chim1309	730	10.1902	-74.2559		0	0	?
+2269	99_snake	SNAKE	Chimila	Chimila	'mannuʔ	'mannuʔ	'm/m a n n u ʔ	chim1309	730	10.1902	-74.2559		0	0	?
 2270	99_snake	SNAKE	Chibcha	Chibcha	mɨso	mɨso	m ɨ s o	chib1270	730	6.24999	-74.1666		0	0	?
 2271	99_snake	SNAKE	Bari	Barí	tidu	tidu	t i d u	bari1297	730	9.08497	-72.9353		0	0	?
-2272	99_snake	SNAKE	CentralTunebo	Central Tunebo	kumoɾo'a	kumoɾo'a	k u m o ɾ o a	cent2150	730	6.8867	-72.097		0	0	?
+2272	99_snake	SNAKE	CentralTunebo	Central Tunebo	kumoɾo'a	kumoɾo'a	k u m o ɾ o 'a/a	cent2150	730	6.8867	-72.097		0	0	?
 #
-2584	92_stomach	STOMACH	LencaSalvador	Lenca-Salvador	k'omo	k'omo	k o m o	lenc1242	819	13.56	-87.5		0	0	?
+2584	92_stomach	STOMACH	LencaSalvador	Lenca-Salvador	k'omo	k'omo	k 'o/o m o	lenc1242	819	13.56	-87.5		0	0	?
 2585	92_stomach	STOMACH	LencaHonduras	Lenca-Honduras	maNkera	maNkera	m a n k e r a	lenc1243	819	13.67	-88.11		0	0	?
 2586	92_stomach	STOMACH	Cacaopera	Cacaopera	kawam	kawam	k a w a m	caca1247	819	13.74	-88.11		0	0	?
 2587	92_stomach	STOMACH	Mayangna	Mayangna	ba	ba	b a	maya1285	819	14.13	-84.34		0	0	?
@@ -2163,12 +2163,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2598	92_stomach	STOMACH	Buglere	Buglere	bdísuli	bdísuli	b d í/i s u l i	bugl1243	819	8.57695	-81.25648		0	0	?
 2599	92_stomach	STOMACH	Dorasque	Dorasque	korigú	korigú	k o r i g ú/u	dora1242	819	8.567442	-82.375717		0	0	?
 2600	92_stomach	STOMACH	SanBlasKuna	San Blas Kuna	sapana	sapana	s a p a n a	sanb1242	819	9.15686	-78.3075		0	0	?
-2601	92_stomach	STOMACH	Cogui	Cogui	'ʒiʒa	'ʒiʒa	ʒ i ʒ a	cogu1240	819	10.9485	-73.8043		0	0	?
-2602	92_stomach	STOMACH	Arhuaco	Arhuaco	'zunkənɨ	'zunkənɨ	z u n k ə n ɨ	arhu1242	819	10.7018	-73.6363		0	0	?
+2601	92_stomach	STOMACH	Cogui	Cogui	'ʒiʒa	'ʒiʒa	'ʒ/ʒ i ʒ a	cogu1240	819	10.9485	-73.8043		0	0	?
+2602	92_stomach	STOMACH	Arhuaco	Arhuaco	'zunkənɨ	'zunkənɨ	'z/z u n k ə n ɨ	arhu1242	819	10.7018	-73.6363		0	0	?
 2603	92_stomach	STOMACH	Malayo	Malayo	tɨmɨkɨna	tɨmɨkɨna	t ɨ m ɨ k ɨ n a	mala1522	819	10.9286	-73.4056		0	0	?
 2604	92_stomach	STOMACH	Chimila	Chimila	ke:ɾu	ke:ɾu	k e: ɾ u	chim1309	819	10.1902	-74.2559		0	0	?
 2605	92_stomach	STOMACH	Chibcha	Chibcha	ie	ie	i e	chib1270	819	6.24999	-74.1666		0	0	?
-2606	92_stomach	STOMACH	CentralTunebo	Central Tunebo	'jiɾa	'jiɾa	j i ɾ a	cent2150	819	6.8867	-72.097		0	0	?
+2606	92_stomach	STOMACH	CentralTunebo	Central Tunebo	'jiɾa	'jiɾa	'j/j i ɾ a	cent2150	819	6.8867	-72.097		0	0	?
 2607	92_stomach	STOMACH	Bari	Barí	i:si	i:si	i: s i	bari1297	819	9.08497	-72.9353		0	0	?
 #
 1937	13_stone	STONE	LencaSalvador	Lenca-Salvador	ke	ke	k e	lenc1242	857	13.56	-87.5		0	0	?
@@ -2188,12 +2188,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1951	13_stone	STONE	Buglere	Buglere	ke	ke	k e	bugl1243	857	8.57695	-81.25648		0	0	?
 1952	13_stone	STONE	Dorasque	Dorasque	agá	agá	a g á/a	dora1242	857	8.567442	-82.375717		0	0	?
 1953	13_stone	STONE	SanBlasKuna	San Blas Kuna	akkwa	akkwa	a k k w a	sanb1242	857	9.15686	-78.3075		0	0	?
-1954	13_stone	STONE	Cogui	Cogui	'hagi	'hagi	h a g i	cogu1240	857	10.9485	-73.8043		0	0	?
-1955	13_stone	STONE	Arhuaco	Arhuaco	'aʔnɨ	'aʔnɨ	a ʔ n ɨ	arhu1242	857	10.7018	-73.6363		0	0	?
+1954	13_stone	STONE	Cogui	Cogui	'hagi	'hagi	'h/h a g i	cogu1240	857	10.9485	-73.8043		0	0	?
+1955	13_stone	STONE	Arhuaco	Arhuaco	'aʔnɨ	'aʔnɨ	'a/a ʔ n ɨ	arhu1242	857	10.7018	-73.6363		0	0	?
 1956	13_stone	STONE	Malayo	Malayo	ɨgina	ɨgina	ɨ g i n a	mala1522	857	10.9286	-73.4056		0	0	?
 1957	13_stone	STONE	Chimila	Chimila	kɾe:kakwi	kɾe:kakwi	k ɾ e: k a k w i	chim1309	857	10.1902	-74.2559		0	0	?
 1958	13_stone	STONE	Chibcha	Chibcha	hɨka	hɨka	h ɨ k a	chib1270	857	6.24999	-74.1666		0	0	?
-1959	13_stone	STONE	CentralTunebo	Central Tunebo	a'ka	a'ka	a k a	cent2150	857	6.8867	-72.097		0	0	?
+1959	13_stone	STONE	CentralTunebo	Central Tunebo	a'ka	a'ka	a 'k/k a	cent2150	857	6.8867	-72.097		0	0	?
 1960	13_stone	STONE	Bari	Barí	ã:	ã:	ã:	bari1297	857	9.08497	-72.9353		0	0	?
 #
 2273	90_sun	SUN	LencaSalvador	Lenca-Salvador	jaʃa	jaʃa	j a ʃ a	lenc1242	1343	13.56	-87.5		0	0	?
@@ -2213,15 +2213,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2287	90_sun	SUN	Buglere	Buglere	tʃwi	tʃwi	tʃ w i	bugl1243	1343	8.57695	-81.25648		0	0	?
 2288	90_sun	SUN	Dorasque	Dorasque	kerél	kerél	k e r é/e l	dora1242	1343	8.567442	-82.375717		0	0	?
 2289	90_sun	SUN	SanBlasKuna	San Blas Kuna	tata	tata	t a t a	sanb1242	1343	9.15686	-78.3075		0	0	?
-2290	90_sun	SUN	Cogui	Cogui	'niui	'niui	n i u i	cogu1240	1343	10.9485	-73.8043		0	0	?
+2290	90_sun	SUN	Cogui	Cogui	'niui	'niui	'n/n i u i	cogu1240	1343	10.9485	-73.8043		0	0	?
 2291	90_sun	SUN	Arhuaco	Arhuaco	dʒwi	dʒwi	dʒ w i	arhu1242	1343	10.7018	-73.6363		0	0	?
-2292	90_sun	SUN	Malayo	Malayo	'dʒui	'dʒui	dʒ u i	mala1522	1343	10.9286	-73.4056		0	0	?
-2293	90_sun	SUN	Chimila	Chimila	'diŋŋaʔ	'diŋŋaʔ	d i ŋ ŋ a ʔ	chim1309	1343	10.1902	-74.2559		0	0	?
+2292	90_sun	SUN	Malayo	Malayo	'dʒui	'dʒui	'd/d ʒ u i	mala1522	1343	10.9286	-73.4056		0	0	?
+2293	90_sun	SUN	Chimila	Chimila	'diŋŋaʔ	'diŋŋaʔ	'd/d i ŋ ŋ a ʔ	chim1309	1343	10.1902	-74.2559		0	0	?
 2294	90_sun	SUN	Chibcha	Chibcha	sua	sua	s u a	chib1270	1343	6.24999	-74.1666		0	0	?
-2295	90_sun	SUN	CentralTunebo	Central Tunebo	'raʔsa	'raʔsa	r a ʔ s a	cent2150	1343	6.8867	-72.097		0	0	?
+2295	90_sun	SUN	CentralTunebo	Central Tunebo	'raʔsa	'raʔsa	'r/r a ʔ s a	cent2150	1343	6.8867	-72.097		0	0	?
 2296	90_sun	SUN	Bari	Barí	nia:	nia:	n i a:	bari1297	1343	9.08497	-72.9353		0	0	?
 #
-529	81_tail	TAIL	LencaSalvador	Lenca-Salvador	ts'oh	ts'oh	t s o h	lenc1242	1220	13.56	-87.5		0	0	?
+529	81_tail	TAIL	LencaSalvador	Lenca-Salvador	ts'oh	ts'oh	t s 'o/o h	lenc1242	1220	13.56	-87.5		0	0	?
 530	81_tail	TAIL	LencaHonduras	Lenca-Honduras	wan	wan	w a n	lenc1243	1220	13.67	-88.11		0	0	?
 531	81_tail	TAIL	Cacaopera	Cacaopera	kuna	kuna	k u n a	caca1247	1220	13.74	-88.11		0	0	?
 532	81_tail	TAIL	Mayangna	Mayangna	mamah	mamah	m a m a h	maya1285	1220	14.13	-84.34		0	0	?
@@ -2238,12 +2238,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 543	81_tail	TAIL	Buglere	Buglere	skugda	skugda	s k u g d a	bugl1243	1220	8.57695	-81.25648		0	0	?
 544	81_tail	TAIL	Dorasque	Dorasque	dug	dug	d u g	dora1242	1220	8.567442	-82.375717		0	0	?
 545	81_tail	TAIL	SanBlasKuna	San Blas Kuna	punnu	punnu	p u n n u	sanb1242	1220	9.15686	-78.3075		0	0	?
-546	81_tail	TAIL	Cogui	Cogui	'nugi	'nugi	n u g i	cogu1240	1220	10.9485	-73.8043		0	0	?
-547	81_tail	TAIL	Arhuaco	Arhuaco	'dʒoʔo	'dʒoʔo	dʒ o ʔ o	arhu1242	1220	10.7018	-73.6363		0	0	?
+546	81_tail	TAIL	Cogui	Cogui	'nugi	'nugi	'n/n u g i	cogu1240	1220	10.9485	-73.8043		0	0	?
+547	81_tail	TAIL	Arhuaco	Arhuaco	'dʒoʔo	'dʒoʔo	'd/d ʒ o ʔ o	arhu1242	1220	10.7018	-73.6363		0	0	?
 548	81_tail	TAIL	Malayo	Malayo	duʃkɨna	duʃkɨna	d u ʃ k ɨ n a	mala1522	1220	10.9286	-73.4056		0	0	?
 549	81_tail	TAIL	Chimila	Chimila	bukɾa	bukɾa	b u k ɾ a	chim1309	1220	10.1902	-74.2559		0	0	?
 550	81_tail	TAIL	Chibcha	Chibcha	suhuka	suhuka	s u h u k a	chib1270	1220	6.24999	-74.1666		0	0	?
-551	81_tail	TAIL	CentralTunebo	Central Tunebo	ɾusta'ɾa	ɾusta'ɾa	ɾ u s t a ɾ a	cent2150	1220	6.8867	-72.097		0	0	?
+551	81_tail	TAIL	CentralTunebo	Central Tunebo	ɾusta'ɾa	ɾusta'ɾa	ɾ u s t a 'ɾ/ɾ a	cent2150	1220	6.8867	-72.097		0	0	?
 552	81_tail	TAIL	Bari	Barí	anikku	anikku	a n i k k u	bari1297	1220	9.08497	-72.9353		0	0	?
 #
 1030	12_talk	TALK	LencaSalvador	Lenca-Salvador	ʃakini	ʃakini	ʃ a k i n i	lenc1242	2708	13.56	-87.5		0	0	?
@@ -2263,12 +2263,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1044	12_talk	TALK	Buglere	Buglere	geɾule	geɾule	g e ɾ u l e	bugl1243	2708	8.57695	-81.25648		0	0	?
 1045	12_talk	TALK	Dorasque	Dorasque	set	set	s e t	dora1242	2708	8.567442	-82.375717		0	0	?
 1046	12_talk	TALK	SanBlasKuna	San Blas Kuna	sunmakke	sunmakke	s u n m a k k e	sanb1242	2708	9.15686	-78.3075		0	0	?
-1047	12_talk	TALK	Cogui	Cogui	'neʃ	'neʃ	n e ʃ	cogu1240	2708	10.9485	-73.8043		0	0	?
+1047	12_talk	TALK	Cogui	Cogui	'neʃ	'neʃ	'n/n e ʃ	cogu1240	2708	10.9485	-73.8043		0	0	?
 1048	12_talk	TALK	Arhuaco	Arhuaco	asei	asei	a s e i	arhu1242	2708	10.7018	-73.6363		0	0	?
 1049	12_talk	TALK	Malayo	Malayo	ashé	ashé	a s h é/e	mala1522	2708	10.9286	-73.4056		0	0	?
 1050	12_talk	TALK	Chimila	Chimila	ta:ɾaŋ	ta:ɾaŋ	t a: ɾ a ŋ	chim1309	2708	10.1902	-74.2559		0	0	?
 1051	12_talk	TALK	Chibcha	Chibcha	kuβu	kuβu	k u β u	chib1270	2708	6.24999	-74.1666		0	0	?
-1052	12_talk	TALK	CentralTunebo	Central Tunebo	te'w̃inɾo	te'w̃inɾo	t e w̃ i n ɾ o	cent2150	2708	6.8867	-72.097		0	0	?
+1052	12_talk	TALK	CentralTunebo	Central Tunebo	te'w̃inɾo	te'w̃inɾo	t e 'w̃/w̃ i n ɾ o	cent2150	2708	6.8867	-72.097		0	0	?
 1053	12_talk	TALK	Bari	Barí	ana	ana	a n a	bari1297	2708	9.08497	-72.9353		0	0	?
 #
 864	98_this	THIS	LencaSalvador	Lenca-Salvador	inaga	inaga	i n a g a	lenc1242	1214	13.56	-87.5		0	0	?
@@ -2287,12 +2287,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 877	98_this	THIS	Ngabere	Ngäbere	ne	ne	n e	ngab1239	1214	8.8251	-82.3911		0	0	?
 878	98_this	THIS	Buglere	Buglere	ai	ai	a i	bugl1243	1214	8.57695	-81.25648		0	0	?
 879	98_this	THIS	SanBlasKuna	San Blas Kuna	we	we	w e	sanb1242	1214	9.15686	-78.3075		0	0	?
-880	98_this	THIS	Cogui	Cogui	'hale	'hale	h a l e	cogu1240	1214	10.9485	-73.8043		0	0	?
-881	98_this	THIS	Arhuaco	Arhuaco	'ema	'ema	e m a	arhu1242	1214	10.7018	-73.6363		0	0	?
+880	98_this	THIS	Cogui	Cogui	'hale	'hale	'h/h a l e	cogu1240	1214	10.9485	-73.8043		0	0	?
+881	98_this	THIS	Arhuaco	Arhuaco	'ema	'ema	'e/e m a	arhu1242	1214	10.7018	-73.6363		0	0	?
 882	98_this	THIS	Malayo	Malayo	ima	ima	i m a	mala1522	1214	10.9286	-73.4056		0	0	?
 883	98_this	THIS	Chimila	Chimila	naʔna	naʔna	n a ʔ n a	chim1309	1214	10.1902	-74.2559		0	0	?
 884	98_this	THIS	Chibcha	Chibcha	sisɨ	sisɨ	s i s ɨ	chib1270	1214	6.24999	-74.1666		0	0	?
-885	98_this	THIS	CentralTunebo	Central Tunebo	'uʃa	'uʃa	u ʃ a	cent2150	1214	6.8867	-72.097		0	0	?
+885	98_this	THIS	CentralTunebo	Central Tunebo	'uʃa	'uʃa	'u/u ʃ a	cent2150	1214	6.8867	-72.097		0	0	?
 886	98_this	THIS	Bari	Barí	inabãi	inabãi	i n a b ã i	bari1297	1214	9.08497	-72.9353		0	0	?
 #
 2393	23_thou	THOU	LencaSalvador	Lenca-Salvador	manani	manani	m a n a n i	lenc1242	1215	13.56	-87.5		0	0	?
@@ -2315,9 +2315,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2410	23_thou	THOU	Cogui	Cogui	ma	ma	m a	cogu1240	1215	10.9485	-73.8043		0	0	?
 2411	23_thou	THOU	Arhuaco	Arhuaco	ma	ma	m a	arhu1242	1215	10.7018	-73.6363		0	0	?
 2412	23_thou	THOU	Malayo	Malayo	ma	ma	m a	mala1522	1215	10.9286	-73.4056		0	0	?
-2413	23_thou	THOU	Chimila	Chimila	'amma	'amma	a m m a	chim1309	1215	10.1902	-74.2559		0	0	?
+2413	23_thou	THOU	Chimila	Chimila	'amma	'amma	'a/a m m a	chim1309	1215	10.1902	-74.2559		0	0	?
 2414	23_thou	THOU	Chibcha	Chibcha	mɨe	mɨe	m ɨ e	chib1270	1215	6.24999	-74.1666		0	0	?
-2415	23_thou	THOU	CentralTunebo	Central Tunebo	'baʔa	'baʔa	b a ʔ a	cent2150	1215	6.8867	-72.097		0	0	?
+2415	23_thou	THOU	CentralTunebo	Central Tunebo	'baʔa	'baʔa	'b/b a ʔ a	cent2150	1215	6.8867	-72.097		0	0	?
 2416	23_thou	THOU	Bari	Barí	bai	bai	b a i	bari1297	1215	9.08497	-72.9353		0	0	?
 #
 2345	30_three	THREE	LencaSalvador	Lenca-Salvador	lawa	lawa	l a w a	lenc1242	492	13.56	-87.5		0	0	?
@@ -2337,12 +2337,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2359	30_three	THREE	Buglere	Buglere	mai	mai	m a i	bugl1243	492	8.57695	-81.25648		0	0	?
 2360	30_three	THREE	Dorasque	Dorasque	mas	mas	m a s	dora1242	492	8.567442	-82.375717		0	0	?
 2361	30_three	THREE	SanBlasKuna	San Blas Kuna	pa:	pa:	p a:	sanb1242	492	9.15686	-78.3075		0	0	?
-2362	30_three	THREE	Cogui	Cogui	'maigua	'maigua	m a i g u a	cogu1240	492	10.9485	-73.8043		0	0	?
-2363	30_three	THREE	Arhuaco	Arhuaco	'maikənɨ	'maikənɨ	m a i k ə n ɨ	arhu1242	492	10.7018	-73.6363		0	0	?
+2362	30_three	THREE	Cogui	Cogui	'maigua	'maigua	'm/m a i g u a	cogu1240	492	10.9485	-73.8043		0	0	?
+2363	30_three	THREE	Arhuaco	Arhuaco	'maikənɨ	'maikənɨ	'm/m a i k ə n ɨ	arhu1242	492	10.7018	-73.6363		0	0	?
 2364	30_three	THREE	Malayo	Malayo	maigwa	maigwa	m a i g w a	mala1522	492	10.9286	-73.4056		0	0	?
 2365	30_three	THREE	Chimila	Chimila	ma:hna	ma:hna	m a: h n a	chim1309	492	10.1902	-74.2559		0	0	?
 2366	30_three	THREE	Chibcha	Chibcha	mika	mika	m i k a	chib1270	492	6.24999	-74.1666		0	0	?
-2367	30_three	THREE	CentralTunebo	Central Tunebo	'baja	'baja	b a j a	cent2150	492	6.8867	-72.097		0	0	?
+2367	30_three	THREE	CentralTunebo	Central Tunebo	'baja	'baja	'b/b a j a	cent2150	492	6.8867	-72.097		0	0	?
 2368	30_three	THREE	Bari	Barí	miktentɨkou	miktentɨkou	m i k t e n t ɨ k o u	bari1297	492	9.08497	-72.9353		0	0	?
 #
 1269	108_tongue	TONGUE	LencaSalvador	Lenca-Salvador	nepal	nepal	n e p a l	lenc1242	1205	13.56	-87.5		0	0	?
@@ -2362,12 +2362,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1283	108_tongue	TONGUE	Buglere	Buglere	kwiɾa	kwiɾa	k w i ɾ a	bugl1243	1205	8.57695	-81.25648		0	0	?
 1284	108_tongue	TONGUE	Dorasque	Dorasque	kuba	kuba	k u b a	dora1242	1205	8.567442	-82.375717		0	0	?
 1285	108_tongue	TONGUE	SanBlasKuna	San Blas Kuna	kwapinni	kwapinni	k w a p i n n i	sanb1242	1205	9.15686	-78.3075		0	0	?
-1286	108_tongue	TONGUE	Cogui	Cogui	hu'angala	hu'angala	h u a n g a l a	cogu1240	1205	10.9485	-73.8043		0	0	?
-1287	108_tongue	TONGUE	Arhuaco	Arhuaco	ko'ɾiʔgənɨ	ko'ɾiʔgənɨ	k o ɾ i ʔ g ə n ɨ	arhu1242	1205	10.7018	-73.6363		0	0	?
+1286	108_tongue	TONGUE	Cogui	Cogui	hu'angala	hu'angala	h u 'a/a n g a l a	cogu1240	1205	10.9485	-73.8043		0	0	?
+1287	108_tongue	TONGUE	Arhuaco	Arhuaco	ko'ɾiʔgənɨ	ko'ɾiʔgənɨ	k o 'ɾ/ɾ i ʔ g ə n ɨ	arhu1242	1205	10.7018	-73.6363		0	0	?
 1288	108_tongue	TONGUE	Malayo	Malayo	kongɨɾa	kongɨɾa	k o n g ɨ ɾ a	mala1522	1205	10.9286	-73.4056		0	0	?
-1289	108_tongue	TONGUE	Chimila	Chimila	ku'a:ʔ	ku'a:ʔ	k u a: ʔ	chim1309	1205	10.1902	-74.2559		0	0	?
+1289	108_tongue	TONGUE	Chimila	Chimila	ku'a:ʔ	ku'a:ʔ	k u 'a:/a: ʔ	chim1309	1205	10.1902	-74.2559		0	0	?
 1290	108_tongue	TONGUE	Chibcha	Chibcha	pkua	pkua	p k u a	chib1270	1205	6.24999	-74.1666		0	0	?
-1291	108_tongue	TONGUE	CentralTunebo	Central Tunebo	'kuwa	'kuwa	k u w a	cent2150	1205	6.8867	-72.097		0	0	?
+1291	108_tongue	TONGUE	CentralTunebo	Central Tunebo	'kuwa	'kuwa	'k/k u w a	cent2150	1205	6.8867	-72.097		0	0	?
 1292	108_tongue	TONGUE	Bari	Barí	kobẽ:	kobẽ:	k o b ẽ:	bari1297	1205	9.08497	-72.9353		0	0	?
 #
 744	25_tooth	TOOTH	LencaSalvador	Lenca-Salvador	neh	neh	n e h	lenc1242	1380	13.56	-87.5		0	0	?
@@ -2387,12 +2387,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 758	25_tooth	TOOTH	Buglere	Buglere	dau	dau	d a u	bugl1243	1380	8.57695	-81.25648		0	0	?
 759	25_tooth	TOOTH	Dorasque	Dorasque	su	su	s u	dora1242	1380	8.567442	-82.375717		0	0	?
 760	25_tooth	TOOTH	SanBlasKuna	San Blas Kuna	nukala	nukala	n u k a l a	sanb1242	1380	9.15686	-78.3075		0	0	?
-761	25_tooth	TOOTH	Cogui	Cogui	hu'ala	hu'ala	h u a l a	cogu1240	1380	10.9485	-73.8043		0	0	?
-762	25_tooth	TOOTH	Arhuaco	Arhuaco	'kəkkɨ	'kəkkɨ	k ə k k ɨ	arhu1242	1380	10.7018	-73.6363		0	0	?
-763	25_tooth	TOOTH	Malayo	Malayo	kɨ'kka	kɨ'kka	k ɨ k k a	mala1522	1380	10.9286	-73.4056		0	0	?
+761	25_tooth	TOOTH	Cogui	Cogui	hu'ala	hu'ala	h u 'a/a l a	cogu1240	1380	10.9485	-73.8043		0	0	?
+762	25_tooth	TOOTH	Arhuaco	Arhuaco	'kəkkɨ	'kəkkɨ	'k/k ə k k ɨ	arhu1242	1380	10.7018	-73.6363		0	0	?
+763	25_tooth	TOOTH	Malayo	Malayo	kɨ'kka	kɨ'kka	k ɨ 'k/k k a	mala1522	1380	10.9286	-73.4056		0	0	?
 764	25_tooth	TOOTH	Chimila	Chimila	di:	di:	d i:	chim1309	1380	10.1902	-74.2559		0	0	?
 765	25_tooth	TOOTH	Chibcha	Chibcha	sika	sika	s i k a	chib1270	1380	6.24999	-74.1666		0	0	?
-766	25_tooth	TOOTH	CentralTunebo	Central Tunebo	'ɾuʔɾa	'ɾuʔɾa	ɾ u ʔ ɾ a	cent2150	1380	6.8867	-72.097		0	0	?
+766	25_tooth	TOOTH	CentralTunebo	Central Tunebo	'ɾuʔɾa	'ɾuʔɾa	'ɾ/ɾ u ʔ ɾ a	cent2150	1380	6.8867	-72.097		0	0	?
 767	25_tooth	TOOTH	Bari	Barí	nunu:	nunu:	n u n u:	bari1297	1380	9.08497	-72.9353		0	0	?
 #
 73	107_tree	TREE	LencaSalvador	Lenca-Salvador	suN	suN	s u n	lenc1242	906	13.56	-87.5		0	0	?
@@ -2412,17 +2412,17 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 87	107_tree	TREE	Buglere	Buglere	gli	gli	g l i	bugl1243	906	8.57695	-81.25648		0	0	?
 88	107_tree	TREE	Dorasque	Dorasque	kalkála	kalkála	k a l k á/a l a	dora1242	906	8.567442	-82.375717		0	0	?
 89	107_tree	TREE	SanBlasKuna	San Blas Kuna	sappi	sappi	s a p p i	sanb1242	906	9.15686	-78.3075		0	0	?
-90	107_tree	TREE	Cogui	Cogui	'kali	'kali	k a l i	cogu1240	906	10.9485	-73.8043		0	0	?
+90	107_tree	TREE	Cogui	Cogui	'kali	'kali	'k/k a l i	cogu1240	906	10.9485	-73.8043		0	0	?
 91	107_tree	TREE	Arhuaco	Arhuaco	kən	kən	k ə n	arhu1242	906	10.7018	-73.6363		0	0	?
 92	107_tree	TREE	Malayo	Malayo	kɨn	kɨn	k ɨ n	mala1522	906	10.9286	-73.4056		0	0	?
 93	107_tree	TREE	Chimila	Chimila	ka:	ka:	k a:	chim1309	906	10.1902	-74.2559		0	0	?
 94	107_tree	TREE	Chibcha	Chibcha	kɨe	kɨe	k ɨ e	chib1270	906	6.24999	-74.1666		0	0	?
-95	107_tree	TREE	CentralTunebo	Central Tunebo	'kaɾukwa	'kaɾukwa	k a ɾ u k w a	cent2150	906	6.8867	-72.097		0	0	?
+95	107_tree	TREE	CentralTunebo	Central Tunebo	'kaɾukwa	'kaɾukwa	'k/k a ɾ u k w a	cent2150	906	6.8867	-72.097		0	0	?
 96	107_tree	TREE	Bari	Barí	kã:	kã:	k ã:	bari1297	906	9.08497	-72.9353		0	0	?
 #
 337	27_tumblefalldown	TUMBLE (FALL DOWN)	LencaSalvador	Lenca-Salvador	pit	pit	p i t	lenc1242	2894	13.56	-87.5		0	0	?
 338	27_tumblefalldown	TUMBLE (FALL DOWN)	LencaHonduras	Lenca-Honduras	kaɾau	kaɾau	k a ɾ a u	lenc1243	2894	13.67	-88.11		0	0	?
-339	27_tumblefalldown	TUMBLE (FALL DOWN)	Cacaopera	Cacaopera	winwa'jam	winwa'jam	w i n w a j a m	caca1247	2894	13.74	-88.11		0	0	?
+339	27_tumblefalldown	TUMBLE (FALL DOWN)	Cacaopera	Cacaopera	winwa'jam	winwa'jam	w i n w a 'j/j a m	caca1247	2894	13.74	-88.11		0	0	?
 340	27_tumblefalldown	TUMBLE (FALL DOWN)	Mayangna	Mayangna	buk	buk	b u k	maya1285	2894	14.13	-84.34		0	0	?
 341	27_tumblefalldown	TUMBLE (FALL DOWN)	Ulwa	Ulwa	wauhda	wauhda	w a u h d a	ulwa1239	2894	12.93	-83.58		0	0	?
 342	27_tumblefalldown	TUMBLE (FALL DOWN)	Miskito	Mískito	kahw	kahw	k a h w	misk1239	2894	15.16	-84.29		0	0	?
@@ -2437,12 +2437,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 351	27_tumblefalldown	TUMBLE (FALL DOWN)	Buglere	Buglere	hãɪ̃́	hãɪ̃́	h ã ɪ̃́/ɪ̃	bugl1243	2894	8.57695	-81.25648		0	0	?
 352	27_tumblefalldown	TUMBLE (FALL DOWN)	Dorasque	Dorasque	dudiglá	dudiglá	d u d i g l á/a	dora1242	2894	8.567442	-82.375717		0	0	?
 353	27_tumblefalldown	TUMBLE (FALL DOWN)	SanBlasKuna	San Blas Kuna	aɾkwanne	aɾkwanne	a ɾ k w a n n e	sanb1242	2894	9.15686	-78.3075		0	0	?
-354	27_tumblefalldown	TUMBLE (FALL DOWN)	Cogui	Cogui	'pen	'pen	p e n	cogu1240	2894	10.9485	-73.8043		0	0	?
-355	27_tumblefalldown	TUMBLE (FALL DOWN)	Arhuaco	Arhuaco	'waʔn	'waʔn	w a ʔ n	arhu1242	2894	10.7018	-73.6363		0	0	?
+354	27_tumblefalldown	TUMBLE (FALL DOWN)	Cogui	Cogui	'pen	'pen	'p/p e n	cogu1240	2894	10.9485	-73.8043		0	0	?
+355	27_tumblefalldown	TUMBLE (FALL DOWN)	Arhuaco	Arhuaco	'waʔn	'waʔn	'w/w a ʔ n	arhu1242	2894	10.7018	-73.6363		0	0	?
 356	27_tumblefalldown	TUMBLE (FALL DOWN)	Malayo	Malayo	ʃeʒ	ʃeʒ	ʃ e ʒ	mala1522	2894	10.9286	-73.4056		0	0	?
-357	27_tumblefalldown	TUMBLE (FALL DOWN)	Chimila	Chimila	'kutti	'kutti	k u t t i	chim1309	2894	10.1902	-74.2559		0	0	?
+357	27_tumblefalldown	TUMBLE (FALL DOWN)	Chimila	Chimila	'kutti	'kutti	'k/k u t t i	chim1309	2894	10.1902	-74.2559		0	0	?
 358	27_tumblefalldown	TUMBLE (FALL DOWN)	Chibcha	Chibcha	ma	ma	m a	chib1270	2894	6.24999	-74.1666		0	0	?
-359	27_tumblefalldown	TUMBLE (FALL DOWN)	CentralTunebo	Central Tunebo	tih'kan	tih'kan	t i h k a n	cent2150	2894	6.8867	-72.097		0	0	?
+359	27_tumblefalldown	TUMBLE (FALL DOWN)	CentralTunebo	Central Tunebo	tih'kan	tih'kan	t i h 'k/k a n	cent2150	2894	6.8867	-72.097		0	0	?
 360	27_tumblefalldown	TUMBLE (FALL DOWN)	Bari	Barí	sinakai	sinakai	s i n a k a i	bari1297	2894	9.08497	-72.9353		0	0	?
 #
 792	3_two	TWO	LencaSalvador	Lenca-Salvador	pe	pe	p e	lenc1242	1498	13.56	-87.5		0	0	?
@@ -2462,12 +2462,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 806	3_two	TWO	Buglere	Buglere	boke	boke	b o k e	bugl1243	1498	8.57695	-81.25648		0	0	?
 807	3_two	TWO	Dorasque	Dorasque	mo	mo	m o	dora1242	1498	8.567442	-82.375717		0	0	?
 808	3_two	TWO	SanBlasKuna	San Blas Kuna	po:	po:	p o:	sanb1242	1498	9.15686	-78.3075		0	0	?
-809	3_two	TWO	Cogui	Cogui	'mauʒua	'mauʒua	m a u ʒ u a	cogu1240	1498	10.9485	-73.8043		0	0	?
-810	3_two	TWO	Arhuaco	Arhuaco	'mouga	'mouga	m o u g a	arhu1242	1498	10.7018	-73.6363		0	0	?
+809	3_two	TWO	Cogui	Cogui	'mauʒua	'mauʒua	'm/m a u ʒ u a	cogu1240	1498	10.9485	-73.8043		0	0	?
+810	3_two	TWO	Arhuaco	Arhuaco	'mouga	'mouga	'm/m o u g a	arhu1242	1498	10.7018	-73.6363		0	0	?
 811	3_two	TWO	Malayo	Malayo	mowa	mowa	m o w a	mala1522	1498	10.9286	-73.4056		0	0	?
 812	3_two	TWO	Chimila	Chimila	buhna	buhna	b u h n a	chim1309	1498	10.1902	-74.2559		0	0	?
 813	3_two	TWO	Chibcha	Chibcha	bo	bo	b o	chib1270	1498	6.24999	-74.1666		0	0	?
-814	3_two	TWO	CentralTunebo	Central Tunebo	bu'kaja	bu'kaja	b u k a j a	cent2150	1498	6.8867	-72.097		0	0	?
+814	3_two	TWO	CentralTunebo	Central Tunebo	bu'kaja	bu'kaja	b u 'k/k a j a	cent2150	1498	6.8867	-72.097		0	0	?
 815	3_two	TWO	Bari	Barí	ĩsãmĩ	ĩsãmĩ	ĩ s ã m ĩ	bari1297	1498	9.08497	-72.9353		0	0	?
 #
 385	53_walk	WALK	LencaSalvador	Lenca-Salvador	o	o	o	lenc1242	1443	13.56	-87.5		0	0	?
@@ -2485,14 +2485,14 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 397	53_walk	WALK	Teribe	Teribe	hɪ́k	hɪ́k	h ɪ́/ɪ k	teri1250	1443	9.067	-82.9631		0	0	?
 398	53_walk	WALK	Ngabere	Ngäbere	nɔ̃	nɔ̃	n ɔ̃	ngab1239	1443	8.8251	-82.3911		0	0	?
 399	53_walk	WALK	Buglere	Buglere	tʃage	tʃage	tʃ a g e	bugl1243	1443	8.57695	-81.25648		0	0	?
-400	53_walk	WALK	Dorasque	Dorasque	duɾi'ɾi:	duɾi'ɾi:	d u ɾ i ɾ i:	dora1242	1443	8.567442	-82.375717		0	0	?
+400	53_walk	WALK	Dorasque	Dorasque	duɾi'ɾi:	duɾi'ɾi:	d u ɾ i 'ɾ/ɾ i:	dora1242	1443	8.567442	-82.375717		0	0	?
 401	53_walk	WALK	SanBlasKuna	San Blas Kuna	nanae	nanae	n a n a e	sanb1242	1443	9.15686	-78.3075		0	0	?
-402	53_walk	WALK	Cogui	Cogui	'nai	'nai	n a i	cogu1240	1443	10.9485	-73.8043		0	0	?
-403	53_walk	WALK	Arhuaco	Arhuaco	'naʒ	'naʒ	n a ʒ	arhu1242	1443	10.7018	-73.6363		0	0	?
+402	53_walk	WALK	Cogui	Cogui	'nai	'nai	'n/n a i	cogu1240	1443	10.9485	-73.8043		0	0	?
+403	53_walk	WALK	Arhuaco	Arhuaco	'naʒ	'naʒ	'n/n a ʒ	arhu1242	1443	10.7018	-73.6363		0	0	?
 404	53_walk	WALK	Malayo	Malayo	naj	naj	n a j	mala1522	1443	10.9286	-73.4056		0	0	?
 405	53_walk	WALK	Chimila	Chimila	dʒuʔu	dʒuʔu	dʒ u ʔ u	chim1309	1443	10.1902	-74.2559		0	0	?
 406	53_walk	WALK	Chibcha	Chibcha	nɨn	nɨn	n ɨ n	chib1270	1443	6.24999	-74.1666		0	0	?
-407	53_walk	WALK	CentralTunebo	Central Tunebo	'benɾo	'benɾo	b e n ɾ o	cent2150	1443	6.8867	-72.097		0	0	?
+407	53_walk	WALK	CentralTunebo	Central Tunebo	'benɾo	'benɾo	'b/b e n ɾ o	cent2150	1443	6.8867	-72.097		0	0	?
 408	53_walk	WALK	Bari	Barí	ta:kta:k	ta:kta:k	t a: k t a: k	bari1297	1443	9.08497	-72.9353		0	0	?
 #
 1	77_water	WATER	LencaSalvador	Lenca-Salvador	wal	wal	w a l	lenc1242	948	13.56	-87.5		0	0	?
@@ -2514,10 +2514,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 17	77_water	WATER	SanBlasKuna	San Blas Kuna	ti:	ti:	t i:	sanb1242	948	9.15686	-78.3075		0	0	?
 18	77_water	WATER	Cogui	Cogui	ni	ni	n i	cogu1240	948	10.9485	-73.8043		0	0	?
 19	77_water	WATER	Arhuaco	Arhuaco	dʒe	dʒe	dʒ e	arhu1242	948	10.7018	-73.6363		0	0	?
-20	77_water	WATER	Malayo	Malayo	'dʒiɾa	'dʒiɾa	dʒ i ɾ a	mala1522	948	10.9286	-73.4056		0	0	?
+20	77_water	WATER	Malayo	Malayo	'dʒiɾa	'dʒiɾa	'd/d ʒ i ɾ a	mala1522	948	10.9286	-73.4056		0	0	?
 21	77_water	WATER	Chimila	Chimila	ditake:	ditake:	d i t a k e:	chim1309	948	10.1902	-74.2559		0	0	?
 22	77_water	WATER	Chibcha	Chibcha	sie	sie	s i e	chib1270	948	6.24999	-74.1666		0	0	?
-23	77_water	WATER	CentralTunebo	Central Tunebo	'riʔa	'riʔa	r i ʔ a	cent2150	948	6.8867	-72.097		0	0	?
+23	77_water	WATER	CentralTunebo	Central Tunebo	'riʔa	'riʔa	'r/r i ʔ a	cent2150	948	6.8867	-72.097		0	0	?
 24	77_water	WATER	Bari	Barí	sĩ: mã	sĩ: mã	s ĩ: + m ã	bari1297	948	9.08497	-72.9353		0	0	?
 #
 1627	31_we	WE	LencaSalvador	Lenca-Salvador	pinani	pinani	p i n a n i	lenc1242	1212	13.56	-87.5		0	0	?
@@ -2537,10 +2537,10 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1641	31_we	WE	Buglere	Buglere	tʃe	tʃe	tʃ e	bugl1243	1212	8.57695	-81.25648		0	0	?
 1642	31_we	WE	Dorasque	Dorasque	kuχúok	kuχúok	k u χ ú/u o k	dora1242	1212	8.567442	-82.375717		0	0	?
 1643	31_we	WE	SanBlasKuna	San Blas Kuna	anmala	anmala	a n m a l a	sanb1242	1212	9.15686	-78.3075		0	0	?
-1644	31_we	WE	Cogui	Cogui	'nasɯn	'nasɯn	n a s ɯ n	cogu1240	1212	10.9485	-73.8043		0	0	?
-1645	31_we	WE	Arhuaco	Arhuaco	'níwi	'níwi	n í/i w i	arhu1242	1212	10.7018	-73.6363		0	0	?
+1644	31_we	WE	Cogui	Cogui	'nasɯn	'nasɯn	'n/n a s ɯ n	cogu1240	1212	10.9485	-73.8043		0	0	?
+1645	31_we	WE	Arhuaco	Arhuaco	'níwi	'níwi	'n/n í/i w i	arhu1242	1212	10.7018	-73.6363		0	0	?
 1646	31_we	WE	Malayo	Malayo	nawindina	nawindina	n a w i n d i n a	mala1522	1212	10.9286	-73.4056		0	0	?
-1647	31_we	WE	CentralTunebo	Central Tunebo	'isa	'isa	i s a	cent2150	1212	6.8867	-72.097		0	0	?
+1647	31_we	WE	CentralTunebo	Central Tunebo	'isa	'isa	'i/i s a	cent2150	1212	6.8867	-72.097		0	0	?
 1648	31_we	WE	Chimila	Chimila	na:ɾiɾaʔ	na:ɾiɾaʔ	n a: ɾ i ɾ a ʔ	chim1309	1212	10.1902	-74.2559		0	0	?
 1649	31_we	WE	Chibcha	Chibcha	tʲie	tʲie	tʲ i e	chib1270	1212	6.24999	-74.1666		0	0	?
 1650	31_we	WE	Bari	Barí	tiɲi	tiɲi	t i ɲ i	bari1297	1212	9.08497	-72.9353		0	0	?
@@ -2563,11 +2563,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2072	85_what	WHAT	Dorasque	Dorasque	ee	ee	e e	dora1242	1236	8.567442	-82.375717		0	0	?
 2073	85_what	WHAT	SanBlasKuna	San Blas Kuna	ipi	ipi	i p i	sanb1242	1236	9.15686	-78.3075		0	0	?
 2074	85_what	WHAT	Cogui	Cogui	hi	hi	h i	cogu1240	1236	10.9485	-73.8043		0	0	?
-2075	85_what	WHAT	Arhuaco	Arhuaco	'inɨ	'inɨ	i n ɨ	arhu1242	1236	10.7018	-73.6363		0	0	?
+2075	85_what	WHAT	Arhuaco	Arhuaco	'inɨ	'inɨ	'i/i n ɨ	arhu1242	1236	10.7018	-73.6363		0	0	?
 2076	85_what	WHAT	Malayo	Malayo	ni	ni	n i	mala1522	1236	10.9286	-73.4056		0	0	?
 2077	85_what	WHAT	Chimila	Chimila	ki:ɾi	ki:ɾi	k i: ɾ i	chim1309	1236	10.1902	-74.2559		0	0	?
 2078	85_what	WHAT	Chibcha	Chibcha	ipkua	ipkua	i p k u a	chib1270	1236	6.24999	-74.1666		0	0	?
-2079	85_what	WHAT	CentralTunebo	Central Tunebo	'ikuɾ	'ikuɾ	i k u ɾ	cent2150	1236	6.8867	-72.097		0	0	?
+2079	85_what	WHAT	CentralTunebo	Central Tunebo	'ikuɾ	'ikuɾ	'i/i k u ɾ	cent2150	1236	6.8867	-72.097		0	0	?
 2080	85_what	WHAT	Bari	Barí	aibi	aibi	a i b i	bari1297	1236	9.08497	-72.9353		0	0	?
 #
 193	72_white	WHITE	LencaSalvador	Lenca-Salvador	ʃoko	ʃoko	ʃ o k o	lenc1242	1335	13.56	-87.5		0	0	?
@@ -2587,12 +2587,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 207	72_white	WHITE	Buglere	Buglere	hutɾe	hutɾe	h u t ɾ e	bugl1243	1335	8.57695	-81.25648		0	0	?
 208	72_white	WHITE	Dorasque	Dorasque	bokkála	bokkála	b o k k á/a l a	dora1242	1335	8.567442	-82.375717		0	0	?
 209	72_white	WHITE	SanBlasKuna	San Blas Kuna	sippu	sippu	s i p p u	sanb1242	1335	9.15686	-78.3075		0	0	?
-210	72_white	WHITE	Cogui	Cogui	a'butʃi	a'butʃi	a b u tʃ i	cogu1240	1335	10.9485	-73.8043		0	0	?
-211	72_white	WHITE	Arhuaco	Arhuaco	'bunsi kawa	'bunsi kawa	b u n s i + k a w a	arhu1242	1335	10.7018	-73.6363		0	0	?
+210	72_white	WHITE	Cogui	Cogui	a'butʃi	a'butʃi	a 'b/b u tʃ i	cogu1240	1335	10.9485	-73.8043		0	0	?
+211	72_white	WHITE	Arhuaco	Arhuaco	'bunsi kawa	'bunsi kawa	'b/b u n s i + k a w a	arhu1242	1335	10.7018	-73.6363		0	0	?
 212	72_white	WHITE	Malayo	Malayo	ambɨnʃi	ambɨnʃi	a m b ɨ n ʃ i	mala1522	1335	10.9286	-73.4056		0	0	?
 213	72_white	WHITE	Chimila	Chimila	so:motu:	so:motu:	s o: m o t u:	chim1309	1335	10.1902	-74.2559		0	0	?
 214	72_white	WHITE	Chibcha	Chibcha	pkɨhɨsio	pkɨhɨsio	p k ɨ h ɨ s i o	chib1270	1335	6.24999	-74.1666		0	0	?
-215	72_white	WHITE	CentralTunebo	Central Tunebo	kwa'sajɾo	kwa'sajɾo	k w a s a j ɾ o	cent2150	1335	6.8867	-72.097		0	0	?
+215	72_white	WHITE	CentralTunebo	Central Tunebo	kwa'sajɾo	kwa'sajɾo	k w a 's/s a j ɾ o	cent2150	1335	6.8867	-72.097		0	0	?
 216	72_white	WHITE	Bari	Barí	batti	batti	b a t t i	bari1297	1335	9.08497	-72.9353		0	0	?
 #
 2560	32_wind	WIND	LencaSalvador	Lenca-Salvador	uʃeka	uʃeka	u ʃ e k a	lenc1242	960	13.56	-87.5		0	0	?
@@ -2612,12 +2612,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2574	32_wind	WIND	Buglere	Buglere	mlie	mlie	m l i e	bugl1243	960	8.57695	-81.25648		0	0	?
 2575	32_wind	WIND	Dorasque	Dorasque	ʃatú	ʃatú	ʃ a t ú/u	dora1242	960	8.567442	-82.375717		0	0	?
 2576	32_wind	WIND	SanBlasKuna	San Blas Kuna	purwa	purwa	p u r w a	sanb1242	960	9.15686	-78.3075		0	0	?
-2577	32_wind	WIND	Cogui	Cogui	mul'kala	mul'kala	m u l k a l a	cogu1240	960	10.9485	-73.8043		0	0	?
-2578	32_wind	WIND	Arhuaco	Arhuaco	'buntikənɨ	'buntikənɨ	b u n t i k ə n ɨ	arhu1242	960	10.7018	-73.6363		0	0	?
+2577	32_wind	WIND	Cogui	Cogui	mul'kala	mul'kala	m u l 'k/k a l a	cogu1240	960	10.9485	-73.8043		0	0	?
+2578	32_wind	WIND	Arhuaco	Arhuaco	'buntikənɨ	'buntikənɨ	'b/b u n t i k ə n ɨ	arhu1242	960	10.7018	-73.6363		0	0	?
 2579	32_wind	WIND	Malayo	Malayo	buɾta	buɾta	b u ɾ t a	mala1522	960	10.9286	-73.4056		0	0	?
 2580	32_wind	WIND	Chimila	Chimila	ke:dʒaʔ	ke:dʒaʔ	k e: dʒ a ʔ	chim1309	960	10.1902	-74.2559		0	0	?
 2581	32_wind	WIND	Chibcha	Chibcha	βiβa	βiβa	β i β a	chib1270	960	6.24999	-74.1666		0	0	?
-2582	32_wind	WIND	CentralTunebo	Central Tunebo	'seɾoa	'seɾoa	s e ɾ o a	cent2150	960	6.8867	-72.097		0	0	?
+2582	32_wind	WIND	CentralTunebo	Central Tunebo	'seɾoa	'seɾoa	's/s e ɾ o a	cent2150	960	6.8867	-72.097		0	0	?
 2583	32_wind	WIND	Bari	Barí	saba	saba	s a b a	bari1297	960	9.08497	-72.9353		0	0	?
 #
 577	28_with	WITH	LencaSalvador	Lenca-Salvador	teN	teN	t e n	lenc1242	1340	13.56	-87.5		0	0	?
@@ -2662,15 +2662,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1498	42_woman	WOMAN	Buglere	Buglere	mũĩŋa	mũĩŋa	m ũ ĩ ŋ a	bugl1243	962	8.57695	-81.25648		0	0	?
 1499	42_woman	WOMAN	Dorasque	Dorasque	biá	biá	b i á/a	dora1242	962	8.567442	-82.375717		0	0	?
 1500	42_woman	WOMAN	SanBlasKuna	San Blas Kuna	ome	ome	o m e	sanb1242	962	9.15686	-78.3075		0	0	?
-1501	42_woman	WOMAN	Cogui	Cogui	'munʒi	'munʒi	m u n ʒ i	cogu1240	962	10.9485	-73.8043		0	0	?
-1502	42_woman	WOMAN	Arhuaco	Arhuaco	aʔ'mia	aʔ'mia	a ʔ m i a	arhu1242	962	10.7018	-73.6363		0	0	?
-1503	42_woman	WOMAN	Malayo	Malayo	'mena	'mena	m e n a	mala1522	962	10.9286	-73.4056		0	0	?
+1501	42_woman	WOMAN	Cogui	Cogui	'munʒi	'munʒi	'm/m u n ʒ i	cogu1240	962	10.9485	-73.8043		0	0	?
+1502	42_woman	WOMAN	Arhuaco	Arhuaco	aʔ'mia	aʔ'mia	a ʔ 'm/m i a	arhu1242	962	10.7018	-73.6363		0	0	?
+1503	42_woman	WOMAN	Malayo	Malayo	'mena	'mena	'm/m e n a	mala1522	962	10.9286	-73.4056		0	0	?
 1504	42_woman	WOMAN	Chimila	Chimila	dʒuwiɾi	dʒuwiɾi	dʒ u w i ɾ i	chim1309	962	10.1902	-74.2559		0	0	?
 1505	42_woman	WOMAN	Chibcha	Chibcha	βuhutʲa	βuhutʲa	β u h u tʲ a	chib1270	962	6.24999	-74.1666		0	0	?
-1506	42_woman	WOMAN	CentralTunebo	Central Tunebo	wi'w̃a	wi'w̃a	w i w̃ a	cent2150	962	6.8867	-72.097		0	0	?
+1506	42_woman	WOMAN	CentralTunebo	Central Tunebo	wi'w̃a	wi'w̃a	w i 'w̃/w̃ a	cent2150	962	6.8867	-72.097		0	0	?
 1507	42_woman	WOMAN	Bari	Barí	bio	bio	b i o	bari1297	962	9.08497	-72.9353		0	0	?
 #
-1006	49_worm	WORM	LencaSalvador	Lenca-Salvador	ts'its'a	ts'its'a	t s i t s a	lenc1242	1219	13.56	-87.5		0	0	?
+1006	49_worm	WORM	LencaSalvador	Lenca-Salvador	ts'its'a	ts'its'a	t s 'i/i t s 'a/a	lenc1242	1219	13.56	-87.5		0	0	?
 1007	49_worm	WORM	LencaHonduras	Lenca-Honduras	suɾu	suɾu	s u ɾ u	lenc1243	1219	13.67	-88.11		0	0	?
 1008	49_worm	WORM	Cacaopera	Cacaopera	bil	bil	b i l	caca1247	1219	13.74	-88.11		0	0	?
 1009	49_worm	WORM	Mayangna	Mayangna	ba:bil	ba:bil	b a: b i l	maya1285	1219	14.13	-84.34		0	0	?
@@ -2690,9 +2690,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1023	49_worm	WORM	Cogui	Cogui	ʒi	ʒi	ʒ i	cogu1240	1219	10.9485	-73.8043		0	0	?
 1024	49_worm	WORM	Arhuaco	Arhuaco	zi	zi	z i	arhu1242	1219	10.7018	-73.6363		0	0	?
 1025	49_worm	WORM	Malayo	Malayo	di	di	d i	mala1522	1219	10.9286	-73.4056		0	0	?
-1026	49_worm	WORM	Chimila	Chimila	'bɾuuʔ	'bɾuuʔ	b ɾ u u ʔ	chim1309	1219	10.1902	-74.2559		0	0	?
+1026	49_worm	WORM	Chimila	Chimila	'bɾuuʔ	'bɾuuʔ	'b/b ɾ u u ʔ	chim1309	1219	10.1902	-74.2559		0	0	?
 1027	49_worm	WORM	Chibcha	Chibcha	tsina	tsina	t s i n a	chib1270	1219	6.24999	-74.1666		0	0	?
-1028	49_worm	WORM	CentralTunebo	Central Tunebo	ɾim'ja	ɾim'ja	ɾ i m j a	cent2150	1219	6.8867	-72.097		0	0	?
+1028	49_worm	WORM	CentralTunebo	Central Tunebo	ɾim'ja	ɾim'ja	ɾ i m 'j/j a	cent2150	1219	6.8867	-72.097		0	0	?
 1029	49_worm	WORM	Bari	Barí	iʃanaba	iʃanaba	i ʃ a n a b a	bari1297	1219	9.08497	-72.9353		0	0	?
 #
 25	45_yellow	YELLOW	LencaSalvador	Lenca-Salvador	ku	ku	k u	lenc1242	1424	13.56	-87.5		0	0	?
@@ -2712,12 +2712,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 39	45_yellow	YELLOW	Buglere	Buglere	moloi	moloi	m o l o i	bugl1243	1424	8.57695	-81.25648		0	0	?
 40	45_yellow	YELLOW	Dorasque	Dorasque	utká	utká	u t k á/a	dora1242	1424	8.567442	-82.375717		0	0	?
 41	45_yellow	YELLOW	SanBlasKuna	San Blas Kuna	kollokwa	kollokwa	k o l l o k w a	sanb1242	1424	9.15686	-78.3075		0	0	?
-42	45_yellow	YELLOW	Cogui	Cogui	kaʃiku'ama	kaʃiku'ama	k a ʃ i k u a m a	cogu1240	1424	10.9485	-73.8043		0	0	?
-43	45_yellow	YELLOW	Arhuaco	Arhuaco	'tʃəmmi	'tʃəmmi	tʃ ə m m i	arhu1242	1424	10.7018	-73.6363		0	0	?
+42	45_yellow	YELLOW	Cogui	Cogui	kaʃiku'ama	kaʃiku'ama	k a ʃ i k u 'a/a m a	cogu1240	1424	10.9485	-73.8043		0	0	?
+43	45_yellow	YELLOW	Arhuaco	Arhuaco	'tʃəmmi	'tʃəmmi	't/t ʃ ə m m i	arhu1242	1424	10.7018	-73.6363		0	0	?
 44	45_yellow	YELLOW	Malayo	Malayo	kɨʃkwama	kɨʃkwama	k ɨ ʃ k w a m a	mala1522	1424	10.9286	-73.4056		0	0	?
 45	45_yellow	YELLOW	Chimila	Chimila	tʃoŋgɾagwattu	tʃoŋgɾagwattu	tʃ o ŋ g ɾ a g w a t t u	chim1309	1424	10.1902	-74.2559		0	0	?
 46	45_yellow	YELLOW	Chibcha	Chibcha	tɨβan	tɨβan	t ɨ β a n	chib1270	1424	6.24999	-74.1666		0	0	?
-47	45_yellow	YELLOW	CentralTunebo	Central Tunebo	ta'w̃aja	ta'w̃aja	t a w̃ a j a	cent2150	1424	6.8867	-72.097		0	0	?
+47	45_yellow	YELLOW	CentralTunebo	Central Tunebo	ta'w̃aja	ta'w̃aja	t a 'w̃/w̃ a j a	cent2150	1424	6.8867	-72.097		0	0	?
 48	45_yellow	YELLOW	Bari	Barí	kanikã: siũkdu	kanikã: siũkdu	k a n i k ã: + s i ũ k d u	bari1297	1424	9.08497	-72.9353		0	0	?
 #
 2441	70_you	YOU	LencaSalvador	Lenca-Salvador	kinani	kinani	k i n a n i	lenc1242	1213	13.56	-87.5		0	0	?
@@ -2737,9 +2737,9 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2455	70_you	YOU	Buglere	Buglere	bádre	bádre	b á/a d r e	bugl1243	1213	8.57695	-81.25648		0	0	?
 2456	70_you	YOU	SanBlasKuna	San Blas Kuna	pemala	pemala	p e m a l a	sanb1242	1213	9.15686	-78.3075		0	0	?
 2457	70_you	YOU	Cogui	Cogui	main	main	m a i n	cogu1240	1213	10.9485	-73.8043		0	0	?
-2458	70_you	YOU	Arhuaco	Arhuaco	'miwi	'miwi	m i w i	arhu1242	1213	10.7018	-73.6363		0	0	?
+2458	70_you	YOU	Arhuaco	Arhuaco	'miwi	'miwi	'm/m i w i	arhu1242	1213	10.7018	-73.6363		0	0	?
 2459	70_you	YOU	Malayo	Malayo	mawindina	mawindina	m a w i n d i n a	mala1522	1213	10.9286	-73.4056		0	0	?
-2460	70_you	YOU	Chimila	Chimila	'ammaɾaʔ	'ammaɾaʔ	a m m a ɾ a ʔ	chim1309	1213	10.1902	-74.2559		0	0	?
+2460	70_you	YOU	Chimila	Chimila	'ammaɾaʔ	'ammaɾaʔ	'a/a m m a ɾ a ʔ	chim1309	1213	10.1902	-74.2559		0	0	?
 2461	70_you	YOU	Chibcha	Chibcha	mie	mie	m i e	chib1270	1213	6.24999	-74.1666		0	0	?
-2462	70_you	YOU	CentralTunebo	Central Tunebo	'ba	'ba	b a	cent2150	1213	6.8867	-72.097		0	0	?
+2462	70_you	YOU	CentralTunebo	Central Tunebo	'ba	'ba	'b/b a	cent2150	1213	6.8867	-72.097		0	0	?
 2463	70_you	YOU	Bari	Barí	biɲi	biɲi	b i ɲ i	bari1297	1213	9.08497	-72.9353		0	0	?
