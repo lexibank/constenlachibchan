@@ -1,4 +1,4 @@
-ID,Language,Concept,Form
+Boc,Language,Concept,Form
 1,LS,WATER,wal
 2,LH,WATER,was
 3,Ca,WATER,li
@@ -13,7 +13,7 @@ ID,Language,Concept,Form
 12,Cab,WATER,díkɺʊ́
 13,Te,WATER,dí
 14,Mo,WATER,ɲɤ
-15,Bor,WATER,tʃi
+15,Boc,WATER,tʃi
 16,Dor,WATER,yi
 17,Cu,WATER,ti:
 18,Co,WATER,ni
@@ -37,7 +37,7 @@ ID,Language,Concept,Form
 36,Cab,YELLOW,tsikidí
 37,Te,YELLOW,ʃòinóɾ
 38,Mo,YELLOW,sɯbɾɯɾe
-39,Bor,YELLOW,moloi
+39,Boc,YELLOW,moloi
 40,Dor,YELLOW,utká
 41,Cu,YELLOW,kollokwa
 42,Co,YELLOW,kaʃiku'ama
@@ -61,7 +61,7 @@ ID,Language,Concept,Form
 60,Cab,FASTEN,bõ
 61,Te,FASTEN,ɸɺík
 62,Mo,FASTEN,mɔgete
-63,Bor,FASTEN,kagã
+63,Boc,FASTEN,kagã
 64,Dor,FASTEN,bui
 65,Cu,FASTEN,etinne
 66,Co,FASTEN,akalihi
@@ -85,7 +85,7 @@ ID,Language,Concept,Form
 84,Cab,TREE,kaɺ
 85,Te,TREE,kʰɔ́
 86,Mo,TREE,kɾi
-87,Bor,TREE,gli
+87,Boc,TREE,gli
 88,Dor,TREE,kalkála
 89,Cu,TREE,sappi
 90,Co,TREE,'kali
@@ -109,7 +109,7 @@ ID,Language,Concept,Form
 108,Cab,SAND,tsã́
 109,Te,SAND,ɺa
 110,Mo,SAND,ɯma
-111,Bor,SAND,uba
+111,Boc,SAND,uba
 112,Dor,SAND,hálgu
 113,Cu,SAND,ukkuppa
 114,Co,SAND,'ui
@@ -133,7 +133,7 @@ ID,Language,Concept,Form
 132,Cab,BIRD,dù
 133,Te,BIRD,sínũã̀
 134,Mo,BIRD,nukwɔ
-135,Bor,BIRD,bdada
+135,Boc,BIRD,bdada
 136,Dor,BIRD,dul
 137,Cu,BIRD,sikkwi
 138,Co,BIRD,nu'ba
@@ -157,7 +157,7 @@ ID,Language,Concept,Form
 156,Cab,DANCE,kaɺʊ́tɪ
 157,Te,DANCE,tʰàŋnióŋ
 158,Mo,DANCE,bradʒe
-159,Bor,DANCE,gwie
+159,Boc,DANCE,gwie
 160,Dor,DANCE,kúyi
 161,Cu,DANCE,kuile
 162,Co,DANCE,kuiz
@@ -181,7 +181,7 @@ ID,Language,Concept,Form
 180,Cab,DRINK,dʒɪ
 181,Te,DRINK,iɪ́
 182,Mo,DRINK,ɲã
-183,Bor,DRINK,hai
+183,Boc,DRINK,hai
 184,Dor,DRINK,bot
 185,Cu,DRINK,kope
 186,Co,DRINK,'tuʃi
@@ -205,7 +205,7 @@ ID,Language,Concept,Form
 204,Cab,WHITE,sadúù
 205,Te,WHITE,ɸɺùɾún
 206,Mo,WHITE,ŋweɲe
-207,Bor,WHITE,hutɾe
+207,Boc,WHITE,hutɾe
 208,Dor,WHITE,bokkála
 209,Cu,WHITE,sippu
 210,Co,WHITE,a'butʃi
@@ -229,7 +229,7 @@ ID,Language,Concept,Form
 228,Cab,MOUTH,hkʊ́
 229,Te,MOUTH,kʰámo
 230,Mo,MOUTH,kada
-231,Bor,MOUTH,ka
+231,Boc,MOUTH,ka
 232,Dor,MOUTH,kaga
 233,Cu,MOUTH,kakka
 234,Co,MOUTH,'kaka
@@ -253,7 +253,7 @@ ID,Language,Concept,Form
 252,Cab,FOREST,kàɺdʒakà
 253,Te,FOREST,ɸʊ́
 254,Mo,FOREST,kɔtuguɔ
-255,Bor,FOREST,glínaŋa
+255,Boc,FOREST,glínaŋa
 256,Dor,FOREST,kalkalgó
 257,Cu,FOREST,sappuɾu
 258,Co,FOREST,kal'kala
@@ -277,7 +277,7 @@ ID,Language,Concept,Form
 276,Cab,GOOD,bʊ́ɪ
 277,Te,GOOD,kʰóbe
 278,Mo,GOOD,kɔ̃ɪ̃
-279,Bor,GOOD,no
+279,Boc,GOOD,no
 280,Dor,GOOD,apé
 281,Cu,GOOD,nueti
 282,Co,GOOD,hantʃi'dʒe
@@ -301,7 +301,7 @@ ID,Language,Concept,Form
 300,Cab,HAIR,tsã́kṹ kʊ
 301,Te,HAIR,kóŋzò
 302,Mo,HAIR,dokwɔdɾɯ
-303,Bor,HAIR,tʃugaga
+303,Boc,HAIR,tʃugaga
 304,Dor,HAIR,ogá
 305,Cu,HAIR,saila
 306,Co,HAIR,'sãĩ
@@ -325,7 +325,7 @@ ID,Language,Concept,Form
 324,Cab,HEAD,tsã́kṹ
 325,Te,HEAD,kógo
 326,Mo,HEAD,dokwɔ
-327,Bor,HEAD,tʃuga
+327,Boc,HEAD,tʃuga
 328,Dor,HEAD,dukú
 329,Cu,HEAD,nono
 330,Co,HEAD,'sankala
@@ -349,7 +349,7 @@ ID,Language,Concept,Form
 348,Cab,TUMBLE (FALL DOWN),hã́d
 349,Te,TUMBLE (FALL DOWN),bɪgɪ́
 350,Mo,TUMBLE (FALL DOWN),nɤtɤ
-351,Bor,TUMBLE (FALL DOWN),hãɪ̃́
+351,Boc,TUMBLE (FALL DOWN),hãɪ̃́
 352,Dor,TUMBLE (FALL DOWN),dudiglá
 353,Cu,TUMBLE (FALL DOWN),aɾkwanne
 354,Co,TUMBLE (FALL DOWN),'pen
@@ -373,7 +373,7 @@ ID,Language,Concept,Form
 372,Cab,HOT OR WARM,buɪ́
 373,Te,HOT OR WARM,kʰɺík
 374,Mo,HOT OR WARM,ŋiɾe
-375,Bor,HOT OR WARM,hute
+375,Boc,HOT OR WARM,hute
 376,Dor,HOT OR WARM,ubi
 377,Cu,HOT OR WARM,ueti
 378,Co,HOT OR WARM,'uanuakse
@@ -397,7 +397,7 @@ ID,Language,Concept,Form
 396,Cab,WALK,ʃkɪ
 397,Te,WALK,hɪ́k
 398,Mo,WALK,nɔ̃
-399,Bor,WALK,tʃage
+399,Boc,WALK,tʃage
 400,Dor,WALK,duɾi'ɾi:
 401,Cu,WALK,nanae
 402,Co,WALK,'nai
@@ -421,7 +421,7 @@ ID,Language,Concept,Form
 420,Cab,PATH,dʒaɺã̀
 421,Te,PATH,i᷅ɾbóbòŋ
 422,Mo,PATH,hi
-423,Bor,PATH,ho
+423,Boc,PATH,ho
 424,Dor,PATH,ʃi'ta
 425,Cu,PATH,ikala
 426,Co,PATH,'hiũgula
@@ -445,7 +445,7 @@ ID,Language,Concept,Form
 444,Cab,SING,ksɪ
 445,Te,SING,tɪ́
 446,Mo,SING,ka
-447,Bor,SING,mo gate
+447,Boc,SING,mo gate
 448,Dor,SING,kayi
 449,Cu,SING,namakke
 450,Co,SING,'mai
@@ -469,7 +469,7 @@ ID,Language,Concept,Form
 468,Cab,MEAT,dʒaka
 469,Te,MEAT,ʃò
 470,Mo,MEAT,ŋɔtɔ
-471,Bor,MEAT,udá
+471,Boc,MEAT,udá
 472,Dor,MEAT,síá
 473,Cu,MEAT,sana
 474,Co,MEAT,'gata
@@ -493,7 +493,7 @@ ID,Language,Concept,Form
 492,Cab,ASH,buɺi᷅tú
 493,Te,ASH,ɸɺúŋ
 494,Mo,ASH,ŋɯbɾɯ
-495,Bor,ASH,mnu
+495,Boc,ASH,mnu
 496,Dor,ASH,bulku
 497,Cu,ASH,puɾu
 498,Co,ASH,'muli
@@ -517,7 +517,7 @@ ID,Language,Concept,Form
 516,Cab,FIVE,skẽ
 517,Te,FIVE,ʃkíŋ
 518,Mo,FIVE,ɾike
-519,Bor,FIVE,tiga
+519,Boc,FIVE,tiga
 520,Dor,FIVE,male
 521,Cu,FIVE,attale
 522,Co,FIVE,ha'tʃigua
@@ -541,7 +541,7 @@ ID,Language,Concept,Form
 540,Cab,TAIL,baɺḗk
 541,Te,TAIL,ɸɺàk
 542,Mo,TAIL,kɯbaɾa
-543,Bor,TAIL,skugda
+543,Boc,TAIL,skugda
 544,Dor,TAIL,dug
 545,Cu,TAIL,punnu
 546,Co,TAIL,'nugi
@@ -565,7 +565,7 @@ ID,Language,Concept,Form
 564,Cab,EAT,dʒakɪ
 565,Te,EAT,ií
 566,Mo,EAT,mɾɣɾe
-567,Bor,EAT,bliɾe
+567,Boc,EAT,bliɾe
 568,Dor,EAT,kut
 569,Cu,EAT,kunne
 570,Co,EAT,'za
@@ -589,7 +589,7 @@ ID,Language,Concept,Form
 588,Cab,WITH,dà
 589,Te,WITH,tʰó
 590,Mo,WITH,be
-591,Bor,WITH,ole
+591,Boc,WITH,ole
 592,Dor,WITH,ba
 593,Cu,WITH,pa
 594,Co,WITH,na
@@ -613,7 +613,7 @@ ID,Language,Concept,Form
 612,Cab,CUT,tɪ
 613,Te,CUT,zí
 614,Mo,CUT,tikekɔ
-615,Bor,CUT,date
+615,Boc,CUT,date
 616,Dor,CUT,togli
 617,Cu,CUT,sikke
 618,Co,CUT,'men
@@ -637,7 +637,7 @@ ID,Language,Concept,Form
 636,Cab,BARK,hkuʊ́
 637,Te,BARK,kuótà
 638,Mo,BARK,kwata
-639,Bor,BARK,kwaɾa
+639,Boc,BARK,kwaɾa
 640,Dor,BARK,ugá
 641,Cu,BARK,ukka
 642,Co,BARK,huba
@@ -661,7 +661,7 @@ ID,Language,Concept,Form
 660,Cab,FOUR,tki
 661,Te,FOUR,bkíŋ
 662,Mo,FOUR,bɔkɔ
-663,Bor,FOUR,baga
+663,Boc,FOUR,baga
 664,Dor,FOUR,paka
 665,Cu,FOUR,pakke
 666,Co,FOUR,ma'keua
@@ -685,7 +685,7 @@ ID,Language,Concept,Form
 684,Cab,NECK,kulí
 685,Te,NECK,bɪ̀ŋdó
 686,Mo,NECK,ɾɔɾɔ
-687,Bor,NECK,siɾoska
+687,Boc,NECK,siɾoska
 688,Dor,NECK,polé
 689,Cu,NECK,tukkarwala
 690,Co,NECK,'gagla
@@ -709,7 +709,7 @@ ID,Language,Concept,Form
 708,Cab,GIVE,bẽ
 709,Te,GIVE,sɪ́ŋ
 710,Mo,GIVE,bĩ
-711,Bor,GIVE,kete
+711,Boc,GIVE,kete
 712,Dor,GIVE,do
 713,Cu,GIVE,ukke
 714,Co,GIVE,a'kau
@@ -733,7 +733,7 @@ ID,Language,Concept,Form
 732,Cab,SAY,dʒɪ
 733,Te,SAY,ɺí
 734,Mo,SAY,ŋeɾe
-735,Bor,SAY,dgwenedu
+735,Boc,SAY,dgwenedu
 736,Dor,SAY,
 737,Cu,SAY,soke
 738,Co,SAY,'guaʃ
@@ -757,7 +757,7 @@ ID,Language,Concept,Form
 756,Cab,TOOTH,kà
 757,Te,TOOTH,kòuó
 758,Mo,TOOTH,tu
-759,Bor,TOOTH,dau
+759,Boc,TOOTH,dau
 760,Dor,TOOTH,su
 761,Cu,TOOTH,nukala
 762,Co,TOOTH,hu'ala
@@ -781,7 +781,7 @@ ID,Language,Concept,Form
 780,Cab,SLEEP,kapɪ
 781,Te,SLEEP,pɪ́
 782,Mo,SLEEP,kimɪ̃
-783,Bor,SLEEP,gbe
+783,Boc,SLEEP,gbe
 784,Dor,SLEEP,kabi
 785,Cu,SLEEP,kape
 786,Co,SLEEP,ka'ba
@@ -805,7 +805,7 @@ ID,Language,Concept,Form
 804,Cab,TWO,bo
 805,Te,TWO,bʊ́
 806,Mo,TWO,bu
-807,Bor,TWO,boke
+807,Boc,TWO,boke
 808,Dor,TWO,mo
 809,Cu,TWO,po:
 810,Co,TWO,'mauʒua
@@ -829,7 +829,7 @@ ID,Language,Concept,Form
 828,Cab,HE,hié
 829,Te,HE,è
 830,Mo,HE,niaɾa
-831,Bor,HE,ama
+831,Boc,HE,ama
 832,Dor,HE,kúi
 833,Cu,HE,itti
 834,Co,HE,'ale
@@ -853,7 +853,7 @@ ID,Language,Concept,Form
 852,Cab,AT,skà
 853,Te,AT,ʃkò
 854,Mo,AT,te
-855,Bor,AT,ske
+855,Boc,AT,ske
 856,Dor,AT,ga
 857,Cu,AT,ki
 858,Co,AT,ka
@@ -877,7 +877,7 @@ ID,Language,Concept,Form
 876,Cab,THIS,hí
 877,Te,THIS,hũ
 878,Mo,THIS,ne
-879,Bor,THIS,ai
+879,Boc,THIS,ai
 880,Dor,THIS,
 881,Cu,THIS,we
 882,Co,THIS,'hale
@@ -901,7 +901,7 @@ ID,Language,Concept,Form
 900,Cab,FLOWER,uʊ́dkuà
 901,Te,FLOWER,kʰólòŋ
 902,Mo,FLOWER,blɯ
-903,Bor,FLOWER,hɾa
+903,Boc,FLOWER,hɾa
 904,Dor,FLOWER,shii
 905,Cu,FLOWER,tuttu
 906,Co,FLOWER,'humʃi
@@ -925,7 +925,7 @@ ID,Language,Concept,Form
 924,Cab,COLD,tsḗ
 925,Te,COLD,séntè
 926,Mo,COLD,tibo
-927,Bor,COLD,skeke
+927,Boc,COLD,skeke
 928,Dor,COLD,saiga
 929,Cu,COLD,tiopikwa
 930,Co,COLD,ʃu'izala
@@ -949,7 +949,7 @@ ID,Language,Concept,Form
 948,Cab,FIRE,dʒʊkʊ́
 949,Te,FIRE,iʊ̀k
 950,Mo,FIRE,ɲukwɔ
-951,Bor,FIRE,hita
+951,Boc,FIRE,hita
 952,Dor,FIRE,kebú
 953,Cu,FIRE,so:
 954,Co,FIRE,gauk'sei
@@ -973,7 +973,7 @@ ID,Language,Concept,Form
 972,Cab,HIT,tɪ
 973,Te,HIT,ʃpók
 974,Mo,HIT,met
-975,Bor,HIT,bate
+975,Boc,HIT,bate
 976,Dor,HIT,
 977,Cu,HIT,saɾsoke
 978,Co,HIT,'muʃ
@@ -997,7 +997,7 @@ ID,Language,Concept,Form
 996,Cab,BIG,tã́ĩ́
 997,Te,BIG,kɪ́s
 998,Mo,BIG,kɾi
-999,Bor,BIG,kweɾi
+999,Boc,BIG,kweɾi
 1000,Dor,BIG,óci
 1001,Cu,BIG,tumma
 1002,Co,BIG,a'tema
@@ -1021,7 +1021,7 @@ ID,Language,Concept,Form
 1020,Cab,WORM,hĩ́
 1021,Te,WORM,ʃtó
 1022,Mo,WORM,ŋĩ
-1023,Bor,WORM,gwi
+1023,Boc,WORM,gwi
 1024,Dor,WORM,kisi
 1025,Cu,WORM,nusu
 1026,Co,WORM,ʒi
@@ -1045,7 +1045,7 @@ ID,Language,Concept,Form
 1044,Cab,TALK,utɪ
 1045,Te,TALK,thẽɺẽ́
 1046,Mo,TALK,blit
-1047,Bor,TALK,geɾule
+1047,Boc,TALK,geɾule
 1048,Dor,TALK,set
 1049,Cu,TALK,sunmakke
 1050,Co,TALK,'neʃ
@@ -1069,7 +1069,7 @@ ID,Language,Concept,Form
 1068,Cab,SISTER,kutà
 1069,Te,SISTER,dóɾ
 1070,Mo,SISTER,ŋuãĩ
-1071,Bor,SISTER,da'baia
+1071,Boc,SISTER,da'baia
 1072,Dor,SISTER,bek
 1073,Cu,SISTER,puna
 1074,Co,SISTER,'nu
@@ -1093,7 +1093,7 @@ ID,Language,Concept,Form
 1092,Cab,LIVER,hẽ̂d
 1093,Te,LIVER,uò
 1094,Mo,LIVER,mɔtɔ
-1095,Bor,LIVER,takwa
+1095,Boc,LIVER,takwa
 1096,Dor,LIVER,hókoa
 1097,Cu,LIVER,pi:na
 1098,Co,LIVER,a'bita
@@ -1117,7 +1117,7 @@ ID,Language,Concept,Form
 1116,Cab,LEAF,kʊ́
 1117,Te,LEAF,kʰɺógà
 1118,Mo,LEAF,kʔ
-1119,Bor,LEAF,ga
+1119,Boc,LEAF,ga
 1120,Dor,LEAF,kaláʔka
 1121,Cu,LEAF,ka:
 1122,Co,LEAF,kai
@@ -1141,7 +1141,7 @@ ID,Language,Concept,Form
 1140,Cab,MAN,hadʒɪ́uàʔ
 1141,Te,MAN,dòbén
 1142,Mo,MAN,bɾaɾe
-1143,Bor,MAN,blále
+1143,Boc,MAN,blále
 1144,Dor,MAN,taro
 1145,Cu,MAN,matʃeɾet
 1146,Co,MAN,si'gi
@@ -1165,7 +1165,7 @@ ID,Language,Concept,Form
 1164,Cab,BONE,tʃitʃʔá
 1165,Te,BONE,dobógɺo
 1166,Mo,BONE,kɾɔ
-1167,Bor,BONE,gda
+1167,Boc,BONE,gda
 1168,Dor,BONE,koné
 1169,Cu,BONE,kala
 1170,Co,BONE,zalakala
@@ -1189,7 +1189,7 @@ ID,Language,Concept,Form
 1188,Cab,SMOKE (EXHAUST),ʃkaɺã́
 1189,Te,SMOKE (EXHAUST),ɲó
 1190,Mo,SMOKE (EXHAUST),ŋɯbɯ
-1191,Bor,SMOKE (EXHAUST),hiã́
+1191,Boc,SMOKE (EXHAUST),hiã́
 1192,Dor,SMOKE (EXHAUST),kébusa
 1193,Cu,SMOKE (EXHAUST),wa:
 1194,Co,SMOKE (EXHAUST),ihia
@@ -1213,7 +1213,7 @@ ID,Language,Concept,Form
 1212,Cab,LONG,batsĩ́
 1213,Te,LONG,kʰɺòtáɾeŋ
 1214,Mo,LONG,ŋa
-1215,Bor,LONG,heike
+1215,Boc,LONG,heike
 1216,Dor,LONG,kiágal
 1217,Cu,LONG,suiti
 1218,Co,LONG,'ueĩʒiluka
@@ -1237,7 +1237,7 @@ ID,Language,Concept,Form
 1236,Cab,CLEAN,sku
 1237,Te,CLEAN,kuóʃkuɪ̀
 1238,Mo,CLEAN,bɔtete
-1239,Bor,CLEAN,glige
+1239,Boc,CLEAN,glige
 1240,Dor,CLEAN,
 1241,Cu,CLEAN,enukke
 1242,Co,CLEAN,ihi'ʒihiĩ
@@ -1261,7 +1261,7 @@ ID,Language,Concept,Form
 1260,Cab,FAR,kãbĩ̂ĩ̂
 1261,Te,FAR,ɸòla
 1262,Mo,FAR,mẽte
-1263,Bor,FAR,bate
+1263,Boc,FAR,bate
 1264,Dor,FAR,héppe
 1265,Cu,FAR,panna
 1266,Co,FAR,male'zenka
@@ -1285,7 +1285,7 @@ ID,Language,Concept,Form
 1284,Cab,TONGUE,kú
 1285,Te,TONGUE,kʰèɾkuó
 1286,Mo,TONGUE,tɯdɾɔ
-1287,Bor,TONGUE,kwiɾa
+1287,Boc,TONGUE,kwiɾa
 1288,Dor,TONGUE,kuba
 1289,Cu,TONGUE,kwapinni
 1290,Co,TONGUE,hu'angala
@@ -1309,7 +1309,7 @@ ID,Language,Concept,Form
 1308,Cab,MOON,tuɺù
 1309,Te,MOON,mók
 1310,Mo,MOON,sɣ
-1311,Bor,MOON,dai
+1311,Boc,MOON,dai
 1312,Dor,MOON,sirila
 1313,Cu,MOON,ni:
 1314,Co,MOON,'saka
@@ -1333,7 +1333,7 @@ ID,Language,Concept,Form
 1332,Cab,CRY,hĩ
 1333,Te,CRY,sɾáɾ
 1334,Mo,CRY,mui
-1335,Bor,CRY,moe
+1335,Boc,CRY,moe
 1336,Dor,CRY,bos
 1337,Cu,CRY,po
 1338,Co,CRY,'mau
@@ -1357,7 +1357,7 @@ ID,Language,Concept,Form
 1356,Cab,MOTHER,bĩ́daã̀
 1357,Te,MOTHER,mé
 1358,Mo,MOTHER,meje
-1359,Bor,MOTHER,tʃebi
+1359,Boc,MOTHER,tʃebi
 1360,Dor,MOTHER,toó
 1361,Cu,MOTHER,nana
 1362,Co,MOTHER,'haba
@@ -1381,7 +1381,7 @@ ID,Language,Concept,Form
 1380,Cab,BAD,saɺuí
 1381,Te,BAD,ó
 1382,Mo,BAD,kɔme
-1383,Bor,BAD,me no
+1383,Boc,BAD,me no
 1384,Dor,BAD,irógla
 1385,Cu,BAD,itʃakkwakwa
 1386,Co,BAD,'ʃane
@@ -1405,7 +1405,7 @@ ID,Language,Concept,Form
 1404,Cab,HAND,huɺà
 1405,Te,HAND,óɾkuò
 1406,Mo,HAND,kise
-1407,Bor,HAND,ko
+1407,Boc,HAND,ko
 1408,Dor,HAND,kul
 1409,Cu,HAND,aɾkan
 1410,Co,HAND,'kokala
@@ -1430,7 +1430,7 @@ ID,Language,Concept,Form
 1429,Cab,KILL,kot
 1430,Te,KILL,zɾʊ́k
 1431,Mo,KILL,kɔmike
-1432,Bor,KILL,gweda
+1432,Boc,KILL,gweda
 1433,Dor,KILL,
 1434,Cu,KILL,opurkwe
 1435,Co,KILL,gu'aʃ
@@ -1454,7 +1454,7 @@ ID,Language,Concept,Form
 1453,Cab,MOUNTAIN,kã́ batà
 1454,Te,MOUNTAIN,dɺùb
 1455,Mo,MOUNTAIN,ŋutio
-1456,Bor,MOUNTAIN,hwitʃuga
+1456,Boc,MOUNTAIN,hwitʃuga
 1457,Dor,MOUNTAIN,tuú
 1458,Cu,MOUNTAIN,jala
 1459,Co,MOUNTAIN,ge'ka
@@ -1478,7 +1478,7 @@ ID,Language,Concept,Form
 1477,Cab,BITE,kʊ
 1478,Te,BITE,uɪ́
 1479,Mo,BITE,kwet
-1480,Bor,BITE,gute
+1480,Boc,BITE,gute
 1481,Dor,BITE,
 1482,Cu,BITE,kunn
 1483,Co,BITE,hau'lihiĩ
@@ -1502,7 +1502,7 @@ ID,Language,Concept,Form
 1501,Cab,WOMAN,aɺâkɺʊ̀
 1502,Te,WOMAN,uàɺɪ́
 1503,Mo,WOMAN,meɾi
-1504,Bor,WOMAN,mũĩŋa
+1504,Boc,WOMAN,mũĩŋa
 1505,Dor,WOMAN,biá
 1506,Cu,WOMAN,ome
 1507,Co,WOMAN,'munʒi
@@ -1526,7 +1526,7 @@ ID,Language,Concept,Form
 1525,Cab,NOSE,dʒík
 1526,Te,NOSE,nékuò
 1527,Mo,NOSE,ĩsɔ̃
-1528,Bor,NOSE,se
+1528,Boc,NOSE,se
 1529,Dor,NOSE,nekó
 1530,Cu,NOSE,asu
 1531,Co,NOSE,hũ'nũkala
@@ -1550,7 +1550,7 @@ ID,Language,Concept,Form
 1549,Cab,BLACK,doɺódã̀
 1550,Te,BLACK,sòksĩ́
 1551,Mo,BLACK,dɾɯne
-1552,Bor,BLACK,heɾe
+1552,Boc,BLACK,heɾe
 1553,Dor,BLACK,saná
 1554,Cu,BLACK,sitʃi
 1555,Co,BLACK,a'baksɯ
@@ -1574,7 +1574,7 @@ ID,Language,Concept,Form
 1573,Cab,CHILD,dʒabà
 1574,Te,CHILD,ã́ũã̀
 1575,Mo,CHILD,nɔbɔgɾe
-1576,Bor,CHILD,kiɾogwa
+1576,Boc,CHILD,kiɾogwa
 1577,Dor,CHILD,áni
 1578,Cu,CHILD,matʃikwa
 1579,Co,CHILD,'sukua
@@ -1598,7 +1598,7 @@ ID,Language,Concept,Form
 1597,Cab,NO,ká
 1598,Te,NO,ʒɪ́m
 1599,Mo,NO,ɲakaɾe
-1600,Bor,NO,me
+1600,Boc,NO,me
 1601,Dor,NO,
 1602,Cu,NO,suli
 1603,Co,NO,sa
@@ -1622,7 +1622,7 @@ ID,Language,Concept,Form
 1621,Cab,NIGHT,tauídã̀
 1622,Te,NIGHT,ʃkɪ́
 1623,Mo,NIGHT,deu
-1624,Bor,NIGHT,ŋaheɾe
+1624,Boc,NIGHT,ŋaheɾe
 1625,Dor,NIGHT,be
 1626,Cu,NIGHT,muttikki
 1627,Co,NIGHT,'sesɯn
@@ -1646,7 +1646,7 @@ ID,Language,Concept,Form
 1645,Cab,WE,sá
 1646,Te,WE,tʰã̀ũã́
 1647,Mo,WE,nũ
-1648,Bor,WE,tʃe
+1648,Boc,WE,tʃe
 1649,Dor,WE,kuχúok
 1650,Cu,WE,anmala
 1651,Co,WE,'nasɯn
@@ -1670,7 +1670,7 @@ ID,Language,Concept,Form
 1669,Cab,CLOUD,bõ̀
 1670,Te,CLOUD,ɸóŋ
 1671,Mo,CLOUD,mɯta
-1672,Bor,CLOUD,boga
+1672,Boc,CLOUD,boga
 1673,Dor,CLOUD,bókála
 1674,Cu,CLOUD,mola
 1675,Co,CLOUD,'maui
@@ -1694,7 +1694,7 @@ ID,Language,Concept,Form
 1693,Cab,NEW,spã́'nã̀
 1694,Te,NEW,tàgɺɪ́ŋ
 1695,Mo,NEW,mɣtɣ
-1696,Bor,NEW,hageɾe
+1696,Boc,NEW,hageɾe
 1697,Dor,NEW,ponol
 1698,Cu,NEW,pi:ni
 1699,Co,NEW,a'bisa
@@ -1718,7 +1718,7 @@ ID,Language,Concept,Form
 1717,Cab,HEAR,ksɪ
 1718,Te,HEAR,kúk
 1719,Mo,HEAR,nu
-1720,Bor,HEAR,tʃuge
+1720,Boc,HEAR,tʃuge
 1721,Dor,HEAR,tuktá
 1722,Cu,HEAR,itto
 1723,Co,HEAR,'nuk
@@ -1742,7 +1742,7 @@ ID,Language,Concept,Form
 1741,Cab,EYE,uʊ́baɺà
 1742,Te,EYE,bòkuò
 1743,Mo,EYE,okwɔ
-1744,Bor,EYE,gwagwa
+1744,Boc,EYE,gwagwa
 1745,Dor,EYE,okó
 1746,Cu,EYE,ipia
 1747,Co,EYE,'uba
@@ -1766,7 +1766,7 @@ ID,Language,Concept,Form
 1765,Cab,SMELL,haɺa ssɪ
 1766,Te,SMELL,ɺoʃík
 1767,Mo,SMELL,ɾɔse
-1768,Bor,SMELL,ɲáhwẽ
+1768,Boc,SMELL,ɲáhwẽ
 1769,Dor,SMELL,
 1770,Cu,SMELL,u
 1771,Co,SMELL,'hungu
@@ -1790,7 +1790,7 @@ ID,Language,Concept,Form
 1789,Cab,EAR,kukʊ́
 1790,Te,EAR,kuòŋuó
 1791,Mo,EAR,olo
-1792,Bor,EAR,olo
+1792,Boc,EAR,olo
 1793,Dor,EAR,kugá
 1794,Cu,EAR,uaja
 1795,Co,EAR,'kuka
@@ -1814,7 +1814,7 @@ ID,Language,Concept,Form
 1813,Cab,FATHER,kákà
 1814,Te,FATHER,kʰók
 1815,Mo,FATHER,rɯ̃
-1816,Bor,FATHER,ɲenu
+1816,Boc,FATHER,ɲenu
 1817,Dor,FATHER,su
 1818,Cu,FATHER,papa
 1819,Co,FATHER,'hate
@@ -1839,7 +1839,7 @@ ID,Language,Concept,Form
 1838,Cab,SMALL,dʒuɺɪ́ɺà
 1839,Te,SMALL,tíɾà
 1840,Mo,SMALL,tʃi
-1841,Bor,SMALL,soli
+1841,Boc,SMALL,soli
 1842,Dor,SMALL,chital
 1843,Cu,SMALL,tottokwa
 1844,Co,SMALL,'nanguze
@@ -1863,7 +1863,7 @@ ID,Language,Concept,Form
 1862,Cab,DOG,tʃítʃì
 1863,Te,DOG,ʃíʃì
 1864,Mo,DOG,nu
-1865,Bor,DOG,to
+1865,Boc,DOG,to
 1866,Dor,DOG,bilo
 1867,Cu,DOG,atʃu
 1868,Co,DOG,'pio
@@ -1887,7 +1887,7 @@ ID,Language,Concept,Form
 1886,Cab,HEAVY,kidíi
 1887,Te,HEAVY,kuíŋ
 1888,Mo,HEAVY,dɔbɔgɔ
-1889,Bor,HEAVY,gaba
+1889,Boc,HEAVY,gaba
 1890,Dor,HEAVY,
 1891,Cu,HEAVY,ukkusuli
 1892,Co,HEAVY,matʃu ak'ze
@@ -1911,7 +1911,7 @@ ID,Language,Concept,Form
 1910,Cab,FISH,dibã̀
 1911,Te,FISH,mà
 1912,Mo,FISH,gwa
-1913,Bor,FISH,ŋwe
+1913,Boc,FISH,ŋwe
 1914,Dor,FISH,kisi
 1915,Cu,FISH,ua
 1916,Co,FISH,ũa
@@ -1935,7 +1935,7 @@ ID,Language,Concept,Form
 1934,Cab,FOOT,kaɺʊ́
 1935,Te,FOOT,ʃkóŋ
 1936,Mo,FOOT,ŋoto
-1937,Bor,FOOT,seɾa
+1937,Boc,FOOT,seɾa
 1938,Dor,FOOT,ser
 1939,Cu,FOOT,naka
 1940,Co,FOOT,kasa
@@ -1959,7 +1959,7 @@ ID,Language,Concept,Form
 1958,Cab,STONE,hák
 1959,Te,STONE,àk
 1960,Mo,STONE,hɔ
-1961,Bor,STONE,ke
+1961,Boc,STONE,ke
 1962,Dor,STONE,agá
 1963,Cu,STONE,akkwa
 1964,Co,STONE,'hagi
@@ -1983,7 +1983,7 @@ ID,Language,Concept,Form
 1982,Cab,LEG,kaɺʊ́ kitʃà
 1983,Te,LEG,kuóɾbò
 1984,Mo,LEG,ŋɯɾe
-1985,Bor,LEG,seɾagda
+1985,Boc,LEG,seɾagda
 1986,Dor,LEG,séɾgala
 1987,Cu,LEG,naimali
 1988,Co,LEG,kala
@@ -2007,7 +2007,7 @@ ID,Language,Concept,Form
 2006,Cab,FLEA,kṹ
 2007,Te,FLEA,kʰṹŋ
 2008,Mo,FLEA,kɯ̃
-2009,Bor,FLEA,kũ
+2009,Boc,FLEA,kũ
 2010,Dor,FLEA,kũ
 2011,Cu,FLEA,ku:
 2012,Co,FLEA,ku'i
@@ -2031,7 +2031,7 @@ ID,Language,Concept,Form
 2030,Cab,FEATHER,kʊ́
 2031,Te,FEATHER,zók
 2032,Mo,FEATHER,kɔ
-2033,Bor,FEATHER,ga
+2033,Boc,FEATHER,ga
 2034,Dor,FEATHER,shũl
 2035,Cu,FEATHER,apsala
 2036,Co,FEATHER,gala
@@ -2055,7 +2055,7 @@ ID,Language,Concept,Form
 2054,Cab,FEW,hũã́hũã́dã̀ɺà
 2055,Te,FEW,tíɾàksò
 2056,Mo,FEW,bɾaibe
-2057,Bor,FEW,bedre
+2057,Boc,FEW,bedre
 2058,Dor,FEW,hebbil
 2059,Cu,FEW,itʃekwa
 2060,Co,FEW,nauan'gaba
@@ -2079,7 +2079,7 @@ ID,Language,Concept,Form
 2078,Cab,WHAT,hìdʊ́
 2079,Te,WHAT,ʒɪ̀
 2080,Mo,WHAT,geɾe
-2081,Bor,WHAT,dʒema
+2081,Boc,WHAT,dʒema
 2082,Dor,WHAT,ee
 2083,Cu,WHAT,ipi
 2084,Co,WHAT,hi
@@ -2103,7 +2103,7 @@ ID,Language,Concept,Form
 2102,Cab,LAUGH,hadʒẽ
 2103,Te,LAUGH,háɾ
 2104,Mo,LAUGH,kɯdɯ
-2105,Bor,LAUGH,gidate
+2105,Boc,LAUGH,gidate
 2106,Dor,LAUGH,"ayig, ahiása"
 2107,Cu,LAUGH,all
 2108,Co,LAUGH,'ʃimihĩ
@@ -2127,7 +2127,7 @@ ID,Language,Concept,Form
 2126,Cab,RED,batsɪ́
 2127,Te,RED,sɾɪ̀ɾɪ́n
 2128,Mo,RED,tãĩ
-2129,Bor,RED,dabeɾe
+2129,Boc,RED,dabeɾe
 2130,Dor,RED,kol
 2131,Cu,RED,kinnitti
 2132,Co,RED,atsuʃi
@@ -2151,7 +2151,7 @@ ID,Language,Concept,Form
 2150,Cab,CLOTHES,datsí
 2151,Te,CLOTHES,ʃuóŋ
 2152,Mo,CLOTHES,dɔ̃
-2153,Bor,CLOTHES,ɲometɾa
+2153,Boc,CLOTHES,ɲometɾa
 2154,Dor,CLOTHES,ákubi
 2155,Cu,CLOTHES,mola
 2156,Co,CLOTHES,ʒaku'a
@@ -2175,7 +2175,7 @@ ID,Language,Concept,Form
 2174,Cab,KNOW,hudʒẽ
 2175,Te,KNOW,hmídɪ̀
 2176,Mo,KNOW,gaɾe
-2177,Bor,KNOW,uɲe
+2177,Boc,KNOW,uɲe
 2178,Dor,KNOW,
 2179,Cu,KNOW,wisi
 2180,Co,KNOW,akʃihi
@@ -2199,7 +2199,7 @@ ID,Language,Concept,Form
 2198,Cab,SALT,dadʒɪ̀
 2199,Te,SALT,dɺúŋ
 2200,Mo,SALT,mɾẽ
-2201,Bor,SALT,tʃo
+2201,Boc,SALT,tʃo
 2202,Dor,SALT,báli
 2203,Cu,SALT,palu
 2204,Co,SALT,naku
@@ -2223,7 +2223,7 @@ ID,Language,Concept,Form
 2222,Cab,BLOOD,pí
 2223,Te,BLOOD,sɾɪ́ŋ
 2224,Mo,BLOOD,dɔɾi
-2225,Bor,BLOOD,be
+2225,Boc,BLOOD,be
 2226,Dor,BLOOD,havé
 2227,Cu,BLOOD,ape
 2228,Co,BLOOD,'abi
@@ -2247,7 +2247,7 @@ ID,Language,Concept,Form
 2246,Cab,DRY,pó
 2247,Te,DRY,idógɺo
 2248,Mo,DRY,nɣtaɾe
-2249,Bor,DRY,ulen
+2249,Boc,DRY,ulen
 2250,Dor,DRY,tolótkal
 2251,Cu,DRY,tinna
 2252,Co,DRY,aluhu'e
@@ -2271,7 +2271,7 @@ ID,Language,Concept,Form
 2270,Cab,SNAKE,tkabɪ̀
 2271,Te,SNAKE,bugúɾ
 2272,Mo,SNAKE,itʃa
-2273,Bor,SNAKE,hoɾisi
+2273,Boc,SNAKE,hoɾisi
 2274,Dor,SNAKE,buli
 2275,Cu,SNAKE,nakpe
 2276,Co,SNAKE,'tagbi
@@ -2295,7 +2295,7 @@ ID,Language,Concept,Form
 2294,Cab,SUN,kã́uʊ́
 2295,Te,SUN,dɺò
 2296,Mo,SUN,ɲɔnɔ
-2297,Bor,SUN,tʃwi
+2297,Boc,SUN,tʃwi
 2298,Dor,SUN,kerél
 2299,Cu,SUN,tata
 2300,Co,SUN,'niui
@@ -2319,7 +2319,7 @@ ID,Language,Concept,Form
 2318,Cab,BREAST,tsú
 2319,Te,BREAST,nókuò
 2320,Mo,BREAST,kẽã
-2321,Bor,BREAST,tusú
+2321,Boc,BREAST,tusú
 2322,Dor,BREAST,nõ
 2323,Cu,BREAST,nu:
 2324,Co,BREAST,su'mi
@@ -2343,7 +2343,7 @@ ID,Language,Concept,Form
 2342,Cab,EARTH (SOIL),hĩʃkʊ́
 2343,Te,EARTH (SOIL),kɺúŋ
 2344,Mo,EARTH (SOIL),dɔbrɔ
-2345,Bor,EARTH (SOIL),dbi
+2345,Boc,EARTH (SOIL),dbi
 2346,Dor,EARTH (SOIL),íri
 2347,Cu,EARTH (SOIL),nappa
 2348,Co,EARTH (SOIL),'kagi
@@ -2367,7 +2367,7 @@ ID,Language,Concept,Form
 2366,Cab,THREE,badʒã
 2367,Te,THREE,miá
 2368,Mo,THREE,mɔ
-2369,Bor,THREE,mai
+2369,Boc,THREE,mai
 2370,Dor,THREE,mas
 2371,Cu,THREE,pa:
 2372,Co,THREE,'maigua
@@ -2391,7 +2391,7 @@ ID,Language,Concept,Form
 2390,Cab,GUTS,dʒã́ batʃiɺí
 2391,Te,GUTS,ʒàkógɺo
 2392,Mo,GUTS,ŋɔ̃gɾɔ
-2393,Bor,GUTS,hẽgɾa
+2393,Boc,GUTS,hẽgɾa
 2394,Dor,GUTS,koɾegol
 2395,Cu,GUTS,saki
 2396,Co,GUTS,ganukʃiʒa
@@ -2415,7 +2415,7 @@ ID,Language,Concept,Form
 2414,Cab,THOU,bá
 2415,Te,THOU,ɸà
 2416,Mo,THOU,mɔ
-2417,Bor,THOU,ba
+2417,Boc,THOU,ba
 2418,Dor,THOU,bá
 2419,Cu,THOU,pe
 2420,Co,THOU,ma
@@ -2439,7 +2439,7 @@ ID,Language,Concept,Form
 2438,Cab,ONE,é
 2439,Te,ONE,ɾa
 2440,Mo,ONE,ti
-2441,Bor,ONE,ite
+2441,Boc,ONE,ite
 2442,Dor,ONE,e
 2443,Cu,ONE,kwenna
 2444,Co,ONE,'ezua
@@ -2463,7 +2463,7 @@ ID,Language,Concept,Form
 2462,Cab,YOU,bás
 2463,Te,YOU,ɸãĩ
 2464,Mo,YOU,mũ
-2465,Bor,YOU,bádre
+2465,Boc,YOU,bádre
 2466,Dor,YOU,
 2467,Cu,YOU,pemala
 2468,Co,YOU,main
@@ -2487,7 +2487,7 @@ ID,Language,Concept,Form
 2486,Cab,COME,de
 2487,Te,COME,ték
 2488,Mo,COME,kite
-2489,Bor,COME,tʃige
+2489,Boc,COME,tʃige
 2490,Dor,COME,berik
 2491,Cu,COME,take
 2492,Co,COME,'naʃ
@@ -2512,7 +2512,7 @@ ID,Language,Concept,Form
 2511,Cab,SEE,sũ
 2512,Te,SEE,ĩ́k
 2513,Mo,SEE,tũ
-2514,Bor,SEE,tiẽ
+2514,Boc,SEE,tiẽ
 2515,Dor,SEE,okosí
 2516,Cu,SEE,takke
 2517,Co,SEE,tũ
@@ -2536,7 +2536,7 @@ ID,Language,Concept,Form
 2535,Cab,GREEN,spã́
 2536,Te,GREEN,dìŋdíŋ
 2537,Mo,GREEN,kaɾe
-2538,Bor,GREEN,leɾeɾe
+2538,Boc,GREEN,leɾeɾe
 2539,Dor,GREEN,yíama
 2540,Cu,GREEN,aɾati
 2541,Co,GREEN,a'taʃi
@@ -2560,7 +2560,7 @@ ID,Language,Concept,Form
 2559,Cab,OLD,kɪ̂dʒakè
 2560,Te,OLD,kɪ̀:gɪ́
 2561,Mo,OLD,ũbɾe
-2562,Bor,OLD,huda
+2562,Boc,OLD,huda
 2563,Dor,OLD,taré
 2564,Cu,OLD,seɾeti
 2565,Co,OLD,tuma
@@ -2584,7 +2584,7 @@ ID,Language,Concept,Form
 2583,Cab,WIND,siuã́
 2584,Te,WIND,ɸɺúk
 2585,Mo,WIND,muɾie
-2586,Bor,WIND,mlie
+2586,Boc,WIND,mlie
 2587,Dor,WIND,ʃatú
 2588,Cu,WIND,purwa
 2589,Co,WIND,mul'kala
@@ -2608,7 +2608,7 @@ ID,Language,Concept,Form
 2607,Cab,STOMACH,dʒã́hkù
 2608,Te,STOMACH,bʊ̀uó
 2609,Mo,STOMACH,bule
-2610,Bor,STOMACH,bdísuli
+2610,Boc,STOMACH,bdísuli
 2611,Dor,STOMACH,korigú
 2612,Cu,STOMACH,sapana
 2613,Co,STOMACH,'ʒiʒa
@@ -2632,7 +2632,7 @@ ID,Language,Concept,Form
 2631,Cab,I,dʒís
 2632,Te,I,tʰà
 2633,Mo,I,ti
-2634,Bor,I,tʃa
+2634,Boc,I,tʃa
 2635,Dor,I,kura
 2636,Cu,I,ani
 2637,Co,I,nas

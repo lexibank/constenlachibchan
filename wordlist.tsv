@@ -17,7 +17,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 492	69_ash	ASH	Cabecar	Cabécar	buɺi᷅tú	buɺi᷅tú	b u ɺ i᷅/i t ú/u	cabe1245	646	9.67031	-83.4102		0	0	?
 493	69_ash	ASH	Teribe	Teribe	ɸɺúŋ	ɸɺúŋ	ɸ ɺ ú/u ŋ	teri1250	646	9.067	-82.9631		0	0	?
 494	69_ash	ASH	Ngabere	Ngäbere	ŋɯbɾɯ	ŋɯbɾɯ	ŋ ɯ b ɾ ɯ	ngab1239	646	8.8251	-82.3911		0	0	?
-495	69_ash	ASH	Boruca	Boruca	mnu	mnu	m n u	boru1252	646	8.88093	-83.2124		0	0	?
+495	69_ash	ASH	Buglere	Buglere	mnu	mnu	m n u	bugl1243	646	8.57695	-81.25648		0	0	?
 496	69_ash	ASH	Dorasque	Dorasque	bulku	bulku	b u l k u	dora1242	646	8.567442	-82.375717		0	0	?
 497	69_ash	ASH	SanBlasKuna	San Blas Kuna	puɾu	puɾu	p u ɾ u	sanb1242	646	9.15686	-78.3075		0	0	?
 498	69_ash	ASH	Cogui	Cogui	'muli	'muli	m u l i	cogu1240	646	10.9485	-73.8043		0	0	?
@@ -42,7 +42,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 851	39_at	AT	Cabecar	Cabécar	skà	skà	s k à/a	cabe1245	1461	9.67031	-83.4102		0	0	?
 852	39_at	AT	Teribe	Teribe	ʃkò	ʃkò	ʃ k ò/o	teri1250	1461	9.067	-82.9631		0	0	?
 853	39_at	AT	Ngabere	Ngäbere	te	te	t e	ngab1239	1461	8.8251	-82.3911		0	0	?
-854	39_at	AT	Boruca	Boruca	ske	ske	s k e	boru1252	1461	8.88093	-83.2124		0	0	?
+854	39_at	AT	Buglere	Buglere	ske	ske	s k e	bugl1243	1461	8.57695	-81.25648		0	0	?
 855	39_at	AT	Dorasque	Dorasque	ga	ga	g a	dora1242	1461	8.567442	-82.375717		0	0	?
 856	39_at	AT	SanBlasKuna	San Blas Kuna	ki	ki	k i	sanb1242	1461	9.15686	-78.3075		0	0	?
 857	39_at	AT	Cogui	Cogui	ka	ka	k a	cogu1240	1461	10.9485	-73.8043		0	0	?
@@ -67,7 +67,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1376	48_bad	BAD	Cabecar	Cabécar	saɺuí	saɺuí	s a ɺ u í/i	cabe1245	1292	9.67031	-83.4102		0	0	?
 1377	48_bad	BAD	Teribe	Teribe	ó	ó	ó/o	teri1250	1292	9.067	-82.9631		0	0	?
 1378	48_bad	BAD	Ngabere	Ngäbere	kɔme	kɔme	k ɔ m e	ngab1239	1292	8.8251	-82.3911		0	0	?
-1379	48_bad	BAD	Boruca	Boruca	me no	me no	m e + n o	boru1252	1292	8.88093	-83.2124		0	0	?
+1379	48_bad	BAD	Buglere	Buglere	me no	me no	m e + n o	bugl1243	1292	8.57695	-81.25648		0	0	?
 1380	48_bad	BAD	Dorasque	Dorasque	irógla	irógla	i r ó/o g l a	dora1242	1292	8.567442	-82.375717		0	0	?
 1381	48_bad	BAD	SanBlasKuna	San Blas Kuna	itʃakkwakwa	itʃakkwakwa	i tʃ a k k w a k w a	sanb1242	1292	9.15686	-78.3075		0	0	?
 1382	48_bad	BAD	Cogui	Cogui	'ʃane	'ʃane	ʃ a n e	cogu1240	1292	10.9485	-73.8043		0	0	?
@@ -92,7 +92,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 636	2_bark	BARK	Cabecar	Cabécar	hkuʊ́	hkuʊ́	h k u ʊ́/ʊ	cabe1245	1204	9.67031	-83.4102		0	0	?
 637	2_bark	BARK	Teribe	Teribe	kuótà	kuótà	k u ó/o t à/a	teri1250	1204	9.067	-82.9631		0	0	?
 638	2_bark	BARK	Ngabere	Ngäbere	kwata	kwata	k w a t a	ngab1239	1204	8.8251	-82.3911		0	0	?
-639	2_bark	BARK	Boruca	Boruca	kwaɾa	kwaɾa	k w a ɾ a	boru1252	1204	8.88093	-83.2124		0	0	?
+639	2_bark	BARK	Buglere	Buglere	kwaɾa	kwaɾa	k w a ɾ a	bugl1243	1204	8.57695	-81.25648		0	0	?
 640	2_bark	BARK	Dorasque	Dorasque	ugá	ugá	u g á/a	dora1242	1204	8.567442	-82.375717		0	0	?
 641	2_bark	BARK	SanBlasKuna	San Blas Kuna	ukka	ukka	u k k a	sanb1242	1204	9.15686	-78.3075		0	0	?
 642	2_bark	BARK	Cogui	Cogui	huba	huba	h u b a	cogu1240	1204	10.9485	-73.8043		0	0	?
@@ -117,7 +117,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 993	66_big	BIG	Cabecar	Cabécar	tã́ĩ́	tã́ĩ́	t ã́/ã ĩ́/ĩ	cabe1245	1202	9.67031	-83.4102		0	0	?
 994	66_big	BIG	Teribe	Teribe	kɪ́s	kɪ́s	k ɪ́/ɪ s	teri1250	1202	9.067	-82.9631		0	0	?
 995	66_big	BIG	Ngabere	Ngäbere	kɾi	kɾi	k ɾ i	ngab1239	1202	8.8251	-82.3911		0	0	?
-996	66_big	BIG	Boruca	Boruca	kweɾi	kweɾi	k w e ɾ i	boru1252	1202	8.88093	-83.2124		0	0	?
+996	66_big	BIG	Buglere	Buglere	kweɾi	kweɾi	k w e ɾ i	bugl1243	1202	8.57695	-81.25648		0	0	?
 997	66_big	BIG	Dorasque	Dorasque	óci	óci	ó/o c i	dora1242	1202	8.567442	-82.375717		0	0	?
 998	66_big	BIG	SanBlasKuna	San Blas Kuna	tumma	tumma	t u m m a	sanb1242	1202	9.15686	-78.3075		0	0	?
 999	66_big	BIG	Cogui	Cogui	a'tema	a'tema	a t e m a	cogu1240	1202	10.9485	-73.8043		0	0	?
@@ -142,7 +142,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 132	37_bird	BIRD	Cabecar	Cabécar	dù	dù	d ù/u	cabe1245	937	9.67031	-83.4102		0	0	?
 133	37_bird	BIRD	Teribe	Teribe	sínũã̀	sínũã̀	s í/i n ũ ã̀/ã	teri1250	937	9.067	-82.9631		0	0	?
 134	37_bird	BIRD	Ngabere	Ngäbere	nukwɔ	nukwɔ	n u k w ɔ	ngab1239	937	8.8251	-82.3911		0	0	?
-135	37_bird	BIRD	Boruca	Boruca	bdada	bdada	b d a d a	boru1252	937	8.88093	-83.2124		0	0	?
+135	37_bird	BIRD	Buglere	Buglere	bdada	bdada	b d a d a	bugl1243	937	8.57695	-81.25648		0	0	?
 136	37_bird	BIRD	Dorasque	Dorasque	dul	dul	d u l	dora1242	937	8.567442	-82.375717		0	0	?
 137	37_bird	BIRD	SanBlasKuna	San Blas Kuna	sikkwi	sikkwi	s i k k w i	sanb1242	937	9.15686	-78.3075		0	0	?
 138	37_bird	BIRD	Cogui	Cogui	nu'ba	nu'ba	n u b a	cogu1240	937	10.9485	-73.8043		0	0	?
@@ -167,7 +167,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1472	54_bite	BITE	Cabecar	Cabécar	kʊ	kʊ	k ʊ	cabe1245	1403	9.67031	-83.4102		0	0	?
 1473	54_bite	BITE	Teribe	Teribe	uɪ́	uɪ́	u ɪ́/ɪ	teri1250	1403	9.067	-82.9631		0	0	?
 1474	54_bite	BITE	Ngabere	Ngäbere	kwet	kwet	k w e t	ngab1239	1403	8.8251	-82.3911		0	0	?
-1475	54_bite	BITE	Boruca	Boruca	gute	gute	g u t e	boru1252	1403	8.88093	-83.2124		0	0	?
+1475	54_bite	BITE	Buglere	Buglere	gute	gute	g u t e	bugl1243	1403	8.57695	-81.25648		0	0	?
 1476	54_bite	BITE	SanBlasKuna	San Blas Kuna	kunn	kunn	k u n n	sanb1242	1403	9.15686	-78.3075		0	0	?
 1477	54_bite	BITE	Cogui	Cogui	hau'lihiĩ	hau'lihiĩ	h a u l i h i ĩ	cogu1240	1403	10.9485	-73.8043		0	0	?
 1478	54_bite	BITE	Arhuaco	Arhuaco	kə'kus	kə'kus	k ə k u s	arhu1242	1403	10.7018	-73.6363		0	0	?
@@ -191,7 +191,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1543	62_black	BLACK	Cabecar	Cabécar	doɺódã̀	doɺódã̀	d o ɺ ó/o d ã̀/ã	cabe1245	163	9.67031	-83.4102		0	0	?
 1544	62_black	BLACK	Teribe	Teribe	sòksĩ́	sòksĩ́	s ò/o k s ĩ́/ĩ	teri1250	163	9.067	-82.9631		0	0	?
 1545	62_black	BLACK	Ngabere	Ngäbere	dɾɯne	dɾɯne	d ɾ ɯ n e	ngab1239	163	8.8251	-82.3911		0	0	?
-1546	62_black	BLACK	Boruca	Boruca	heɾe	heɾe	h e ɾ e	boru1252	163	8.88093	-83.2124		0	0	?
+1546	62_black	BLACK	Buglere	Buglere	heɾe	heɾe	h e ɾ e	bugl1243	163	8.57695	-81.25648		0	0	?
 1547	62_black	BLACK	Dorasque	Dorasque	saná	saná	s a n á/a	dora1242	163	8.567442	-82.375717		0	0	?
 1548	62_black	BLACK	SanBlasKuna	San Blas Kuna	sitʃi	sitʃi	s i tʃ i	sanb1242	163	9.15686	-78.3075		0	0	?
 1549	62_black	BLACK	Cogui	Cogui	a'baksɯ	a'baksɯ	a b a k s ɯ	cogu1240	163	10.9485	-73.8043		0	0	?
@@ -216,7 +216,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2212	86_blood	BLOOD	Cabecar	Cabécar	pí	pí	p í/i	cabe1245	946	9.67031	-83.4102		0	0	?
 2213	86_blood	BLOOD	Teribe	Teribe	sɾɪ́ŋ	sɾɪ́ŋ	s ɾ ɪ́/ɪ ŋ	teri1250	946	9.067	-82.9631		0	0	?
 2214	86_blood	BLOOD	Ngabere	Ngäbere	dɔɾi	dɔɾi	d ɔ ɾ i	ngab1239	946	8.8251	-82.3911		0	0	?
-2215	86_blood	BLOOD	Boruca	Boruca	be	be	b e	boru1252	946	8.88093	-83.2124		0	0	?
+2215	86_blood	BLOOD	Buglere	Buglere	be	be	b e	bugl1243	946	8.57695	-81.25648		0	0	?
 2216	86_blood	BLOOD	Dorasque	Dorasque	havé	havé	h a v é/e	dora1242	946	8.567442	-82.375717		0	0	?
 2217	86_blood	BLOOD	SanBlasKuna	San Blas Kuna	ape	ape	a p e	sanb1242	946	9.15686	-78.3075		0	0	?
 2218	86_blood	BLOOD	Cogui	Cogui	'abi	'abi	a b i	cogu1240	946	10.9485	-73.8043		0	0	?
@@ -241,7 +241,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1161	57_bone	BONE	Cabecar	Cabécar	tʃitʃʔá	tʃitʃʔá	tʃ i tʃ ʔ á/a	cabe1245	1394	9.67031	-83.4102		0	0	?
 1162	57_bone	BONE	Teribe	Teribe	dobógɺo	dobógɺo	d o b ó/o g ɺ o	teri1250	1394	9.067	-82.9631		0	0	?
 1163	57_bone	BONE	Ngabere	Ngäbere	kɾɔ	kɾɔ	k ɾ ɔ	ngab1239	1394	8.8251	-82.3911		0	0	?
-1164	57_bone	BONE	Boruca	Boruca	gda	gda	g d a	boru1252	1394	8.88093	-83.2124		0	0	?
+1164	57_bone	BONE	Buglere	Buglere	gda	gda	g d a	bugl1243	1394	8.57695	-81.25648		0	0	?
 1165	57_bone	BONE	Dorasque	Dorasque	koné	koné	k o n é/e	dora1242	1394	8.567442	-82.375717		0	0	?
 1166	57_bone	BONE	SanBlasKuna	San Blas Kuna	kala	kala	k a l a	sanb1242	1394	9.15686	-78.3075		0	0	?
 1167	57_bone	BONE	Cogui	Cogui	zalakala	zalakala	z a l a k a l a	cogu1240	1394	10.9485	-73.8043		0	0	?
@@ -266,7 +266,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2308	6_breast	BREAST	Cabecar	Cabécar	tsú	tsú	t s ú/u	cabe1245	1402	9.67031	-83.4102		0	0	?
 2309	6_breast	BREAST	Teribe	Teribe	nókuò	nókuò	n ó/o k u ò/o	teri1250	1402	9.067	-82.9631		0	0	?
 2310	6_breast	BREAST	Ngabere	Ngäbere	kẽã	kẽã	k ẽ ã	ngab1239	1402	8.8251	-82.3911		0	0	?
-2311	6_breast	BREAST	Boruca	Boruca	tusú	tusú	t u s ú/u	boru1252	1402	8.88093	-83.2124		0	0	?
+2311	6_breast	BREAST	Buglere	Buglere	tusú	tusú	t u s ú/u	bugl1243	1402	8.57695	-81.25648		0	0	?
 2312	6_breast	BREAST	Dorasque	Dorasque	nõ	nõ	n õ	dora1242	1402	8.567442	-82.375717		0	0	?
 2313	6_breast	BREAST	SanBlasKuna	San Blas Kuna	nu:	nu:	n u:	sanb1242	1402	9.15686	-78.3075		0	0	?
 2314	6_breast	BREAST	Cogui	Cogui	su'mi	su'mi	s u m i	cogu1240	1402	10.9485	-73.8043		0	0	?
@@ -291,7 +291,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1567	38_child	CHILD	Cabecar	Cabécar	dʒabà	dʒabà	dʒ a b à/a	cabe1245	2099	9.67031	-83.4102		0	0	?
 1568	38_child	CHILD	Teribe	Teribe	ã́ũã̀	ã́ũã̀	ã́/ã ũ ã̀/ã	teri1250	2099	9.067	-82.9631		0	0	?
 1569	38_child	CHILD	Ngabere	Ngäbere	nɔbɔgɾe	nɔbɔgɾe	n ɔ b ɔ g ɾ e	ngab1239	2099	8.8251	-82.3911		0	0	?
-1570	38_child	CHILD	Boruca	Boruca	kiɾogwa	kiɾogwa	k i ɾ o g w a	boru1252	2099	8.88093	-83.2124		0	0	?
+1570	38_child	CHILD	Buglere	Buglere	kiɾogwa	kiɾogwa	k i ɾ o g w a	bugl1243	2099	8.57695	-81.25648		0	0	?
 1571	38_child	CHILD	Dorasque	Dorasque	áni	áni	á/a n i	dora1242	2099	8.567442	-82.375717		0	0	?
 1572	38_child	CHILD	SanBlasKuna	San Blas Kuna	matʃikwa	matʃikwa	m a tʃ i k w a	sanb1242	2099	9.15686	-78.3075		0	0	?
 1573	38_child	CHILD	Cogui	Cogui	'sukua	'sukua	s u k u a	cogu1240	2099	10.9485	-73.8043		0	0	?
@@ -316,7 +316,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1233	93_clean	CLEAN	Cabecar	Cabécar	sku	sku	s k u	cabe1245	704	9.67031	-83.4102		0	0	?
 1234	93_clean	CLEAN	Teribe	Teribe	kuóʃkuɪ̀	kuóʃkuɪ̀	k u ó/o ʃ k u ɪ̀/ɪ	teri1250	704	9.067	-82.9631		0	0	?
 1235	93_clean	CLEAN	Ngabere	Ngäbere	bɔtete	bɔtete	b ɔ t e t e	ngab1239	704	8.8251	-82.3911		0	0	?
-1236	93_clean	CLEAN	Boruca	Boruca	glige	glige	g l i g e	boru1252	704	8.88093	-83.2124		0	0	?
+1236	93_clean	CLEAN	Buglere	Buglere	glige	glige	g l i g e	bugl1243	704	8.57695	-81.25648		0	0	?
 1237	93_clean	CLEAN	SanBlasKuna	San Blas Kuna	enukke	enukke	e n u k k e	sanb1242	704	9.15686	-78.3075		0	0	?
 1238	93_clean	CLEAN	Cogui	Cogui	ihi'ʒihiĩ	ihi'ʒihiĩ	i h i ʒ i h i ĩ	cogu1240	704	10.9485	-73.8043		0	0	?
 1239	93_clean	CLEAN	Arhuaco	Arhuaco	aʔ'tʃukkw	aʔ'tʃukkw	a ʔ tʃ u k k w	arhu1242	704	10.7018	-73.6363		0	0	?
@@ -340,7 +340,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2141	71_clothes	CLOTHES	Cabecar	Cabécar	datsí	datsí	d a t s í/i	cabe1245	1895	9.67031	-83.4102		0	0	?
 2142	71_clothes	CLOTHES	Teribe	Teribe	ʃuóŋ	ʃuóŋ	ʃ u ó/o ŋ	teri1250	1895	9.067	-82.9631		0	0	?
 2143	71_clothes	CLOTHES	Ngabere	Ngäbere	dɔ̃	dɔ̃	d ɔ̃	ngab1239	1895	8.8251	-82.3911		0	0	?
-2144	71_clothes	CLOTHES	Boruca	Boruca	ɲometɾa	ɲometɾa	ɲ o m e t ɾ a	boru1252	1895	8.88093	-83.2124		0	0	?
+2144	71_clothes	CLOTHES	Buglere	Buglere	ɲometɾa	ɲometɾa	ɲ o m e t ɾ a	bugl1243	1895	8.57695	-81.25648		0	0	?
 2145	71_clothes	CLOTHES	Dorasque	Dorasque	ákubi	ákubi	á/a k u b i	dora1242	1895	8.567442	-82.375717		0	0	?
 2146	71_clothes	CLOTHES	SanBlasKuna	San Blas Kuna	mola	mola	m o l a	sanb1242	1895	9.15686	-78.3075		0	0	?
 2147	71_clothes	CLOTHES	Cogui	Cogui	ʒaku'a	ʒaku'a	ʒ a k u a	cogu1240	1895	10.9485	-73.8043		0	0	?
@@ -365,7 +365,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1662	76_cloud	CLOUD	Cabecar	Cabécar	bõ̀	bõ̀	b õ̀/õ	cabe1245	1489	9.67031	-83.4102		0	0	?
 1663	76_cloud	CLOUD	Teribe	Teribe	ɸóŋ	ɸóŋ	ɸ ó/o ŋ	teri1250	1489	9.067	-82.9631		0	0	?
 1664	76_cloud	CLOUD	Ngabere	Ngäbere	mɯta	mɯta	m ɯ t a	ngab1239	1489	8.8251	-82.3911		0	0	?
-1665	76_cloud	CLOUD	Boruca	Boruca	boga	boga	b o g a	boru1252	1489	8.88093	-83.2124		0	0	?
+1665	76_cloud	CLOUD	Buglere	Buglere	boga	boga	b o g a	bugl1243	1489	8.57695	-81.25648		0	0	?
 1666	76_cloud	CLOUD	Dorasque	Dorasque	bókála	bókála	b ó/o k á/a l a	dora1242	1489	8.567442	-82.375717		0	0	?
 1667	76_cloud	CLOUD	SanBlasKuna	San Blas Kuna	mola	mola	m o l a	sanb1242	1489	9.15686	-78.3075		0	0	?
 1668	76_cloud	CLOUD	Cogui	Cogui	'maui	'maui	m a u i	cogu1240	1489	10.9485	-73.8043		0	0	?
@@ -390,7 +390,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 922	19_cold	COLD	Cabecar	Cabécar	tsḗ	tsḗ	t s ẽ́/ẽ	cabe1245	1287	9.67031	-83.4102		0	0	?
 923	19_cold	COLD	Teribe	Teribe	séntè	séntè	s é/e n t è/e	teri1250	1287	9.067	-82.9631		0	0	?
 924	19_cold	COLD	Ngabere	Ngäbere	tibo	tibo	t i b o	ngab1239	1287	8.8251	-82.3911		0	0	?
-925	19_cold	COLD	Boruca	Boruca	skeke	skeke	s k e k e	boru1252	1287	8.88093	-83.2124		0	0	?
+925	19_cold	COLD	Buglere	Buglere	skeke	skeke	s k e k e	bugl1243	1287	8.57695	-81.25648		0	0	?
 926	19_cold	COLD	Dorasque	Dorasque	saiga	saiga	s a i g a	dora1242	1287	8.567442	-82.375717		0	0	?
 927	19_cold	COLD	SanBlasKuna	San Blas Kuna	tiopikwa	tiopikwa	t i o p i k w a	sanb1242	1287	9.15686	-78.3075		0	0	?
 928	19_cold	COLD	Cogui	Cogui	ʃu'izala	ʃu'izala	ʃ u i z a l a	cogu1240	1287	10.9485	-73.8043		0	0	?
@@ -415,7 +415,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2475	9_come	COME	Cabecar	Cabécar	de	de	d e	cabe1245	1446	9.67031	-83.4102		0	0	?
 2476	9_come	COME	Teribe	Teribe	ték	ték	t é/e k	teri1250	1446	9.067	-82.9631		0	0	?
 2477	9_come	COME	Ngabere	Ngäbere	kite	kite	k i t e	ngab1239	1446	8.8251	-82.3911		0	0	?
-2478	9_come	COME	Boruca	Boruca	tʃige	tʃige	tʃ i g e	boru1252	1446	8.88093	-83.2124		0	0	?
+2478	9_come	COME	Buglere	Buglere	tʃige	tʃige	tʃ i g e	bugl1243	1446	8.57695	-81.25648		0	0	?
 2479	9_come	COME	Dorasque	Dorasque	berik	berik	b e r i k	dora1242	1446	8.567442	-82.375717		0	0	?
 2480	9_come	COME	SanBlasKuna	San Blas Kuna	take	take	t a k e	sanb1242	1446	9.15686	-78.3075		0	0	?
 2481	9_come	COME	Cogui	Cogui	'naʃ	'naʃ	n a ʃ	cogu1240	1446	10.9485	-73.8043		0	0	?
@@ -440,7 +440,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1328	59_cry	CRY	Cabecar	Cabécar	hĩ	hĩ	h ĩ	cabe1245	1839	9.67031	-83.4102		0	0	?
 1329	59_cry	CRY	Teribe	Teribe	sɾáɾ	sɾáɾ	s ɾ á/a ɾ	teri1250	1839	9.067	-82.9631		0	0	?
 1330	59_cry	CRY	Ngabere	Ngäbere	mui	mui	m u i	ngab1239	1839	8.8251	-82.3911		0	0	?
-1331	59_cry	CRY	Boruca	Boruca	moe	moe	m o e	boru1252	1839	8.88093	-83.2124		0	0	?
+1331	59_cry	CRY	Buglere	Buglere	moe	moe	m o e	bugl1243	1839	8.57695	-81.25648		0	0	?
 1332	59_cry	CRY	Dorasque	Dorasque	bos	bos	b o s	dora1242	1839	8.567442	-82.375717		0	0	?
 1333	59_cry	CRY	SanBlasKuna	San Blas Kuna	po	po	p o	sanb1242	1839	9.15686	-78.3075		0	0	?
 1334	59_cry	CRY	Cogui	Cogui	'mau	'mau	m a u	cogu1240	1839	10.9485	-73.8043		0	0	?
@@ -465,7 +465,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 612	36_cut	CUT	Cabecar	Cabécar	tɪ	tɪ	t ɪ	cabe1245	1432	9.67031	-83.4102		0	0	?
 613	36_cut	CUT	Teribe	Teribe	zí	zí	z í/i	teri1250	1432	9.067	-82.9631		0	0	?
 614	36_cut	CUT	Ngabere	Ngäbere	tikekɔ	tikekɔ	t i k e k ɔ	ngab1239	1432	8.8251	-82.3911		0	0	?
-615	36_cut	CUT	Boruca	Boruca	date	date	d a t e	boru1252	1432	8.88093	-83.2124		0	0	?
+615	36_cut	CUT	Buglere	Buglere	date	date	d a t e	bugl1243	1432	8.57695	-81.25648		0	0	?
 616	36_cut	CUT	Dorasque	Dorasque	togli	togli	t o g l i	dora1242	1432	8.567442	-82.375717		0	0	?
 617	36_cut	CUT	SanBlasKuna	San Blas Kuna	sikke	sikke	s i k k e	sanb1242	1432	9.15686	-78.3075		0	0	?
 618	36_cut	CUT	Cogui	Cogui	'men	'men	m e n	cogu1240	1432	10.9485	-73.8043		0	0	?
@@ -490,7 +490,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 156	100_dance	DANCE	Cabecar	Cabécar	kaɺʊ́tɪ	kaɺʊ́tɪ	k a ɺ ʊ́/ʊ t ɪ	cabe1245	1879	9.67031	-83.4102		0	0	?
 157	100_dance	DANCE	Teribe	Teribe	tʰàŋnióŋ	tʰàŋnióŋ	tʰ à/a ŋ n i ó/o ŋ	teri1250	1879	9.067	-82.9631		0	0	?
 158	100_dance	DANCE	Ngabere	Ngäbere	bradʒe	bradʒe	b r a dʒ e	ngab1239	1879	8.8251	-82.3911		0	0	?
-159	100_dance	DANCE	Boruca	Boruca	gwie	gwie	g w i e	boru1252	1879	8.88093	-83.2124		0	0	?
+159	100_dance	DANCE	Buglere	Buglere	gwie	gwie	g w i e	bugl1243	1879	8.57695	-81.25648		0	0	?
 160	100_dance	DANCE	Dorasque	Dorasque	kúyi	kúyi	k ú/u y i	dora1242	1879	8.567442	-82.375717		0	0	?
 161	100_dance	DANCE	SanBlasKuna	San Blas Kuna	kuile	kuile	k u i l e	sanb1242	1879	9.15686	-78.3075		0	0	?
 162	100_dance	DANCE	Cogui	Cogui	kuiz	kuiz	k u i z	cogu1240	1879	10.9485	-73.8043		0	0	?
@@ -515,7 +515,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1854	89_dog	DOG	Cabecar	Cabécar	tʃítʃì	tʃítʃì	tʃ í/i tʃ ì/i	cabe1245	2009	9.67031	-83.4102		0	0	?
 1855	89_dog	DOG	Teribe	Teribe	ʃíʃì	ʃíʃì	ʃ í/i ʃ ì/i	teri1250	2009	9.067	-82.9631		0	0	?
 1856	89_dog	DOG	Ngabere	Ngäbere	nu	nu	n u	ngab1239	2009	8.8251	-82.3911		0	0	?
-1857	89_dog	DOG	Boruca	Boruca	to	to	t o	boru1252	2009	8.88093	-83.2124		0	0	?
+1857	89_dog	DOG	Buglere	Buglere	to	to	t o	bugl1243	2009	8.57695	-81.25648		0	0	?
 1858	89_dog	DOG	Dorasque	Dorasque	bilo	bilo	b i l o	dora1242	2009	8.567442	-82.375717		0	0	?
 1859	89_dog	DOG	SanBlasKuna	San Blas Kuna	atʃu	atʃu	a tʃ u	sanb1242	2009	9.15686	-78.3075		0	0	?
 1860	89_dog	DOG	Cogui	Cogui	'pio	'pio	p i o	cogu1240	2009	10.9485	-73.8043		0	0	?
@@ -540,7 +540,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 180	105_drink	DRINK	Cabecar	Cabécar	dʒɪ	dʒɪ	dʒ ɪ	cabe1245	1401	9.67031	-83.4102		0	0	?
 181	105_drink	DRINK	Teribe	Teribe	iɪ́	iɪ́	i ɪ́/ɪ	teri1250	1401	9.067	-82.9631		0	0	?
 182	105_drink	DRINK	Ngabere	Ngäbere	ɲã	ɲã	ɲ ã	ngab1239	1401	8.8251	-82.3911		0	0	?
-183	105_drink	DRINK	Boruca	Boruca	hai	hai	h a i	boru1252	1401	8.88093	-83.2124		0	0	?
+183	105_drink	DRINK	Buglere	Buglere	hai	hai	h a i	bugl1243	1401	8.57695	-81.25648		0	0	?
 184	105_drink	DRINK	Dorasque	Dorasque	bot	bot	b o t	dora1242	1401	8.567442	-82.375717		0	0	?
 185	105_drink	DRINK	SanBlasKuna	San Blas Kuna	kope	kope	k o p e	sanb1242	1401	9.15686	-78.3075		0	0	?
 186	105_drink	DRINK	Cogui	Cogui	'tuʃi	'tuʃi	t u ʃ i	cogu1240	1401	10.9485	-73.8043		0	0	?
@@ -565,7 +565,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2236	55_dry	DRY	Cabecar	Cabécar	pó	pó	p ó/o	cabe1245	1398	9.67031	-83.4102		0	0	?
 2237	55_dry	DRY	Teribe	Teribe	idógɺo	idógɺo	i d ó/o g ɺ o	teri1250	1398	9.067	-82.9631		0	0	?
 2238	55_dry	DRY	Ngabere	Ngäbere	nɣtaɾe	nɣtaɾe	n ɣ t a ɾ e	ngab1239	1398	8.8251	-82.3911		0	0	?
-2239	55_dry	DRY	Boruca	Boruca	ulen	ulen	u l e n	boru1252	1398	8.88093	-83.2124		0	0	?
+2239	55_dry	DRY	Buglere	Buglere	ulen	ulen	u l e n	bugl1243	1398	8.57695	-81.25648		0	0	?
 2240	55_dry	DRY	Dorasque	Dorasque	tolótkal	tolótkal	t o l ó/o t k a l	dora1242	1398	8.567442	-82.375717		0	0	?
 2241	55_dry	DRY	SanBlasKuna	San Blas Kuna	tinna	tinna	t i n n a	sanb1242	1398	9.15686	-78.3075		0	0	?
 2242	55_dry	DRY	Cogui	Cogui	aluhu'e	aluhu'e	a l u h u e	cogu1240	1398	10.9485	-73.8043		0	0	?
@@ -590,7 +590,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1781	94_ear	EAR	Cabecar	Cabécar	kukʊ́	kukʊ́	k u k ʊ́/ʊ	cabe1245	1247	9.67031	-83.4102		0	0	?
 1782	94_ear	EAR	Teribe	Teribe	kuòŋuó	kuòŋuó	k u ò/o ŋ u ó/o	teri1250	1247	9.067	-82.9631		0	0	?
 1783	94_ear	EAR	Ngabere	Ngäbere	olo	olo	o l o	ngab1239	1247	8.8251	-82.3911		0	0	?
-1784	94_ear	EAR	Boruca	Boruca	olo	olo	o l o	boru1252	1247	8.88093	-83.2124		0	0	?
+1784	94_ear	EAR	Buglere	Buglere	olo	olo	o l o	bugl1243	1247	8.57695	-81.25648		0	0	?
 1785	94_ear	EAR	Dorasque	Dorasque	kugá	kugá	k u g á/a	dora1242	1247	8.567442	-82.375717		0	0	?
 1786	94_ear	EAR	SanBlasKuna	San Blas Kuna	uaja	uaja	u a j a	sanb1242	1247	9.15686	-78.3075		0	0	?
 1787	94_ear	EAR	Cogui	Cogui	'kuka	'kuka	k u k a	cogu1240	1247	10.9485	-73.8043		0	0	?
@@ -615,7 +615,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2332	101_earthsoil	EARTH (SOIL)	Cabecar	Cabécar	hĩʃkʊ́	hĩʃkʊ́	h ĩ ʃ k ʊ́/ʊ	cabe1245	1228	9.67031	-83.4102		0	0	?
 2333	101_earthsoil	EARTH (SOIL)	Teribe	Teribe	kɺúŋ	kɺúŋ	k ɺ ú/u ŋ	teri1250	1228	9.067	-82.9631		0	0	?
 2334	101_earthsoil	EARTH (SOIL)	Ngabere	Ngäbere	dɔbrɔ	dɔbrɔ	d ɔ b r ɔ	ngab1239	1228	8.8251	-82.3911		0	0	?
-2335	101_earthsoil	EARTH (SOIL)	Boruca	Boruca	dbi	dbi	d b i	boru1252	1228	8.88093	-83.2124		0	0	?
+2335	101_earthsoil	EARTH (SOIL)	Buglere	Buglere	dbi	dbi	d b i	bugl1243	1228	8.57695	-81.25648		0	0	?
 2336	101_earthsoil	EARTH (SOIL)	Dorasque	Dorasque	íri	íri	í/i r i	dora1242	1228	8.567442	-82.375717		0	0	?
 2337	101_earthsoil	EARTH (SOIL)	SanBlasKuna	San Blas Kuna	nappa	nappa	n a p p a	sanb1242	1228	9.15686	-78.3075		0	0	?
 2338	101_earthsoil	EARTH (SOIL)	Cogui	Cogui	'kagi	'kagi	k a g i	cogu1240	1228	10.9485	-73.8043		0	0	?
@@ -640,7 +640,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 564	60_eat	EAT	Cabecar	Cabécar	dʒakɪ	dʒakɪ	dʒ a k ɪ	cabe1245	1336	9.67031	-83.4102		0	0	?
 565	60_eat	EAT	Teribe	Teribe	ií	ií	i í/i	teri1250	1336	9.067	-82.9631		0	0	?
 566	60_eat	EAT	Ngabere	Ngäbere	mɾɣɾe	mɾɣɾe	m ɾ ɣ ɾ e	ngab1239	1336	8.8251	-82.3911		0	0	?
-567	60_eat	EAT	Boruca	Boruca	bliɾe	bliɾe	b l i ɾ e	boru1252	1336	8.88093	-83.2124		0	0	?
+567	60_eat	EAT	Buglere	Buglere	bliɾe	bliɾe	b l i ɾ e	bugl1243	1336	8.57695	-81.25648		0	0	?
 568	60_eat	EAT	Dorasque	Dorasque	kut	kut	k u t	dora1242	1336	8.567442	-82.375717		0	0	?
 569	60_eat	EAT	SanBlasKuna	San Blas Kuna	kunne	kunne	k u n n e	sanb1242	1336	9.15686	-78.3075		0	0	?
 570	60_eat	EAT	Cogui	Cogui	'za	'za	z a	cogu1240	1336	10.9485	-73.8043		0	0	?
@@ -665,7 +665,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1734	46_eye	EYE	Cabecar	Cabécar	uʊ́baɺà	uʊ́baɺà	u ʊ́/ʊ b a ɺ à/a	cabe1245	1248	9.67031	-83.4102		0	0	?
 1735	46_eye	EYE	Teribe	Teribe	bòkuò	bòkuò	b ò/o k u ò/o	teri1250	1248	9.067	-82.9631		0	0	?
 1736	46_eye	EYE	Ngabere	Ngäbere	okwɔ	okwɔ	o k w ɔ	ngab1239	1248	8.8251	-82.3911		0	0	?
-1737	46_eye	EYE	Boruca	Boruca	gwagwa	gwagwa	g w a g w a	boru1252	1248	8.88093	-83.2124		0	0	?
+1737	46_eye	EYE	Buglere	Buglere	gwagwa	gwagwa	g w a g w a	bugl1243	1248	8.57695	-81.25648		0	0	?
 1738	46_eye	EYE	Dorasque	Dorasque	okó	okó	o k ó/o	dora1242	1248	8.567442	-82.375717		0	0	?
 1739	46_eye	EYE	SanBlasKuna	San Blas Kuna	ipia	ipia	i p i a	sanb1242	1248	9.15686	-78.3075		0	0	?
 1740	46_eye	EYE	Cogui	Cogui	'uba	'uba	u b a	cogu1240	1248	10.9485	-73.8043		0	0	?
@@ -690,7 +690,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1256	47_far	FAR	Cabecar	Cabécar	kãbĩ̂ĩ̂	kãbĩ̂ĩ̂	k ã b ĩ̂/ĩ ĩ̂/ĩ	cabe1245	1406	9.67031	-83.4102		0	0	?
 1257	47_far	FAR	Teribe	Teribe	ɸòla	ɸòla	ɸ ò/o l a	teri1250	1406	9.067	-82.9631		0	0	?
 1258	47_far	FAR	Ngabere	Ngäbere	mẽte	mẽte	m ẽ t e	ngab1239	1406	8.8251	-82.3911		0	0	?
-1259	47_far	FAR	Boruca	Boruca	bate	bate	b a t e	boru1252	1406	8.88093	-83.2124		0	0	?
+1259	47_far	FAR	Buglere	Buglere	bate	bate	b a t e	bugl1243	1406	8.57695	-81.25648		0	0	?
 1260	47_far	FAR	Dorasque	Dorasque	héppe	héppe	h é/e p p e	dora1242	1406	8.567442	-82.375717		0	0	?
 1261	47_far	FAR	SanBlasKuna	San Blas Kuna	panna	panna	p a n n a	sanb1242	1406	9.15686	-78.3075		0	0	?
 1262	47_far	FAR	Cogui	Cogui	male'zenka	male'zenka	m a l e z e n k a	cogu1240	1406	10.9485	-73.8043		0	0	?
@@ -715,7 +715,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 60	29_fasten	FASTEN	Cabecar	Cabécar	bõ	bõ	b õ	cabe1245	1094	9.67031	-83.4102		0	0	?
 61	29_fasten	FASTEN	Teribe	Teribe	ɸɺík	ɸɺík	ɸ ɺ í/i k	teri1250	1094	9.067	-82.9631		0	0	?
 62	29_fasten	FASTEN	Ngabere	Ngäbere	mɔgete	mɔgete	m ɔ g e t e	ngab1239	1094	8.8251	-82.3911		0	0	?
-63	29_fasten	FASTEN	Boruca	Boruca	kagã	kagã	k a g ã	boru1252	1094	8.88093	-83.2124		0	0	?
+63	29_fasten	FASTEN	Buglere	Buglere	kagã	kagã	k a g ã	bugl1243	1094	8.57695	-81.25648		0	0	?
 64	29_fasten	FASTEN	Dorasque	Dorasque	bui	bui	b u i	dora1242	1094	8.567442	-82.375717		0	0	?
 65	29_fasten	FASTEN	SanBlasKuna	San Blas Kuna	etinne	etinne	e t i n n e	sanb1242	1094	9.15686	-78.3075		0	0	?
 66	29_fasten	FASTEN	Cogui	Cogui	akalihi	akalihi	a k a l i h i	cogu1240	1094	10.9485	-73.8043		0	0	?
@@ -740,7 +740,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1805	41_father	FATHER	Cabecar	Cabécar	kákà	kákà	k á/a k à/a	cabe1245	1217	9.67031	-83.4102		0	0	?
 1806	41_father	FATHER	Teribe	Teribe	kʰók	kʰók	kʰ ó/o k	teri1250	1217	9.067	-82.9631		0	0	?
 1807	41_father	FATHER	Ngabere	Ngäbere	rɯ̃	rɯ̃	r ɯ̃	ngab1239	1217	8.8251	-82.3911		0	0	?
-1808	41_father	FATHER	Boruca	Boruca	ɲenu	ɲenu	ɲ e n u	boru1252	1217	8.88093	-83.2124		0	0	?
+1808	41_father	FATHER	Buglere	Buglere	ɲenu	ɲenu	ɲ e n u	bugl1243	1217	8.57695	-81.25648		0	0	?
 1809	41_father	FATHER	Dorasque	Dorasque	su	su	s u	dora1242	1217	8.567442	-82.375717		0	0	?
 1810	41_father	FATHER	SanBlasKuna	San Blas Kuna	papa	papa	p a p a	sanb1242	1217	9.15686	-78.3075		0	0	?
 1811	41_father	FATHER	Cogui	Cogui	'hate	'hate	h a t e	cogu1240	1217	10.9485	-73.8043		0	0	?
@@ -766,7 +766,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2020	50_feather	FEATHER	Cabecar	Cabécar	kʊ́	kʊ́	k ʊ́/ʊ	cabe1245	1201	9.67031	-83.4102		0	0	?
 2021	50_feather	FEATHER	Teribe	Teribe	zók	zók	z ó/o k	teri1250	1201	9.067	-82.9631		0	0	?
 2022	50_feather	FEATHER	Ngabere	Ngäbere	kɔ	kɔ	k ɔ	ngab1239	1201	8.8251	-82.3911		0	0	?
-2023	50_feather	FEATHER	Boruca	Boruca	ga	ga	g a	boru1252	1201	8.88093	-83.2124		0	0	?
+2023	50_feather	FEATHER	Buglere	Buglere	ga	ga	g a	bugl1243	1201	8.57695	-81.25648		0	0	?
 2024	50_feather	FEATHER	Dorasque	Dorasque	shũl	shũl	s h ũ l	dora1242	1201	8.567442	-82.375717		0	0	?
 2025	50_feather	FEATHER	SanBlasKuna	San Blas Kuna	apsala	apsala	a p s a l a	sanb1242	1201	9.15686	-78.3075		0	0	?
 2026	50_feather	FEATHER	Cogui	Cogui	gala	gala	g a l a	cogu1240	1201	10.9485	-73.8043		0	0	?
@@ -791,7 +791,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2044	64_few	FEW	Cabecar	Cabécar	hũã́hũã́dã̀ɺà	hũã́hũã́dã̀ɺà	h ũ ã́/ã h ũ ã́/ã d ã̀/ã ɺ à/a	cabe1245	1242	9.67031	-83.4102		0	0	?
 2045	64_few	FEW	Teribe	Teribe	tíɾàksò	tíɾàksò	t í/i ɾ à/a k s ò/o	teri1250	1242	9.067	-82.9631		0	0	?
 2046	64_few	FEW	Ngabere	Ngäbere	bɾaibe	bɾaibe	b ɾ a i b e	ngab1239	1242	8.8251	-82.3911		0	0	?
-2047	64_few	FEW	Boruca	Boruca	bedre	bedre	b e d r e	boru1252	1242	8.88093	-83.2124		0	0	?
+2047	64_few	FEW	Buglere	Buglere	bedre	bedre	b e d r e	bugl1243	1242	8.57695	-81.25648		0	0	?
 2048	64_few	FEW	Dorasque	Dorasque	hebbil	hebbil	h e b b i l	dora1242	1242	8.567442	-82.375717		0	0	?
 2049	64_few	FEW	SanBlasKuna	San Blas Kuna	itʃekwa	itʃekwa	i tʃ e k w a	sanb1242	1242	9.15686	-78.3075		0	0	?
 2050	64_few	FEW	Cogui	Cogui	nauan'gaba	nauan'gaba	n a u a n g a b a	cogu1240	1242	10.9485	-73.8043		0	0	?
@@ -816,7 +816,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 946	18_fire	FIRE	Cabecar	Cabécar	dʒʊkʊ́	dʒʊkʊ́	dʒ ʊ k ʊ́/ʊ	cabe1245	221	9.67031	-83.4102		0	0	?
 947	18_fire	FIRE	Teribe	Teribe	iʊ̀k	iʊ̀k	i ʊ̀/ʊ k	teri1250	221	9.067	-82.9631		0	0	?
 948	18_fire	FIRE	Ngabere	Ngäbere	ɲukwɔ	ɲukwɔ	ɲ u k w ɔ	ngab1239	221	8.8251	-82.3911		0	0	?
-949	18_fire	FIRE	Boruca	Boruca	hita	hita	h i t a	boru1252	221	8.88093	-83.2124		0	0	?
+949	18_fire	FIRE	Buglere	Buglere	hita	hita	h i t a	bugl1243	221	8.57695	-81.25648		0	0	?
 950	18_fire	FIRE	Dorasque	Dorasque	kebú	kebú	k e b ú/u	dora1242	221	8.567442	-82.375717		0	0	?
 951	18_fire	FIRE	SanBlasKuna	San Blas Kuna	so:	so:	s o:	sanb1242	221	9.15686	-78.3075		0	0	?
 952	18_fire	FIRE	Cogui	Cogui	gauk'sei	gauk'sei	g a u k s e i	cogu1240	221	10.9485	-73.8043		0	0	?
@@ -841,7 +841,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1900	51_fish	FISH	Cabecar	Cabécar	dibã̀	dibã̀	d i b ã̀/ã	cabe1245	227	9.67031	-83.4102		0	0	?
 1901	51_fish	FISH	Teribe	Teribe	mà	mà	m à/a	teri1250	227	9.067	-82.9631		0	0	?
 1902	51_fish	FISH	Ngabere	Ngäbere	gwa	gwa	g w a	ngab1239	227	8.8251	-82.3911		0	0	?
-1903	51_fish	FISH	Boruca	Boruca	ŋwe	ŋwe	ŋ w e	boru1252	227	8.88093	-83.2124		0	0	?
+1903	51_fish	FISH	Buglere	Buglere	ŋwe	ŋwe	ŋ w e	bugl1243	227	8.57695	-81.25648		0	0	?
 1904	51_fish	FISH	Dorasque	Dorasque	kisi	kisi	k i s i	dora1242	227	8.567442	-82.375717		0	0	?
 1905	51_fish	FISH	SanBlasKuna	San Blas Kuna	ua	ua	u a	sanb1242	227	9.15686	-78.3075		0	0	?
 1906	51_fish	FISH	Cogui	Cogui	ũa	ũa	ũ a	cogu1240	227	10.9485	-73.8043		0	0	?
@@ -866,7 +866,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 516	33_five	FIVE	Cabecar	Cabécar	skẽ	skẽ	s k ẽ	cabe1245	493	9.67031	-83.4102		0	0	?
 517	33_five	FIVE	Teribe	Teribe	ʃkíŋ	ʃkíŋ	ʃ k í/i ŋ	teri1250	493	9.067	-82.9631		0	0	?
 518	33_five	FIVE	Ngabere	Ngäbere	ɾike	ɾike	ɾ i k e	ngab1239	493	8.8251	-82.3911		0	0	?
-519	33_five	FIVE	Boruca	Boruca	tiga	tiga	t i g a	boru1252	493	8.88093	-83.2124		0	0	?
+519	33_five	FIVE	Buglere	Buglere	tiga	tiga	t i g a	bugl1243	493	8.57695	-81.25648		0	0	?
 520	33_five	FIVE	Dorasque	Dorasque	male	male	m a l e	dora1242	493	8.567442	-82.375717		0	0	?
 521	33_five	FIVE	SanBlasKuna	San Blas Kuna	attale	attale	a t t a l e	sanb1242	493	9.15686	-78.3075		0	0	?
 522	33_five	FIVE	Cogui	Cogui	ha'tʃigua	ha'tʃigua	h a tʃ i g u a	cogu1240	493	10.9485	-73.8043		0	0	?
@@ -891,7 +891,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1996	95_flea	FLEA	Cabecar	Cabécar	kṹ	kṹ	k ṹ/ũ	cabe1245	232	9.67031	-83.4102		0	0	?
 1997	95_flea	FLEA	Teribe	Teribe	kʰṹŋ	kʰṹŋ	kʰ ṹ/ũ ŋ	teri1250	232	9.067	-82.9631		0	0	?
 1998	95_flea	FLEA	Ngabere	Ngäbere	kɯ̃	kɯ̃	k ɯ̃	ngab1239	232	8.8251	-82.3911		0	0	?
-1999	95_flea	FLEA	Boruca	Boruca	kũ	kũ	k ũ	boru1252	232	8.88093	-83.2124		0	0	?
+1999	95_flea	FLEA	Buglere	Buglere	kũ	kũ	k ũ	bugl1243	232	8.57695	-81.25648		0	0	?
 2000	95_flea	FLEA	Dorasque	Dorasque	kũ	kũ	k ũ	dora1242	232	8.567442	-82.375717		0	0	?
 2001	95_flea	FLEA	SanBlasKuna	San Blas Kuna	ku:	ku:	k u:	sanb1242	232	9.15686	-78.3075		0	0	?
 2002	95_flea	FLEA	Cogui	Cogui	ku'i	ku'i	k u i	cogu1240	232	10.9485	-73.8043		0	0	?
@@ -916,7 +916,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 898	8_flower	FLOWER	Cabecar	Cabécar	uʊ́dkuà	uʊ́dkuà	u ʊ́/ʊ d k u à/a	cabe1245	239	9.67031	-83.4102		0	0	?
 899	8_flower	FLOWER	Teribe	Teribe	kʰólòŋ	kʰólòŋ	kʰ ó/o l ò/o ŋ	teri1250	239	9.067	-82.9631		0	0	?
 900	8_flower	FLOWER	Ngabere	Ngäbere	blɯ	blɯ	b l ɯ	ngab1239	239	8.8251	-82.3911		0	0	?
-901	8_flower	FLOWER	Boruca	Boruca	hɾa	hɾa	h ɾ a	boru1252	239	8.88093	-83.2124		0	0	?
+901	8_flower	FLOWER	Buglere	Buglere	hɾa	hɾa	h ɾ a	bugl1243	239	8.57695	-81.25648		0	0	?
 902	8_flower	FLOWER	Dorasque	Dorasque	shii	shii	s h i i	dora1242	239	8.567442	-82.375717		0	0	?
 903	8_flower	FLOWER	SanBlasKuna	San Blas Kuna	tuttu	tuttu	t u t t u	sanb1242	239	9.15686	-78.3075		0	0	?
 904	8_flower	FLOWER	Cogui	Cogui	'humʃi	'humʃi	h u m ʃ i	cogu1240	239	10.9485	-73.8043		0	0	?
@@ -941,7 +941,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1924	26_foot	FOOT	Cabecar	Cabécar	kaɺʊ́	kaɺʊ́	k a ɺ ʊ́/ʊ	cabe1245	1301	9.67031	-83.4102		0	0	?
 1925	26_foot	FOOT	Teribe	Teribe	ʃkóŋ	ʃkóŋ	ʃ k ó/o ŋ	teri1250	1301	9.067	-82.9631		0	0	?
 1926	26_foot	FOOT	Ngabere	Ngäbere	ŋoto	ŋoto	ŋ o t o	ngab1239	1301	8.8251	-82.3911		0	0	?
-1927	26_foot	FOOT	Boruca	Boruca	seɾa	seɾa	s e ɾ a	boru1252	1301	8.88093	-83.2124		0	0	?
+1927	26_foot	FOOT	Buglere	Buglere	seɾa	seɾa	s e ɾ a	bugl1243	1301	8.57695	-81.25648		0	0	?
 1928	26_foot	FOOT	Dorasque	Dorasque	ser	ser	s e r	dora1242	1301	8.567442	-82.375717		0	0	?
 1929	26_foot	FOOT	SanBlasKuna	San Blas Kuna	naka	naka	n a k a	sanb1242	1301	9.15686	-78.3075		0	0	?
 1930	26_foot	FOOT	Cogui	Cogui	kasa	kasa	k a s a	cogu1240	1301	10.9485	-73.8043		0	0	?
@@ -966,7 +966,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 252	52_forest	FOREST	Cabecar	Cabécar	kàɺdʒakà	kàɺdʒakà	k à/a ɺ dʒ a k à/a	cabe1245	420	9.67031	-83.4102		0	0	?
 253	52_forest	FOREST	Teribe	Teribe	ɸʊ́	ɸʊ́	ɸ ʊ́/ʊ	teri1250	420	9.067	-82.9631		0	0	?
 254	52_forest	FOREST	Ngabere	Ngäbere	kɔtuguɔ	kɔtuguɔ	k ɔ t u g u ɔ	ngab1239	420	8.8251	-82.3911		0	0	?
-255	52_forest	FOREST	Boruca	Boruca	glínaŋa	glínaŋa	g l í/i n a ŋ a	boru1252	420	8.88093	-83.2124		0	0	?
+255	52_forest	FOREST	Buglere	Buglere	glínaŋa	glínaŋa	g l í/i n a ŋ a	bugl1243	420	8.57695	-81.25648		0	0	?
 256	52_forest	FOREST	Dorasque	Dorasque	kalkalgó	kalkalgó	k a l k a l g ó/o	dora1242	420	8.567442	-82.375717		0	0	?
 257	52_forest	FOREST	SanBlasKuna	San Blas Kuna	sappuɾu	sappuɾu	s a p p u ɾ u	sanb1242	420	9.15686	-78.3075		0	0	?
 258	52_forest	FOREST	Cogui	Cogui	kal'kala	kal'kala	k a l k a l a	cogu1240	420	10.9485	-73.8043		0	0	?
@@ -991,7 +991,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 660	83_four	FOUR	Cabecar	Cabécar	tki	tki	t k i	cabe1245	1500	9.67031	-83.4102		0	0	?
 661	83_four	FOUR	Teribe	Teribe	bkíŋ	bkíŋ	b k í/i ŋ	teri1250	1500	9.067	-82.9631		0	0	?
 662	83_four	FOUR	Ngabere	Ngäbere	bɔkɔ	bɔkɔ	b ɔ k ɔ	ngab1239	1500	8.8251	-82.3911		0	0	?
-663	83_four	FOUR	Boruca	Boruca	baga	baga	b a g a	boru1252	1500	8.88093	-83.2124		0	0	?
+663	83_four	FOUR	Buglere	Buglere	baga	baga	b a g a	bugl1243	1500	8.57695	-81.25648		0	0	?
 664	83_four	FOUR	Dorasque	Dorasque	paka	paka	p a k a	dora1242	1500	8.567442	-82.375717		0	0	?
 665	83_four	FOUR	SanBlasKuna	San Blas Kuna	pakke	pakke	p a k k e	sanb1242	1500	9.15686	-78.3075		0	0	?
 666	83_four	FOUR	Cogui	Cogui	ma'keua	ma'keua	m a k e u a	cogu1240	1500	10.9485	-73.8043		0	0	?
@@ -1016,7 +1016,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 708	73_give	GIVE	Cabecar	Cabécar	bẽ	bẽ	b ẽ	cabe1245	1447	9.67031	-83.4102		0	0	?
 709	73_give	GIVE	Teribe	Teribe	sɪ́ŋ	sɪ́ŋ	s ɪ́/ɪ ŋ	teri1250	1447	9.067	-82.9631		0	0	?
 710	73_give	GIVE	Ngabere	Ngäbere	bĩ	bĩ	b ĩ	ngab1239	1447	8.8251	-82.3911		0	0	?
-711	73_give	GIVE	Boruca	Boruca	kete	kete	k e t e	boru1252	1447	8.88093	-83.2124		0	0	?
+711	73_give	GIVE	Buglere	Buglere	kete	kete	k e t e	bugl1243	1447	8.57695	-81.25648		0	0	?
 712	73_give	GIVE	Dorasque	Dorasque	do	do	d o	dora1242	1447	8.567442	-82.375717		0	0	?
 713	73_give	GIVE	SanBlasKuna	San Blas Kuna	ukke	ukke	u k k e	sanb1242	1447	9.15686	-78.3075		0	0	?
 714	73_give	GIVE	Cogui	Cogui	a'kau	a'kau	a k a u	cogu1240	1447	10.9485	-73.8043		0	0	?
@@ -1041,7 +1041,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 276	15_good	GOOD	Cabecar	Cabécar	bʊ́ɪ	bʊ́ɪ	b ʊ́/ʊ ɪ	cabe1245	1035	9.67031	-83.4102		0	0	?
 277	15_good	GOOD	Teribe	Teribe	kʰóbe	kʰóbe	kʰ ó/o b e	teri1250	1035	9.067	-82.9631		0	0	?
 278	15_good	GOOD	Ngabere	Ngäbere	kɔ̃ɪ̃	kɔ̃ɪ̃	k ɔ̃ ɪ̃	ngab1239	1035	8.8251	-82.3911		0	0	?
-279	15_good	GOOD	Boruca	Boruca	no	no	n o	boru1252	1035	8.88093	-83.2124		0	0	?
+279	15_good	GOOD	Buglere	Buglere	no	no	n o	bugl1243	1035	8.57695	-81.25648		0	0	?
 280	15_good	GOOD	Dorasque	Dorasque	apé	apé	a p é/e	dora1242	1035	8.567442	-82.375717		0	0	?
 281	15_good	GOOD	SanBlasKuna	San Blas Kuna	nueti	nueti	n u e t i	sanb1242	1035	9.15686	-78.3075		0	0	?
 282	15_good	GOOD	Cogui	Cogui	hantʃi'dʒe	hantʃi'dʒe	h a n tʃ i dʒ e	cogu1240	1035	10.9485	-73.8043		0	0	?
@@ -1066,7 +1066,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2523	4_green	GREEN	Cabecar	Cabécar	spã́	spã́	s p ã́/ã	cabe1245	1425	9.67031	-83.4102		0	0	?
 2524	4_green	GREEN	Teribe	Teribe	dìŋdíŋ	dìŋdíŋ	d ì/i ŋ d í/i ŋ	teri1250	1425	9.067	-82.9631		0	0	?
 2525	4_green	GREEN	Ngabere	Ngäbere	kaɾe	kaɾe	k a ɾ e	ngab1239	1425	8.8251	-82.3911		0	0	?
-2526	4_green	GREEN	Boruca	Boruca	leɾeɾe	leɾeɾe	l e ɾ e ɾ e	boru1252	1425	8.88093	-83.2124		0	0	?
+2526	4_green	GREEN	Buglere	Buglere	leɾeɾe	leɾeɾe	l e ɾ e ɾ e	bugl1243	1425	8.57695	-81.25648		0	0	?
 2527	4_green	GREEN	Dorasque	Dorasque	yíama	yíama	y í/i a m a	dora1242	1425	8.567442	-82.375717		0	0	?
 2528	4_green	GREEN	SanBlasKuna	San Blas Kuna	aɾati	aɾati	a ɾ a t i	sanb1242	1425	9.15686	-78.3075		0	0	?
 2529	4_green	GREEN	Cogui	Cogui	a'taʃi	a'taʃi	a t a ʃ i	cogu1240	1425	10.9485	-73.8043		0	0	?
@@ -1091,7 +1091,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2380	65_guts	GUTS	Cabecar	Cabécar	dʒã́ batʃiɺí	dʒã́ batʃiɺí	dʒ ã́/ã + b a tʃ i ɺ í/i	cabe1245	1334	9.67031	-83.4102		0	0	?
 2381	65_guts	GUTS	Teribe	Teribe	ʒàkógɺo	ʒàkógɺo	ʒ à/a k ó/o g ɺ o	teri1250	1334	9.067	-82.9631		0	0	?
 2382	65_guts	GUTS	Ngabere	Ngäbere	ŋɔ̃gɾɔ	ŋɔ̃gɾɔ	ŋ ɔ̃ g ɾ ɔ	ngab1239	1334	8.8251	-82.3911		0	0	?
-2383	65_guts	GUTS	Boruca	Boruca	hẽgɾa	hẽgɾa	h ẽ g ɾ a	boru1252	1334	8.88093	-83.2124		0	0	?
+2383	65_guts	GUTS	Buglere	Buglere	hẽgɾa	hẽgɾa	h ẽ g ɾ a	bugl1243	1334	8.57695	-81.25648		0	0	?
 2384	65_guts	GUTS	Dorasque	Dorasque	koɾegol	koɾegol	k o ɾ e g o l	dora1242	1334	8.567442	-82.375717		0	0	?
 2385	65_guts	GUTS	SanBlasKuna	San Blas Kuna	saki	saki	s a k i	sanb1242	1334	9.15686	-78.3075		0	0	?
 2386	65_guts	GUTS	Cogui	Cogui	ganukʃiʒa	ganukʃiʒa	g a n u k ʃ i ʒ a	cogu1240	1334	10.9485	-73.8043		0	0	?
@@ -1116,7 +1116,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 300	96_hair	HAIR	Cabecar	Cabécar	tsã́kṹ kʊ	tsã́kṹ kʊ	t s ã́/ã k ṹ/ũ + k ʊ	cabe1245	1040	9.67031	-83.4102		0	0	?
 301	96_hair	HAIR	Teribe	Teribe	kóŋzò	kóŋzò	k ó/o ŋ z ò/o	teri1250	1040	9.067	-82.9631		0	0	?
 302	96_hair	HAIR	Ngabere	Ngäbere	dokwɔdɾɯ	dokwɔdɾɯ	d o k w ɔ d ɾ ɯ	ngab1239	1040	8.8251	-82.3911		0	0	?
-303	96_hair	HAIR	Boruca	Boruca	tʃugaga	tʃugaga	tʃ u g a g a	boru1252	1040	8.88093	-83.2124		0	0	?
+303	96_hair	HAIR	Buglere	Buglere	tʃugaga	tʃugaga	tʃ u g a g a	bugl1243	1040	8.57695	-81.25648		0	0	?
 304	96_hair	HAIR	Dorasque	Dorasque	ogá	ogá	o g á/a	dora1242	1040	8.567442	-82.375717		0	0	?
 305	96_hair	HAIR	SanBlasKuna	San Blas Kuna	saila	saila	s a i l a	sanb1242	1040	9.15686	-78.3075		0	0	?
 306	96_hair	HAIR	Cogui	Cogui	'sãĩ	'sãĩ	s ã ĩ	cogu1240	1040	10.9485	-73.8043		0	0	?
@@ -1141,7 +1141,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1400	40_hand	HAND	Cabecar	Cabécar	huɺà	huɺà	h u ɺ à/a	cabe1245	1277	9.67031	-83.4102		0	0	?
 1401	40_hand	HAND	Teribe	Teribe	óɾkuò	óɾkuò	ó/o ɾ k u ò/o	teri1250	1277	9.067	-82.9631		0	0	?
 1402	40_hand	HAND	Ngabere	Ngäbere	kise	kise	k i s e	ngab1239	1277	8.8251	-82.3911		0	0	?
-1403	40_hand	HAND	Boruca	Boruca	ko	ko	k o	boru1252	1277	8.88093	-83.2124		0	0	?
+1403	40_hand	HAND	Buglere	Buglere	ko	ko	k o	bugl1243	1277	8.57695	-81.25648		0	0	?
 1404	40_hand	HAND	Dorasque	Dorasque	kul	kul	k u l	dora1242	1277	8.567442	-82.375717		0	0	?
 1405	40_hand	HAND	SanBlasKuna	San Blas Kuna	aɾkan	aɾkan	a ɾ k a n	sanb1242	1277	9.15686	-78.3075		0	0	?
 1406	40_hand	HAND	Cogui	Cogui	'kokala	'kokala	k o k a l a	cogu1240	1277	10.9485	-73.8043		0	0	?
@@ -1167,7 +1167,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 827	61_he	HE	Cabecar	Cabécar	hié	hié	h i é/e	cabe1245	1211	9.67031	-83.4102		0	0	?
 828	61_he	HE	Teribe	Teribe	è	è	è/e	teri1250	1211	9.067	-82.9631		0	0	?
 829	61_he	HE	Ngabere	Ngäbere	niaɾa	niaɾa	n i a ɾ a	ngab1239	1211	8.8251	-82.3911		0	0	?
-830	61_he	HE	Boruca	Boruca	ama	ama	a m a	boru1252	1211	8.88093	-83.2124		0	0	?
+830	61_he	HE	Buglere	Buglere	ama	ama	a m a	bugl1243	1211	8.57695	-81.25648		0	0	?
 831	61_he	HE	Dorasque	Dorasque	kúi	kúi	k ú/u i	dora1242	1211	8.567442	-82.375717		0	0	?
 832	61_he	HE	SanBlasKuna	San Blas Kuna	itti	itti	i t t i	sanb1242	1211	9.15686	-78.3075		0	0	?
 833	61_he	HE	Cogui	Cogui	'ale	'ale	a l e	cogu1240	1211	10.9485	-73.8043		0	0	?
@@ -1192,7 +1192,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 324	104_head	HEAD	Cabecar	Cabécar	tsã́kṹ	tsã́kṹ	t s ã́/ã k ṹ/ũ	cabe1245	1256	9.67031	-83.4102		0	0	?
 325	104_head	HEAD	Teribe	Teribe	kógo	kógo	k ó/o g o	teri1250	1256	9.067	-82.9631		0	0	?
 326	104_head	HEAD	Ngabere	Ngäbere	dokwɔ	dokwɔ	d o k w ɔ	ngab1239	1256	8.8251	-82.3911		0	0	?
-327	104_head	HEAD	Boruca	Boruca	tʃuga	tʃuga	tʃ u g a	boru1252	1256	8.88093	-83.2124		0	0	?
+327	104_head	HEAD	Buglere	Buglere	tʃuga	tʃuga	tʃ u g a	bugl1243	1256	8.57695	-81.25648		0	0	?
 328	104_head	HEAD	Dorasque	Dorasque	dukú	dukú	d u k ú/u	dora1242	1256	8.567442	-82.375717		0	0	?
 329	104_head	HEAD	SanBlasKuna	San Blas Kuna	nono	nono	n o n o	sanb1242	1256	9.15686	-78.3075		0	0	?
 330	104_head	HEAD	Cogui	Cogui	'sankala	'sankala	s a n k a l a	cogu1240	1256	10.9485	-73.8043		0	0	?
@@ -1217,7 +1217,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1710	75_hear	HEAR	Cabecar	Cabécar	ksɪ	ksɪ	k s ɪ	cabe1245	1408	9.67031	-83.4102		0	0	?
 1711	75_hear	HEAR	Teribe	Teribe	kúk	kúk	k ú/u k	teri1250	1408	9.067	-82.9631		0	0	?
 1712	75_hear	HEAR	Ngabere	Ngäbere	nu	nu	n u	ngab1239	1408	8.8251	-82.3911		0	0	?
-1713	75_hear	HEAR	Boruca	Boruca	tʃuge	tʃuge	tʃ u g e	boru1252	1408	8.88093	-83.2124		0	0	?
+1713	75_hear	HEAR	Buglere	Buglere	tʃuge	tʃuge	tʃ u g e	bugl1243	1408	8.57695	-81.25648		0	0	?
 1714	75_hear	HEAR	Dorasque	Dorasque	tuktá	tuktá	t u k t á/a	dora1242	1408	8.567442	-82.375717		0	0	?
 1715	75_hear	HEAR	SanBlasKuna	San Blas Kuna	itto	itto	i t t o	sanb1242	1408	9.15686	-78.3075		0	0	?
 1716	75_hear	HEAR	Cogui	Cogui	'nuk	'nuk	n u k	cogu1240	1408	10.9485	-73.8043		0	0	?
@@ -1241,7 +1241,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1877	67_heavy	HEAVY	Cabecar	Cabécar	kidíi	kidíi	k i d í/i i	cabe1245	1210	9.67031	-83.4102		0	0	?
 1878	67_heavy	HEAVY	Teribe	Teribe	kuíŋ	kuíŋ	k u í/i ŋ	teri1250	1210	9.067	-82.9631		0	0	?
 1879	67_heavy	HEAVY	Ngabere	Ngäbere	dɔbɔgɔ	dɔbɔgɔ	d ɔ b ɔ g ɔ	ngab1239	1210	8.8251	-82.3911		0	0	?
-1880	67_heavy	HEAVY	Boruca	Boruca	gaba	gaba	g a b a	boru1252	1210	8.88093	-83.2124		0	0	?
+1880	67_heavy	HEAVY	Buglere	Buglere	gaba	gaba	g a b a	bugl1243	1210	8.57695	-81.25648		0	0	?
 1881	67_heavy	HEAVY	SanBlasKuna	San Blas Kuna	ukkusuli	ukkusuli	u k k u s u l i	sanb1242	1210	9.15686	-78.3075		0	0	?
 1882	67_heavy	HEAVY	Cogui	Cogui	matʃu ak'ze	matʃu ak'ze	m a tʃ u + a k z e	cogu1240	1210	10.9485	-73.8043		0	0	?
 1883	67_heavy	HEAVY	Arhuaco	Arhuaco	mɨaʔ'zɨna	mɨaʔ'zɨna	m ɨ a ʔ z ɨ n a	arhu1242	1210	10.7018	-73.6363		0	0	?
@@ -1265,7 +1265,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 970	63_hit	HIT	Cabecar	Cabécar	tɪ	tɪ	t ɪ	cabe1245	1433	9.67031	-83.4102		0	0	?
 971	63_hit	HIT	Teribe	Teribe	ʃpók	ʃpók	ʃ p ó/o k	teri1250	1433	9.067	-82.9631		0	0	?
 972	63_hit	HIT	Ngabere	Ngäbere	met	met	m e t	ngab1239	1433	8.8251	-82.3911		0	0	?
-973	63_hit	HIT	Boruca	Boruca	bate	bate	b a t e	boru1252	1433	8.88093	-83.2124		0	0	?
+973	63_hit	HIT	Buglere	Buglere	bate	bate	b a t e	bugl1243	1433	8.57695	-81.25648		0	0	?
 974	63_hit	HIT	SanBlasKuna	San Blas Kuna	saɾsoke	saɾsoke	s a ɾ s o k e	sanb1242	1433	9.15686	-78.3075		0	0	?
 975	63_hit	HIT	Cogui	Cogui	'muʃ	'muʃ	m u ʃ	cogu1240	1433	10.9485	-73.8043		0	0	?
 976	63_hit	HIT	Arhuaco	Arhuaco	agu'pəss	agu'pəss	a g u p ə s s	arhu1242	1433	10.7018	-73.6363		0	0	?
@@ -1289,7 +1289,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 372	79_hotorwarm	HOT OR WARM	Cabecar	Cabécar	buɪ́	buɪ́	b u ɪ́/ɪ	cabe1245	2272	9.67031	-83.4102		0	0	?
 373	79_hotorwarm	HOT OR WARM	Teribe	Teribe	kʰɺík	kʰɺík	kʰ ɺ í/i k	teri1250	2272	9.067	-82.9631		0	0	?
 374	79_hotorwarm	HOT OR WARM	Ngabere	Ngäbere	ŋiɾe	ŋiɾe	ŋ i ɾ e	ngab1239	2272	8.8251	-82.3911		0	0	?
-375	79_hotorwarm	HOT OR WARM	Boruca	Boruca	hute	hute	h u t e	boru1252	2272	8.88093	-83.2124		0	0	?
+375	79_hotorwarm	HOT OR WARM	Buglere	Buglere	hute	hute	h u t e	bugl1243	2272	8.57695	-81.25648		0	0	?
 376	79_hotorwarm	HOT OR WARM	Dorasque	Dorasque	ubi	ubi	u b i	dora1242	2272	8.567442	-82.375717		0	0	?
 377	79_hotorwarm	HOT OR WARM	SanBlasKuna	San Blas Kuna	ueti	ueti	u e t i	sanb1242	2272	9.15686	-78.3075		0	0	?
 378	79_hotorwarm	HOT OR WARM	Cogui	Cogui	'uanuakse	'uanuakse	u a n u a k s e	cogu1240	2272	10.9485	-73.8043		0	0	?
@@ -1314,7 +1314,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2619	11_i	I	Cabecar	Cabécar	dʒís	dʒís	dʒ í/i s	cabe1245	1209	9.67031	-83.4102		0	0	?
 2620	11_i	I	Teribe	Teribe	tʰà	tʰà	tʰ à/a	teri1250	1209	9.067	-82.9631		0	0	?
 2621	11_i	I	Ngabere	Ngäbere	ti	ti	t i	ngab1239	1209	8.8251	-82.3911		0	0	?
-2622	11_i	I	Boruca	Boruca	tʃa	tʃa	tʃ a	boru1252	1209	8.88093	-83.2124		0	0	?
+2622	11_i	I	Buglere	Buglere	tʃa	tʃa	tʃ a	bugl1243	1209	8.57695	-81.25648		0	0	?
 2623	11_i	I	Dorasque	Dorasque	kura	kura	k u r a	dora1242	1209	8.567442	-82.375717		0	0	?
 2624	11_i	I	SanBlasKuna	San Blas Kuna	ani	ani	a n i	sanb1242	1209	9.15686	-78.3075		0	0	?
 2625	11_i	I	Cogui	Cogui	nas	nas	n a s	cogu1240	1209	10.9485	-73.8043		0	0	?
@@ -1339,7 +1339,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1425	68_kill	KILL	Cabecar	Cabécar	kot	kot	k o t	cabe1245	1417	9.67031	-83.4102		0	0	?
 1426	68_kill	KILL	Teribe	Teribe	zɾʊ́k	zɾʊ́k	z ɾ ʊ́/ʊ k	teri1250	1417	9.067	-82.9631		0	0	?
 1427	68_kill	KILL	Ngabere	Ngäbere	kɔmike	kɔmike	k ɔ m i k e	ngab1239	1417	8.8251	-82.3911		0	0	?
-1428	68_kill	KILL	Boruca	Boruca	gweda	gweda	g w e d a	boru1252	1417	8.88093	-83.2124		0	0	?
+1428	68_kill	KILL	Buglere	Buglere	gweda	gweda	g w e d a	bugl1243	1417	8.57695	-81.25648		0	0	?
 1429	68_kill	KILL	SanBlasKuna	San Blas Kuna	opurkwe	opurkwe	o p u r k w e	sanb1242	1417	9.15686	-78.3075		0	0	?
 1430	68_kill	KILL	Cogui	Cogui	gu'aʃ	gu'aʃ	g u a ʃ	cogu1240	1417	10.9485	-73.8043		0	0	?
 1431	68_kill	KILL	Arhuaco	Arhuaco	'gwak	'gwak	g w a k	arhu1242	1417	10.7018	-73.6363		0	0	?
@@ -1363,7 +1363,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2165	10_know	KNOW	Cabecar	Cabécar	hudʒẽ	hudʒẽ	h u dʒ ẽ	cabe1245	3626	9.67031	-83.4102		0	0	?
 2166	10_know	KNOW	Teribe	Teribe	hmídɪ̀	hmídɪ̀	h m í/i d ɪ̀/ɪ	teri1250	3626	9.067	-82.9631		0	0	?
 2167	10_know	KNOW	Ngabere	Ngäbere	gaɾe	gaɾe	g a ɾ e	ngab1239	3626	8.8251	-82.3911		0	0	?
-2168	10_know	KNOW	Boruca	Boruca	uɲe	uɲe	u ɲ e	boru1252	3626	8.88093	-83.2124		0	0	?
+2168	10_know	KNOW	Buglere	Buglere	uɲe	uɲe	u ɲ e	bugl1243	3626	8.57695	-81.25648		0	0	?
 2169	10_know	KNOW	SanBlasKuna	San Blas Kuna	wisi	wisi	w i s i	sanb1242	3626	9.15686	-78.3075		0	0	?
 2170	10_know	KNOW	Cogui	Cogui	akʃihi	akʃihi	a k ʃ i h i	cogu1240	3626	10.9485	-73.8043		0	0	?
 2171	10_know	KNOW	Arhuaco	Arhuaco	a'gənkw	a'gənkw	a g ə n k w	arhu1242	3626	10.7018	-73.6363		0	0	?
@@ -1387,7 +1387,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2092	97_laugh	LAUGH	Cabecar	Cabécar	hadʒẽ	hadʒẽ	h a dʒ ẽ	cabe1245	1355	9.67031	-83.4102		0	0	?
 2093	97_laugh	LAUGH	Teribe	Teribe	háɾ	háɾ	h á/a ɾ	teri1250	1355	9.067	-82.9631		0	0	?
 2094	97_laugh	LAUGH	Ngabere	Ngäbere	kɯdɯ	kɯdɯ	k ɯ d ɯ	ngab1239	1355	8.8251	-82.3911		0	0	?
-2095	97_laugh	LAUGH	Boruca	Boruca	gidate	gidate	g i d a t e	boru1252	1355	8.88093	-83.2124		0	0	?
+2095	97_laugh	LAUGH	Buglere	Buglere	gidate	gidate	g i d a t e	bugl1243	1355	8.57695	-81.25648		0	0	?
 2096	97_laugh	LAUGH	Dorasque	Dorasque	ayig, ahiása	ayig	a y i g	dora1242	1355	8.567442	-82.375717		0	0	?
 2097	97_laugh	LAUGH	Dorasque	Dorasque	ayig, ahiása	ahiása	a h i á/a s a	dora1242	1355	8.567442	-82.375717		0	0	?
 2098	97_laugh	LAUGH	SanBlasKuna	San Blas Kuna	all	all	a l l	sanb1242	1355	9.15686	-78.3075		0	0	?
@@ -1413,7 +1413,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1113	102_leaf	LEAF	Cabecar	Cabécar	kʊ́	kʊ́	k ʊ́/ʊ	cabe1245	628	9.67031	-83.4102		0	0	?
 1114	102_leaf	LEAF	Teribe	Teribe	kʰɺógà	kʰɺógà	kʰ ɺ ó/o g à/a	teri1250	628	9.067	-82.9631		0	0	?
 1115	102_leaf	LEAF	Ngabere	Ngäbere	kʔ	kʔ	k ʔ	ngab1239	628	8.8251	-82.3911		0	0	?
-1116	102_leaf	LEAF	Boruca	Boruca	ga	ga	g a	boru1252	628	8.88093	-83.2124		0	0	?
+1116	102_leaf	LEAF	Buglere	Buglere	ga	ga	g a	bugl1243	628	8.57695	-81.25648		0	0	?
 1117	102_leaf	LEAF	Dorasque	Dorasque	kaláʔka	kaláʔka	k a l á/a ʔ k a	dora1242	628	8.567442	-82.375717		0	0	?
 1118	102_leaf	LEAF	SanBlasKuna	San Blas Kuna	ka:	ka:	k a:	sanb1242	628	9.15686	-78.3075		0	0	?
 1119	102_leaf	LEAF	Cogui	Cogui	kai	kai	k a i	cogu1240	628	10.9485	-73.8043		0	0	?
@@ -1438,7 +1438,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1972	109_leg	LEG	Cabecar	Cabécar	kaɺʊ́ kitʃà	kaɺʊ́ kitʃà	k a ɺ ʊ́/ʊ + k i tʃ à/a	cabe1245	1297	9.67031	-83.4102		0	0	?
 1973	109_leg	LEG	Teribe	Teribe	kuóɾbò	kuóɾbò	k u ó/o ɾ b ò/o	teri1250	1297	9.067	-82.9631		0	0	?
 1974	109_leg	LEG	Ngabere	Ngäbere	ŋɯɾe	ŋɯɾe	ŋ ɯ ɾ e	ngab1239	1297	8.8251	-82.3911		0	0	?
-1975	109_leg	LEG	Boruca	Boruca	seɾagda	seɾagda	s e ɾ a g d a	boru1252	1297	8.88093	-83.2124		0	0	?
+1975	109_leg	LEG	Buglere	Buglere	seɾagda	seɾagda	s e ɾ a g d a	bugl1243	1297	8.57695	-81.25648		0	0	?
 1976	109_leg	LEG	Dorasque	Dorasque	séɾgala	séɾgala	s é/e ɾ g a l a	dora1242	1297	8.567442	-82.375717		0	0	?
 1977	109_leg	LEG	SanBlasKuna	San Blas Kuna	naimali	naimali	n a i m a l i	sanb1242	1297	9.15686	-78.3075		0	0	?
 1978	109_leg	LEG	Cogui	Cogui	kala	kala	k a l a	cogu1240	1297	10.9485	-73.8043		0	0	?
@@ -1463,7 +1463,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1089	20_liver	LIVER	Cabecar	Cabécar	hẽ̂d	hẽ̂d	h ẽ̂/ẽ d	cabe1245	1224	9.67031	-83.4102		0	0	?
 1090	20_liver	LIVER	Teribe	Teribe	uò	uò	u ò/o	teri1250	1224	9.067	-82.9631		0	0	?
 1091	20_liver	LIVER	Ngabere	Ngäbere	mɔtɔ	mɔtɔ	m ɔ t ɔ	ngab1239	1224	8.8251	-82.3911		0	0	?
-1092	20_liver	LIVER	Boruca	Boruca	takwa	takwa	t a k w a	boru1252	1224	8.88093	-83.2124		0	0	?
+1092	20_liver	LIVER	Buglere	Buglere	takwa	takwa	t a k w a	bugl1243	1224	8.57695	-81.25648		0	0	?
 1093	20_liver	LIVER	Dorasque	Dorasque	hókoa	hókoa	h ó/o k o a	dora1242	1224	8.567442	-82.375717		0	0	?
 1094	20_liver	LIVER	SanBlasKuna	San Blas Kuna	pi:na	pi:na	p i: n a	sanb1242	1224	9.15686	-78.3075		0	0	?
 1095	20_liver	LIVER	Cogui	Cogui	a'bita	a'bita	a b i t a	cogu1240	1224	10.9485	-73.8043		0	0	?
@@ -1488,7 +1488,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1209	110_long	LONG	Cabecar	Cabécar	batsĩ́	batsĩ́	b a t s ĩ́/ĩ	cabe1245	1203	9.67031	-83.4102		0	0	?
 1210	110_long	LONG	Teribe	Teribe	kʰɺòtáɾeŋ	kʰɺòtáɾeŋ	kʰ ɺ ò/o t á/a ɾ e ŋ	teri1250	1203	9.067	-82.9631		0	0	?
 1211	110_long	LONG	Ngabere	Ngäbere	ŋa	ŋa	ŋ a	ngab1239	1203	8.8251	-82.3911		0	0	?
-1212	110_long	LONG	Boruca	Boruca	heike	heike	h e i k e	boru1252	1203	8.88093	-83.2124		0	0	?
+1212	110_long	LONG	Buglere	Buglere	heike	heike	h e i k e	bugl1243	1203	8.57695	-81.25648		0	0	?
 1213	110_long	LONG	Dorasque	Dorasque	kiágal	kiágal	k i á/a g a l	dora1242	1203	8.567442	-82.375717		0	0	?
 1214	110_long	LONG	SanBlasKuna	San Blas Kuna	suiti	suiti	s u i t i	sanb1242	1203	9.15686	-78.3075		0	0	?
 1215	110_long	LONG	Cogui	Cogui	'ueĩʒiluka	'ueĩʒiluka	u e ĩ ʒ i l u k a	cogu1240	1203	10.9485	-73.8043		0	0	?
@@ -1513,7 +1513,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1137	91_man	MAN	Cabecar	Cabécar	hadʒɪ́uàʔ	hadʒɪ́uàʔ	h a dʒ ɪ́/ɪ u à/a ʔ	cabe1245	1554	9.67031	-83.4102		0	0	?
 1138	91_man	MAN	Teribe	Teribe	dòbén	dòbén	d ò/o b é/e n	teri1250	1554	9.067	-82.9631		0	0	?
 1139	91_man	MAN	Ngabere	Ngäbere	bɾaɾe	bɾaɾe	b ɾ a ɾ e	ngab1239	1554	8.8251	-82.3911		0	0	?
-1140	91_man	MAN	Boruca	Boruca	blále	blále	b l á/a l e	boru1252	1554	8.88093	-83.2124		0	0	?
+1140	91_man	MAN	Buglere	Buglere	blále	blále	b l á/a l e	bugl1243	1554	8.57695	-81.25648		0	0	?
 1141	91_man	MAN	Dorasque	Dorasque	taro	taro	t a r o	dora1242	1554	8.567442	-82.375717		0	0	?
 1142	91_man	MAN	SanBlasKuna	San Blas Kuna	matʃeɾet	matʃeɾet	m a tʃ e ɾ e t	sanb1242	1554	9.15686	-78.3075		0	0	?
 1143	91_man	MAN	Cogui	Cogui	si'gi	si'gi	s i g i	cogu1240	1554	10.9485	-73.8043		0	0	?
@@ -1538,7 +1538,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 468	5_meat	MEAT	Cabecar	Cabécar	dʒaka	dʒaka	dʒ a k a	cabe1245	634	9.67031	-83.4102		0	0	?
 469	5_meat	MEAT	Teribe	Teribe	ʃò	ʃò	ʃ ò/o	teri1250	634	9.067	-82.9631		0	0	?
 470	5_meat	MEAT	Ngabere	Ngäbere	ŋɔtɔ	ŋɔtɔ	ŋ ɔ t ɔ	ngab1239	634	8.8251	-82.3911		0	0	?
-471	5_meat	MEAT	Boruca	Boruca	udá	udá	u d á/a	boru1252	634	8.88093	-83.2124		0	0	?
+471	5_meat	MEAT	Buglere	Buglere	udá	udá	u d á/a	bugl1243	634	8.57695	-81.25648		0	0	?
 472	5_meat	MEAT	Dorasque	Dorasque	síá	síá	s í/i á/a	dora1242	634	8.567442	-82.375717		0	0	?
 473	5_meat	MEAT	SanBlasKuna	San Blas Kuna	sana	sana	s a n a	sanb1242	634	9.15686	-78.3075		0	0	?
 474	5_meat	MEAT	Cogui	Cogui	'gata	'gata	g a t a	cogu1240	634	10.9485	-73.8043		0	0	?
@@ -1563,7 +1563,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1304	24_moon	MOON	Cabecar	Cabécar	tuɺù	tuɺù	t u ɺ ù/u	cabe1245	1313	9.67031	-83.4102		0	0	?
 1305	24_moon	MOON	Teribe	Teribe	mók	mók	m ó/o k	teri1250	1313	9.067	-82.9631		0	0	?
 1306	24_moon	MOON	Ngabere	Ngäbere	sɣ	sɣ	s ɣ	ngab1239	1313	8.8251	-82.3911		0	0	?
-1307	24_moon	MOON	Boruca	Boruca	dai	dai	d a i	boru1252	1313	8.88093	-83.2124		0	0	?
+1307	24_moon	MOON	Buglere	Buglere	dai	dai	d a i	bugl1243	1313	8.57695	-81.25648		0	0	?
 1308	24_moon	MOON	Dorasque	Dorasque	sirila	sirila	s i r i l a	dora1242	1313	8.567442	-82.375717		0	0	?
 1309	24_moon	MOON	SanBlasKuna	San Blas Kuna	ni:	ni:	n i:	sanb1242	1313	9.15686	-78.3075		0	0	?
 1310	24_moon	MOON	Cogui	Cogui	'saka	'saka	s a k a	cogu1240	1313	10.9485	-73.8043		0	0	?
@@ -1588,7 +1588,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1352	74_mother	MOTHER	Cabecar	Cabécar	bĩ́daã̀	bĩ́daã̀	b ĩ́/ĩ d a ã̀/ã	cabe1245	1216	9.67031	-83.4102		0	0	?
 1353	74_mother	MOTHER	Teribe	Teribe	mé	mé	m é/e	teri1250	1216	9.067	-82.9631		0	0	?
 1354	74_mother	MOTHER	Ngabere	Ngäbere	meje	meje	m e j e	ngab1239	1216	8.8251	-82.3911		0	0	?
-1355	74_mother	MOTHER	Boruca	Boruca	tʃebi	tʃebi	tʃ e b i	boru1252	1216	8.88093	-83.2124		0	0	?
+1355	74_mother	MOTHER	Buglere	Buglere	tʃebi	tʃebi	tʃ e b i	bugl1243	1216	8.57695	-81.25648		0	0	?
 1356	74_mother	MOTHER	Dorasque	Dorasque	toó	toó	t o ó/o	dora1242	1216	8.567442	-82.375717		0	0	?
 1357	74_mother	MOTHER	SanBlasKuna	San Blas Kuna	nana	nana	n a n a	sanb1242	1216	9.15686	-78.3075		0	0	?
 1358	74_mother	MOTHER	Cogui	Cogui	'haba	'haba	h a b a	cogu1240	1216	10.9485	-73.8043		0	0	?
@@ -1613,7 +1613,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1448	17_mountain	MOUNTAIN	Cabecar	Cabécar	kã́ batà	kã́ batà	k ã́/ã + b a t à/a	cabe1245	639	9.67031	-83.4102		0	0	?
 1449	17_mountain	MOUNTAIN	Teribe	Teribe	dɺùb	dɺùb	d ɺ ù/u b	teri1250	639	9.067	-82.9631		0	0	?
 1450	17_mountain	MOUNTAIN	Ngabere	Ngäbere	ŋutio	ŋutio	ŋ u t i o	ngab1239	639	8.8251	-82.3911		0	0	?
-1451	17_mountain	MOUNTAIN	Boruca	Boruca	hwitʃuga	hwitʃuga	h w i tʃ u g a	boru1252	639	8.88093	-83.2124		0	0	?
+1451	17_mountain	MOUNTAIN	Buglere	Buglere	hwitʃuga	hwitʃuga	h w i tʃ u g a	bugl1243	639	8.57695	-81.25648		0	0	?
 1452	17_mountain	MOUNTAIN	Dorasque	Dorasque	tuú	tuú	t u ú/u	dora1242	639	8.567442	-82.375717		0	0	?
 1453	17_mountain	MOUNTAIN	SanBlasKuna	San Blas Kuna	jala	jala	j a l a	sanb1242	639	9.15686	-78.3075		0	0	?
 1454	17_mountain	MOUNTAIN	Cogui	Cogui	ge'ka	ge'ka	g e k a	cogu1240	639	10.9485	-73.8043		0	0	?
@@ -1638,7 +1638,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 228	22_mouth	MOUTH	Cabecar	Cabécar	hkʊ́	hkʊ́	h k ʊ́/ʊ	cabe1245	674	9.67031	-83.4102		0	0	?
 229	22_mouth	MOUTH	Teribe	Teribe	kʰámo	kʰámo	kʰ á/a m o	teri1250	674	9.067	-82.9631		0	0	?
 230	22_mouth	MOUTH	Ngabere	Ngäbere	kada	kada	k a d a	ngab1239	674	8.8251	-82.3911		0	0	?
-231	22_mouth	MOUTH	Boruca	Boruca	ka	ka	k a	boru1252	674	8.88093	-83.2124		0	0	?
+231	22_mouth	MOUTH	Buglere	Buglere	ka	ka	k a	bugl1243	674	8.57695	-81.25648		0	0	?
 232	22_mouth	MOUTH	Dorasque	Dorasque	kaga	kaga	k a g a	dora1242	674	8.567442	-82.375717		0	0	?
 233	22_mouth	MOUTH	SanBlasKuna	San Blas Kuna	kakka	kakka	k a k k a	sanb1242	674	9.15686	-78.3075		0	0	?
 234	22_mouth	MOUTH	Cogui	Cogui	'kaka	'kaka	k a k a	cogu1240	674	10.9485	-73.8043		0	0	?
@@ -1663,7 +1663,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 684	84_neck	NECK	Cabecar	Cabécar	kulí	kulí	k u l í/i	cabe1245	1333	9.67031	-83.4102		0	0	?
 685	84_neck	NECK	Teribe	Teribe	bɪ̀ŋdó	bɪ̀ŋdó	b ɪ̀/ɪ ŋ d ó/o	teri1250	1333	9.067	-82.9631		0	0	?
 686	84_neck	NECK	Ngabere	Ngäbere	ɾɔɾɔ	ɾɔɾɔ	ɾ ɔ ɾ ɔ	ngab1239	1333	8.8251	-82.3911		0	0	?
-687	84_neck	NECK	Boruca	Boruca	siɾoska	siɾoska	s i ɾ o s k a	boru1252	1333	8.88093	-83.2124		0	0	?
+687	84_neck	NECK	Buglere	Buglere	siɾoska	siɾoska	s i ɾ o s k a	bugl1243	1333	8.57695	-81.25648		0	0	?
 688	84_neck	NECK	Dorasque	Dorasque	polé	polé	p o l é/e	dora1242	1333	8.567442	-82.375717		0	0	?
 689	84_neck	NECK	SanBlasKuna	San Blas Kuna	tukkarwala	tukkarwala	t u k k a r w a l a	sanb1242	1333	9.15686	-78.3075		0	0	?
 690	84_neck	NECK	Cogui	Cogui	'gagla	'gagla	g a g l a	cogu1240	1333	10.9485	-73.8043		0	0	?
@@ -1688,7 +1688,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1686	78_new	NEW	Cabecar	Cabécar	spã́'nã̀	spã́'nã̀	s p ã́/ã n ã̀/ã	cabe1245	1231	9.67031	-83.4102		0	0	?
 1687	78_new	NEW	Teribe	Teribe	tàgɺɪ́ŋ	tàgɺɪ́ŋ	t à/a g ɺ ɪ́/ɪ ŋ	teri1250	1231	9.067	-82.9631		0	0	?
 1688	78_new	NEW	Ngabere	Ngäbere	mɣtɣ	mɣtɣ	m ɣ t ɣ	ngab1239	1231	8.8251	-82.3911		0	0	?
-1689	78_new	NEW	Boruca	Boruca	hageɾe	hageɾe	h a g e ɾ e	boru1252	1231	8.88093	-83.2124		0	0	?
+1689	78_new	NEW	Buglere	Buglere	hageɾe	hageɾe	h a g e ɾ e	bugl1243	1231	8.57695	-81.25648		0	0	?
 1690	78_new	NEW	Dorasque	Dorasque	ponol	ponol	p o n o l	dora1242	1231	8.567442	-82.375717		0	0	?
 1691	78_new	NEW	SanBlasKuna	San Blas Kuna	pi:ni	pi:ni	p i: n i	sanb1242	1231	9.15686	-78.3075		0	0	?
 1692	78_new	NEW	Cogui	Cogui	a'bisa	a'bisa	a b i s a	cogu1240	1231	10.9485	-73.8043		0	0	?
@@ -1713,7 +1713,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1614	80_night	NIGHT	Cabecar	Cabécar	tauídã̀	tauídã̀	t a u í/i d ã̀/ã	cabe1245	1233	9.67031	-83.4102		0	0	?
 1615	80_night	NIGHT	Teribe	Teribe	ʃkɪ́	ʃkɪ́	ʃ k ɪ́/ɪ	teri1250	1233	9.067	-82.9631		0	0	?
 1616	80_night	NIGHT	Ngabere	Ngäbere	deu	deu	d e u	ngab1239	1233	8.8251	-82.3911		0	0	?
-1617	80_night	NIGHT	Boruca	Boruca	ŋaheɾe	ŋaheɾe	ŋ a h e ɾ e	boru1252	1233	8.88093	-83.2124		0	0	?
+1617	80_night	NIGHT	Buglere	Buglere	ŋaheɾe	ŋaheɾe	ŋ a h e ɾ e	bugl1243	1233	8.57695	-81.25648		0	0	?
 1618	80_night	NIGHT	Dorasque	Dorasque	be	be	b e	dora1242	1233	8.567442	-82.375717		0	0	?
 1619	80_night	NIGHT	SanBlasKuna	San Blas Kuna	muttikki	muttikki	m u t t i k k i	sanb1242	1233	9.15686	-78.3075		0	0	?
 1620	80_night	NIGHT	Cogui	Cogui	'sesɯn	'sesɯn	s e s ɯ n	cogu1240	1233	10.9485	-73.8043		0	0	?
@@ -1738,7 +1738,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1591	35_no	NO	Cabecar	Cabécar	ká	ká	k á/a	cabe1245	1269	9.67031	-83.4102		0	0	?
 1592	35_no	NO	Teribe	Teribe	ʒɪ́m	ʒɪ́m	ʒ ɪ́/ɪ m	teri1250	1269	9.067	-82.9631		0	0	?
 1593	35_no	NO	Ngabere	Ngäbere	ɲakaɾe	ɲakaɾe	ɲ a k a ɾ e	ngab1239	1269	8.8251	-82.3911		0	0	?
-1594	35_no	NO	Boruca	Boruca	me	me	m e	boru1252	1269	8.88093	-83.2124		0	0	?
+1594	35_no	NO	Buglere	Buglere	me	me	m e	bugl1243	1269	8.57695	-81.25648		0	0	?
 1595	35_no	NO	SanBlasKuna	San Blas Kuna	suli	suli	s u l i	sanb1242	1269	9.15686	-78.3075		0	0	?
 1596	35_no	NO	Cogui	Cogui	sa	sa	s a	cogu1240	1269	10.9485	-73.8043		0	0	?
 1597	35_no	NO	Arhuaco	Arhuaco	uʔ	uʔ	u ʔ	arhu1242	1269	10.7018	-73.6363		0	0	?
@@ -1762,7 +1762,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1519	58_nose	NOSE	Cabecar	Cabécar	dʒík	dʒík	dʒ í/i k	cabe1245	1221	9.67031	-83.4102		0	0	?
 1520	58_nose	NOSE	Teribe	Teribe	nékuò	nékuò	n é/e k u ò/o	teri1250	1221	9.067	-82.9631		0	0	?
 1521	58_nose	NOSE	Ngabere	Ngäbere	ĩsɔ̃	ĩsɔ̃	ĩ s ɔ̃	ngab1239	1221	8.8251	-82.3911		0	0	?
-1522	58_nose	NOSE	Boruca	Boruca	se	se	s e	boru1252	1221	8.88093	-83.2124		0	0	?
+1522	58_nose	NOSE	Buglere	Buglere	se	se	s e	bugl1243	1221	8.57695	-81.25648		0	0	?
 1523	58_nose	NOSE	Dorasque	Dorasque	nekó	nekó	n e k ó/o	dora1242	1221	8.567442	-82.375717		0	0	?
 1524	58_nose	NOSE	SanBlasKuna	San Blas Kuna	asu	asu	a s u	sanb1242	1221	9.15686	-78.3075		0	0	?
 1525	58_nose	NOSE	Cogui	Cogui	hũ'nũkala	hũ'nũkala	h ũ n ũ k a l a	cogu1240	1221	10.9485	-73.8043		0	0	?
@@ -1787,7 +1787,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2547	21_old	OLD	Cabecar	Cabécar	kɪ̂dʒakè	kɪ̂dʒakè	k ɪ̂/ɪ dʒ a k è/e	cabe1245	1229	9.67031	-83.4102		0	0	?
 2548	21_old	OLD	Teribe	Teribe	kɪ̀:gɪ́	kɪ̀:gɪ́	k ɪ̀:/ɪ: g ɪ́/ɪ	teri1250	1229	9.067	-82.9631		0	0	?
 2549	21_old	OLD	Ngabere	Ngäbere	ũbɾe	ũbɾe	ũ b ɾ e	ngab1239	1229	8.8251	-82.3911		0	0	?
-2550	21_old	OLD	Boruca	Boruca	huda	huda	h u d a	boru1252	1229	8.88093	-83.2124		0	0	?
+2550	21_old	OLD	Buglere	Buglere	huda	huda	h u d a	bugl1243	1229	8.57695	-81.25648		0	0	?
 2551	21_old	OLD	Dorasque	Dorasque	taré	taré	t a r é/e	dora1242	1229	8.567442	-82.375717		0	0	?
 2552	21_old	OLD	SanBlasKuna	San Blas Kuna	seɾeti	seɾeti	s e ɾ e t i	sanb1242	1229	9.15686	-78.3075		0	0	?
 2553	21_old	OLD	Cogui	Cogui	tuma	tuma	t u m a	cogu1240	1229	10.9485	-73.8043		0	0	?
@@ -1812,7 +1812,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2428	44_one	ONE	Cabecar	Cabécar	é	é	é/e	cabe1245	1493	9.67031	-83.4102		0	0	?
 2429	44_one	ONE	Teribe	Teribe	ɾa	ɾa	ɾ a	teri1250	1493	9.067	-82.9631		0	0	?
 2430	44_one	ONE	Ngabere	Ngäbere	ti	ti	t i	ngab1239	1493	8.8251	-82.3911		0	0	?
-2431	44_one	ONE	Boruca	Boruca	ite	ite	i t e	boru1252	1493	8.88093	-83.2124		0	0	?
+2431	44_one	ONE	Buglere	Buglere	ite	ite	i t e	bugl1243	1493	8.57695	-81.25648		0	0	?
 2432	44_one	ONE	Dorasque	Dorasque	e	e	e	dora1242	1493	8.567442	-82.375717		0	0	?
 2433	44_one	ONE	SanBlasKuna	San Blas Kuna	kwenna	kwenna	k w e n n a	sanb1242	1493	9.15686	-78.3075		0	0	?
 2434	44_one	ONE	Cogui	Cogui	'ezua	'ezua	e z u a	cogu1240	1493	10.9485	-73.8043		0	0	?
@@ -1837,7 +1837,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 420	87_path	PATH	Cabecar	Cabécar	dʒaɺã̀	dʒaɺã̀	dʒ a ɺ ã̀/ã	cabe1245	2252	9.67031	-83.4102		0	0	?
 421	87_path	PATH	Teribe	Teribe	i᷅ɾbóbòŋ	i᷅ɾbóbòŋ	i᷅/i ɾ b ó/o b ò/o ŋ	teri1250	2252	9.067	-82.9631		0	0	?
 422	87_path	PATH	Ngabere	Ngäbere	hi	hi	h i	ngab1239	2252	8.8251	-82.3911		0	0	?
-423	87_path	PATH	Boruca	Boruca	ho	ho	h o	boru1252	2252	8.88093	-83.2124		0	0	?
+423	87_path	PATH	Buglere	Buglere	ho	ho	h o	bugl1243	2252	8.57695	-81.25648		0	0	?
 424	87_path	PATH	Dorasque	Dorasque	ʃi'ta	ʃi'ta	ʃ i t a	dora1242	2252	8.567442	-82.375717		0	0	?
 425	87_path	PATH	SanBlasKuna	San Blas Kuna	ikala	ikala	i k a l a	sanb1242	2252	9.15686	-78.3075		0	0	?
 426	87_path	PATH	Cogui	Cogui	'hiũgula	'hiũgula	h i ũ g u l a	cogu1240	2252	10.9485	-73.8043		0	0	?
@@ -1862,7 +1862,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2117	16_red	RED	Cabecar	Cabécar	batsɪ́	batsɪ́	b a t s ɪ́/ɪ	cabe1245	156	9.67031	-83.4102		0	0	?
 2118	16_red	RED	Teribe	Teribe	sɾɪ̀ɾɪ́n	sɾɪ̀ɾɪ́n	s ɾ ɪ̀/ɪ ɾ ɪ́/ɪ n	teri1250	156	9.067	-82.9631		0	0	?
 2119	16_red	RED	Ngabere	Ngäbere	tãĩ	tãĩ	t ã ĩ	ngab1239	156	8.8251	-82.3911		0	0	?
-2120	16_red	RED	Boruca	Boruca	dabeɾe	dabeɾe	d a b e ɾ e	boru1252	156	8.88093	-83.2124		0	0	?
+2120	16_red	RED	Buglere	Buglere	dabeɾe	dabeɾe	d a b e ɾ e	bugl1243	156	8.57695	-81.25648		0	0	?
 2121	16_red	RED	Dorasque	Dorasque	kol	kol	k o l	dora1242	156	8.567442	-82.375717		0	0	?
 2122	16_red	RED	SanBlasKuna	San Blas Kuna	kinnitti	kinnitti	k i n n i t t i	sanb1242	156	9.15686	-78.3075		0	0	?
 2123	16_red	RED	Cogui	Cogui	atsuʃi	atsuʃi	a t s u ʃ i	cogu1240	156	10.9485	-73.8043		0	0	?
@@ -1887,7 +1887,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2188	43_salt	SALT	Cabecar	Cabécar	dadʒɪ̀	dadʒɪ̀	d a dʒ ɪ̀/ɪ	cabe1245	1274	9.67031	-83.4102		0	0	?
 2189	43_salt	SALT	Teribe	Teribe	dɺúŋ	dɺúŋ	d ɺ ú/u ŋ	teri1250	1274	9.067	-82.9631		0	0	?
 2190	43_salt	SALT	Ngabere	Ngäbere	mɾẽ	mɾẽ	m ɾ ẽ	ngab1239	1274	8.8251	-82.3911		0	0	?
-2191	43_salt	SALT	Boruca	Boruca	tʃo	tʃo	tʃ o	boru1252	1274	8.88093	-83.2124		0	0	?
+2191	43_salt	SALT	Buglere	Buglere	tʃo	tʃo	tʃ o	bugl1243	1274	8.57695	-81.25648		0	0	?
 2192	43_salt	SALT	Dorasque	Dorasque	báli	báli	b á/a l i	dora1242	1274	8.567442	-82.375717		0	0	?
 2193	43_salt	SALT	SanBlasKuna	San Blas Kuna	palu	palu	p a l u	sanb1242	1274	9.15686	-78.3075		0	0	?
 2194	43_salt	SALT	Cogui	Cogui	naku	naku	n a k u	cogu1240	1274	10.9485	-73.8043		0	0	?
@@ -1912,7 +1912,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 108	1_sand	SAND	Cabecar	Cabécar	tsã́	tsã́	t s ã́/ã	cabe1245	671	9.67031	-83.4102		0	0	?
 109	1_sand	SAND	Teribe	Teribe	ɺa	ɺa	ɺ a	teri1250	671	9.067	-82.9631		0	0	?
 110	1_sand	SAND	Ngabere	Ngäbere	ɯma	ɯma	ɯ m a	ngab1239	671	8.8251	-82.3911		0	0	?
-111	1_sand	SAND	Boruca	Boruca	uba	uba	u b a	boru1252	671	8.88093	-83.2124		0	0	?
+111	1_sand	SAND	Buglere	Buglere	uba	uba	u b a	bugl1243	671	8.57695	-81.25648		0	0	?
 112	1_sand	SAND	Dorasque	Dorasque	hálgu	hálgu	h á/a l g u	dora1242	671	8.567442	-82.375717		0	0	?
 113	1_sand	SAND	SanBlasKuna	San Blas Kuna	ukkuppa	ukkuppa	u k k u p p a	sanb1242	671	9.15686	-78.3075		0	0	?
 114	1_sand	SAND	Cogui	Cogui	'ui	'ui	u i	cogu1240	671	10.9485	-73.8043		0	0	?
@@ -1937,7 +1937,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 732	82_say	SAY	Cabecar	Cabécar	dʒɪ	dʒɪ	dʒ ɪ	cabe1245	1458	9.67031	-83.4102		0	0	?
 733	82_say	SAY	Teribe	Teribe	ɺí	ɺí	ɺ í/i	teri1250	1458	9.067	-82.9631		0	0	?
 734	82_say	SAY	Ngabere	Ngäbere	ŋeɾe	ŋeɾe	ŋ e ɾ e	ngab1239	1458	8.8251	-82.3911		0	0	?
-735	82_say	SAY	Boruca	Boruca	dgwenedu	dgwenedu	d g w e n e d u	boru1252	1458	8.88093	-83.2124		0	0	?
+735	82_say	SAY	Buglere	Buglere	dgwenedu	dgwenedu	d g w e n e d u	bugl1243	1458	8.57695	-81.25648		0	0	?
 736	82_say	SAY	SanBlasKuna	San Blas Kuna	soke	soke	s o k e	sanb1242	1458	9.15686	-78.3075		0	0	?
 737	82_say	SAY	Cogui	Cogui	'guaʃ	'guaʃ	g u a ʃ	cogu1240	1458	10.9485	-73.8043		0	0	?
 738	82_say	SAY	Arhuaco	Arhuaco	gwak	gwak	g w a k	arhu1242	1458	10.7018	-73.6363		0	0	?
@@ -1961,7 +1961,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2499	103_see	SEE	Cabecar	Cabécar	sũ	sũ	s ũ	cabe1245	1409	9.67031	-83.4102		0	0	?
 2500	103_see	SEE	Teribe	Teribe	ĩ́k	ĩ́k	ĩ́/ĩ k	teri1250	1409	9.067	-82.9631		0	0	?
 2501	103_see	SEE	Ngabere	Ngäbere	tũ	tũ	t ũ	ngab1239	1409	8.8251	-82.3911		0	0	?
-2502	103_see	SEE	Boruca	Boruca	tiẽ	tiẽ	t i ẽ	boru1252	1409	8.88093	-83.2124		0	0	?
+2502	103_see	SEE	Buglere	Buglere	tiẽ	tiẽ	t i ẽ	bugl1243	1409	8.57695	-81.25648		0	0	?
 2503	103_see	SEE	Dorasque	Dorasque	okosí	okosí	o k o s í/i	dora1242	1409	8.567442	-82.375717		0	0	?
 2504	103_see	SEE	SanBlasKuna	San Blas Kuna	takke	takke	t a k k e	sanb1242	1409	9.15686	-78.3075		0	0	?
 2505	103_see	SEE	Cogui	Cogui	tũ	tũ	t ũ	cogu1240	1409	10.9485	-73.8043		0	0	?
@@ -1986,7 +1986,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 444	34_sing	SING	Cabecar	Cabécar	ksɪ	ksɪ	k s ɪ	cabe1245	1261	9.67031	-83.4102		0	0	?
 445	34_sing	SING	Teribe	Teribe	tɪ́	tɪ́	t ɪ́/ɪ	teri1250	1261	9.067	-82.9631		0	0	?
 446	34_sing	SING	Ngabere	Ngäbere	ka	ka	k a	ngab1239	1261	8.8251	-82.3911		0	0	?
-447	34_sing	SING	Boruca	Boruca	mo gate	mo gate	m o + g a t e	boru1252	1261	8.88093	-83.2124		0	0	?
+447	34_sing	SING	Buglere	Buglere	mo gate	mo gate	m o + g a t e	bugl1243	1261	8.57695	-81.25648		0	0	?
 448	34_sing	SING	Dorasque	Dorasque	kayi	kayi	k a y i	dora1242	1261	8.567442	-82.375717		0	0	?
 449	34_sing	SING	SanBlasKuna	San Blas Kuna	namakke	namakke	n a m a k k e	sanb1242	1261	9.15686	-78.3075		0	0	?
 450	34_sing	SING	Cogui	Cogui	'mai	'mai	m a i	cogu1240	1261	10.9485	-73.8043		0	0	?
@@ -2011,7 +2011,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1065	88_sister	SISTER	Cabecar	Cabécar	kutà	kutà	k u t à/a	cabe1245	1263	9.67031	-83.4102		0	0	?
 1066	88_sister	SISTER	Teribe	Teribe	dóɾ	dóɾ	d ó/o ɾ	teri1250	1263	9.067	-82.9631		0	0	?
 1067	88_sister	SISTER	Ngabere	Ngäbere	ŋuãĩ	ŋuãĩ	ŋ u ã ĩ	ngab1239	1263	8.8251	-82.3911		0	0	?
-1068	88_sister	SISTER	Boruca	Boruca	da'baia	da'baia	d a b a i a	boru1252	1263	8.88093	-83.2124		0	0	?
+1068	88_sister	SISTER	Buglere	Buglere	da'baia	da'baia	d a b a i a	bugl1243	1263	8.57695	-81.25648		0	0	?
 1069	88_sister	SISTER	Dorasque	Dorasque	bek	bek	b e k	dora1242	1263	8.567442	-82.375717		0	0	?
 1070	88_sister	SISTER	SanBlasKuna	San Blas Kuna	puna	puna	p u n a	sanb1242	1263	9.15686	-78.3075		0	0	?
 1071	88_sister	SISTER	Cogui	Cogui	'nu	'nu	n u	cogu1240	1263	10.9485	-73.8043		0	0	?
@@ -2036,7 +2036,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 779	14_sleep	SLEEP	Cabecar	Cabécar	kapɪ	kapɪ	k a p ɪ	cabe1245	1585	9.67031	-83.4102		0	0	?
 780	14_sleep	SLEEP	Teribe	Teribe	pɪ́	pɪ́	p ɪ́/ɪ	teri1250	1585	9.067	-82.9631		0	0	?
 781	14_sleep	SLEEP	Ngabere	Ngäbere	kimɪ̃	kimɪ̃	k i m ɪ̃	ngab1239	1585	8.8251	-82.3911		0	0	?
-782	14_sleep	SLEEP	Boruca	Boruca	gbe	gbe	g b e	boru1252	1585	8.88093	-83.2124		0	0	?
+782	14_sleep	SLEEP	Buglere	Buglere	gbe	gbe	g b e	bugl1243	1585	8.57695	-81.25648		0	0	?
 783	14_sleep	SLEEP	Dorasque	Dorasque	kabi	kabi	k a b i	dora1242	1585	8.567442	-82.375717		0	0	?
 784	14_sleep	SLEEP	SanBlasKuna	San Blas Kuna	kape	kape	k a p e	sanb1242	1585	9.15686	-78.3075		0	0	?
 785	14_sleep	SLEEP	Cogui	Cogui	ka'ba	ka'ba	k a b a	cogu1240	1585	10.9485	-73.8043		0	0	?
@@ -2061,7 +2061,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1830	106_small	SMALL	Cabecar	Cabécar	dʒuɺɪ́ɺà	dʒuɺɪ́ɺà	dʒ u ɺ ɪ́/ɪ ɺ à/a	cabe1245	1246	9.67031	-83.4102		0	0	?
 1831	106_small	SMALL	Teribe	Teribe	tíɾà	tíɾà	t í/i ɾ à/a	teri1250	1246	9.067	-82.9631		0	0	?
 1832	106_small	SMALL	Ngabere	Ngäbere	tʃi	tʃi	tʃ i	ngab1239	1246	8.8251	-82.3911		0	0	?
-1833	106_small	SMALL	Boruca	Boruca	soli	soli	s o l i	boru1252	1246	8.88093	-83.2124		0	0	?
+1833	106_small	SMALL	Buglere	Buglere	soli	soli	s o l i	bugl1243	1246	8.57695	-81.25648		0	0	?
 1834	106_small	SMALL	Dorasque	Dorasque	chital	chital	c h i t a l	dora1242	1246	8.567442	-82.375717		0	0	?
 1835	106_small	SMALL	SanBlasKuna	San Blas Kuna	tottokwa	tottokwa	t o t t o k w a	sanb1242	1246	9.15686	-78.3075		0	0	?
 1836	106_small	SMALL	Cogui	Cogui	'nanguze	'nanguze	n a n g u z e	cogu1240	1246	10.9485	-73.8043		0	0	?
@@ -2086,7 +2086,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1758	56_smell	SMELL	Cabecar	Cabécar	haɺa ssɪ	haɺa ssɪ	h a ɺ a + s s ɪ	cabe1245	2124	9.67031	-83.4102		0	0	?
 1759	56_smell	SMELL	Teribe	Teribe	ɺoʃík	ɺoʃík	ɺ o ʃ í/i k	teri1250	2124	9.067	-82.9631		0	0	?
 1760	56_smell	SMELL	Ngabere	Ngäbere	ɾɔse	ɾɔse	ɾ ɔ s e	ngab1239	2124	8.8251	-82.3911		0	0	?
-1761	56_smell	SMELL	Boruca	Boruca	ɲáhwẽ	ɲáhwẽ	ɲ á/a h w ẽ	boru1252	2124	8.88093	-83.2124		0	0	?
+1761	56_smell	SMELL	Buglere	Buglere	ɲáhwẽ	ɲáhwẽ	ɲ á/a h w ẽ	bugl1243	2124	8.57695	-81.25648		0	0	?
 1762	56_smell	SMELL	SanBlasKuna	San Blas Kuna	u	u	u	sanb1242	2124	9.15686	-78.3075		0	0	?
 1763	56_smell	SMELL	Cogui	Cogui	'hungu	'hungu	h u n g u	cogu1240	2124	10.9485	-73.8043		0	0	?
 1764	56_smell	SMELL	Arhuaco	Arhuaco	ɾeʔbuss	ɾeʔbuss	ɾ e ʔ b u s s	arhu1242	2124	10.7018	-73.6363		0	0	?
@@ -2110,7 +2110,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1185	7_smokeexhaust	SMOKE (EXHAUST)	Cabecar	Cabécar	ʃkaɺã́	ʃkaɺã́	ʃ k a ɺ ã́/ã	cabe1245	778	9.67031	-83.4102		0	0	?
 1186	7_smokeexhaust	SMOKE (EXHAUST)	Teribe	Teribe	ɲó	ɲó	ɲ ó/o	teri1250	778	9.067	-82.9631		0	0	?
 1187	7_smokeexhaust	SMOKE (EXHAUST)	Ngabere	Ngäbere	ŋɯbɯ	ŋɯbɯ	ŋ ɯ b ɯ	ngab1239	778	8.8251	-82.3911		0	0	?
-1188	7_smokeexhaust	SMOKE (EXHAUST)	Boruca	Boruca	hiã́	hiã́	h i ã́/ã	boru1252	778	8.88093	-83.2124		0	0	?
+1188	7_smokeexhaust	SMOKE (EXHAUST)	Buglere	Buglere	hiã́	hiã́	h i ã́/ã	bugl1243	778	8.57695	-81.25648		0	0	?
 1189	7_smokeexhaust	SMOKE (EXHAUST)	Dorasque	Dorasque	kébusa	kébusa	k é/e b u s a	dora1242	778	8.567442	-82.375717		0	0	?
 1190	7_smokeexhaust	SMOKE (EXHAUST)	SanBlasKuna	San Blas Kuna	wa:	wa:	w a:	sanb1242	778	9.15686	-78.3075		0	0	?
 1191	7_smokeexhaust	SMOKE (EXHAUST)	Cogui	Cogui	ihia	ihia	i h i a	cogu1240	778	10.9485	-73.8043		0	0	?
@@ -2135,7 +2135,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2260	99_snake	SNAKE	Cabecar	Cabécar	tkabɪ̀	tkabɪ̀	t k a b ɪ̀/ɪ	cabe1245	730	9.67031	-83.4102		0	0	?
 2261	99_snake	SNAKE	Teribe	Teribe	bugúɾ	bugúɾ	b u g ú/u ɾ	teri1250	730	9.067	-82.9631		0	0	?
 2262	99_snake	SNAKE	Ngabere	Ngäbere	itʃa	itʃa	i tʃ a	ngab1239	730	8.8251	-82.3911		0	0	?
-2263	99_snake	SNAKE	Boruca	Boruca	hoɾisi	hoɾisi	h o ɾ i s i	boru1252	730	8.88093	-83.2124		0	0	?
+2263	99_snake	SNAKE	Buglere	Buglere	hoɾisi	hoɾisi	h o ɾ i s i	bugl1243	730	8.57695	-81.25648		0	0	?
 2264	99_snake	SNAKE	Dorasque	Dorasque	buli	buli	b u l i	dora1242	730	8.567442	-82.375717		0	0	?
 2265	99_snake	SNAKE	SanBlasKuna	San Blas Kuna	nakpe	nakpe	n a k p e	sanb1242	730	9.15686	-78.3075		0	0	?
 2266	99_snake	SNAKE	Cogui	Cogui	'tagbi	'tagbi	t a g b i	cogu1240	730	10.9485	-73.8043		0	0	?
@@ -2160,7 +2160,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2595	92_stomach	STOMACH	Cabecar	Cabécar	dʒã́hkù	dʒã́hkù	dʒ ã́/ã h k ù/u	cabe1245	819	9.67031	-83.4102		0	0	?
 2596	92_stomach	STOMACH	Teribe	Teribe	bʊ̀uó	bʊ̀uó	b ʊ̀/ʊ u ó/o	teri1250	819	9.067	-82.9631		0	0	?
 2597	92_stomach	STOMACH	Ngabere	Ngäbere	bule	bule	b u l e	ngab1239	819	8.8251	-82.3911		0	0	?
-2598	92_stomach	STOMACH	Boruca	Boruca	bdísuli	bdísuli	b d í/i s u l i	boru1252	819	8.88093	-83.2124		0	0	?
+2598	92_stomach	STOMACH	Buglere	Buglere	bdísuli	bdísuli	b d í/i s u l i	bugl1243	819	8.57695	-81.25648		0	0	?
 2599	92_stomach	STOMACH	Dorasque	Dorasque	korigú	korigú	k o r i g ú/u	dora1242	819	8.567442	-82.375717		0	0	?
 2600	92_stomach	STOMACH	SanBlasKuna	San Blas Kuna	sapana	sapana	s a p a n a	sanb1242	819	9.15686	-78.3075		0	0	?
 2601	92_stomach	STOMACH	Cogui	Cogui	'ʒiʒa	'ʒiʒa	ʒ i ʒ a	cogu1240	819	10.9485	-73.8043		0	0	?
@@ -2185,7 +2185,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1948	13_stone	STONE	Cabecar	Cabécar	hák	hák	h á/a k	cabe1245	857	9.67031	-83.4102		0	0	?
 1949	13_stone	STONE	Teribe	Teribe	àk	àk	à/a k	teri1250	857	9.067	-82.9631		0	0	?
 1950	13_stone	STONE	Ngabere	Ngäbere	hɔ	hɔ	h ɔ	ngab1239	857	8.8251	-82.3911		0	0	?
-1951	13_stone	STONE	Boruca	Boruca	ke	ke	k e	boru1252	857	8.88093	-83.2124		0	0	?
+1951	13_stone	STONE	Buglere	Buglere	ke	ke	k e	bugl1243	857	8.57695	-81.25648		0	0	?
 1952	13_stone	STONE	Dorasque	Dorasque	agá	agá	a g á/a	dora1242	857	8.567442	-82.375717		0	0	?
 1953	13_stone	STONE	SanBlasKuna	San Blas Kuna	akkwa	akkwa	a k k w a	sanb1242	857	9.15686	-78.3075		0	0	?
 1954	13_stone	STONE	Cogui	Cogui	'hagi	'hagi	h a g i	cogu1240	857	10.9485	-73.8043		0	0	?
@@ -2210,7 +2210,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2284	90_sun	SUN	Cabecar	Cabécar	kã́uʊ́	kã́uʊ́	k ã́/ã u ʊ́/ʊ	cabe1245	1343	9.67031	-83.4102		0	0	?
 2285	90_sun	SUN	Teribe	Teribe	dɺò	dɺò	d ɺ ò/o	teri1250	1343	9.067	-82.9631		0	0	?
 2286	90_sun	SUN	Ngabere	Ngäbere	ɲɔnɔ	ɲɔnɔ	ɲ ɔ n ɔ	ngab1239	1343	8.8251	-82.3911		0	0	?
-2287	90_sun	SUN	Boruca	Boruca	tʃwi	tʃwi	tʃ w i	boru1252	1343	8.88093	-83.2124		0	0	?
+2287	90_sun	SUN	Buglere	Buglere	tʃwi	tʃwi	tʃ w i	bugl1243	1343	8.57695	-81.25648		0	0	?
 2288	90_sun	SUN	Dorasque	Dorasque	kerél	kerél	k e r é/e l	dora1242	1343	8.567442	-82.375717		0	0	?
 2289	90_sun	SUN	SanBlasKuna	San Blas Kuna	tata	tata	t a t a	sanb1242	1343	9.15686	-78.3075		0	0	?
 2290	90_sun	SUN	Cogui	Cogui	'niui	'niui	n i u i	cogu1240	1343	10.9485	-73.8043		0	0	?
@@ -2235,7 +2235,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 540	81_tail	TAIL	Cabecar	Cabécar	baɺḗk	baɺḗk	b a ɺ ẽ́/ẽ k	cabe1245	1220	9.67031	-83.4102		0	0	?
 541	81_tail	TAIL	Teribe	Teribe	ɸɺàk	ɸɺàk	ɸ ɺ à/a k	teri1250	1220	9.067	-82.9631		0	0	?
 542	81_tail	TAIL	Ngabere	Ngäbere	kɯbaɾa	kɯbaɾa	k ɯ b a ɾ a	ngab1239	1220	8.8251	-82.3911		0	0	?
-543	81_tail	TAIL	Boruca	Boruca	skugda	skugda	s k u g d a	boru1252	1220	8.88093	-83.2124		0	0	?
+543	81_tail	TAIL	Buglere	Buglere	skugda	skugda	s k u g d a	bugl1243	1220	8.57695	-81.25648		0	0	?
 544	81_tail	TAIL	Dorasque	Dorasque	dug	dug	d u g	dora1242	1220	8.567442	-82.375717		0	0	?
 545	81_tail	TAIL	SanBlasKuna	San Blas Kuna	punnu	punnu	p u n n u	sanb1242	1220	9.15686	-78.3075		0	0	?
 546	81_tail	TAIL	Cogui	Cogui	'nugi	'nugi	n u g i	cogu1240	1220	10.9485	-73.8043		0	0	?
@@ -2260,7 +2260,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1041	12_talk	TALK	Cabecar	Cabécar	utɪ	utɪ	u t ɪ	cabe1245	2708	9.67031	-83.4102		0	0	?
 1042	12_talk	TALK	Teribe	Teribe	thẽɺẽ́	thẽɺẽ́	t h ẽ ɺ ẽ́/ẽ	teri1250	2708	9.067	-82.9631		0	0	?
 1043	12_talk	TALK	Ngabere	Ngäbere	blit	blit	b l i t	ngab1239	2708	8.8251	-82.3911		0	0	?
-1044	12_talk	TALK	Boruca	Boruca	geɾule	geɾule	g e ɾ u l e	boru1252	2708	8.88093	-83.2124		0	0	?
+1044	12_talk	TALK	Buglere	Buglere	geɾule	geɾule	g e ɾ u l e	bugl1243	2708	8.57695	-81.25648		0	0	?
 1045	12_talk	TALK	Dorasque	Dorasque	set	set	s e t	dora1242	2708	8.567442	-82.375717		0	0	?
 1046	12_talk	TALK	SanBlasKuna	San Blas Kuna	sunmakke	sunmakke	s u n m a k k e	sanb1242	2708	9.15686	-78.3075		0	0	?
 1047	12_talk	TALK	Cogui	Cogui	'neʃ	'neʃ	n e ʃ	cogu1240	2708	10.9485	-73.8043		0	0	?
@@ -2285,7 +2285,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 875	98_this	THIS	Cabecar	Cabécar	hí	hí	h í/i	cabe1245	1214	9.67031	-83.4102		0	0	?
 876	98_this	THIS	Teribe	Teribe	hũ	hũ	h ũ	teri1250	1214	9.067	-82.9631		0	0	?
 877	98_this	THIS	Ngabere	Ngäbere	ne	ne	n e	ngab1239	1214	8.8251	-82.3911		0	0	?
-878	98_this	THIS	Boruca	Boruca	ai	ai	a i	boru1252	1214	8.88093	-83.2124		0	0	?
+878	98_this	THIS	Buglere	Buglere	ai	ai	a i	bugl1243	1214	8.57695	-81.25648		0	0	?
 879	98_this	THIS	SanBlasKuna	San Blas Kuna	we	we	w e	sanb1242	1214	9.15686	-78.3075		0	0	?
 880	98_this	THIS	Cogui	Cogui	'hale	'hale	h a l e	cogu1240	1214	10.9485	-73.8043		0	0	?
 881	98_this	THIS	Arhuaco	Arhuaco	'ema	'ema	e m a	arhu1242	1214	10.7018	-73.6363		0	0	?
@@ -2309,7 +2309,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2404	23_thou	THOU	Cabecar	Cabécar	bá	bá	b á/a	cabe1245	1215	9.67031	-83.4102		0	0	?
 2405	23_thou	THOU	Teribe	Teribe	ɸà	ɸà	ɸ à/a	teri1250	1215	9.067	-82.9631		0	0	?
 2406	23_thou	THOU	Ngabere	Ngäbere	mɔ	mɔ	m ɔ	ngab1239	1215	8.8251	-82.3911		0	0	?
-2407	23_thou	THOU	Boruca	Boruca	ba	ba	b a	boru1252	1215	8.88093	-83.2124		0	0	?
+2407	23_thou	THOU	Buglere	Buglere	ba	ba	b a	bugl1243	1215	8.57695	-81.25648		0	0	?
 2408	23_thou	THOU	Dorasque	Dorasque	bá	bá	b á/a	dora1242	1215	8.567442	-82.375717		0	0	?
 2409	23_thou	THOU	SanBlasKuna	San Blas Kuna	pe	pe	p e	sanb1242	1215	9.15686	-78.3075		0	0	?
 2410	23_thou	THOU	Cogui	Cogui	ma	ma	m a	cogu1240	1215	10.9485	-73.8043		0	0	?
@@ -2334,7 +2334,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2356	30_three	THREE	Cabecar	Cabécar	badʒã	badʒã	b a dʒ ã	cabe1245	492	9.67031	-83.4102		0	0	?
 2357	30_three	THREE	Teribe	Teribe	miá	miá	m i á/a	teri1250	492	9.067	-82.9631		0	0	?
 2358	30_three	THREE	Ngabere	Ngäbere	mɔ	mɔ	m ɔ	ngab1239	492	8.8251	-82.3911		0	0	?
-2359	30_three	THREE	Boruca	Boruca	mai	mai	m a i	boru1252	492	8.88093	-83.2124		0	0	?
+2359	30_three	THREE	Buglere	Buglere	mai	mai	m a i	bugl1243	492	8.57695	-81.25648		0	0	?
 2360	30_three	THREE	Dorasque	Dorasque	mas	mas	m a s	dora1242	492	8.567442	-82.375717		0	0	?
 2361	30_three	THREE	SanBlasKuna	San Blas Kuna	pa:	pa:	p a:	sanb1242	492	9.15686	-78.3075		0	0	?
 2362	30_three	THREE	Cogui	Cogui	'maigua	'maigua	m a i g u a	cogu1240	492	10.9485	-73.8043		0	0	?
@@ -2359,7 +2359,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1280	108_tongue	TONGUE	Cabecar	Cabécar	kú	kú	k ú/u	cabe1245	1205	9.67031	-83.4102		0	0	?
 1281	108_tongue	TONGUE	Teribe	Teribe	kʰèɾkuó	kʰèɾkuó	kʰ è/e ɾ k u ó/o	teri1250	1205	9.067	-82.9631		0	0	?
 1282	108_tongue	TONGUE	Ngabere	Ngäbere	tɯdɾɔ	tɯdɾɔ	t ɯ d ɾ ɔ	ngab1239	1205	8.8251	-82.3911		0	0	?
-1283	108_tongue	TONGUE	Boruca	Boruca	kwiɾa	kwiɾa	k w i ɾ a	boru1252	1205	8.88093	-83.2124		0	0	?
+1283	108_tongue	TONGUE	Buglere	Buglere	kwiɾa	kwiɾa	k w i ɾ a	bugl1243	1205	8.57695	-81.25648		0	0	?
 1284	108_tongue	TONGUE	Dorasque	Dorasque	kuba	kuba	k u b a	dora1242	1205	8.567442	-82.375717		0	0	?
 1285	108_tongue	TONGUE	SanBlasKuna	San Blas Kuna	kwapinni	kwapinni	k w a p i n n i	sanb1242	1205	9.15686	-78.3075		0	0	?
 1286	108_tongue	TONGUE	Cogui	Cogui	hu'angala	hu'angala	h u a n g a l a	cogu1240	1205	10.9485	-73.8043		0	0	?
@@ -2384,7 +2384,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 755	25_tooth	TOOTH	Cabecar	Cabécar	kà	kà	k à/a	cabe1245	1380	9.67031	-83.4102		0	0	?
 756	25_tooth	TOOTH	Teribe	Teribe	kòuó	kòuó	k ò/o u ó/o	teri1250	1380	9.067	-82.9631		0	0	?
 757	25_tooth	TOOTH	Ngabere	Ngäbere	tu	tu	t u	ngab1239	1380	8.8251	-82.3911		0	0	?
-758	25_tooth	TOOTH	Boruca	Boruca	dau	dau	d a u	boru1252	1380	8.88093	-83.2124		0	0	?
+758	25_tooth	TOOTH	Buglere	Buglere	dau	dau	d a u	bugl1243	1380	8.57695	-81.25648		0	0	?
 759	25_tooth	TOOTH	Dorasque	Dorasque	su	su	s u	dora1242	1380	8.567442	-82.375717		0	0	?
 760	25_tooth	TOOTH	SanBlasKuna	San Blas Kuna	nukala	nukala	n u k a l a	sanb1242	1380	9.15686	-78.3075		0	0	?
 761	25_tooth	TOOTH	Cogui	Cogui	hu'ala	hu'ala	h u a l a	cogu1240	1380	10.9485	-73.8043		0	0	?
@@ -2409,7 +2409,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 84	107_tree	TREE	Cabecar	Cabécar	kaɺ	kaɺ	k a ɺ	cabe1245	906	9.67031	-83.4102		0	0	?
 85	107_tree	TREE	Teribe	Teribe	kʰɔ́	kʰɔ́	kʰ ɔ́/ɔ	teri1250	906	9.067	-82.9631		0	0	?
 86	107_tree	TREE	Ngabere	Ngäbere	kɾi	kɾi	k ɾ i	ngab1239	906	8.8251	-82.3911		0	0	?
-87	107_tree	TREE	Boruca	Boruca	gli	gli	g l i	boru1252	906	8.88093	-83.2124		0	0	?
+87	107_tree	TREE	Buglere	Buglere	gli	gli	g l i	bugl1243	906	8.57695	-81.25648		0	0	?
 88	107_tree	TREE	Dorasque	Dorasque	kalkála	kalkála	k a l k á/a l a	dora1242	906	8.567442	-82.375717		0	0	?
 89	107_tree	TREE	SanBlasKuna	San Blas Kuna	sappi	sappi	s a p p i	sanb1242	906	9.15686	-78.3075		0	0	?
 90	107_tree	TREE	Cogui	Cogui	'kali	'kali	k a l i	cogu1240	906	10.9485	-73.8043		0	0	?
@@ -2434,7 +2434,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 348	27_tumblefalldown	TUMBLE (FALL DOWN)	Cabecar	Cabécar	hã́d	hã́d	h ã́/ã d	cabe1245	2894	9.67031	-83.4102		0	0	?
 349	27_tumblefalldown	TUMBLE (FALL DOWN)	Teribe	Teribe	bɪgɪ́	bɪgɪ́	b ɪ g ɪ́/ɪ	teri1250	2894	9.067	-82.9631		0	0	?
 350	27_tumblefalldown	TUMBLE (FALL DOWN)	Ngabere	Ngäbere	nɤtɤ	nɤtɤ	n ɤ t ɤ	ngab1239	2894	8.8251	-82.3911		0	0	?
-351	27_tumblefalldown	TUMBLE (FALL DOWN)	Boruca	Boruca	hãɪ̃́	hãɪ̃́	h ã ɪ̃́/ɪ̃	boru1252	2894	8.88093	-83.2124		0	0	?
+351	27_tumblefalldown	TUMBLE (FALL DOWN)	Buglere	Buglere	hãɪ̃́	hãɪ̃́	h ã ɪ̃́/ɪ̃	bugl1243	2894	8.57695	-81.25648		0	0	?
 352	27_tumblefalldown	TUMBLE (FALL DOWN)	Dorasque	Dorasque	dudiglá	dudiglá	d u d i g l á/a	dora1242	2894	8.567442	-82.375717		0	0	?
 353	27_tumblefalldown	TUMBLE (FALL DOWN)	SanBlasKuna	San Blas Kuna	aɾkwanne	aɾkwanne	a ɾ k w a n n e	sanb1242	2894	9.15686	-78.3075		0	0	?
 354	27_tumblefalldown	TUMBLE (FALL DOWN)	Cogui	Cogui	'pen	'pen	p e n	cogu1240	2894	10.9485	-73.8043		0	0	?
@@ -2459,7 +2459,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 803	3_two	TWO	Cabecar	Cabécar	bo	bo	b o	cabe1245	1498	9.67031	-83.4102		0	0	?
 804	3_two	TWO	Teribe	Teribe	bʊ́	bʊ́	b ʊ́/ʊ	teri1250	1498	9.067	-82.9631		0	0	?
 805	3_two	TWO	Ngabere	Ngäbere	bu	bu	b u	ngab1239	1498	8.8251	-82.3911		0	0	?
-806	3_two	TWO	Boruca	Boruca	boke	boke	b o k e	boru1252	1498	8.88093	-83.2124		0	0	?
+806	3_two	TWO	Buglere	Buglere	boke	boke	b o k e	bugl1243	1498	8.57695	-81.25648		0	0	?
 807	3_two	TWO	Dorasque	Dorasque	mo	mo	m o	dora1242	1498	8.567442	-82.375717		0	0	?
 808	3_two	TWO	SanBlasKuna	San Blas Kuna	po:	po:	p o:	sanb1242	1498	9.15686	-78.3075		0	0	?
 809	3_two	TWO	Cogui	Cogui	'mauʒua	'mauʒua	m a u ʒ u a	cogu1240	1498	10.9485	-73.8043		0	0	?
@@ -2484,7 +2484,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 396	53_walk	WALK	Cabecar	Cabécar	ʃkɪ	ʃkɪ	ʃ k ɪ	cabe1245	1443	9.67031	-83.4102		0	0	?
 397	53_walk	WALK	Teribe	Teribe	hɪ́k	hɪ́k	h ɪ́/ɪ k	teri1250	1443	9.067	-82.9631		0	0	?
 398	53_walk	WALK	Ngabere	Ngäbere	nɔ̃	nɔ̃	n ɔ̃	ngab1239	1443	8.8251	-82.3911		0	0	?
-399	53_walk	WALK	Boruca	Boruca	tʃage	tʃage	tʃ a g e	boru1252	1443	8.88093	-83.2124		0	0	?
+399	53_walk	WALK	Buglere	Buglere	tʃage	tʃage	tʃ a g e	bugl1243	1443	8.57695	-81.25648		0	0	?
 400	53_walk	WALK	Dorasque	Dorasque	duɾi'ɾi:	duɾi'ɾi:	d u ɾ i ɾ i:	dora1242	1443	8.567442	-82.375717		0	0	?
 401	53_walk	WALK	SanBlasKuna	San Blas Kuna	nanae	nanae	n a n a e	sanb1242	1443	9.15686	-78.3075		0	0	?
 402	53_walk	WALK	Cogui	Cogui	'nai	'nai	n a i	cogu1240	1443	10.9485	-73.8043		0	0	?
@@ -2509,7 +2509,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 12	77_water	WATER	Cabecar	Cabécar	díkɺʊ́	díkɺʊ́	d í/i k ɺ ʊ́/ʊ	cabe1245	948	9.67031	-83.4102		0	0	?
 13	77_water	WATER	Teribe	Teribe	dí	dí	d í/i	teri1250	948	9.067	-82.9631		0	0	?
 14	77_water	WATER	Ngabere	Ngäbere	ɲɤ	ɲɤ	ɲ ɤ	ngab1239	948	8.8251	-82.3911		0	0	?
-15	77_water	WATER	Boruca	Boruca	tʃi	tʃi	tʃ i	boru1252	948	8.88093	-83.2124		0	0	?
+15	77_water	WATER	Buglere	Buglere	tʃi	tʃi	tʃ i	bugl1243	948	8.57695	-81.25648		0	0	?
 16	77_water	WATER	Dorasque	Dorasque	yi	yi	y i	dora1242	948	8.567442	-82.375717		0	0	?
 17	77_water	WATER	SanBlasKuna	San Blas Kuna	ti:	ti:	t i:	sanb1242	948	9.15686	-78.3075		0	0	?
 18	77_water	WATER	Cogui	Cogui	ni	ni	n i	cogu1240	948	10.9485	-73.8043		0	0	?
@@ -2534,7 +2534,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1638	31_we	WE	Cabecar	Cabécar	sá	sá	s á/a	cabe1245	1212	9.67031	-83.4102		0	0	?
 1639	31_we	WE	Teribe	Teribe	tʰã̀ũã́	tʰã̀ũã́	tʰ ã̀/ã ũ ã́/ã	teri1250	1212	9.067	-82.9631		0	0	?
 1640	31_we	WE	Ngabere	Ngäbere	nũ	nũ	n ũ	ngab1239	1212	8.8251	-82.3911		0	0	?
-1641	31_we	WE	Boruca	Boruca	tʃe	tʃe	tʃ e	boru1252	1212	8.88093	-83.2124		0	0	?
+1641	31_we	WE	Buglere	Buglere	tʃe	tʃe	tʃ e	bugl1243	1212	8.57695	-81.25648		0	0	?
 1642	31_we	WE	Dorasque	Dorasque	kuχúok	kuχúok	k u χ ú/u o k	dora1242	1212	8.567442	-82.375717		0	0	?
 1643	31_we	WE	SanBlasKuna	San Blas Kuna	anmala	anmala	a n m a l a	sanb1242	1212	9.15686	-78.3075		0	0	?
 1644	31_we	WE	Cogui	Cogui	'nasɯn	'nasɯn	n a s ɯ n	cogu1240	1212	10.9485	-73.8043		0	0	?
@@ -2559,7 +2559,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2068	85_what	WHAT	Cabecar	Cabécar	hìdʊ́	hìdʊ́	h ì/i d ʊ́/ʊ	cabe1245	1236	9.67031	-83.4102		0	0	?
 2069	85_what	WHAT	Teribe	Teribe	ʒɪ̀	ʒɪ̀	ʒ ɪ̀/ɪ	teri1250	1236	9.067	-82.9631		0	0	?
 2070	85_what	WHAT	Ngabere	Ngäbere	geɾe	geɾe	g e ɾ e	ngab1239	1236	8.8251	-82.3911		0	0	?
-2071	85_what	WHAT	Boruca	Boruca	dʒema	dʒema	dʒ e m a	boru1252	1236	8.88093	-83.2124		0	0	?
+2071	85_what	WHAT	Buglere	Buglere	dʒema	dʒema	dʒ e m a	bugl1243	1236	8.57695	-81.25648		0	0	?
 2072	85_what	WHAT	Dorasque	Dorasque	ee	ee	e e	dora1242	1236	8.567442	-82.375717		0	0	?
 2073	85_what	WHAT	SanBlasKuna	San Blas Kuna	ipi	ipi	i p i	sanb1242	1236	9.15686	-78.3075		0	0	?
 2074	85_what	WHAT	Cogui	Cogui	hi	hi	h i	cogu1240	1236	10.9485	-73.8043		0	0	?
@@ -2584,7 +2584,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 204	72_white	WHITE	Cabecar	Cabécar	sadúù	sadúù	s a d ú/u ù/u	cabe1245	1335	9.67031	-83.4102		0	0	?
 205	72_white	WHITE	Teribe	Teribe	ɸɺùɾún	ɸɺùɾún	ɸ ɺ ù/u ɾ ú/u n	teri1250	1335	9.067	-82.9631		0	0	?
 206	72_white	WHITE	Ngabere	Ngäbere	ŋweɲe	ŋweɲe	ŋ w e ɲ e	ngab1239	1335	8.8251	-82.3911		0	0	?
-207	72_white	WHITE	Boruca	Boruca	hutɾe	hutɾe	h u t ɾ e	boru1252	1335	8.88093	-83.2124		0	0	?
+207	72_white	WHITE	Buglere	Buglere	hutɾe	hutɾe	h u t ɾ e	bugl1243	1335	8.57695	-81.25648		0	0	?
 208	72_white	WHITE	Dorasque	Dorasque	bokkála	bokkála	b o k k á/a l a	dora1242	1335	8.567442	-82.375717		0	0	?
 209	72_white	WHITE	SanBlasKuna	San Blas Kuna	sippu	sippu	s i p p u	sanb1242	1335	9.15686	-78.3075		0	0	?
 210	72_white	WHITE	Cogui	Cogui	a'butʃi	a'butʃi	a b u tʃ i	cogu1240	1335	10.9485	-73.8043		0	0	?
@@ -2609,7 +2609,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2571	32_wind	WIND	Cabecar	Cabécar	siuã́	siuã́	s i u ã́/ã	cabe1245	960	9.67031	-83.4102		0	0	?
 2572	32_wind	WIND	Teribe	Teribe	ɸɺúk	ɸɺúk	ɸ ɺ ú/u k	teri1250	960	9.067	-82.9631		0	0	?
 2573	32_wind	WIND	Ngabere	Ngäbere	muɾie	muɾie	m u ɾ i e	ngab1239	960	8.8251	-82.3911		0	0	?
-2574	32_wind	WIND	Boruca	Boruca	mlie	mlie	m l i e	boru1252	960	8.88093	-83.2124		0	0	?
+2574	32_wind	WIND	Buglere	Buglere	mlie	mlie	m l i e	bugl1243	960	8.57695	-81.25648		0	0	?
 2575	32_wind	WIND	Dorasque	Dorasque	ʃatú	ʃatú	ʃ a t ú/u	dora1242	960	8.567442	-82.375717		0	0	?
 2576	32_wind	WIND	SanBlasKuna	San Blas Kuna	purwa	purwa	p u r w a	sanb1242	960	9.15686	-78.3075		0	0	?
 2577	32_wind	WIND	Cogui	Cogui	mul'kala	mul'kala	m u l k a l a	cogu1240	960	10.9485	-73.8043		0	0	?
@@ -2634,7 +2634,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 588	28_with	WITH	Cabecar	Cabécar	dà	dà	d à/a	cabe1245	1340	9.67031	-83.4102		0	0	?
 589	28_with	WITH	Teribe	Teribe	tʰó	tʰó	tʰ ó/o	teri1250	1340	9.067	-82.9631		0	0	?
 590	28_with	WITH	Ngabere	Ngäbere	be	be	b e	ngab1239	1340	8.8251	-82.3911		0	0	?
-591	28_with	WITH	Boruca	Boruca	ole	ole	o l e	boru1252	1340	8.88093	-83.2124		0	0	?
+591	28_with	WITH	Buglere	Buglere	ole	ole	o l e	bugl1243	1340	8.57695	-81.25648		0	0	?
 592	28_with	WITH	Dorasque	Dorasque	ba	ba	b a	dora1242	1340	8.567442	-82.375717		0	0	?
 593	28_with	WITH	SanBlasKuna	San Blas Kuna	pa	pa	p a	sanb1242	1340	9.15686	-78.3075		0	0	?
 594	28_with	WITH	Cogui	Cogui	na	na	n a	cogu1240	1340	10.9485	-73.8043		0	0	?
@@ -2659,7 +2659,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1495	42_woman	WOMAN	Cabecar	Cabécar	aɺâkɺʊ̀	aɺâkɺʊ̀	a ɺ â/a k ɺ ʊ̀/ʊ	cabe1245	962	9.67031	-83.4102		0	0	?
 1496	42_woman	WOMAN	Teribe	Teribe	uàɺɪ́	uàɺɪ́	u à/a ɺ ɪ́/ɪ	teri1250	962	9.067	-82.9631		0	0	?
 1497	42_woman	WOMAN	Ngabere	Ngäbere	meɾi	meɾi	m e ɾ i	ngab1239	962	8.8251	-82.3911		0	0	?
-1498	42_woman	WOMAN	Boruca	Boruca	mũĩŋa	mũĩŋa	m ũ ĩ ŋ a	boru1252	962	8.88093	-83.2124		0	0	?
+1498	42_woman	WOMAN	Buglere	Buglere	mũĩŋa	mũĩŋa	m ũ ĩ ŋ a	bugl1243	962	8.57695	-81.25648		0	0	?
 1499	42_woman	WOMAN	Dorasque	Dorasque	biá	biá	b i á/a	dora1242	962	8.567442	-82.375717		0	0	?
 1500	42_woman	WOMAN	SanBlasKuna	San Blas Kuna	ome	ome	o m e	sanb1242	962	9.15686	-78.3075		0	0	?
 1501	42_woman	WOMAN	Cogui	Cogui	'munʒi	'munʒi	m u n ʒ i	cogu1240	962	10.9485	-73.8043		0	0	?
@@ -2684,7 +2684,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1017	49_worm	WORM	Cabecar	Cabécar	hĩ́	hĩ́	h ĩ́/ĩ	cabe1245	1219	9.67031	-83.4102		0	0	?
 1018	49_worm	WORM	Teribe	Teribe	ʃtó	ʃtó	ʃ t ó/o	teri1250	1219	9.067	-82.9631		0	0	?
 1019	49_worm	WORM	Ngabere	Ngäbere	ŋĩ	ŋĩ	ŋ ĩ	ngab1239	1219	8.8251	-82.3911		0	0	?
-1020	49_worm	WORM	Boruca	Boruca	gwi	gwi	g w i	boru1252	1219	8.88093	-83.2124		0	0	?
+1020	49_worm	WORM	Buglere	Buglere	gwi	gwi	g w i	bugl1243	1219	8.57695	-81.25648		0	0	?
 1021	49_worm	WORM	Dorasque	Dorasque	kisi	kisi	k i s i	dora1242	1219	8.567442	-82.375717		0	0	?
 1022	49_worm	WORM	SanBlasKuna	San Blas Kuna	nusu	nusu	n u s u	sanb1242	1219	9.15686	-78.3075		0	0	?
 1023	49_worm	WORM	Cogui	Cogui	ʒi	ʒi	ʒ i	cogu1240	1219	10.9485	-73.8043		0	0	?
@@ -2709,7 +2709,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 36	45_yellow	YELLOW	Cabecar	Cabécar	tsikidí	tsikidí	t s i k i d í/i	cabe1245	1424	9.67031	-83.4102		0	0	?
 37	45_yellow	YELLOW	Teribe	Teribe	ʃòinóɾ	ʃòinóɾ	ʃ ò/o i n ó/o ɾ	teri1250	1424	9.067	-82.9631		0	0	?
 38	45_yellow	YELLOW	Ngabere	Ngäbere	sɯbɾɯɾe	sɯbɾɯɾe	s ɯ b ɾ ɯ ɾ e	ngab1239	1424	8.8251	-82.3911		0	0	?
-39	45_yellow	YELLOW	Boruca	Boruca	moloi	moloi	m o l o i	boru1252	1424	8.88093	-83.2124		0	0	?
+39	45_yellow	YELLOW	Buglere	Buglere	moloi	moloi	m o l o i	bugl1243	1424	8.57695	-81.25648		0	0	?
 40	45_yellow	YELLOW	Dorasque	Dorasque	utká	utká	u t k á/a	dora1242	1424	8.567442	-82.375717		0	0	?
 41	45_yellow	YELLOW	SanBlasKuna	San Blas Kuna	kollokwa	kollokwa	k o l l o k w a	sanb1242	1424	9.15686	-78.3075		0	0	?
 42	45_yellow	YELLOW	Cogui	Cogui	kaʃiku'ama	kaʃiku'ama	k a ʃ i k u a m a	cogu1240	1424	10.9485	-73.8043		0	0	?
@@ -2734,7 +2734,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 2452	70_you	YOU	Cabecar	Cabécar	bás	bás	b á/a s	cabe1245	1213	9.67031	-83.4102		0	0	?
 2453	70_you	YOU	Teribe	Teribe	ɸãĩ	ɸãĩ	ɸ ã ĩ	teri1250	1213	9.067	-82.9631		0	0	?
 2454	70_you	YOU	Ngabere	Ngäbere	mũ	mũ	m ũ	ngab1239	1213	8.8251	-82.3911		0	0	?
-2455	70_you	YOU	Boruca	Boruca	bádre	bádre	b á/a d r e	boru1252	1213	8.88093	-83.2124		0	0	?
+2455	70_you	YOU	Buglere	Buglere	bádre	bádre	b á/a d r e	bugl1243	1213	8.57695	-81.25648		0	0	?
 2456	70_you	YOU	SanBlasKuna	San Blas Kuna	pemala	pemala	p e m a l a	sanb1242	1213	9.15686	-78.3075		0	0	?
 2457	70_you	YOU	Cogui	Cogui	main	main	m a i n	cogu1240	1213	10.9485	-73.8043		0	0	?
 2458	70_you	YOU	Arhuaco	Arhuaco	'miwi	'miwi	m i w i	arhu1242	1213	10.7018	-73.6363		0	0	?

@@ -20,15 +20,15 @@ This dataset features a 110-items concept list that was first published by Const
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 24
+- **Varieties:** 25
 - **Concepts:** 110
 - **Lexemes:** 2,631
 - **Sources:** 1
-- **Synonymy:** 1.04
+- **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 11,426
 - **Segments:** 120 (0 BIPA errors, 0 CTLS sound class errors, 118 CLTS modified)
-- **Inventory size (avg):** 29.71
+- **Inventory size (avg):** 29.32
 
 # Contributors
 
