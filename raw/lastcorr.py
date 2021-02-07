@@ -19,6 +19,7 @@ with open("final.csv", encoding="utf8") as chib:
             xlist[1] = xlist[1].replace("Chimila", "Chi")
             xlist[1] = xlist[1].replace("Chibcha", "Mu")
             xlist[1] = xlist[1].replace("Barí", "Ba")
+            xlist[1] = xlist[1].replace("Buglere", "Boc")
             xlist[1] = xlist[1].replace("Boruca", "Bor")
             xlist[1] = xlist[1].replace("Bribri", "Bri")
             xlist[1] = xlist[1].replace("Buglere", "Boc")
