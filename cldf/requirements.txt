@@ -42,6 +42,7 @@ soupsieve==2.2
 SQLAlchemy==1.4.4
 tabulate==0.8.9
 termcolor==1.1.0
+texttable==1.6.2
 tqdm==4.59.0
 uritemplate==3.0.1
 urllib3==1.25.10
