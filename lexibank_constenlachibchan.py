@@ -15,7 +15,7 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomLexeme(Lexeme):
-    ID_in_Source = attr.ib(default=None)
+    OriginalCognates = attr.ib(default=None)
 
 
 @attr.s
@@ -45,12 +45,13 @@ class Dataset(BaseDataset):
                     )
             concepts[concept['ENGLISH']] = idx
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
-        for idx, language, concept, form in progressbar(self.raw_dir.read_csv(
-                'new_final.csv', delimiter=',')[1:]):
+        for idx, language, concept, form, cognateset in progressbar(self.raw_dir.read_csv(
+                'constenla2005.csv', delimiter=',')[1:]):
             args.writer.add_forms_from_value(
                     Language_ID=languages[language],
                     Parameter_ID=concepts[concept],
                     Value=form,
-                    Source="Constenla Umaña 2005"
+                    Source="constenla2005",
+                    OriginalCognates=cognateset
                     )
             
