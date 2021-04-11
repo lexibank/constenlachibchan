@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/Tarotis/constenlachibchan",
-            "dc:created": "5935e30"
+            "dc:created": "565bc9c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -38,7 +38,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.2"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
@@ -125,7 +125,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "OriginalCognates"
+                        "name": "Cogid"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "CU"
                     }
                 ],
                 "foreignKeys": [

@@ -8,14 +8,10 @@ from pylexibank.util import progressbar
 from clldutils.misc import slug
 
 
-#@attr.s
-#class CustomConcept(Concept):
-#    Chinese_Gloss = attr.ib(default=None)
-#    Number = attr.ib(default=None)
-
 @attr.s
 class CustomLexeme(Lexeme):
-    OriginalCognates = attr.ib(default=None)
+    Cogid = attr.ib(default=None)
+    CU = attr.ib(default=None)
 
 
 @attr.s
@@ -45,13 +41,14 @@ class Dataset(BaseDataset):
                     )
             concepts[concept['ENGLISH']] = idx
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
-        for idx, language, concept, form, cognateset in progressbar(self.raw_dir.read_csv(
+        for idx, language, concept, form, cogid, cu in progressbar(self.raw_dir.read_csv(
                 'constenla2005.csv', delimiter=',')[1:]):
             args.writer.add_forms_from_value(
                     Language_ID=languages[language],
                     Parameter_ID=concepts[concept],
                     Value=form,
                     Source="constenla2005",
-                    OriginalCognates=cognateset
+                    Cogid=cogid,
+                    CU=cu
                     )
             
