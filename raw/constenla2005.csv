@@ -45,7 +45,7 @@ ID,Language,Concept,Form,Cogid,CU
 44,Da,YELLOW,kɨʃkwama,19,c
 45,Chi,YELLOW,tʃoŋgɾagwattu,21,
 46,Mu,YELLOW,tɨβan,20,ch
-47,Tun,YELLOW,ta'w̃aja,20,ch
+47,Tun,YELLOW,ta'waja,20,ch
 48,Ba,YELLOW,kanikã: siũkdu,22,
 49,LS,FASTEN,waɾ,23,a
 50,LH,FASTEN,kup,24,
@@ -63,8 +63,8 @@ ID,Language,Concept,Form,Cogid,CU
 62,Mo,FASTEN,mɔgete,32,
 63,Boc,FASTEN,kagã,33,
 64,Dor,FASTEN,bui,30,ch
-65,Cu,FASTEN,etinne,34,d
-66,Co,FASTEN,akalihi,34,d
+65,Cu,FASTEN,e-tinne,34,d
+66,Co,FASTEN,aka-lihi,34,d
 67,Ica,FASTEN,'aʔdʒ,35,
 68,Da,FASTEN,ɾinʒii,34,d
 69,Chi,FASTEN,sikke,25,b
@@ -126,7 +126,7 @@ ID,Language,Concept,Form,Cogid,CU
 125,Ul,BIRD,di: baka,55,
 126,Mi,BIRD,pjãwiɾa,56,
 127,Pa,BIRD,kwàs,57,
-128,Ra,BIRD,sinsak,52,a
+128,Ra,BIRD,sin-sak,52,a
 129,Gua,BIRD,ŋiskaka:,58,
 130,Bor,BIRD,dù,59,b
 131,Bri,BIRD,dú,59,b
@@ -222,23 +222,23 @@ ID,Language,Concept,Form,Cogid,CU
 221,Ul,MOUTH,tapas,111,b
 222,Mi,MOUTH,bila,112,
 223,Pa,MOUTH,sà:pà,111,b
-224,Ra,MOUTH,kaka:,113,c
+224,Ra,MOUTH,ka-ka:,113,c
 225,Gua,MOUTH,koki:,113,c
-226,Bor,MOUTH,kásà,113,c
+226,Bor,MOUTH,ká-sà,113,c
 227,Bri,MOUTH,axkʊ́,113,c
 228,Cab,MOUTH,hkʊ́,113,c
-229,Te,MOUTH,kʰámo,113,c
-230,Mo,MOUTH,kada,113,c
+229,Te,MOUTH,kʰá-mo,113,c
+230,Mo,MOUTH,ka-da,113,c
 231,Boc,MOUTH,ka,113,c
-232,Dor,MOUTH,kaga,113,c
-233,Cu,MOUTH,kakka,113,c
-234,Co,MOUTH,'kaka,113,c
-235,Ica,MOUTH,kəkka,113,c
-236,Da,MOUTH,kə'ka,113,c
-237,Chi,MOUTH,kakkwa,113,c
+232,Dor,MOUTH,ka-ga,113,c
+233,Cu,MOUTH,ka-kka,113,c
+234,Co,MOUTH,'ka-ka,113,c
+235,Ica,MOUTH,kə-kka,113,c
+236,Da,MOUTH,kə'-ka,113,c
+237,Chi,MOUTH,ka-kkwa,113,c
 238,Mu,MOUTH,kɨhɨka,113,c
-239,Tun,MOUTH,'kahka,113,c
-240,Ba,MOUTH,kaksiu:,113,c
+239,Tun,MOUTH,'kah-ka,113,c
+240,Ba,MOUTH,ka-ksiu:,113,c
 241,LS,FOREST,kotaN,114,a
 242,LH,FOREST,kotan,114,a
 243,Ca,FOREST,jura,115,
@@ -279,7 +279,7 @@ ID,Language,Concept,Form,Cogid,CU
 278,Mo,GOOD,kɔ̃ɪ̃,140,
 279,Boc,GOOD,no,141,c
 280,Dor,GOOD,apé,142,
-281,Cu,GOOD,nueti,141,c
+281,Cu,GOOD,nu-eti,141,c
 282,Co,GOOD,hantʃi'dʒe,143,
 283,Ica,GOOD,du kawa,144,
 284,Da,GOOD,ʒi'koka,145,
@@ -298,14 +298,14 @@ ID,Language,Concept,Form,Cogid,CU
 297,Gua,HAIR,i:ɬa,155,
 298,Bor,HAIR,ʃíxtkà,156,
 299,Bri,HAIR,tsã́,157,c
-300,Cab,HAIR,tsã́kṹ kʊ,158,
+300,Cab,HAIR,tsã́-kṹ kʊ,158,
 301,Te,HAIR,kóŋzò,157,c
 302,Mo,HAIR,dokwɔdɾɯ,159,
 303,Boc,HAIR,tʃugaga,160,
 304,Dor,HAIR,ogá,161,
-305,Cu,HAIR,saila,157,c
-306,Co,HAIR,'sãĩ,157,c
-307,Ica,HAIR,'sagənɨ,157,c
+305,Cu,HAIR,sa-ila,157,c
+306,Co,HAIR,'sã-ĩ,157,c
+307,Ica,HAIR,'sa-gənɨ,157,c
 308,Da,HAIR,ʃa,157,c
 309,Chi,HAIR,'a,162,
 310,Mu,HAIR,tsɨe,157,c
@@ -320,17 +320,17 @@ ID,Language,Concept,Form,Cogid,CU
 319,Pa,HEAD,sã́,169,b
 320,Ra,HEAD,ki:ŋ,170,
 321,Gua,HEAD,tʃa:,169,b
-322,Bor,HEAD,sàgɾá,169,b
+322,Bor,HEAD,sà-gɾá,169,b
 323,Bri,HEAD,uʊ̂kìd,171,
-324,Cab,HEAD,tsã́kṹ,169,b
+324,Cab,HEAD,tsã́-kṹ,169,b
 325,Te,HEAD,kógo,172,
 326,Mo,HEAD,dokwɔ,173,c
 327,Boc,HEAD,tʃuga,173,c
 328,Dor,HEAD,dukú,173,c
 329,Cu,HEAD,nono,174,
-330,Co,HEAD,'sankala,169,b
-331,Ica,HEAD,sa'kuku,169,b
-332,Da,HEAD,ʃa'munku,169,b
+330,Co,HEAD,'sa-nkala,169,b
+331,Ica,HEAD,sa'-kuku,169,b
+332,Da,HEAD,ʃa'-munku,169,b
 333,Chi,HEAD,ha:kɾa,175,
 334,Mu,HEAD,tsɨskɨ,169,b
 335,Tun,HEAD,'kwisa,176,
@@ -366,8 +366,8 @@ ID,Language,Concept,Form,Cogid,CU
 365,Ul,HOT OR WARM,dajhka,202,b
 366,Mi,HOT OR WARM,lapta,203,
 367,Pa,HOT OR WARM,patàʔok,204,
-368,Ra,HOT OR WARM,tuku:ba,205,c
-369,Gua,HOT OR WARM,toke:ʝa,205,c
+368,Ra,HOT OR WARM,tuku:-ba,205,c
+369,Gua,HOT OR WARM,toke:-ʝa,205,c
 370,Bor,HOT OR WARM,dʒìká,206,ch
 371,Bri,HOT OR WARM,bâbbǎ,207,
 372,Cab,HOT OR WARM,buɪ́,208,
@@ -385,26 +385,26 @@ ID,Language,Concept,Form,Cogid,CU
 384,Ba,HOT OR WARM,asã́a,199,a
 385,LS,WALK,o,217,a
 386,LH,WALK,u,217,a
-387,Ca,WALK,diu,218,b
+387,Ca,WALK,di-u,218,b
 388,Su,WALK,lapak,219,
 389,Ul,WALK,wa:tda,220,c
 390,Mi,WALK,wap,220,c
-391,Pa,WALK,téʃ,218,b
-392,Ra,WALK,ta:k,221,ch
+391,Pa,WALK,té-ʃ,218,b
+392,Ra,WALK,ta:-k,221,ch
 393,Gua,WALK,ɸa:ki,222,
-394,Bor,WALK,dèk,218,b
+394,Bor,WALK,dè-k,218,b
 395,Bri,WALK,ʃka,223,d
 396,Cab,WALK,ʃkɪ,223,d
 397,Te,WALK,hɪ́k,224,
 398,Mo,WALK,nɔ̃,221,ch
-399,Boc,WALK,tʃage,221,ch
+399,Boc,WALK,tʃa-ge,221,ch
 400,Dor,WALK,duɾi'ɾi:,225,
 401,Cu,WALK,nanae,221,ch
 402,Co,WALK,'nai,218,b
 403,Ica,WALK,'naʒ,218,b
 404,Da,WALK,naj,218,b
 405,Chi,WALK,dʒuʔu,226,
-406,Mu,WALK,nɨn,221,ch
+406,Mu,WALK,nɨ-n,221,ch
 407,Tun,WALK,'benɾo,227,
 408,Ba,WALK,ta:kta:k,228,
 409,LS,PATH,k'in,229,a
@@ -419,17 +419,17 @@ ID,Language,Concept,Form,Cogid,CU
 418,Bor,PATH,néŋ,235,
 419,Bri,PATH,dʒaɺã́,236,c
 420,Cab,PATH,dʒaɺã̀,236,c
-421,Te,PATH,i᷅ɾbóbòŋ,237,ch
+421,Te,PATH,i᷅-ɾbó-bòŋ,237,ch
 422,Mo,PATH,hi,237,ch
 423,Boc,PATH,ho,238,
 424,Dor,PATH,ʃi'ta,239,
-425,Cu,PATH,ikala,237,ch
-426,Co,PATH,'hiũgula,237,ch
-427,Ica,PATH,'ingwənɨ,237,ch
-428,Da,PATH,inguna,237,ch
+425,Cu,PATH,i-kala,237,ch
+426,Co,PATH,'hi-ũgula,237,ch
+427,Ica,PATH,'i-ngwənɨ,237,ch
+428,Da,PATH,i-nguna,237,ch
 429,Chi,PATH,hi:,237,ch
 430,Mu,PATH,ie,237,ch
-431,Tun,PATH,'ibita,237,ch
+431,Tun,PATH,'i-bita,237,ch
 432,Ba,PATH,sikɨ,240,
 433,LS,SING,ihwa,241,a
 434,LH,SING,ikwa,241,a
@@ -447,7 +447,7 @@ ID,Language,Concept,Form,Cogid,CU
 446,Mo,SING,ka,250,d
 447,Boc,SING,mo gate,251,
 448,Dor,SING,kayi,250,d
-449,Cu,SING,namakke,252,ch
+449,Cu,SING,na-makke,252,ch
 450,Co,SING,'mai,253,e
 451,Ica,SING,za'maʒ,253,e
 452,Da,SING,ʒamai,253,e
@@ -887,15 +887,15 @@ ID,Language,Concept,Form,Cogid,CU
 886,Mu,THIS,sisɨ,448,ch
 887,Tun,THIS,'uʃa,450,e
 888,Ba,THIS,inabãi,445,a
-889,LS,FLOWER,ʃila,454,a
-890,LH,FLOWER,suna,454,a
+889,LS,FLOWER,ʃil-a,454,a
+890,LH,FLOWER,sun-a,454,a
 891,Ca,FLOWER,bas,455,
 892,Su,FLOWER,pulu,456,b
 893,Ul,FLOWER,pulu,456,b
 894,Mi,FLOWER,taŋni,457,
 895,Pa,FLOWER,ãwhá,458,
 896,Ra,FLOWER,uɾuk,459,
-897,Gua,FLOWER,ɬu:tu,454,a
+897,Gua,FLOWER,ɬu:t-u,454,a
 898,Bor,FLOWER,sɾùt,454,a
 899,Bri,FLOWER,duká,460,c
 900,Cab,FLOWER,uʊ́dkuà,460,c
@@ -903,14 +903,14 @@ ID,Language,Concept,Form,Cogid,CU
 902,Mo,FLOWER,blɯ,456,b
 903,Boc,FLOWER,hɾa,462,
 904,Dor,FLOWER,shii,463,
-905,Cu,FLOWER,tuttu,454,a
+905,Cu,FLOWER,tutt-u,454,a
 906,Co,FLOWER,'humʃi,464,
 907,Ica,FLOWER,tin'sana,465,
 908,Da,FLOWER,ʃoma,466,ch
 909,Chi,FLOWER,'kusaŋgɾa,467,
 910,Mu,FLOWER,uβa,468,
 911,Tun,FLOWER,'suwa,469,
-912,Ba,FLOWER,sũdũ,454,a
+912,Ba,FLOWER,sũd-ũ,454,a
 913,LS,COLD,ts'ana,470,a
 914,LH,COLD,miti,471,
 915,Ca,COLD,tusni,472,
@@ -1039,21 +1039,21 @@ ID,Language,Concept,Form,Cogid,CU
 1038,Mi,TALK,ajs,535,
 1039,Pa,TALK,kapáʃ,536,
 1040,Ra,TALK,baltiŋ,537,
-1041,Gua,TALK,ɬai:ki,538,b
-1042,Bor,TALK,tèk,538,b
+1041,Gua,TALK,ɬai:-ki,538,b
+1042,Bor,TALK,tè-k,538,b
 1043,Bri,TALK,ut,539,c
 1044,Cab,TALK,utɪ,539,c
 1045,Te,TALK,thẽɺẽ́,540,
 1046,Mo,TALK,blit,541,
 1047,Boc,TALK,geɾule,542,
-1048,Dor,TALK,set,538,b
+1048,Dor,TALK,se-t,538,b
 1049,Cu,TALK,sunmakke,539,c
 1050,Co,TALK,'neʃ,543,
-1051,Ica,TALK,asei,538,b
-1052,Da,TALK,ashé,538,b
+1051,Ica,TALK,a-sei,538,b
+1052,Da,TALK,a-shé,538,b
 1053,Chi,TALK,ta:ɾaŋ,544,
 1054,Mu,TALK,kuβu,545,
-1055,Tun,TALK,te'w̃inɾo,546,
+1055,Tun,TALK,te'winɾo,546,
 1056,Ba,TALK,ana,547,
 1057,LS,SISTER,peleh,548,a
 1058,LH,SISTER,pela,548,a
@@ -1087,20 +1087,20 @@ ID,Language,Concept,Form,Cogid,CU
 1086,Mi,LIVER,awja,571,
 1087,Pa,LIVER,hɾá,572,
 1088,Ra,LIVER,psa,573,c
-1089,Gua,LIVER,kua:ki,568,b
-1090,Bor,LIVER,kóʔk,568,b
+1089,Gua,LIVER,kua:-ki,568,b
+1090,Bor,LIVER,kóʔ-k,568,b
 1091,Bri,LIVER,ẽ̂d,574,ch
 1092,Cab,LIVER,hẽ̂d,574,ch
 1093,Te,LIVER,uò,575,
 1094,Mo,LIVER,mɔtɔ,573,c
-1095,Boc,LIVER,takwa,576,d
+1095,Boc,LIVER,ta-kwa,576,d
 1096,Dor,LIVER,hókoa,577,
 1097,Cu,LIVER,pi:na,573,c
 1098,Co,LIVER,a'bita,573,c
 1099,Ica,LIVER,'higəɾu,578,
 1100,Da,LIVER,anʒbita,573,c
 1101,Chi,LIVER,'ka:wiʔ,568,b
-1102,Mu,LIVER,tɨhɨβa,576,d
+1102,Mu,LIVER,tɨhɨ-βa,576,d
 1103,Tun,LIVER,'tanuba,576,d
 1104,Ba,LIVER,a:bĩba,579,
 1105,LS,LEAF,aw,580,a
@@ -1160,7 +1160,7 @@ ID,Language,Concept,Form,Cogid,CU
 1159,Pa,BONE,pájã̀,607,
 1160,Ra,BONE,a:luk,608,
 1161,Gua,BONE,ko:ɾa,609,c
-1162,Bor,BONE,dètkɾá,610,
+1162,Bor,BONE,dèt-kɾá,610,
 1163,Bri,BONE,ditʃǎʔ,611,ch
 1164,Cab,BONE,tʃitʃʔá,611,ch
 1165,Te,BONE,dobógɺo,612,
@@ -1168,10 +1168,10 @@ ID,Language,Concept,Form,Cogid,CU
 1167,Boc,BONE,gda,609,c
 1168,Dor,BONE,koné,613,
 1169,Cu,BONE,kala,609,c
-1170,Co,BONE,zalakala,614,
+1170,Co,BONE,zala-kala,614,
 1171,Ica,BONE,'wesu,615,
-1172,Da,BONE,kɨkɨɾa,616,
-1173,Chi,BONE,kɨ:kɾaʔ,617,
+1172,Da,BONE,kɨ-kɨɾa,616,
+1173,Chi,BONE,kɨ:-kɾaʔ,617,
 1174,Mu,BONE,kɨnɨ,609,c
 1175,Tun,BONE,'kaɾaɾa,609,c
 1176,Ba,BONE,kana,609,c
@@ -1190,13 +1190,13 @@ ID,Language,Concept,Form,Cogid,CU
 1189,Te,SMOKE (EXHAUST),ɲó,625,e
 1190,Mo,SMOKE (EXHAUST),ŋɯbɯ,626,
 1191,Boc,SMOKE (EXHAUST),hiã́,627,
-1192,Dor,SMOKE (EXHAUST),kébusa,621,ch
+1192,Dor,SMOKE (EXHAUST),kébu-sa,621,ch
 1193,Cu,SMOKE (EXHAUST),wa:,620,c
 1194,Co,SMOKE (EXHAUST),ihia,625,e
 1195,Ica,SMOKE (EXHAUST),'zatʃa,628,
 1196,Da,SMOKE (EXHAUST),suta,629,
 1197,Chi,SMOKE (EXHAUST),'iŋŋaʔ,625,e
-1198,Mu,SMOKE (EXHAUST),ie,625,e
+1198,Mu,SMOKE (EXHAUST),i-e,625,e
 1199,Tun,SMOKE (EXHAUST),'ijaɾa,625,e
 1200,Ba,SMOKE (EXHAUST),inakba,625,e
 1201,LS,LONG,kota,630,
@@ -1217,9 +1217,9 @@ ID,Language,Concept,Form,Cogid,CU
 1216,Dor,LONG,kiágal,644,
 1217,Cu,LONG,suiti,645,
 1218,Co,LONG,'ueĩʒiluka,646,
-1219,Ica,LONG,'gaɾi,642,b
+1219,Ica,LONG,'ga-ɾi,642,b
 1220,Da,LONG,ɾiinukka,647,
-1221,Chi,LONG,gaɾihŋa:te,642,b
+1221,Chi,LONG,ga-ɾihŋa:te,642,b
 1222,Mu,LONG,ɣahasio,642,b
 1223,Tun,LONG,ena'ɾa,648,
 1224,Ba,LONG,akbakɨ,649,
@@ -1498,8 +1498,8 @@ ID,Language,Concept,Form,Cogid,CU
 1497,Ra,WOMAN,kuma:,803,
 1498,Gua,WOMAN,kuɾi:xuɾi:,802,c
 1499,Bor,WOMAN,ɾamɾóxk,804,ch
-1500,Bri,WOMAN,aɺákʊ̀ɺ,804,ch
-1501,Cab,WOMAN,aɺâkɺʊ̀,804,ch
+1500,Bri,WOMAN,aɺá-kʊ̀ɺ,804,ch
+1501,Cab,WOMAN,aɺâ-kɺʊ̀,804,ch
 1502,Te,WOMAN,uàɺɪ́,805,
 1503,Mo,WOMAN,meɾi,801,b
 1504,Boc,WOMAN,mũĩŋa,806,
@@ -1510,7 +1510,7 @@ ID,Language,Concept,Form,Cogid,CU
 1509,Da,WOMAN,'mena,801,b
 1510,Chi,WOMAN,dʒuwiɾi,811,
 1511,Mu,WOMAN,βuhutʲa,809,d
-1512,Tun,WOMAN,wi'w̃a,812,
+1512,Tun,WOMAN,wi'wa,812,
 1513,Ba,WOMAN,bio,807,e
 1514,LS,NOSE,nepkuɾu,813,a
 1515,LH,NOSE,nepsek,813,a
@@ -1634,10 +1634,10 @@ ID,Language,Concept,Form,Cogid,CU
 1633,Ba,NIGHT,sẽẽ,880,c
 1634,LS,WE,pinani,881,a
 1635,LH,WE,apinan,881,a
-1636,Ca,WE,jamtakahi,882,
-1637,Su,WE,jaŋna,883,b
-1638,Ul,WE,jaŋna,883,b
-1639,Mi,WE,jaŋnani,884,
+1636,Ca,WE,jam-takahi,882,
+1637,Su,WE,jaŋ-na,883,b
+1638,Ul,WE,jaŋ-na,883,b
+1639,Mi,WE,jaŋ-nani,884,
 1640,Ica,WE,untàs,885,
 1641,Ra,WE,nusut,886,c
 1642,Gua,WE,toi:,887,
@@ -1783,22 +1783,22 @@ ID,Language,Concept,Form,Cogid,CU
 1782,Ul,EAR,tapa,958,b
 1783,Mi,EAR,kjama,959,
 1784,Pa,EAR,sũh,960,
-1785,Ra,EAR,kuka:,961,c
+1785,Ra,EAR,ku-ka:,961,c
 1786,Gua,EAR,toko:,956,a
 1787,Bor,EAR,kuágàx,961,c
 1788,Bri,EAR,kukʊ́,961,c
 1789,Cab,EAR,kukʊ́,961,c
-1790,Te,EAR,kuòŋuó,961,c
+1790,Te,EAR,kuòŋ-uó,961,c
 1791,Mo,EAR,olo,962,ch
 1792,Boc,EAR,olo,962,ch
-1793,Dor,EAR,kugá,961,c
+1793,Dor,EAR,ku-gá,961,c
 1794,Cu,EAR,uaja,963,
-1795,Co,EAR,'kuka,961,c
+1795,Co,EAR,'ku-ka,961,c
 1796,Ica,EAR,'kukkwɨ,961,c
-1797,Da,EAR,ku'kwa,961,c
-1798,Chi,EAR,ku:saka,961,c
-1799,Mu,EAR,kuhuka,961,c
-1800,Tun,EAR,kuhka'ha,961,c
+1797,Da,EAR,ku'-kwa,961,c
+1798,Chi,EAR,ku:sa-ka,961,c
+1799,Mu,EAR,kuhu-ka,961,c
+1800,Tun,EAR,kuh-ka'ha,961,c
 1801,Ba,EAR,kokti,961,c
 1802,LS,FATHER,t'ani,964,
 1803,LH,FATHER,papa,965,a
@@ -1828,8 +1828,8 @@ ID,Language,Concept,Form,Cogid,CU
 1827,LS,SMALL,ts'iriʃki,979,a
 1828,LH,SMALL,pori,980,
 1829,Ca,SMALL,tʃiki,979,a
-1830,Su,SMALL,bini,981,b
-1831,Ul,SMALL,baka,981,b
+1830,Su,SMALL,bi-ni,981,b
+1831,Ul,SMALL,ba-ka,981,b
 1832,Mi,SMALL,sirpi,979,a
 1833,Pa,SMALL,jéʔ,982,
 1834,Ra,SMALL,suksuk,983,
@@ -2169,13 +2169,13 @@ ID,Language,Concept,Form,Cogid,CU
 2168,Mi,KNOW,nu,1178,
 2169,Pa,KNOW,àɾíɾ,1179,
 2170,Ra,KNOW,ŋwa,1180,b
-2171,Gua,KNOW,uɾa:xe,1180,b
+2171,Gua,KNOW,uɾa:-xe,1180,b
 2172,Bor,KNOW,uí,1181,c
-2173,Bri,KNOW,uxtʃẽ,1181,c
-2174,Cab,KNOW,hudʒẽ,1181,c
+2173,Bri,KNOW,uxtʃ-ẽ,1181,c
+2174,Cab,KNOW,hudʒ-ẽ,1181,c
 2175,Te,KNOW,hmídɪ̀,1181,c
 2176,Mo,KNOW,gaɾe,1182,
-2177,Boc,KNOW,uɲe,1181,c
+2177,Boc,KNOW,uɲ-e,1181,c
 2178,Dor,KNOW,,1183,
 2179,Cu,KNOW,wisi,1181,c
 2180,Co,KNOW,akʃihi,1184,
@@ -2191,23 +2191,23 @@ ID,Language,Concept,Form,Cogid,CU
 2190,Su,SALT,kuma,1191,b
 2191,Ul,SALT,kuma,1191,b
 2192,Mi,SALT,sal,1192,
-2193,Pa,SALT,tàkè,1193,c
+2193,Pa,SALT,tàk-è,1193,c
 2194,Ra,SALT,tauli,1194,ch
 2195,Gua,SALT,ti: karu:,1195,
 2196,Bor,SALT,kí,1196,
-2197,Bri,SALT,dadʒɪ́,1193,c
-2198,Cab,SALT,dadʒɪ̀,1193,c
+2197,Bri,SALT,dadʒ-ɪ́,1193,c
+2198,Cab,SALT,dadʒ-ɪ̀,1193,c
 2199,Te,SALT,dɺúŋ,1197,
 2200,Mo,SALT,mɾẽ,1198,d
 2201,Boc,SALT,tʃo,1194,ch
 2202,Dor,SALT,báli,1198,d
 2203,Cu,SALT,palu,1198,d
-2204,Co,SALT,naku,1193,c
-2205,Ica,SALT,'nəggwɨ,1193,c
-2206,Da,SALT,nɨngu,1193,c
+2204,Co,SALT,nak-u,1193,c
+2205,Ica,SALT,'nəgg-wɨ,1193,c
+2206,Da,SALT,nɨng-u,1193,c
 2207,Chi,SALT,'no:ʔmarinda,1194,ch
-2208,Mu,SALT,nɨgua,1193,c
-2209,Tun,SALT,'ɾauwa,1193,c
+2208,Mu,SALT,nɨg-ua,1193,c
+2209,Tun,SALT,'ɾau-wa,1193,c
 2210,Ba,SALT,sabi,1189,a
 2211,LS,BLOOD,ala,1199,a
 2212,LH,BLOOD,wek,1200,
@@ -2241,12 +2241,12 @@ ID,Language,Concept,Form,Cogid,CU
 2240,Mi,DRY,lawan,1212,
 2241,Pa,DRY,a:ɾá:ni,1213,
 2242,Ra,DRY,plu:sba,1214,ch
-2243,Gua,DRY,tiɬa:xa,1209,a
+2243,Gua,DRY,tiɬa:-xa,1209,a
 2244,Bor,DRY,tskènká,1215,
 2245,Bri,DRY,pôppǒ,1216,d
 2246,Cab,DRY,pó,1216,d
 2247,Te,DRY,idógɺo,1217,
-2248,Mo,DRY,nɣtaɾe,1209,a
+2248,Mo,DRY,nɣta-ɾe,1209,a
 2249,Boc,DRY,ulen,1218,
 2250,Dor,DRY,tolótkal,1219,
 2251,Cu,DRY,tinna,1209,a
@@ -2255,7 +2255,7 @@ ID,Language,Concept,Form,Cogid,CU
 2254,Da,DRY,ʒita,1209,a
 2255,Chi,DRY,bɾo:nta,1214,ch
 2256,Mu,DRY,βutʲua,1214,ch
-2257,Tun,DRY,buɾa'buɾa,1214,ch
+2257,Tun,DRY,buɾ-a'-buɾ-a,1214,ch
 2258,Ba,DRY,bunũnĩ,1214,ch
 2259,LS,SNAKE,amap,1222,
 2260,LH,SNAKE,salala,1223,a
@@ -2282,7 +2282,7 @@ ID,Language,Concept,Form,Cogid,CU
 2281,Ba,SNAKE,tidu,1237,
 2282,Tun,SNAKE,kumoɾo'a,1238,
 2283,LS,SUN,jaʃa,1239,
-2284,LH,SUN,kasi,1240,a
+2284,LH,SUN,ka-si,1240,a
 2285,Ca,SUN,lan,1241,
 2286,Su,SUN,ma,1242,b
 2287,Ul,SUN,ma,1242,b
@@ -2290,21 +2290,21 @@ ID,Language,Concept,Form,Cogid,CU
 2289,Pa,SUN,ã̀:,1240,a
 2290,Ra,SUN,alka,1244,
 2291,Gua,SUN,to:xi,1245,c
-2292,Bor,SUN,kàk,1240,a
-2293,Bri,SUN,díuʊ̀,1246,ch
-2294,Cab,SUN,kã́uʊ́,1240,a
+2292,Bor,SUN,kà-k,1240,a
+2293,Bri,SUN,dí-uʊ̀,1246,ch
+2294,Cab,SUN,kã-úʊ́,1240,a
 2295,Te,SUN,dɺò,1247,
 2296,Mo,SUN,ɲɔnɔ,1248,
 2297,Boc,SUN,tʃwi,1245,c
 2298,Dor,SUN,kerél,1249,
-2299,Cu,SUN,tata,1250,d
+2299,Cu,SUN,ta-ta,1250,d
 2300,Co,SUN,'niui,1245,c
 2301,Ica,SUN,dʒwi,1245,c
 2302,Da,SUN,'dʒui,1245,c
-2303,Chi,SUN,'diŋŋaʔ,1246,ch
+2303,Chi,SUN,'di-ŋŋaʔ,1246,ch
 2304,Mu,SUN,sua,1245,c
-2305,Tun,SUN,'raʔsa,1250,d
-2306,Ba,SUN,nia:,1246,ch
+2305,Tun,SUN,'ra-ʔsa,1250,d
+2306,Ba,SUN,ni-a:,1246,ch
 2307,LS,BREAST,ts'ukiN,1251,a
 2308,LH,BREAST,palaN,1252,
 2309,Ca,BREAST,sum,1251,a
@@ -2481,7 +2481,7 @@ ID,Language,Concept,Form,Cogid,CU
 2480,Mi,COME,bal,1324,a
 2481,Pa,COME,tèʔk,1326,c
 2482,Ra,COME,si:k,1326,c
-2483,Gua,COME,toki:,1327,ch
+2483,Gua,COME,to-ki:,1327,ch
 2484,Bor,COME,dàbàk,1328,
 2485,Bri,COME,dɪ,1326,c
 2486,Cab,COME,de,1326,c
@@ -2489,10 +2489,10 @@ ID,Language,Concept,Form,Cogid,CU
 2488,Mo,COME,kite,1330,
 2489,Boc,COME,tʃige,1326,c
 2490,Dor,COME,berik,1331,
-2491,Cu,COME,take,1327,ch
-2492,Co,COME,'naʃ,1327,ch
-2493,Ica,COME,'nak,1327,ch
-2494,Da,COME,nak,1327,ch
+2491,Cu,COME,ta-ke,1327,ch
+2492,Co,COME,'na-ʃ,1327,ch
+2493,Ica,COME,'na-k,1327,ch
+2494,Da,COME,na-k,1327,ch
 2495,At,COME,,1332,
 2496,Chi,COME,hatta,1333,
 2497,Mu,COME,nɨ,1327,ch
