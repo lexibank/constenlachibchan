@@ -1,8 +1,14 @@
 Grapheme	IPA	Frequency
+tt	t	
+pp	p	
+kk	k	
+nn	n	
+mm	m	
 t	t	32
 i:	iː	4
 k	k	63
 o	o	16
+ll	ʎ	
 l	l	21
 w	w	18
 a	a	98
@@ -20,3 +26,4 @@ a:	aː	3
 tʃ	tʃ	6
 j	j	2
 u:	uː	2
+-	+	
