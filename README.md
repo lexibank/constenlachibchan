@@ -25,6 +25,8 @@ This dataset features a 110-items concept list that was first published by Const
 - **Lexemes:** 2,631
 - **Sources:** 1
 - **Synonymy:** 1.00
+- **Cognacy:** 2,631 cognates in 1,405 cognate sets (976 singletons)
+- **Cognate Diversity:** 0.51
 - **Invalid lexemes:** 0
 - **Tokens:** 11,429
 - **Segments:** 146 (0 BIPA errors, 0 CTLS sound class errors, 144 CLTS modified)

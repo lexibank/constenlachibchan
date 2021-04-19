@@ -10,7 +10,6 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomLexeme(Lexeme):
-    Cogid = attr.ib(default=None)
     CU = attr.ib(default=None)
 
 
@@ -43,12 +42,17 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
         for idx, language, concept, form, cogid, cu in progressbar(self.raw_dir.read_csv(
                 'constenla2005.csv', delimiter=',')[1:]):
-            args.writer.add_forms_from_value(
+            for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[language],
                     Parameter_ID=concepts[concept],
                     Value=form,
                     Source="constenla2005",
-                    Cogid=cogid,
+                    Cognacy=cogid,
                     CU=cu
-                    )
+                    ):
+                args.writer.add_cognate(
+                        lexeme=lexeme,
+                        Cognateset_ID=cogid,
+                        Source="constenla2005"
+                        )
             
