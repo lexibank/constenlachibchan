@@ -17,7 +17,8 @@ lex.cluster(method='lexstat', threshold=0.55, cluster_method="upgma",
 lex.cluster(method='sca', threshold=0.45, cluster_method="upgma",
         ref="scaid")
 
+diff(lex, 'cogid', 'lexstatid', filename="evaluate", pprint=False)
 bcubes(lex, 'cogid', 'scaid')
 bcubes(lex, 'cogid', 'lexstatid')
-diff(lex, 'cogid', 'lexstatid', filename="evaluate")
+
 
