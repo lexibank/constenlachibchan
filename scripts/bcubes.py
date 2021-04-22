@@ -11,7 +11,7 @@ lex = LexStat.from_cldf('../cldf/cldf-metadata.json', columns = [
     ])
 
 
-lex.get_scorer(runs=1000) # use 10000 but it takes a long time
+lex.get_scorer(runs=10000)
 lex.cluster(method='lexstat', threshold=0.55, cluster_method="upgma",
         ref="lexstatid")
 lex.cluster(method='sca', threshold=0.45, cluster_method="upgma",

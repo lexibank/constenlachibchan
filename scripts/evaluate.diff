@@ -114,7 +114,7 @@ Chimila      	ku'eː/eːɾi't/tuʔ	   5	  10
 Cabecar      	tã́/ãĩ́/ĩ       	   6	   6
 Cogui        	a't/tema        	   6	  11
 CentralTunebo	'k/kumakɾo      	   8	   8
-Chibcha      	kuhuma          	   8	   9
+Chibcha      	kuhuma          	   8	   8
 Dorasque     	ó/oci           	  12	  12
 LencaHonduras	puki            	  13	  13
 LencaSalvador	puka            	  13	  13
@@ -130,7 +130,7 @@ Ulwa         	sika            	  24	  24
 #
 Concept: BIRD, False Positives: yes, False Negatives: yes
 Arhuaco      	si's/sio      	   1	   1
-LencaHonduras	siɾa          	   1	   7
+LencaHonduras	siɾa          	   1	  13
 LencaSalvador	ts'i/imts'i/im	   1	  14
 Rama         	sin+sak       	   1	  21
 Bari         	daní/ikbi     	   2	   2
@@ -140,12 +140,12 @@ Cabecar      	dù/u          	   3	   3
 CentralTunebo	ɾu'w/wasiɾa   	   3	   7
 Chibcha      	sue           	   3	   9
 Cogui        	nu'b/ba       	   3	  11
+Ngabere      	nukwɔ         	   3	  11
 Dorasque     	dul           	   3	  12
-Ngabere      	nukwɔ         	   3	  19
 Buglere      	bdada         	   5	   5
 Cacaopera    	wasiri        	   7	   7
 Chimila      	kiːtikwi      	  10	  10
-Malayo       	suɾi          	  15	   9
+Malayo       	suɾi          	  15	   7
 MalekuJaika  	ŋiskakaː      	  16	  16
 Mayangna     	uhbin         	  17	  17
 Miskito      	pjãwiɾa       	  18	  18
@@ -171,9 +171,9 @@ Mayangna     	kas        	   9	  16
 Ulwa         	kas        	   9	  16
 Chimila      	ɾaːgwa     	  10	  10
 Cogui        	hau'l/lihiĩ	  11	  11
-LencaSalvador	ti         	  13	   3
+LencaSalvador	ti         	  13	  13
 Malayo       	ʒangaka    	  14	  14
-MalekuJaika  	tʃiuː      	  15	  15
+MalekuJaika  	tʃiuː      	  15	  13
 Miskito      	sam        	  17	  17
 Pech         	sá/ahkɾà/ah	  19	  19
 Rama         	aɾŋul      	  20	  20
@@ -186,15 +186,15 @@ Dorasque     	saná/a       	   2	  12
 Mayangna     	saːni        	   2	  12
 Boruca       	tù/uɾì/iná/at	   3	   3
 Bribri       	daɺǒ/oɺǒ/o   	   4	   4
-Cabecar      	doɺó/odã̀/ã  	   4	   6
+Cabecar      	doɺó/odã̀/ã  	   4	   4
 Buglere      	heɾe         	   5	   5
 Cacaopera    	mulka        	   7	   7
 CentralTunebo	ti'k/kaja    	   8	   8
 Chibcha      	mɨhɨsio      	   9	   9
 Cogui        	a'b/baksɯ    	   9	  11
 Malayo       	amɨkʃi       	   9	  11
-Rama         	paɾŋa        	   9	  13
 Ngabere      	dɾɯne        	   9	  19
+Rama         	paɾŋa        	   9	  21
 Ulwa         	baraska      	   9	  24
 Chimila      	sih't/tu     	  10	  10
 LencaHonduras	siɾi         	  10	  13
@@ -212,10 +212,10 @@ Bribri       	apɪ̂/ɪ   	   2	   2
 Buglere      	be       	   2	   2
 Cabecar      	pí/i     	   2	   2
 CentralTunebo	'a/aba   	   2	   2
+Chibcha      	ba       	   2	   2
 Cogui        	'a/abi   	   2	   2
 SanBlasKuna  	ape      	   2	   2
 Boruca       	dʒì/ibí/i	   2	   3
-Chibcha      	ba       	   2	   9
 Dorasque     	havé/e   	   2	  12
 Malayo       	ɨma      	   2	  15
 Rama         	aiɾbiː   	   2	  21
@@ -226,20 +226,20 @@ Ulwa         	aːwas    	   7	  24
 Chimila      	'e/eŋaʔ  	  10	  10
 LencaHonduras	wek      	  13	  13
 MalekuJaika  	liː      	  16	  16
-Miskito      	tala     	  18	  14
-Ngabere      	dɔɾi     	  19	  19
-Pech         	ùː/uːɾì/i	  20	  19
+Miskito      	tala     	  18	  18
+Ngabere      	dɔɾi     	  19	   7
+Pech         	ùː/uːɾì/i	  20	  14
 Teribe       	sɾɪ́/ɪŋ  	  23	  23
 #
 Concept: BONE, False Positives: yes, False Negatives: yes
 Arhuaco      	'w/wesu    	   1	   1
 Bari         	kana       	   2	   2
-SanBlasKuna  	kala       	   2	   2
+Chibcha      	kɨnɨ       	   2	   2
 Buglere      	gda        	   2	   5
 Ngabere      	kɾɔ        	   2	   5
 CentralTunebo	'k/kaɾaɾa  	   2	   8
 MalekuJaika  	koːɾa      	   2	   8
-Chibcha      	kɨnɨ       	   2	   9
+SanBlasKuna  	kala       	   2	   8
 Boruca       	dè/et+kɾá/a	   3	   3
 Bribri       	ditʃǎ/aʔ   	   4	   4
 Cabecar      	tʃitʃʔá/a  	   4	   4
@@ -283,7 +283,7 @@ Ulwa         	ta       	  17	  17
 Miskito      	tjalka   	  17	  18
 Ngabere      	kẽã      	  19	  19
 #
-Concept: CHILD, False Positives: yes, False Negatives: yes
+Concept: CHILD, False Positives: no, False Negatives: yes
 Arhuaco      	gəmɨ's/sinɨ	   1	   1
 Malayo       	gɨmɨntina  	   1	   1
 Cabecar      	dʒabà/a    	   1	   6
@@ -306,24 +306,24 @@ Mayangna     	muihbin    	  17	  17
 Miskito      	tuktan     	  18	  18
 Pech         	jé/e       	  20	  20
 Rama         	tiːskama   	  21	  21
-SanBlasKuna  	matʃikwa   	  22	  10
+SanBlasKuna  	matʃikwa   	  22	  22
 Teribe       	ã́/ãũã̀/ã  	  23	  23
 #
 Concept: CLEAN, False Positives: yes, False Negatives: yes
 Arhuaco      	aʔ't/tʃukw  	   1	   1
-CentralTunebo	su'k/kwi    	   1	   1
 Malayo       	atukw       	   1	   1
 Bari         	duk         	   1	   2
-Chimila      	't/tukua    	   1	   2
 Boruca       	tú/uxk      	   1	   3
 Bribri       	suk         	   1	   4
+CentralTunebo	su'k/kwi    	   1	   4
 Pech         	sú/uk       	   1	   4
 Rama         	suk         	   1	   4
+MalekuJaika  	ɬokiː       	   1	   5
 Cabecar      	sku         	   1	   6
 Chibcha      	tʲuhu       	   1	   9
+Chimila      	't/tukua    	   1	  10
 Mayangna     	suh         	   1	  13
 Ulwa         	suh         	   1	  13
-MalekuJaika  	ɬokiː       	   1	  15
 SanBlasKuna  	enuke       	   1	  21
 Teribe       	kuó/oʃkuɪ̀/ɪ	   1	  22
 Buglere      	glige       	   5	   5
@@ -367,6 +367,7 @@ Teribe       	ɸó/oŋ     	   1	   1
 Boruca       	bó/ok     	   1	   3
 Bribri       	bṍ/õ      	   1	   4
 Cabecar      	bõ̀/õ     	   1	   4
+MalekuJaika  	piuː      	   1	   4
 Buglere      	boga      	   1	   5
 Cacaopera    	amu       	   1	   7
 CentralTunebo	bow'a/aɾa 	   1	   8
@@ -374,7 +375,6 @@ Chibcha      	ʔaoa      	   1	   9
 Chimila      	monse     	   1	  10
 Cogui        	'm/maui   	   1	  11
 Dorasque     	bó/oká/ala	   1	  12
-MalekuJaika  	piuː      	   1	  16
 Mayangna     	mukus     	   1	  17
 Ulwa         	mukus     	   1	  17
 Ngabere      	mɯta      	   1	  19
@@ -389,6 +389,7 @@ Rama         	nuːnikaːs 	  21	   2
 Concept: COLD, False Positives: yes, False Negatives: yes
 Arhuaco      	kɨ+kawa   	   1	   1
 Bari         	teː       	   2	   2
+Malayo       	se        	   2	   2
 Boruca       	sè/exká/a 	   2	   3
 Bribri       	sẽ̂/ẽsẽ̌/ẽ	   2	   4
 Cabecar      	tsẽ́/ẽ    	   2	   4
@@ -396,7 +397,6 @@ Buglere      	skeke     	   2	   5
 Dorasque     	saiga     	   2	   5
 LencaSalvador	ts'a/ana  	   2	   7
 CentralTunebo	's/seroa  	   2	   8
-Malayo       	se        	   2	   8
 Chimila      	saːhnihkaː	   2	  10
 MalekuJaika  	tʃitʃiːxa 	   2	  16
 Mayangna     	saŋni     	   2	  17
@@ -440,12 +440,12 @@ Teribe       	té/ek    	  23	  20
 #
 Concept: CRY, False Positives: yes, False Negatives: yes
 Arhuaco      	mau     	   1	   1
+Buglere      	moe     	   1	   1
 Cogui        	'm/mau  	   1	   1
+Ngabere      	mui     	   1	   1
 Boruca       	bò/o    	   1	   3
+Dorasque     	bos     	   1	   3
 SanBlasKuna  	po      	   1	   3
-Buglere      	moe     	   1	   5
-Dorasque     	bos     	   1	  12
-Ngabere      	mui     	   1	  16
 Rama         	paun    	   1	  21
 Bari         	kona    	   2	   2
 CentralTunebo	ko'n/ni 	   2	   2
@@ -528,7 +528,7 @@ Ngabere      	nu        	   5	  19
 Cacaopera    	alu       	   7	   7
 CentralTunebo	'b/bajaɾa 	   8	   8
 Chimila      	peːkɾu    	  10	   1
-Cogui        	'p/pio    	  11	   8
+Cogui        	'p/pio    	  11	  11
 Dorasque     	bilo      	  12	  12
 LencaHonduras	suj       	  13	  13
 LencaSalvador	ʃuʃu      	  13	  14
@@ -577,7 +577,7 @@ Chimila      	bɾoːnta       	   2	  10
 Rama         	pluːsba       	   2	  10
 Boruca       	tskè/enká/a   	   3	   3
 Bribri       	pô/opǒ/o      	   4	   4
-Cabecar      	pó/o          	   4	   6
+Cabecar      	pó/o          	   4	   4
 Buglere      	ulen          	   5	   5
 Cacaopera    	sama          	   7	   7
 LencaHonduras	sawa          	   7	  13
@@ -601,12 +601,12 @@ Cabecar      	kukʊ́/ʊ    	   1	   1
 Bari         	kokti      	   1	   2
 Boruca       	kuá/agà/ax 	   1	   3
 CentralTunebo	kuh+k'a/aha	   1	   8
+Chimila      	kuːsa+ka   	   1	   8
+Cogui        	'k/ku+ka   	   1	   8
+Dorasque     	ku+gá/a    	   1	   8
+Malayo       	k'u/u+kwa  	   1	   8
+Rama         	ku+kaː     	   1	   8
 Chibcha      	kuhu+ka    	   1	   9
-Chimila      	kuːsa+ka   	   1	  10
-Cogui        	'k/ku+ka   	   1	  10
-Dorasque     	ku+gá/a    	   1	  10
-Malayo       	k'u/u+kwa  	   1	  10
-Rama         	ku+kaː     	   1	  10
 Teribe       	kuò/oŋ+uó/o	   1	  23
 Buglere      	olo        	   5	   5
 Ngabere      	olo        	   5	   5
@@ -657,7 +657,7 @@ Bribri       	tʃka    	   4	   4
 Cabecar      	dʒakɪ   	   4	   4
 Buglere      	bliɾe   	   5	   5
 Ngabere      	mɾɣɾe   	   5	  19
-Cacaopera    	duri    	   7	   7
+Cacaopera    	duri    	   7	   3
 CentralTunebo	j'a/ajin	   8	   8
 Chibcha      	so      	   9	   9
 Chimila      	'k/kene 	  10	  10
@@ -669,7 +669,7 @@ Ulwa         	kas     	  13	  17
 LencaSalvador	rom     	  14	  14
 MalekuJaika  	lakiː   	  16	  16
 Miskito      	pi      	  18	   5
-Pech         	ã̀/ãʔ   	  20	   3
+Pech         	ã̀/ãʔ   	  20	  20
 Teribe       	ií/i    	  23	  23
 #
 Concept: EYE, False Positives: yes, False Negatives: yes
@@ -680,16 +680,16 @@ Bribri       	uʊ́/ʊbaɺà/a    	   1	   4
 Cabecar      	uʊ́/ʊbaɺà/a    	   1	   4
 Buglere      	gwagwa         	   1	   5
 Chimila      	waːkwa         	   1	   5
-Chibcha      	upkua          	   1	   7
 CentralTunebo	'u/uba         	   1	   8
 Cogui        	'u/uba         	   1	   8
+Chibcha      	upkua          	   1	   9
 Pech         	wà/a           	   1	  20
 Rama         	up             	   1	  21
 Teribe       	bò/okuò/o      	   1	  23
 Boruca       	kà/aʔí/iʃ+kú/ub	   3	   3
 Cacaopera    	kun            	   7	   7
+Ngabere      	okwɔ           	  12	   5
 Dorasque     	okó/o          	  12	  12
-Ngabere      	okwɔ           	  12	  12
 LencaHonduras	sarin          	  13	  13
 LencaSalvador	sap            	  13	  14
 MalekuJaika  	ɸiɬi           	  16	  16
@@ -836,13 +836,13 @@ Boruca       	dʒì/ikɾá/a 	   1	   3
 Buglere      	hita       	   1	   5
 Chibcha      	ɣata       	   1	   9
 Dorasque     	kebú/u     	   1	  12
-Bari         	kane       	   2	   2
+Bari         	kane       	   2	   1
 Bribri       	bʊ̌/ʊuʊ̀/ʊ 	   4	   4
 Miskito      	pawta      	   4	  18
-Ngabere      	ɲukwɔ      	   6	   3
 Cabecar      	dʒʊkʊ́/ʊ   	   6	   6
 LencaHonduras	juka       	   6	   8
 LencaSalvador	ik'a/an    	   6	  14
+Ngabere      	ɲukwɔ      	   6	  19
 Teribe       	iʊ̀/ʊk     	   6	  23
 Cacaopera    	lawali     	   7	   7
 CentralTunebo	'o/oka     	   8	   8
@@ -892,9 +892,9 @@ Bari         	koba        	   2	   2
 Boruca       	ʃì/iská/aŋ  	   3	   3
 Bribri       	skẽ         	   3	   4
 Cabecar      	skẽ         	   3	   4
+Teribe       	ʃkí/iŋ      	   3	   4
 Buglere      	tiga        	   3	   5
 Ngabere      	ɾike        	   3	   5
-Teribe       	ʃkí/iŋ      	   3	  17
 Cacaopera    	dukan+panaka	   7	   7
 Chimila      	dʒeːmekenta 	  10	  10
 Dorasque     	male        	  12	  12
@@ -905,7 +905,7 @@ Ulwa         	sinka       	  17	  17
 Miskito      	matsip      	  18	  18
 Pech         	ṍ/õki       	  20	  20
 Rama         	kwikistaɾ   	  21	  21
-SanBlasKuna  	atale       	  22	  22
+SanBlasKuna  	atale       	  22	  12
 #
 Concept: FLEA, False Positives: no, False Negatives: yes
 Arhuaco      	ku      	   1	   1
@@ -946,14 +946,14 @@ Cabecar      	uʊ́/ʊdkuà/a	   4	   6
 Buglere      	hɾa        	   5	   5
 Cacaopera    	bas        	   7	   7
 CentralTunebo	's/suwa    	   8	   8
-Chibcha      	uβa        	   9	   8
+Chibcha      	uβa        	   9	   9
 Chimila      	'k/kusaŋgɾa	  10	  10
 Cogui        	'h/humʃi   	  11	  11
 Dorasque     	shii       	  12	  12
-Malayo       	ʃoma       	  15	  15
+Malayo       	ʃoma       	  15	   8
+Ngabere      	blɯ        	  17	   7
 Mayangna     	pulu       	  17	  17
 Ulwa         	pulu       	  17	  17
-Ngabere      	blɯ        	  17	  19
 Miskito      	taŋni      	  18	   1
 Pech         	ãwhá/a     	  20	  20
 Rama         	uɾuk       	  21	  21
@@ -1013,6 +1013,7 @@ SanBlasKuna  	sapuɾu          	  22	  22
 #
 Concept: FOUR, False Positives: no, False Negatives: yes
 Arhuaco      	maʔ'k/keiwa	   1	   1
+Cogui        	ma'k/keua  	   1	   1
 Malayo       	makegwa    	   1	   1
 Boruca       	bá/axkà/aŋ 	   1	   3
 Teribe       	bkí/iŋ     	   1	   3
@@ -1024,7 +1025,6 @@ Dorasque     	paka       	   1	   5
 Ngabere      	bɔkɔ       	   1	   5
 SanBlasKuna  	pake       	   1	   5
 Chibcha      	mɨhɨka     	   1	   9
-Cogui        	ma'k/keua  	   1	  11
 MalekuJaika  	pakeːkiriː 	   1	  16
 Bari         	asanikdãɪ̃ 	   2	   2
 Cacaopera    	butaru     	   7	   7
@@ -1061,7 +1061,7 @@ Malayo       	akau     	  11	  11
 LencaHonduras	jaɾ      	  13	  13
 Miskito      	k        	  18	  18
 SanBlasKuna  	uke      	  22	  22
-Teribe       	sɪ́/ɪŋ   	  23	  21
+Teribe       	sɪ́/ɪŋ   	  23	  23
 #
 Concept: GOOD, False Positives: yes, False Negatives: yes
 Arhuaco      	du+kawa        	   1	   1
@@ -1121,7 +1121,7 @@ Bari         	aːsi                	   1	   2
 Boruca       	ʃuà/aʔ              	   3	   3
 Bribri       	dʒã̂/ã+stsè/e       	   4	   4
 Buglere      	hẽgɾa               	   5	   5
-Ngabere      	ŋɔ̃gɾɔ              	   5	   5
+Ngabere      	ŋɔ̃gɾɔ              	   5	  19
 Cabecar      	dʒã́/ã+batʃiɺí/i    	   6	   6
 Cacaopera    	jusilin             	   7	   7
 CentralTunebo	buk'ʃ/ʃiɾa          	   8	   8
@@ -1138,8 +1138,8 @@ Malayo       	gaʒina              	  15	  15
 MalekuJaika  	koː+kiːra           	  16	  16
 Pech         	á/aʔsá/abɾì/is      	  20	  20
 Rama         	uɾmut+sukŋuaŋ       	  21	  21
-SanBlasKuna  	saki                	  22	  22
-Teribe       	ʒà/akó/ogɺo         	  23	   5
+SanBlasKuna  	saki                	  22	   5
+Teribe       	ʒà/akó/ogɺo         	  23	  19
 #
 Concept: HAIR, False Positives: yes, False Negatives: yes
 Arhuaco      	's/sa+gənɨ    	   1	   1
@@ -1202,12 +1202,12 @@ Bari         	obãĩ́/ĩ  	   2	   2
 Boruca       	ì/i      	   3	   3
 Bribri       	iě/eʔ    	   3	   4
 Cabecar      	hié/e    	   3	   4
-SanBlasKuna  	iti      	   3	   9
 LencaHonduras	inan     	   3	  13
 LencaSalvador	inani    	   3	  13
 Rama         	jaiŋ     	   3	  21
+SanBlasKuna  	iti      	   3	  22
+Ulwa         	alas     	   7	   5
 Cacaopera    	'k/karahi	   7	   7
-Ulwa         	alas     	   7	  24
 Teribe       	è/e      	   8	   1
 CentralTunebo	'e/eja   	   8	   8
 Chibcha      	asɨ      	   8	   9
@@ -1250,10 +1250,10 @@ Concept: HEAR, False Positives: yes, False Negatives: yes
 Arhuaco      	'n/noʔkw 	   1	   1
 Malayo       	nɨh'k/kwa	   1	   1
 Boruca       	dó/oxk   	   1	   3
+Chimila      	nok      	   1	   3
 Buglere      	tʃuge    	   1	   5
-Chimila      	nok      	   1	  10
 Cogui        	'n/nuk   	   1	  11
-Ngabere      	nu       	   1	  19
+Ngabere      	nu       	   1	  11
 Bari         	anaː     	   2	   2
 Cacaopera    	ara      	   2	   7
 CentralTunebo	ɾaʔ      	   2	   8
@@ -1301,8 +1301,8 @@ Arhuaco      	agu'p/pəs	   1	   1
 Malayo       	'p/paʃ   	   1	  14
 Bari         	da       	   2	   2
 Boruca       	bá/axt   	   3	   3
-Buglere      	bate     	   3	   5
-Ngabere      	met      	   3	   5
+Buglere      	bate     	   3	   3
+Ngabere      	met      	   3	  18
 Bribri       	tɪ       	   4	   2
 Cabecar      	tɪ       	   4	   2
 Cacaopera    	du       	   7	   2
@@ -1343,7 +1343,7 @@ MalekuJaika  	tokeː+ʝa    	  16	  16
 Rama         	tukuː+ba    	  16	  21
 Mayangna     	dajni       	  17	  17
 Ulwa         	dajhka      	  17	  17
-Miskito      	lapta       	  18	  18
+Miskito      	lapta       	  18	   4
 Pech         	patà/aʔok   	  20	  20
 Teribe       	kʰɺí/ik     	  23	  23
 #
@@ -1368,18 +1368,18 @@ Mayangna     	jaŋ   	   7	  17
 Miskito      	jaŋ   	   7	  17
 Ulwa         	jaŋ   	   7	  17
 Dorasque     	kura  	  12	  12
-LencaHonduras	unan  	  13	  13
-LencaSalvador	unani 	  13	  13
+LencaHonduras	unan  	  13	   1
+LencaSalvador	unani 	  13	   1
 Ngabere      	ti    	  19	   4
 Teribe       	tʰà/a 	  23	   5
 #
 Concept: KILL, False Positives: yes, False Negatives: yes
 Arhuaco      	'g/gwak 	   1	   1
-Cogui        	gu'a/aʃ 	   1	   1
+Buglere      	gweda   	   1	   1
 Malayo       	gwaʒ    	   1	   1
-Buglere      	gweda   	   1	   5
-Chimila      	gwah    	   1	   5
 Chibcha      	ɣu      	   1	   9
+Chimila      	gwah    	   1	  10
+Cogui        	gu'a/aʃ 	   1	  11
 MalekuJaika  	kuaː    	   1	  15
 Bari         	so      	   2	   2
 Boruca       	á/aiʔ   	   3	   3
@@ -1387,13 +1387,13 @@ Bribri       	kʊt     	   4	   4
 Cabecar      	kot     	   4	   4
 Cacaopera    	kulina  	   7	   7
 CentralTunebo	j'a/auwi	   8	   8
-LencaHonduras	kas     	  12	   1
-LencaSalvador	ʃil     	  13	   2
+LencaHonduras	kas     	  12	  11
+LencaSalvador	ʃil     	  13	  13
 Mayangna     	iː      	  16	  16
 Ulwa         	iː      	  16	  16
 Miskito      	ik      	  16	  17
 Ngabere      	kɔmike  	  18	  18
-Pech         	à/amà/as	  19	  19
+Pech         	à/amà/as	  19	  18
 Rama         	maliŋ   	  20	   7
 SanBlasKuna  	opurkwe 	  21	  21
 Teribe       	zɾʊ́/ʊk 	  22	  22
@@ -1483,7 +1483,7 @@ Malayo       	kɨna           	   1	   1
 Mayangna     	barahmak       	   1	  17
 Bari         	binĩ           	   2	   2
 Boruca       	bù/usí/ix      	   3	   3
-LencaSalvador	pos            	   3	   3
+LencaSalvador	pos            	   3	  14
 Bribri       	kaɺʊ́/ʊ+kitʃà/a	   4	   4
 Cabecar      	kaɺʊ́/ʊ+kitʃà/a	   4	   4
 Buglere      	seɾagda        	   5	   5
@@ -1507,7 +1507,7 @@ Arhuaco      	'h/higəɾu	   1	   1
 Bari         	aːbĩba   	   2	   2
 Boruca       	kó/oʔ+k  	   3	   3
 Cacaopera    	kawa     	   3	   7
-Chimila      	'k/kaːwiʔ	   3	   7
+Chimila      	'k/kaːwiʔ	   3	  10
 MalekuJaika  	kuaː+ki  	   3	  16
 Bribri       	ẽ̂/ẽd    	   4	   4
 Cabecar      	hẽ̂/ẽd   	   4	   4
@@ -1516,9 +1516,9 @@ CentralTunebo	't/tanuba	   5	   8
 Chibcha      	tɨhɨ+βa  	   5	   9
 Cogui        	a'b/bita 	  11	  11
 Malayo       	anʒbita  	  11	  11
-SanBlasKuna  	piːna    	  11	  11
 Ngabere      	mɔtɔ     	  11	  13
 Rama         	psa      	  11	  21
+SanBlasKuna  	piːna    	  11	  22
 Dorasque     	hó/okoa  	  12	  12
 LencaHonduras	musu     	  13	  13
 LencaSalvador	muts'u/u 	  13	  13
@@ -1557,9 +1557,9 @@ Ulwa         	juhka        	  24	  24
 Concept: MAN, False Positives: yes, False Negatives: yes
 Arhuaco      	't/tʃeiɾwa   	   1	   1
 CentralTunebo	's/seɾa      	   1	   8
-Malayo       	te'ɾ/ɾua     	   1	   8
 Chibcha      	tʲa          	   1	   9
 Chimila      	saːwiɾi      	   1	  10
+Malayo       	te'ɾ/ɾua     	   1	  12
 Bari         	na           	   2	   2
 Boruca       	kó/oŋró/oxk  	   3	   3
 Bribri       	uɪ̂/ɪb       	   4	   4
@@ -1597,7 +1597,7 @@ CentralTunebo	'ɾ/ɾuwa  	   8	   8
 Chibcha      	tʲihika  	   9	   9
 MalekuJaika  	ɬikiː    	   9	  16
 Dorasque     	sí/iá/a  	  12	  12
-Teribe       	ʃò/o     	  12	  22
+Teribe       	ʃò/o     	  12	  23
 LencaHonduras	rak      	  13	  13
 LencaSalvador	waʃa     	  14	  14
 Miskito      	wina     	  14	  18
@@ -1654,7 +1654,7 @@ MalekuJaika  	suː        	  16	  16
 Mayangna     	itaŋ       	  17	  17
 Ulwa         	itaŋ       	  17	  17
 Miskito      	japti      	  18	  18
-Pech         	ká/akì/i   	  20	  20
+Pech         	ká/akì/i   	  20	   1
 Rama         	aiɾuŋ      	  21	  21
 SanBlasKuna  	nana       	  22	  22
 #
@@ -1713,9 +1713,9 @@ Miskito      	bila          	  18	  18
 Concept: NECK, False Positives: yes, False Negatives: yes
 Arhuaco      	'g/gaʔnɨ     	   1	   1
 Cogui        	'g/gagla     	   1	   1
+Malayo       	'g/gana      	   1	   1
 Chibcha      	gɨ           	   1	   9
-MalekuJaika  	koːlo        	   1	  13
-Malayo       	'g/gana      	   1	  15
+MalekuJaika  	koːlo        	   1	  16
 Bari         	boː          	   2	   2
 Dorasque     	polé/e       	   2	  12
 Boruca       	ì/iŋsá/a     	   3	   3
@@ -1728,7 +1728,7 @@ Chimila      	'ɾ/ɾugwaʔ    	  10	  10
 LencaHonduras	sala         	  13	  13
 LencaSalvador	t'a/ant'a/an 	  14	  14
 Mayangna     	dimak        	  17	  17
-Miskito      	nana         	  18	  15
+Miskito      	nana         	  18	  18
 Ngabere      	ɾɔɾɔ         	  18	  19
 Pech         	tá/awá/asã́/ã	  20	  20
 Rama         	kiːŋkat      	  21	  21
@@ -1781,18 +1781,18 @@ LencaHonduras	tanki       	  13	  13
 LencaSalvador	ts'u/upa    	  14	   9
 Ulwa         	puka        	  17	   3
 Mayangna     	pukta       	  17	  17
-Miskito      	tihmja      	  18	  13
+Miskito      	tihmja      	  18	  18
 Ngabere      	deu         	  19	  19
 Pech         	kà/aká/a    	  20	  20
 Rama         	kik         	  21	  20
 SanBlasKuna  	mutiki      	  22	  22
 Teribe       	ʃkɪ́/ɪ      	  23	  23
 #
-Concept: NO, False Positives: yes, False Negatives: yes
+Concept: NO, False Positives: no, False Negatives: yes
 Arhuaco      	uʔ      	   1	   1
 Malayo       	ung     	   1	  14
 Bari         	akaba   	   2	   2
-Boruca       	í/iʔʃì/i	   3	   2
+Boruca       	í/iʔʃì/i	   3	   3
 Bribri       	kɪ́/ɪ   	   4	   4
 Cabecar      	ká/a    	   4	   6
 LencaSalvador	ke      	   4	   6
@@ -1818,6 +1818,7 @@ Arhuaco      	mi's/suŋɨ  	   1	   1
 Bari         	nisa       	   2	   2
 Bribri       	dʒɪ̂/ɪk    	   2	   4
 Cabecar      	dʒí/ik     	   2	   4
+Rama         	taik       	   2	   4
 Cacaopera    	namn       	   2	   7
 CentralTunebo	'r/reʃa    	   2	   8
 Chibcha      	saka       	   2	   9
@@ -1827,10 +1828,9 @@ Teribe       	né/ekuò/o  	   2	  12
 LencaHonduras	nepsek     	   2	  13
 LencaSalvador	nepkuɾu    	   2	  14
 MalekuJaika  	taiːki     	   2	  16
-Rama         	taik       	   2	  16
 Mayangna     	nam        	   2	  17
 Ulwa         	nantak     	   2	  17
-Pech         	tã́/ãjsá/a 	   2	  19
+Pech         	tã́/ãjsá/a 	   2	  20
 Boruca       	ʃì/iská/a  	   3	   3
 Buglere      	se         	   5	   5
 Cogui        	hũ'n/nũkala	  11	  11
@@ -1847,7 +1847,7 @@ Boruca       	ù/uɾà/aŋká/a	   3	   3
 Buglere      	huda        	   3	   5
 Bribri       	akɪ́/ɪtʃkè/e	   4	   4
 Cabecar      	kɪ̂/ɪdʒakè/e	   4	   4
-Teribe       	kɪ̀ː/ɪːgɪ́/ɪ	   4	   9
+Teribe       	kɪ̀ː/ɪːgɪ́/ɪ	   4	  14
 Cacaopera    	uskam       	   7	   7
 CentralTunebo	'k/kumatɾo  	   8	   8
 Chibcha      	saka        	   9	   9
@@ -1910,7 +1910,7 @@ Cacaopera    	lap             	   7	   7
 Dorasque     	ʃi't/ta         	  12	  12
 LencaHonduras	kin             	  13	  13
 LencaSalvador	k'i/in          	  13	  13
-MalekuJaika  	ʝuː             	  16	  16
+MalekuJaika  	ʝuː             	  16	   5
 Mayangna     	taː             	  17	  17
 Pech         	taːh            	  17	  17
 Ulwa         	taː             	  17	  17
@@ -1943,7 +1943,7 @@ Ngabere      	tãĩ          	  19	  19
 SanBlasKuna  	kiniti       	  22	  22
 Teribe       	sɾɪ̀/ɪɾɪ́/ɪn 	  23	  23
 #
-Concept: SALT, False Positives: no, False Negatives: yes
+Concept: SALT, False Positives: yes, False Negatives: yes
 Arhuaco      	'n/nəg+wɨ     	   1	   1
 Bribri       	dadʒ+ɪ́/ɪ     	   1	   4
 Cabecar      	dadʒ+ɪ̀/ɪ     	   1	   4
@@ -1960,8 +1960,8 @@ Buglere      	tʃo           	   5	   5
 Chimila      	'n/noːʔmarinda	   5	  10
 Rama         	tauli         	   5	  21
 Cacaopera    	jabulu        	   7	   7
-Dorasque     	bá/ali        	  12	  12
-SanBlasKuna  	palu          	  12	  12
+Dorasque     	bá/ali        	  12	   7
+SanBlasKuna  	palu          	  12	   7
 Ngabere      	mɾẽ           	  12	  19
 MalekuJaika  	tiː+karuː     	  16	  16
 Mayangna     	kuma          	  17	  17
@@ -1969,7 +1969,7 @@ Ulwa         	kuma          	  17	  17
 Miskito      	sal           	  18	  18
 Teribe       	dɺú/uŋ        	  23	  23
 #
-Concept: SAND, False Positives: no, False Negatives: yes
+Concept: SAND, False Positives: yes, False Negatives: yes
 Arhuaco      	'u/uzu  	   1	   1
 Malayo       	unʒu    	   1	   1
 Pech         	ú/uʔù/u 	   1	   1
@@ -1977,9 +1977,9 @@ Bari         	ũda     	   1	   2
 Boruca       	ù/ub    	   1	   3
 Buglere      	uba     	   1	   3
 CentralTunebo	'u/umita	   1	   8
-SanBlasKuna  	ukupa   	   1	   8
 Chibcha      	ɣuantsa 	   1	   9
 Cogui        	'u/ui   	   1	  11
+SanBlasKuna  	ukupa   	   1	  13
 MalekuJaika  	uɬiːxa  	   1	  16
 Ngabere      	ɯma     	   1	  19
 Rama         	untaːs  	   1	  21
@@ -2024,11 +2024,11 @@ Concept: SEE, False Positives: yes, False Negatives: yes
 Arhuaco      	't/tʃw 	   1	   1
 Bribri       	sũ     	   1	   4
 Cabecar      	sũ     	   1	   4
+Rama         	suŋ    	   1	   4
 Chimila      	tuː    	   1	   5
 Cogui        	tũ     	   1	   5
 Malayo       	t'u/ua 	   1	   5
 Ngabere      	tũ     	   1	   5
-Rama         	suŋ    	   1	  21
 Bari         	maːdi  	   2	   2
 Boruca       	í/iʃt  	   3	   3
 CentralTunebo	is't/ti	   3	   8
@@ -2117,7 +2117,7 @@ Ulwa         	ama    	   1	   8
 Teribe       	pɪ́/ɪ  	   1	  14
 Malayo       	kɨũ    	   1	  15
 Cacaopera    	jabuna 	   7	   7
-Miskito      	jap    	   7	   7
+Miskito      	jap    	   7	  18
 Chimila      	saːɾa  	  10	  10
 LencaHonduras	saɾ    	  10	  13
 LencaSalvador	pa     	  14	  14
@@ -2268,9 +2268,9 @@ MalekuJaika  	oktaɾaː  	   1	  16
 Ngabere      	hɔ       	   1	  19
 SanBlasKuna  	akwa     	   1	  22
 Boruca       	ká/aŋ    	   3	   3
-Buglere      	ke       	   3	   3
-Mayangna     	ki       	   3	   3
-Ulwa         	ki       	   3	   3
+Buglere      	ke       	   3	   5
+Mayangna     	ki       	   3	   5
+Ulwa         	ki       	   3	   5
 LencaHonduras	ke       	   3	  13
 LencaSalvador	ke       	   3	  13
 Cacaopera    	apa      	   7	   7
@@ -2320,7 +2320,7 @@ Bribri       	baɺẽ́/ẽk   	   4	   4
 Cabecar      	baɺẽ́/ẽk   	   4	   4
 Teribe       	ɸɺà/ak     	   4	   4
 Ngabere      	kɯbaɾa     	   4	  19
-Pech         	pà/aɾ      	   4	  19
+Pech         	pà/aɾ      	   4	  20
 Buglere      	skugda     	   5	   5
 Cacaopera    	kuna       	   7	   7
 Chimila      	bukɾa      	  10	  10
@@ -2384,7 +2384,6 @@ Ulwa         	aːka   	  16	  16
 #
 Concept: THOU, False Positives: yes, False Negatives: yes
 Arhuaco      	ma     	   1	   1
-Chibcha      	mɨe    	   1	   1
 Cogui        	ma     	   1	   1
 Malayo       	ma     	   1	   1
 Mayangna     	man    	   1	   1
@@ -2404,25 +2403,26 @@ Teribe       	ɸà/a   	   1	   2
 Bribri       	bě/eʔ  	   1	   4
 CentralTunebo	'b/baʔa	   1	   4
 Cacaopera    	mani   	   1	   7
+Chibcha      	mɨe    	   1	   9
 LencaHonduras	amnan  	   1	  13
 LencaSalvador	manani 	   1	  13
 Chimila      	'a/ama 	  10	   1
 #
 Concept: THREE, False Positives: no, False Negatives: yes
 Arhuaco      	'm/maikənɨ 	   1	   1
-MalekuJaika  	poiːkiriː  	   1	   1
 Boruca       	má/aŋ      	   1	   3
-Ngabere      	mɔ         	   1	   3
 Bribri       	badʒã      	   1	   4
 Cabecar      	badʒã      	   1	   4
 CentralTunebo	'b/baja    	   1	   4
 SanBlasKuna  	paː        	   1	   4
 Buglere      	mai        	   1	   5
+Ngabere      	mɔ         	   1	   5
 Chibcha      	mika       	   1	   9
 Cogui        	'm/maigua  	   1	   9
 Malayo       	maigwa     	   1	   9
 Chimila      	maːhna     	   1	  10
 Dorasque     	mas        	   1	  12
+MalekuJaika  	poiːkiriː  	   1	  16
 Mayangna     	bas        	   1	  17
 Ulwa         	bas        	   1	  17
 Pech         	mã́/ãjh    	   1	  20
@@ -2540,25 +2540,25 @@ Ulwa         	wauhda     	  24	  24
 #
 Concept: TWO, False Positives: no, False Negatives: yes
 Arhuaco      	'm/mouga 	   1	   1
-Dorasque     	mo       	   1	   1
 Boruca       	bú/uʔk   	   1	   3
 Chimila      	buhna    	   1	   3
 Bribri       	bʊ       	   1	   4
-Ngabere      	bu       	   1	   4
-Teribe       	bʊ́/ʊ    	   1	   4
+Cabecar      	bo       	   1	   4
+Mayangna     	bu       	   1	   4
+Ulwa         	bu       	   1	   4
 Buglere      	boke     	   1	   5
-Cabecar      	bo       	   1	   5
-Mayangna     	bu       	   1	   5
-Ulwa         	bu       	   1	   5
+Chibcha      	bo       	   1	   5
+SanBlasKuna  	poː      	   1	   5
 Cacaopera    	buru     	   1	   7
 CentralTunebo	bu'k/kaja	   1	   8
-Chibcha      	bo       	   1	   9
-SanBlasKuna  	poː      	   1	   9
 Cogui        	'm/mauʒua	   1	  11
+Dorasque     	mo       	   1	  12
 LencaHonduras	pe       	   1	  13
 LencaSalvador	pe       	   1	  13
 Malayo       	mowa     	   1	  15
 MalekuJaika  	pauŋka   	   1	  16
+Ngabere      	bu       	   1	  19
+Teribe       	bʊ́/ʊ    	   1	  19
 Pech         	pó/ok    	   1	  20
 Rama         	puksak   	   1	  21
 Bari         	ĩsãmĩ    	   2	   2
@@ -2600,6 +2600,7 @@ Bari         	sĩː+mã    	   1	   2
 Boruca       	dí/iʔ     	   1	   3
 Bribri       	dǐ/iʔ     	   1	   3
 Cabecar      	dí/ikɺʊ́/ʊ	   1	   6
+Rama         	siː       	   1	   7
 CentralTunebo	'r/riʔa   	   1	   8
 Chibcha      	sie       	   1	   9
 Chimila      	ditakeː   	   1	  10
@@ -2607,7 +2608,6 @@ Cogui        	ni        	   1	  11
 Dorasque     	ji        	   1	  12
 Malayo       	'd/dʒiɾa  	   1	  15
 Ngabere      	ɲɤ        	   1	  19
-Rama         	siː       	   1	  20
 Cacaopera    	li        	   7	   7
 Miskito      	li        	   7	  18
 LencaHonduras	was       	  13	  13
@@ -2621,7 +2621,7 @@ Arhuaco      	untà/as     	   1	   1
 Bari         	tiɲi        	   2	   2
 Chibcha      	tʲie        	   2	   5
 Boruca       	dì/iʔ+ɾó/oxk	   3	   3
-Arhuaco      	'n/ní/iwi   	   3	  20
+Arhuaco      	'n/ní/iwi   	   3	  24
 Bribri       	sǎ/aʔ       	   4	   4
 Cabecar      	sá/a        	   4	   4
 Buglere      	tʃe         	   5	   5
@@ -2637,8 +2637,8 @@ MalekuJaika  	toiː        	  16	  16
 Mayangna     	jaŋ+na      	  17	  17
 Ulwa         	jaŋ+na      	  17	  17
 Miskito      	jaŋ+nani    	  18	  17
+Rama         	nusut       	  19	  11
 Ngabere      	nũ          	  19	  19
-Rama         	nusut       	  19	  20
 SanBlasKuna  	anmala      	  21	  21
 Teribe       	tʰã̀/ãũã́/ã 	  22	  16
 #
@@ -2668,7 +2668,7 @@ MalekuJaika  	oroːki   	  16	  16
 Ngabere      	geɾe     	  19	  10
 Teribe       	ʒɪ̀/ɪ    	  23	  23
 #
-Concept: WHITE, False Positives: no, False Negatives: yes
+Concept: WHITE, False Positives: yes, False Negatives: yes
 Arhuaco      	'b/bunsi+kawa   	   1	   1
 Malayo       	ambɨnʃi         	   1	  15
 Teribe       	ɸɺù/uɾú/un      	   1	  23
@@ -2682,7 +2682,7 @@ Cacaopera    	sahu            	   7	   7
 CentralTunebo	kw'a/asajɾo     	   8	   8
 Chibcha      	pkɨhɨsio        	   9	   9
 Chimila      	soːmotuː        	  10	  10
-Cogui        	a'b/butʃi       	  11	  11
+Cogui        	a'b/butʃi       	  11	   2
 Dorasque     	boká/ala        	  12	  12
 LencaHonduras	soko            	  13	  13
 LencaSalvador	ʃoko            	  13	  13
@@ -2697,11 +2697,11 @@ SanBlasKuna  	sipu            	  22	  22
 Concept: WIND, False Positives: yes, False Negatives: yes
 Arhuaco      	'b/buntikənɨ	   1	   1
 Buglere      	mlie        	   1	   5
+Ngabere      	muɾie       	   1	   5
 Cogui        	mul'k/kala  	   1	  11
 Malayo       	buɾta       	   1	  15
 MalekuJaika  	puːɾa       	   1	  16
 SanBlasKuna  	purwa       	   1	  16
-Ngabere      	muɾie       	   1	  19
 Rama         	pulkat      	   1	  21
 Teribe       	ɸɺú/uk      	   1	  23
 Bari         	saba        	   2	   2
@@ -2746,7 +2746,7 @@ Mayangna     	karak  	  17	  17
 Ulwa         	karak  	  17	  17
 Miskito      	wal    	  18	  18
 #
-Concept: WOMAN, False Positives: no, False Negatives: yes
+Concept: WOMAN, False Positives: yes, False Negatives: yes
 Arhuaco      	aʔ'm/mia    	   1	   1
 Bari         	bio         	   2	   2
 Dorasque     	biá/a       	   2	   2
@@ -2763,7 +2763,7 @@ Cogui        	'm/munʒi    	   9	  11
 Chimila      	dʒuwiɾi     	  10	  10
 LencaHonduras	mop         	  13	  13
 LencaSalvador	sija        	  14	  14
-Malayo       	'm/mena     	  15	  15
+Malayo       	'm/mena     	  15	   5
 Miskito      	majrin      	  15	  18
 Ngabere      	meɾi        	  15	  19
 MalekuJaika  	kuɾiːxuɾiː  	  16	  16
@@ -2778,7 +2778,7 @@ Cogui        	ʒi          	   1	   1
 Bari         	iʃanaba     	   1	   2
 Boruca       	dʒí/iŋ      	   1	   3
 Bribri       	ɪ̃̀/ɪ       	   1	   4
-Cabecar      	hĩ́/ĩ       	   1	   4
+Cabecar      	hĩ́/ĩ       	   1	   6
 Chibcha      	tsina       	   1	   9
 Dorasque     	kisi        	   1	  12
 Malayo       	di          	   1	  15
@@ -2789,7 +2789,7 @@ Cacaopera    	bil         	   7	   7
 Mayangna     	baːbil      	   7	   7
 Ulwa         	bil         	   7	   7
 Chimila      	'b/bɾuuʔ    	   7	  10
-Rama         	biːɾu       	   7	  21
+Rama         	biːɾu       	   7	  10
 CentralTunebo	ɾim'j/ja    	   8	   8
 LencaHonduras	suɾu        	  13	  13
 LencaSalvador	ts'i/its'a/a	  14	  14
@@ -2798,7 +2798,7 @@ Miskito      	liwa        	  18	  18
 SanBlasKuna  	nusu        	  22	  22
 Teribe       	ʃtó/o       	  23	  23
 #
-Concept: YELLOW, False Positives: no, False Negatives: yes
+Concept: YELLOW, False Positives: yes, False Negatives: yes
 Arhuaco      	't/tʃəmi        	   1	   1
 CentralTunebo	t'a/awaja       	   1	   8
 Chibcha      	tɨβan           	   1	   9
@@ -2822,7 +2822,7 @@ Ngabere      	sɯbɾɯɾe         	  19	  19
 Pech         	sèː/eː+wa       	  20	  20
 Rama         	nuknukŋa        	  21	  21
 SanBlasKuna  	koʎokwa         	  22	  22
-Teribe       	ʃò/oinó/oɾ      	  23	  23
+Teribe       	ʃò/oinó/oɾ      	  23	   3
 #
 Concept: YOU, False Positives: yes, False Negatives: yes
 Arhuaco      	'm/miwi    	   1	   1
@@ -2838,13 +2838,13 @@ Chimila      	'a/amaɾaʔ  	  10	  10
 Cogui        	main       	  11	   9
 LencaHonduras	ajnan      	  12	  12
 LencaSalvador	kinani     	  13	  13
-Malayo       	mawindina  	  14	  14
+Malayo       	mawindina  	  14	   1
 MalekuJaika  	poː+maɾaːma	  15	  15
 SanBlasKuna  	pemala     	  15	  21
 Miskito      	manani     	  16	  13
 Mayangna     	mana       	  16	  16
 Ulwa         	mana       	  16	  16
-Ngabere      	mũ         	  18	   9
+Ngabere      	mũ         	  18	  16
 Rama         	mulut      	  18	  20
 Pech         	pahwa      	  19	  19
 Teribe       	ɸãĩ        	  22	   8
