@@ -14,9 +14,9 @@ class CustomLexeme(Lexeme):
 
 @attr.s
 class CustomConcept(Concept):
-    Page_in_Source = attr.ib(default=None)
+    Spanish_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
-    English_Gloss = attr.ib(default=None)
+    Page_in_Source = attr.ib(default=None)
 
 @attr.s
 class CustomLanguage(Language):
@@ -41,12 +41,12 @@ class Dataset(BaseDataset):
             idx = concept.id.split("-")[-1] + "_" + slug(concept.attributes["spanish"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept.attributes["spanish"],
-                    English_Gloss=concept.gloss,
+                    Name=concept.gloss,
+                    Spanish_Gloss=concept.attributes["spanish"],
                     Number=concept.number,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss,
                     Page_in_Source=concept.attributes["page_in_source"],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
                     )
             concept_lookup[concept.attributes["spanish"]] = idx
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
