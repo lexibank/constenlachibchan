@@ -12,6 +12,11 @@ from clldutils.misc import slug
 class CustomLexeme(Lexeme):
     CU = attr.ib(default=None)
 
+@attr.s
+class CustomConcept(Concept):
+    Spanish_Gloss = attr.ib(default=None)
+    Number = attr.ib(default=None)
+    Page_in_Source = attr.ib(default=None)
 
 @attr.s
 class CustomLanguage(Language):
@@ -26,33 +31,39 @@ class Dataset(BaseDataset):
     id = "constenlachibchan"
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
+    concept_class = CustomConcept
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
-        concepts = {}
-        for concept in self.concepts:
-            idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
+
+        concept_lookup = {}
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.attributes["spanish"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept['ENGLISH'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    Name=concept.gloss,
+                    Spanish_Gloss=concept.attributes["spanish"],
+                    Number=concept.number,
+                    Page_in_Source=concept.attributes["page_in_source"],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
                     )
-            concepts[concept['ENGLISH']] = idx
+            concept_lookup[concept.attributes["spanish"]] = idx
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
+
         for idx, language, concept, form, cogid, cu in progressbar(self.raw_dir.read_csv(
                 'constenla2005.csv', delimiter=',')[1:]):
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[language],
-                    Parameter_ID=concepts[concept],
+                    Parameter_ID=concept_lookup[concept],
                     Value=form,
-                    Source="constenla2005",
+                    Source="Constenla2005",
                     Cognacy=cogid,
                     CU=cu
                     ):
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,
-                        Source="constenla2005"
+                        Source="Constenla2005"
                         )
             
