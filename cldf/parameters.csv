@@ -1,111 +1,111 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-69_ash,ASH,646,ASH
-39_at,AT,1461,AT
-48_bad,BAD,1292,BAD
-2_bark,BARK,1204,BARK
-66_big,BIG,1202,BIG
-37_bird,BIRD,937,BIRD
-54_bite,BITE,1403,BITE
-62_black,BLACK,163,BLACK
-86_blood,BLOOD,946,BLOOD
-57_bone,BONE,1394,BONE
-6_breast,BREAST,1402,BREAST
-38_child,CHILD,2099,CHILD
-93_clean,CLEAN,704,CLEAN
-71_clothes,CLOTHES,1895,CLOTHES
-76_cloud,CLOUD,1489,CLOUD
-19_cold,COLD,1287,COLD
-9_come,COME,1446,COME
-59_cry,CRY,1839,CRY
-36_cut,CUT,1432,CUT
-100_dance,DANCE,1879,DANCE
-89_dog,DOG,2009,DOG
-105_drink,DRINK,1401,DRINK
-55_dry,DRY,1398,DRY
-94_ear,EAR,1247,EAR
-101_earthsoil,EARTH (SOIL),1228,EARTH (SOIL)
-60_eat,EAT,1336,EAT
-46_eye,EYE,1248,EYE
-47_far,FAR,1406,FAR
-29_fasten,FASTEN,1094,FASTEN
-41_father,FATHER,1217,FATHER
-50_feather,FEATHER,1201,FEATHER
-64_few,FEW,1242,FEW
-18_fire,FIRE,221,FIRE
-51_fish,FISH,227,FISH
-33_five,FIVE,493,FIVE
-95_flea,FLEA,232,FLEA
-8_flower,FLOWER,239,FLOWER
-26_foot,FOOT,1301,FOOT
-52_forest,FOREST,420,FOREST
-83_four,FOUR,1500,FOUR
-73_give,GIVE,1447,GIVE
-15_good,GOOD,1035,GOOD
-4_green,GREEN,1425,GREEN
-65_guts,GUTS,1334,GUTS
-96_hair,HAIR,1040,HAIR
-40_hand,HAND,1277,HAND
-61_he,HE,1211,HE
-104_head,HEAD,1256,HEAD
-75_hear,HEAR,1408,HEAR
-67_heavy,HEAVY,1210,HEAVY
-63_hit,HIT,1433,HIT
-79_hotorwarm,HOT OR WARM,2272,HOT OR WARM
-11_i,I,1209,I
-68_kill,KILL,1417,KILL
-10_know,KNOW,3626,KNOW
-97_laugh,LAUGH,1355,LAUGH
-102_leaf,LEAF,628,LEAF
-20_liver,LIVER,1224,LIVER
-91_man,MAN,1554,MAN
-5_meat,MEAT,634,MEAT
-24_moon,MOON,1313,MOON
-74_mother,MOTHER,1216,MOTHER
-17_mountain,MOUNTAIN,639,MOUNTAIN
-22_mouth,MOUTH,674,MOUTH
-84_neck,NECK,1333,NECK
-78_new,NEW,1231,NEW
-80_night,NIGHT,1233,NIGHT
-35_no,NO,1269,NO
-58_nose,NOSE,1221,NOSE
-21_old,OLD,1229,OLD
-44_one,ONE,1493,ONE
-87_path,PATH,2252,PATH
-16_red,RED,156,RED
-43_salt,SALT,1274,SALT
-1_sand,SAND,671,SAND
-82_say,SAY,1458,SAY
-103_see,SEE,1409,SEE
-34_sing,SING,1261,SING
-88_sister,SISTER,1263,SISTER
-14_sleep,SLEEP,1585,SLEEP
-106_small,SMALL,1246,SMALL
-56_smell,SMELL,2124,SMELL
-7_smokeexhaust,SMOKE (EXHAUST),778,SMOKE (EXHAUST)
-99_snake,SNAKE,730,SNAKE
-92_stomach,STOMACH,819,STOMACH
-13_stone,STONE,857,STONE
-90_sun,SUN,1343,SUN
-81_tail,TAIL,1220,TAIL
-12_talk,TALK,2708,TALK
-98_this,THIS,1214,THIS
-23_thou,THOU,1215,THOU
-30_three,THREE,492,THREE
-108_tongue,TONGUE,1205,TONGUE
-25_tooth,TOOTH,1380,TOOTH
-107_tree,TREE,906,TREE
-27_tumblefalldown,TUMBLE (FALL DOWN),2894,TUMBLE (FALL DOWN)
-3_two,TWO,1498,TWO
-53_walk,WALK,1443,WALK
-77_water,WATER,948,WATER
-31_we,WE,1212,WE
-85_what,WHAT,1236,WHAT
-72_white,WHITE,1335,WHITE
-32_wind,WIND,960,WIND
-28_with,WITH,1340,WITH
-42_woman,WOMAN,962,WOMAN
-49_worm,WORM,1219,WORM
-45_yellow,YELLOW,1424,YELLOW
-70_you,YOU,1213,YOU
-109_leg,LEG,1297,LEG
-110_long,LONG,1203,LONG
+ID,Name,Concepticon_ID,Concepticon_Gloss,Page_in_Source
+1_water,water,948,WATER,43
+2_yellow,yellow,1424,YELLOW,43
+3_fasten,fasten,1094,FASTEN,43
+4_tree,tree,906,TREE,44
+5_sand,sand,671,SAND,44
+6_bird,bird,937,BIRD,44
+7_danceto,"dance, to",1879,DANCE,45
+8_drinkto,"drink, to",1401,DRINK,45
+9_white,white,1335,WHITE,45
+10_mouth,mouth,674,MOUTH,45
+11_forest,forest,420,FOREST,46
+12_good,good,1035,GOOD,46
+13_hair,hair,1040,HAIR,46
+14_head,head,1256,HEAD,47
+15_fallto,"fall, to",1280,FALL,47
+16_hotwarm,"hot, warm",2272,HOT OR WARM,47
+17_walkto,"walk, to",1443,WALK,47
+18_path,path,2252,PATH,48
+19_singto,"sing, to",1261,SING,48
+20_meat,meat,634,MEAT,48
+21_ash,ash,646,ASH,48
+22_five,five,493,FIVE,49
+23_tail,tail,1220,TAIL,49
+24_eatto,"eat, to",1336,EAT,50
+25_with,with,1340,WITH,50
+26_cutto,"cut, to",1432,CUT,50
+27_barkoftree,bark (of tree),1204,BARK,50
+28_four,four,1500,FOUR,50
+29_neck,neck,1333,NECK,51
+30_giveto,"give, to",1447,GIVE,51
+31_sayto,"say, to",1458,SAY,51
+32_tooth,tooth,1380,TOOTH,51
+33_sleepto,"sleep, to",1585,SLEEP,51
+34_two,two,1498,TWO,51
+35_he,he,1211,HE,52
+36_at,at,1461,AT,52
+37_this,this,1214,THIS,52
+38_flower,flower,239,FLOWER,52
+39_coldtemperature,cold (temperature),1287,COLD,52
+40_fire,fire,221,FIRE,53
+41_hitto,"hit, to",1433,HIT,53
+42_big,big,1202,BIG,53
+43_worm,worm,1219,WORM,53
+44_talkto,"talk, to",2708,TALK,53
+45_sister,sister,1263,SISTER,54
+46_liver,liver,1224,LIVER,54
+47_leaf,leaf,628,LEAF,55
+48_man,man,1554,MAN,55
+49_bone,bone,1394,BONE,55
+50_smokesubstance,smoke (substance),778,SMOKE (EXHAUST),56
+51_large,large,1203,LONG,56
+52_washto,"wash, to",1453,WASH,57
+53_far,far,1406,FAR,57
+54_tongue,tongue,1205,TONGUE,57
+55_moon,moon,1313,MOON,57
+56_cryto,"cry, to",1839,CRY,57
+57_mother,mother,1216,MOTHER,58
+58_bad,bad,1292,BAD,58
+59_hand,hand,1277,HAND,58
+60_killto,"kill, to",1417,KILL,58
+61_mountain,mountain,639,MOUNTAIN,59
+62_biteto,"bite, to",1403,BITE,59
+63_woman,woman,962,WOMAN,59
+64_nose,nose,1221,NOSE,59
+65_black,black,163,BLACK,60
+66_child,child,2099,CHILD,60
+67_no,no,1269,NO,60
+68_night,night,1233,NIGHT,61
+69_we,we,1212,WE,61
+70_cloud,cloud,1489,CLOUD,61
+71_new,new,1231,NEW,61
+72_hearto,"hear, to",1408,HEAR,62
+73_eye,eye,1248,EYE,62
+74_smellto,"smell, to",2124,SMELL,62
+75_ear,ear,1247,EAR,63
+76_father,father,1217,FATHER,63
+77_small,small,1246,SMALL,63
+78_dog,dog,2009,DOG,63
+79_heavy,heavy,1210,HEAVY,64
+80_fishanimal,fish (animal),227,FISH,64
+81_foot,foot,1301,FOOT,64
+82_stone,stone,857,STONE,64
+83_leg,leg,1297,LEG,64
+84_flea,flea,232,FLEA,65
+85_feather,feather,1201,FEATHER,65
+86_few,few,1242,FEW,65
+87_what,what,1236,WHAT,65
+88_laughto,"laugh, to",1355,LAUGH,66
+89_red,red,156,RED,66
+90_clothes,clothes,1895,CLOTHES,66
+91_knowsomethingto,"know something, to",1410,KNOW (SOMETHING),67
+92_salt,salt,1274,SALT,67
+93_blood,blood,946,BLOOD,67
+94_dry,dry,1398,DRY,68
+95_snake,snake,730,SNAKE,68
+96_sun,sun,1343,SUN,68
+97_breast,breast,1402,BREAST,69
+98_earth,earth,1228,EARTH (SOIL),69
+99_three,three,492,THREE,69
+100_guts,guts,1334,GUTS,70
+101_thou,thou,1215,THOU,70
+102_one,one,1493,ONE,70
+103_youplural,you (plural),1213,YOU,71
+104_cometo,"come, to",1446,COME,71
+105_seeto,"see, to",1409,SEE,71
+106_green,green,1425,GREEN,71
+107_old,old,1229,OLD,72
+108_wind,wind,960,WIND,72
+109_stomach,stomach,819,STOMACH,72
+110_i,I,1209,I,72
