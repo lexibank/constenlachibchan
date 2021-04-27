@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/Tarotis/constenlachibchan",
-            "dc:created": "v0.1-2-gc324694"
+            "dc:created": "v0.2-1-gf354329"
         },
         {
             "rdf:type": "prov:Entity",
