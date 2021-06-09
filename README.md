@@ -1,8 +1,14 @@
 # CLDF dataset derived from Constenla Umaña's "¿Existe relación genealógica entre las lenguas misumalpas y las chibchenses?" from 2005
 
-Cite the source dataset as
+## How to cite
 
-> Umaña, Adolfo Constenla. 2005. ¿Existe relación genealógica entre las lenguas misumalpas y las chibchenses?. Estudios de Lingüística Chibcha.
+If you use these data please cite
+- the original source
+  > Umaña, Adolfo Constenla. 2005. ¿Existe relación genealógica entre las lenguas misumalpas y las chibchenses?. Estudios de Lingüística Chibcha.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -40,3 +46,10 @@ Constenla Umaña, Adolfo |  | original data collection | Author
 Frederic Blum | @Tarotis | maintainer | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
