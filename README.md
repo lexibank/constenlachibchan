@@ -12,6 +12,9 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Constenla-2005-110](https://concepticon.clld.org/contributions/Constenla-2005-110)
 ## Notes
 
 This dataset features a 110-items concept list that was first published by Constenla Umaña in 2005. It includes the lexical data of four Misumalpam languages, two Lencan languages as well as 18 Chibchan languages. The original author also provided his expert analysis of cognates between those languages within each concept, which have been adapted to individual cognate ID's. For the future, it is planned to expand the dataset to a larger concept list and to refine the analysis of cognates of the dataset.
@@ -44,6 +47,7 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Constenla Umaña, Adolfo |  | original data collection | Author
 Frederic Blum | @Tarotis | maintainer | Other
+Mattis List | @LinguList | maintainer | Other
 
 
 

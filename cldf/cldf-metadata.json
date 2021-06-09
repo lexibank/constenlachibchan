@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Uma\u00f1a, Adolfo Constenla. 2005. \u00bfExiste relaci\u00f3n geneal\u00f3gica entre las lenguas misumalpas y las chibchenses?. Estudios de Ling\u00fc\u00edstica Chibcha.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Constenla-2005-110"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -13,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/constenlachibchan/",
             "rdf:type": "prov:Entity",
-            "dc:created": "f099f38",
+            "dc:created": "c2c9f56",
             "dc:title": "Repository"
         },
         {
@@ -256,6 +259,18 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Spanish_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Page_in_Source"
                     }
                 ],
                 "primaryKey": [
