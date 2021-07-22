@@ -1,5 +1,7 @@
 # CLDF dataset derived from Constenla Umaña's "¿Existe relación genealógica entre las lenguas misumalpas y las chibchenses?" from 2005
 
+[![CLDF validation](https://github.com/lexibank/constenlachibchan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/constenlachibchan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -23,6 +25,7 @@ This dataset features a 110-items concept list that was first published by Const
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/constenlachibchan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/constenlachibchan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
