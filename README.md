@@ -41,7 +41,7 @@ This dataset features a 110-items concept list that was first published by Const
 - **Cognate Diversity:** 0.51
 - **Invalid lexemes:** 0
 - **Tokens:** 11,429
-- **Segments:** 146 (0 BIPA errors, 0 CTLS sound class errors, 144 CLTS modified)
+- **Segments:** 146 (0 BIPA errors, 0 CLTS sound class errors, 144 CLTS modified)
 - **Inventory size (avg):** 33.04
 
 # Contributors
