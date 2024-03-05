@@ -1,26 +1,26 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,ID_in_Source
-Arhuaco,Arhuaco,arhu1242,Arhuaco,arh,South America,10.70,-73.64,Chibcha,,Ica
-Bari,Barí,bari1297,Barí,mot,South America,9.08,-72.94,Chibcha,,Ba
-Boruca,Boruca,boru1252,Boruca,brn,North America,8.88,-83.21,Chibcha,,Bor
-Bribri,Bribri,brib1243,Bribri,bzd,North America,9.40,-83.05,Chibcha,,Bri
-Buglere,Buglere,bugl1243,Buglere,sab,North America,8.58,-81.26,Chibcha,,Boc
-Cabecar,Cabécar,cabe1245,Cabécar,cjp,North America,9.67,-83.41,Chibcha,,Cab
-CentralTunebo,Central Tunebo,cent2150,Central Tunebo,tuf,South America,6.89,-72.09,Chibcha,,Tun
-Chibcha,Chibcha,chib1270,Chibcha,chb,South America,6.25,-74.17,Chibcha,,Mu
-Chimila,Chimila,chim1309,Chimila,cbg,South America,10.19,-74.26,Chibcha,,Chi
-Cogui,Cogui,cogu1240,Cogui,kog,South America,10.95,-73.80,Chibcha,,Co
-Dorasque,Dorasque,dora1242,Dorasque,,North America,8.57,-82.38,Chibcha,,Dor
-Malayo,Malayo,mala1522,Malayo,mbp,South America,10.93,-73.42,Chibcha,,Da
-MalekuJaika,Maléku Jaíka,male1297,Maléku Jaíka,gut,North America,10.75,-84.73,Chibcha,,Gua
-Ngabere,Ngäbere,ngab1239,Ngäbere,gym,North America,8.83,-82.39,Chibcha,,Mo
-Pech,Pech,pech1241,Pech,pay,North America,15.80,-85.56,Chibcha,,Pa
-Rama,Rama,rama1270,Rama,rma,North America,11.50,-83.86,Chibcha,,Ra
-SanBlasKuna,San Blas Kuna,sanb1242,San Blas Kuna,cuk,South America,9.16,-78.31,Chibcha,,Cu
-Teribe,Teribe,teri1250,Teribe,tfr,North America,9.06,-82.96,Chibcha,,Te
-Atanque,Atanque,kank1244,Kankuamo,,South America,10.75,-73.36,Chibcha,,At
+Arhuaco,Arhuaco,arhu1242,Arhuaco,arh,South America,10.70,-73.64,Chibchan,,Ica
+Bari,Barí,bari1297,Barí,mot,South America,9.08,-72.94,Chibchan,,Ba
+Boruca,Boruca,boru1252,Boruca,brn,North America,8.88,-83.21,Chibchan,,Bor
+Bribri,Bribri,brib1243,Bribri,bzd,North America,9.40,-83.05,Chibchan,,Bri
+Buglere,Buglere,bugl1243,Buglere,sab,North America,8.58,-81.26,Chibchan,,Boc
+Cabecar,Cabécar,cabe1245,Cabécar,cjp,North America,9.67,-83.41,Chibchan,,Cab
+CentralTunebo,Central Tunebo,cent2150,Central Tunebo,tuf,South America,6.89,-72.09,Chibchan,,Tun
+Chibcha,Chibcha,chib1270,Chibcha,chb,South America,6.25,-74.17,Chibchan,,Mu
+Chimila,Chimila,chim1309,Chimila,cbg,South America,10.19,-74.26,Chibchan,,Chi
+Cogui,Cogui,cogu1240,Cogui,kog,South America,10.95,-73.80,Chibchan,,Co
+Dorasque,Dorasque,dora1242,Dorasque,,North America,8.57,-82.38,Chibchan,,Dor
+Malayo,Malayo,mala1522,Malayo,mbp,South America,10.93,-73.42,Chibchan,,Da
+MalekuJaika,Maléku Jaíka,male1297,Maléku Jaíka,gut,North America,10.75,-84.73,Chibchan,,Gua
+Ngabere,Ngäbere,ngab1239,Ngäbere,gym,North America,8.83,-82.39,Chibchan,,Mo
+Pech,Pech,pech1241,Pech,pay,North America,15.80,-85.56,Chibchan,,Pa
+Rama,Rama,rama1270,Rama,rma,North America,11.50,-83.86,Chibchan,,Ra
+SanBlasKuna,San Blas Kuna,sanb1242,San Blas Kuna,cuk,South America,9.16,-78.31,Chibchan,,Cu
+Teribe,Teribe,teri1250,Teribe,tfr,North America,9.06,-82.96,Chibchan,,Te
+Atanque,Atanque,kank1244,Kankuamo,,South America,10.75,-73.36,Chibchan,,At
 LencaSalvador,Lenca-Salvador,lenc1242,Lenca-Honduras,,North America,13.56,-87.50,Lencan,,LS
 LencaHonduras,Lenca-Honduras,lenc1243,Lenca-Salvador,,North America,13.67,-88.11,Lencan,,LH
-Cacaopera,Cacaopera,caca1247,Cacaopera,ccr,North America,13.74,-88.11,Misumalpam,,Ca
-Mayangna,Mayangna,maya1285,Mayangna,yan,North America,14.13,-84.34,Misumalpam,,Su
-Ulwa,Ulwa,ulwa1239,Ulwa,ulw,North America,12.93,-83.58,Misumalpam,,Ul
-Miskito,Mískito,misk1235,Mískito,miq,North America,15.16,-84.29,Misumalpam,,Mi
+Cacaopera,Cacaopera,caca1247,Cacaopera,ccr,North America,13.74,-88.11,Misumalpan,,Ca
+Mayangna,Mayangna,maya1285,Mayangna,yan,North America,14.13,-84.34,Misumalpan,,Su
+Ulwa,Ulwa,ulwa1239,Ulwa,ulw,North America,12.93,-83.58,Misumalpan,,Ul
+Miskito,Mískito,misk1235,Mískito,miq,North America,15.16,-84.29,Misumalpan,,Mi
