@@ -32,25 +32,25 @@ This dataset features a 110-items concept list that was first published by Const
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 25
-- **Concepts:** 110
+- **Varieties:** 25 (linked to 25 different Glottocodes)
+- **Concepts:** 110 (linked to 110 different Concepticon concept sets)
 - **Lexemes:** 2,631
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Cognacy:** 2,631 cognates in 1,405 cognate sets (976 singletons)
 - **Cognate Diversity:** 0.51
 - **Invalid lexemes:** 0
-- **Tokens:** 11,429
-- **Segments:** 146 (0 BIPA errors, 0 CLTS sound class errors, 144 CLTS modified)
-- **Inventory size (avg):** 33.04
+- **Tokens:** 11,335
+- **Segments:** 150 (0 BIPA errors, 0 CLTS sound class errors, 148 CLTS modified)
+- **Inventory size (avg):** 33.44
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Constenla Umaña, Adolfo |  | original data collection | Author
-Frederic Blum | @Tarotis | maintainer | Other
-Mattis List | @LinguList | maintainer | Other
+Frederic Blum | @Tarotis | maintainer | Editor
+Mattis List | @LinguList | maintainer | Editor
 
 
 
