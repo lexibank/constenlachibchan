@@ -12,11 +12,13 @@ from clldutils.misc import slug
 class CustomLexeme(Lexeme):
     CU = attr.ib(default=None)
 
+
 @attr.s
 class CustomConcept(Concept):
     Spanish_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
     Page_in_Source = attr.ib(default=None)
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -51,19 +53,19 @@ class Dataset(BaseDataset):
             concept_lookup[concept.attributes["spanish"]] = idx
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
 
-        for idx, language, concept, form, cogid, cu in progressbar(self.raw_dir.read_csv(
+        for idx, language, concept, value, cogid, cu in progressbar(self.raw_dir.read_csv(
                 'constenla2005.csv', delimiter=',')[1:]):
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[language],
                     Parameter_ID=concept_lookup[concept],
-                    Value=form,
+                    Value=value.strip(),
                     Source="Constenla2005",
                     Cognacy=cogid,
                     CU=cu
                     ):
+
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,
                         Source="Constenla2005"
                         )
-            

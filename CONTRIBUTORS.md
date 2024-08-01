@@ -3,5 +3,5 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Constenla Umaña, Adolfo |  | original data collection | Author
-Frederic Blum | @Tarotis | maintainer | Other
-Mattis List | @LinguList | maintainer | Other
+Frederic Blum | @Tarotis | maintainer | Editor
+Mattis List | @LinguList | maintainer | Editor
