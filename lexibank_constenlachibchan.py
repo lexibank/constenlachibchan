@@ -54,7 +54,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory='ID_in_Source')
 
         for idx, language, concept, value, cogid, cu in progressbar(self.raw_dir.read_csv(
-                'constenla2005.csv', delimiter=',')[1:]):
+            'constenla2005.csv', delimiter=',')[1:]):
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[language],
                     Parameter_ID=concept_lookup[concept],

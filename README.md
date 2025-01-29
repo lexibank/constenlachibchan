@@ -40,9 +40,9 @@ This dataset features a 110-items concept list that was first published by Const
 - **Cognacy:** 2,631 cognates in 1,405 cognate sets (976 singletons)
 - **Cognate Diversity:** 0.51
 - **Invalid lexemes:** 0
-- **Tokens:** 11,335
+- **Tokens:** 11,334
 - **Segments:** 150 (0 BIPA errors, 0 CLTS sound class errors, 148 CLTS modified)
-- **Inventory size (avg):** 33.44
+- **Inventory size (avg):** 33.48
 
 # Contributors
 
